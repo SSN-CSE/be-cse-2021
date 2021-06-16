@@ -20,12 +20,14 @@
 | CO3            | K2 |   3 |   3 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
 | CO4            | K3 |   3 |   2 |   1 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    1 |
 | CO5            | K3 |   2 |   2 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| Score          |    |  12 |   9 |   6 |  13 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |   6  |    0 |    3 |
-| Course Mapping |    |   3 |  2  |   2 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |   0  |    2 |    0 |    1 |
+| Co6            | K4 |   2 |   2 |   2 |   3 |   0 |   1 |   0 |   1 |   3 |    1 |    0 |    2 |    2 |    0 |    0 |   
+| Score          |    |  12 |   9 |   6 |  13 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    6 |    0 |    3 |
+| Course Mapping |    |   3 |   2 |   2 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |   0  |    2 |    0 |    1 |
 
 #+begin_comment
 - Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
-- Yet to do mapping
+- CO6 is included after the discussion
+- Mapping is modified on 16.06.2021
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -78,6 +80,7 @@ After the completion of this course, students will be able to:
 - Apply machine learning algorithms for bioinformatics dataset (K3)
 - Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset (K3)
 - Infer the importance of microarray data analysis (K2)
+- Design or develop a model for gene expression and protein data using machine learning techniques(K4)
    
 ** TEXT BOOKS
 1. Yi-Ping Phoebe Chen (Ed), ``BioInformatics Technologies'', First
