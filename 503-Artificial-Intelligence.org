@@ -14,10 +14,10 @@
 #+NAME: co-po-pso mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 | CO1            | K2 |   3 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
-| CO2            | K3 |   2 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO3            | K3 |   3 |   3 |   1 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO4            | K3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
-| CO5            | K2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    1 |
+| CO2            | K3 |   2 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO3            | K3 |   3 |   3 |   1 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO4            | K3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| CO5            | K2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
 | CO6            | K4 |   3 |   2 |   2 |   3 |   0 |   0 |   0 |   1 |   3 |    2 |    0 |    2 |    2 |    0 |    2 |
 | Course mapping |    |   3 |   3 |   2 |   2 |   0 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    2 |    0 |    1 |
 #+tblfm: @>$3..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
@@ -33,11 +33,11 @@
 
 #+begin_comment
 2021
-1. Unit V - COMMUNICATIONG. PERCEIVING AND ACTING, is given instaed of Learning, since Machine Learning comes in the same semester.
-2. Five Course outcomes specified and aligned with units
-3. Lab Exercises are given for each unit.
-4. CO6 is included.
-5. CO-PO-PSO mapping is updated
+1. Unit V - COMMUNICATION, PERCEIVING AND ACTING, is given instaed of Learning, since Machine Learning comes in the same year.
+2. Six Course outcomes specified and aligned with units
+3. Lab Exercises are given from the units units 2, 3 and 4.
+4. CO6 is included additionally
+5. CO-PO-PSO mapping is updated on 16.06.2021
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -81,7 +81,7 @@ its use; Probabilistic Reasoning: The semantics of Bayesian networks
 uncertain reasoning.
 
 {{{unit}}}
-| UNIT V | COMMUNICATIONG. PERCEIVING AND ACTING | 9 |
+| UNIT V | COMMUNICATION, PERCEIVING AND ACTING | 9 |
 Natural Language Processing: Language Models -- Text Classification -- Information Retrieval; Robotics: Introduction -- Robot Hardawre -- Robotic Perception -- Planning to move -- Application Domains.
 
 \hfill *Theory Periods: 45*
