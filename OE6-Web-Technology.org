@@ -31,7 +31,7 @@
 
 ** COURSE OBJECTIVES
 - Learn to design static web pages using HTML5 and CSS3
-- Learn to develop client side scripts using JavaScript
+- Learn to develop dynamic web pages using JavaScript
 - Learn to develop web application using ExpressJS and NodeJS
 
 {{{unit}}}
