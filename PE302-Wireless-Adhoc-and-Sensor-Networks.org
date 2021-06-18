@@ -80,6 +80,9 @@ Transport Layer and Quality of Service: Coverage and deployment -- Reliaable dat
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
+
+After completion of this course, the student will be able to:
+
 - Explain the working of MAC Protocols and routing in  ad hoc networks (K2)
 - Select various Transport layer protocols and QOS in ad hoc networks as per requirements(K4)
 - Select different topologies and routing protocols based on the application requirement in WSN (K4)
