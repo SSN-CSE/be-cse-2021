@@ -31,11 +31,11 @@
 
 ** COURSE OBJECTIVES
 - To understand the working of MAC Protocols and routing in  ad hoc networks
-- To learn about Transport layer protocols and QOS in ad hoc networks
+- To learn the Transport layer protocols and QOS in ad hoc networks
 - To understand the working of topology control and routing protocols in WSN
-- To understand the protocols for MAC and localisation in WSN
-- To learn about the data centric and content based networking, transport layer protocols and QOS in WSN
-- To implement various protocols of wireless networks using simulator
+- To be familiar with the protocols for MAC and localisation in WSN
+- To learn the data centric and content based networking, transport layer protocols and QOS in WSN
+
 
 {{{unit}}}
 |UNIT I | MAC AND ROUTING IN AD HOC NETWORKS | 9 |
@@ -50,16 +50,16 @@ Routing Protocols.
 |UNIT II | TRANSPORT AND QOS IN AD HOC NETWORKS | 9 |
 
 TCP's challenges and Design Issues in Ad Hoc Networks -- Transport protocols for ad hoc networks -- Issues and Challenges in providing
-QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS Model - Simiulation of TCP protocol in Ad hoc networks. 
+QoS -- MAC Layer QoS solutions -- Network Layer QoS solutions -- QoS Model
 
 {{{unit}}}
 |UNIT III | WSN:  Protocols for MAC and Localization  | 9 |
 
 Fundamentals of MAC Protocols;  Types of MAC Protocols -- Low duty cycle protocols -- Contention-based protocols -- Schedule-based protocols ; 
-IEEE 802.15.4 MAC protocol  - Simulation of MAC Protocol;  
+IEEE 802.15.4 MAC protocol  
 
 Localization and Positioning:  Properties -- Approaches -- Mathematical basis;  
-Single Hop Localization -- Positioning in multichip environments  -- Impact of anchor placement.
+Single Hop Localization -- Positioning in multichop environments  -- Impact of anchor placement.
 
 
 {{{unit}}}
@@ -67,7 +67,7 @@ Single Hop Localization -- Positioning in multichip environments  -- Impact of a
 
 Topology Control: Controllingtopology in flat networks --Hierarchical networks by domination sets and clustering -- Combine hierarchical topologies and power control.
 
-Routing Protocols: Unicast -- Broadcast -- Multicast -- Geographical routing -- Mobile nodes -Simulation of routing protocol in WSN.
+Routing Protocols: Unicast -- Broadcast -- Multicast -- Geographical routing -- Mobile nodes
 
 {{{unit}}}
 |UNIT V | WSN: Data centric and Content based networking, Transport layer and QOS | 9 |
@@ -81,11 +81,12 @@ Transport Layer and Quality of Service: Coverage and deployment -- Reliaable dat
 
 ** COURSE OUTCOMES
 - Explain the working of MAC Protocols and routing in  ad hoc networks (K2)
-- Select the various Transport layer protocols considering the QOS in ad hoc networks(K3)
-- Make use of the working of topology control and routing protocols in WSN (K3)
-- Choose the MAC protocol based on the type of localisation in WSN (K3)
-- Choose appropriate networking approach and use transport layer protocol considering the QOS in WSN (K3)
-- Apply the various protocols of wireless networks using simulator (K3)
+- Select various Transport layer protocols and QOS in ad hoc networks as per requirements(K4)
+- Select different topologies and routing protocols based on the application requirement in WSN (K4)
+- Choose appropriate localisation and routing protocols for the given scenario in WSN (K4)
+- Choose appropriate networking approach, transport layer protocol and QoS in WSN (K4)
+- Simulate the functionality of protocols for wireless adhoc or Sensor networks using a Simulator (K4) 
+
 
 ** TEXT BOOKS 
 1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks –
@@ -104,5 +105,5 @@ Transport Layer and Quality of Service: Coverage and deployment -- Reliaable dat
    Sons, 2010.
 4. Xiang-Yang Li , ``Wireless Ad Hoc and Sensor Networks: Theory and
    Applications'', Cambridge university Press, 2008.
-5. http://vlabs.iitkgp.ac.in/ant/8/
-6. http://vlabs.iitkgp.ac.in/ant/7/theory/
+5. http://vlabs.iitkgp.ac.in/ant/7/theory
+
