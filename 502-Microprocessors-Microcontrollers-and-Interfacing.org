@@ -91,7 +91,7 @@ After the completion of this course, students will be able to:
   microprocessor 8086 (K3)
 - Outline the design of basic and multiprocessor systems and their
   bus timings (K2)
-- Design the 8086 interfaces with memory, I/O and other peripheral
+- Build 8086 interfaces with memory, I/O and other peripheral
   chips (K3)
 - Summarize the basic architecture and operation of microcontroller
   8051 (K2)
