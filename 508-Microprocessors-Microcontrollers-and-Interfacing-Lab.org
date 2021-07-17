@@ -66,7 +66,7 @@ Peripherals and Interfacing Experiments
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Develop 8086 Assembly Language Programs for arithmetic, logical operations (K3)
+- Develop 8086 Assembly Language Programs for arithmetic and logical operations (K3)
 - Apply 8086 Assembly Language Programming concepts for string operations (K3)
 - Develop 8086 Assembly Language Programs using MASM for BIOS interrupt concepts (K3)
 - Build different I/O interfaces with 8086 (K3)
