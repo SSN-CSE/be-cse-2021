@@ -63,10 +63,10 @@ CCC Feedback Committee Considerations
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Develop applications in Java using classes and methods(K3)
-- Apply inheritance and interface concepts to write programs(K4)
-- Build Java programs using polymorphic methods and objects(K4)
+- Test for inheritance and interface concepts while writing programs(K4)
+- Test for polymorphic methods and objects in Java programs (K4)
 - Develop applications using generic methods and generic programming(K3)
-- Solve real-world problem in team by applying the appropriate features of object-oriented programming paradigm with best practices and document its methodology (K4).
+- Select real-world problem in team by applying the appropriate features of object-oriented programming paradigm with best practices and document its methodology (K4).
 
 #+begin_comment
 09.03.2021
