@@ -98,7 +98,7 @@ problem -- Knapsack problem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Analyse asymptotic complexity of iterative and recursive algorithmic
+- Analyze asymptotic complexity of iterative and recursive algorithmic
   problems (K3)
 - Design and analyse divide-and-conquer algorithm strategy and compare
   with naive approach (K3)
