@@ -1,7 +1,7 @@
 * PE406 <<<EMBEDDED SYSTEMS>>>
 :properties:
 :author: Dr. K. R. Sarath Chandran ,Ms. S. Angel Deborah and Mr. H. Shahul Hamead 
-:date: 10-03-2021, 13.06.21 (co-po mapping updated), 17.07.21(PSO2 mapping updated as per the comments)
+:date: 10-03-2021, 13.06.21 (co-po mapping updated), 17.07.21(PSO2 mapping updated as per the comments and Action verbs checked)
 :end:
 
 #+begin_comment
