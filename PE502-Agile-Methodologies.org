@@ -117,7 +117,7 @@ Testing is added in addition to quality in anna university syllabus
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to: 
-- Expain evolutionary, iterative and adaptive development methods (K2)
+- Explain evolutionary, iterative and adaptive development methods (K2)
 - Apply agile software process in requirement engineering (K3)
 - Outline agile methods for project planning and developement (K2)
 - Choose agile methods for software design (K3)
