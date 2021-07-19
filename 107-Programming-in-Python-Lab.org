@@ -28,7 +28,7 @@ CO5 was modified
    - To apply conditions and loops to solve problems using python.
    - To implement programs using functions
    - To write programs using different data types such as strings, lists tuples and dictionaries
-   - To  perform read and write operations into the files.
+   - To make use of read and write operations into the files.
    
 
 ** SUGGESTIVE EXERCISES
