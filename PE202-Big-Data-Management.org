@@ -86,7 +86,7 @@ After the completion of this course, students will be able to:
 - Explain the needs of differnet data models for desiging big data information system (K3)
 - Build a data model to suit the characteristics of data using Data lake in teams (K3) 
 - Compare between a traditional DBMS and BDMS and apply it for building a system using Key-Value stores and Graph Databases in teams. (K3)
-- Design and build a new information system using Document based and columnar models in teams, demostrate and write report on the work. (K3) 
+- Design and build a new information system using Document based and columnar models in teams, demonstrate and write report on the work. (K3) 
   
 ** TEXT BOOKS
 1. James Lee , Tao Wei , Suresh Kumar Mukhiya, "Hands-On Big Data Modeling", Packt Publishers, 2018.(Unit 1 & Unit 2)
