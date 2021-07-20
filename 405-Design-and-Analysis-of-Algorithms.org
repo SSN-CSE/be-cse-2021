@@ -104,7 +104,7 @@ After the completion of this course, students will be able to:
 - Distinguish the importance of Dynamic Programming and Greedy Technique (K4)
 - Identify suitable algorithm design technique for optimization problems (K4)
 - Understand the limitations of algorithmic power (K2).
-- Develop the important algorithms with appropriate data structures (K6)
+- Develop the important algorithms with appropriate data structures (K3)
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
