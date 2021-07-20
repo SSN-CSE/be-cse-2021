@@ -85,7 +85,7 @@ Upon completion of the course, the student should be able to:
 - Develop a microservice (K3)
 - Build a container and deploy a  microservice (K3)
 - Explain the networking concepts in container (K2)
-- Select the configutation features using Kubernetes and Docker swarm (K3).
+- Choose the configutation features using Kubernetes and Docker swarm (K3).
       
 ** TEXT BOOKS
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert guidance for IT service managers and practitioners``, Revised edition,  BCS Learning and Development Ltd,   UK, 2014.
