@@ -89,7 +89,7 @@ After the completion of this course, students will be able to:
 - Apply systematic procedure for software design (K3)
 - Compare and contrast the various testing and maintenance activities (K2)
 - Make use of agile development and Devops (K3)
-- Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K5)
+- Select an appropriate process model to construct a system in teams by applying best practices and principles in software engineering (K5)
 
 ** TEXT BOOKS
 1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
