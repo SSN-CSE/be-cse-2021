@@ -85,11 +85,11 @@ Agile Development: Agile Teams -- Team and Scrum --  Branches -- Pull Requests -
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
 - Choose an appropriate process model and estimate project cost and effort required(K4)
-- Perform requirements analysis and modeling (K3)
+- Analyse and model requirements (K4)
 - Apply systematic procedure for software design (K3)
 - Compare and contrast the various testing and maintenance activities (K2)
 - Make use of agile development and Devops (K3)
-- Build a system in teams and apply best practices and principles in software engineering with clear documentation of approaches (K5)
+- Select an appropriate process model to construct a system in teams by applying best practices and principles in software engineering (K5)
 
 ** TEXT BOOKS
 1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.

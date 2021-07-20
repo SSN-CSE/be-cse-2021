@@ -19,10 +19,8 @@
 | CO4            |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |   1 |    1 |    0 |    0 |    3 |    0 |    0 |
 | CO5            |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |   1 |    1 |    0 |    0 |    3 |    1 |    1 |
 | Score          |  11 |  15 |  11 |   2 |   0 |   0 |   0 |   3 |   3 |    8 |    0 |    0 |   14 |    1 |    1|
-
-#+begin_comment
 | Course Mapping |   3 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |   1 |    2 |    0 |    0 |    3 |    1 |    1 |
-#+end_comment
+ 
 
 ** COURSE OBJECTIVES
 - To understand the foundations of Logic programming

@@ -1,7 +1,7 @@
 * 508 <<<MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING LAB>>>
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms.S.Angel Deborah
-:date: 9.03.2021(Revision1 with COs)/29.3.2021 (Changes highlighted)
+:date: 9.03.2021(Revision1 with COs)/29.3.2021 (Changes highlighted), 13.06.2021 (CO-PO mapping updated), 17.06.2021(Action Verbs Updated)
 :end:
 
 {{{credits}}}
@@ -21,13 +21,13 @@
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
 |                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K3 |   3 |   3 |   2 |   3 |   0 |   1 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    3 |    1 |
-| CO2            | K3 |   3 |   3 |   2 |   3 |   0 |   1 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    3 |    1 |
-| CO3            | K3 |   3 |   3 |   3 |   2 |   3 |   1 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    3 |    1 |
-| CO4            | K3 |   2 |   3 |   3 |   2 |   0 |   1 |   2 |   1 |   3 |    3 |    1 |    2 |    3 |    3 |    3 |
-| CO5            | K3 |   3 |   3 |   2 |   3 |   0 |   1 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    3 |    1 |
-| Score          |    |  14 |  15 |  12 |  13 |   3 |   5 |   2 |   5 |  15 |   15 |    1 |    2 |   15 |   15 |    7 |
-| Course Mapping |    |   3 |   3 |   3 |   3 |  1  |   1 |   1 |   1 |   3 |    3 |    1 |    1 |    3 |    3 |    2 |
+| CO1            | K3 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    2 |    1 |
+| CO2            | K3 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    2 |    1 |
+| CO3            | K3 |   3 |   3 |   3 |   1 |   2 |   0 |   0 |   1 |   3 |    3 |    0 |    0 |    3 |    2 |    1 |
+| CO4            | K3 |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   1 |   3 |    3 |    0 |    1 |    3 |    3 |    1 |
+| CO5            | K3 |   3 |   3 |   2 |   1 |   0 |   0 |   0 |   1 |   3 |    3 |    0 |    1 |    3 |    2 |    1 |
+| Score          |    |  14 |  15 |  12 |   6 |   2 |   0 |   0 |   5 |  15 |   15 |    0 |    2 |   15 |   11 |    5 |
+| Course Mapping |    |   3 |   3 |   3 |   2 |   1 |   0 |   0 |   1 |   3 |    3 |    0 |    1 |    3 |    3 |    1 |
 
 
 ** COURSE OBJECTIVES
@@ -66,10 +66,10 @@ Peripherals and Interfacing Experiments
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Apply 8086 Assembly Language Programming concepts for arithmetic, logical operations (K3)
+- Develop 8086 Assembly Language Programs for arithmetic and logical operations (K3)
 - Apply 8086 Assembly Language Programming concepts for string operations (K3)
-- Implement BIOS interrupt programming using MASM (K3)
-- Design different I/O interfaces with 8086 (K3)
+- Develop 8086 Assembly Language Programs using MASM for BIOS interrupt concepts (K3)
+- Build different I/O interfaces with 8086 (K3)
 - Apply 8051 Assembly Language Programming concepts for arithmetic and logical operations (K3)
 
 

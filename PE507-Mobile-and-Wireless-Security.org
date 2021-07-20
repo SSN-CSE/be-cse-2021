@@ -26,11 +26,9 @@ Yet to do co-po mapping, c-objs, c-outcomes, ref
 | CO3            | K3 |   1 |   3 |   1 |   0 |   0 |   0 |   1 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
 | CO4            | K2 |   2 |   1 |   0 |   0 |   0 |   0 |   1 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
 | CO5            | K3 |   2 |   1 |   0 |   0 |   0 |   0 |   1 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
+| Score          |    |  11 |  11 |   2 |   0 |   0 |   0 |   5 |   0 |   0 |    0 |    0 |    0 |    9 |   0  |    0 |
+| Course Mapping |    |   3 |   3 |   1 |   0 |   0 |   0 |   1 |   0 |   0 |    0 |    0 |    1 |    2 |    0 |    0 |
 
-#+begin_comment
-| Score          |    |  11 |  10 |   9 |   9 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    5 |    9 |   14 |    5 |
-| Course Mapping |    |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    2 |    3 |    1 |
-#+end_comment
 ** COURSE OBJECTIVES
 - To Understand vulnerabilities of wired and wireless networks
 - To acquire knowledege on  Bluetooth, Wi-Fi and Ad Hoc Networks Security 

@@ -18,8 +18,8 @@
 | CO4            | K3 |  3  |   3 |   2 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
 | CO5            | K3 |  3  |   3 |   2 |   3 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    1 |
 | CO6            | K4 |  3  |   3 |   3 |   3 |   2 |   0 |   0 |   0 |   3 |    3 |    0 |    0 |    3 |    1 |    2 |
-| Score          |    |  17 |  17 |  15 |  17 |  17 |   0 |   0 |   0 |   3 |    3 |    0 |    0 |   13 |    1 |    6 |
-| Course Mapping |    |  3  |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   1 |    1 |    0 |    0 |    3 |    1 |    2 |
+| Score          |    |  17 |  17 |  15 |  17 |  17 |   0 |   0 |   1 |   3 |    3 |    0 |    1 |   13 |    1 |    6 |
+| Course Mapping |    |  3  |   3 |   3 |   3 |   3 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    3 |    1 |    2 |
                 
 
 ** COURSE OBJECTIVES
@@ -75,7 +75,7 @@ Upon completion of the course, the student should be able to:
 - Apply the exponential Smoothing Methods to time series data (K3)
 - Build timeseries Autoregressive Integrated Moving Average(Arima) models (K3)
 - Make use of transfer functions in time series modelling (K3)
-- Develop applications to perform Regression Analysis and Time Series Analysis for prediction and forecasting problems choosing appropriate techniques and applying best practices specific to the problem in a systematic approach  (K4)
+- Analyze the given problem and perform Regression Analysis or Time Series Analysis for prediction and forecasting problems choosing appropriate techniques and applying best practices specific to the problem in a systematic approach  (K4)
       
 ** TEXT BOOKS
 1. Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci, ``Introduction to Time Series Analysis and Forecasting'',

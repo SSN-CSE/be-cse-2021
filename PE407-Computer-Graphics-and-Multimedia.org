@@ -18,6 +18,8 @@
 | CO3            |   3 |   3 |   2 |   2 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    2 |    3 |    0 |    0 |
 | CO4            |   2 |   3 |   1 |   2 |   2 |   0 |   0 |   0 |   0 |    0 |    0 |    2 |    3 |    0 |    0 |
 | CO5            |   3 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   1 |    2 |    0 |    2 |    3 |    1 |    1 |
+| Score          |  14 |  15 |  11 |  12 |  11 |   0 |   0 |   0 |   1 |    2 |    0 |   10 |   15 |    1 |    1 |
+| Course Mapping |   3 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   1 |    1 |    0 |    2 |    3 |    1 |    1 |
 
 ** R2021 CHANGES :noexport:
 1. Bezier curves and surfaces removed to concentrate more on 3D transformations and projections

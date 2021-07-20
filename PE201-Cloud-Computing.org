@@ -145,12 +145,12 @@ in AU syllabus.
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to:
-- Discuss about the basics of Cloud Computing. (K2)
+- Summarize about the basics of Cloud Computing. (K2)
 - Apply the concept of virtualization and analyse its types. (K3)
-- Illustrate various design challenges in cloud environment. (K3)
+- Solve various design challenges in cloud environment. (K3)
 - Develop and deploy services on cloud and be able to set up a private cloud environment using open source software. (K3)
-- Understand security challenges in cloud environment. (K2)
-- Experiment virtualization in teams and deploy an application on Virtual Machine following legal governance, demonstrate and write report. (K4)
+- Illustrate security challenges in cloud environment. (K2)
+- Analyze the virtualization techniques in teams and deploy an application on Virtual Machine following legal governance, demonstrate and write report. (K4)
 
 
 ** TEXT BOOKS

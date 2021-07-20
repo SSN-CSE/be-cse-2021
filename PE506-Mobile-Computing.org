@@ -75,7 +75,7 @@ User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifi
 - Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
 - Make use of various mobile platforms to develop and deploy mobile applications (K3)
 - Develop mobile applications using various features learnt (K3)
-- Develop mobile App for Solving a real world problems in teams by choosing appropriate mobile components and applying best practices in coding  with a clear documentation of procedure and approach (K4)
+- Analyze the requirements and develop mobile App for Solving a real world problems in teams by choosing appropriate mobile components and applying best practices in coding  with a clear documentation of procedure and approach (K4)
 
 ** TEXT BOOKS
 1. Jochen H Schller, ``Mobile Communications'', Pearson Education, New
