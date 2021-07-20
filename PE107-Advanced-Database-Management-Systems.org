@@ -29,7 +29,7 @@
 
 #+begin_comment
 1. One professional elective was offered by AU-2017 "Advanced Topics on Databases".
-2.No changes in the first and second units.The last unit of AU-2017 was puhed to 3rd unit.
+2.No changes in the first and second units.The last unit of AU-2017 was pushed to 3rd unit.
 The 4th and 5th units are new units.
 3.Syllabus is different from M.E syllabus
 4.Five course outcomes are specified and alligned with units.
@@ -78,9 +78,6 @@ Databases: Logic of Query Languages -- Datalog -- Recursive Rules
 -- Syntax and Semantics of Datalog Languages -- Implementation 
 of Rules and Recursion -- Recursive Queries in SQL.
 
-#+begin_comment
-Newly added to meet industry requirements
-#+end_comment
 
 {{{unit}}}
 |UNIT V | EMERGING TECHNOLOGIES | 9 |
@@ -100,11 +97,11 @@ Newly added to meet industry requirements
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Learn Parallel and Distributed Databases (K2)
-- Design and query in Object and Object Relational Databases (K3)
-- Design schema and query XML Databases (K3)
+- Summarize Parallel and Distributed Databases (K2)
+- Develop schema and query in Object and Object Relational Databases (K3)
+- Construct schema and query XML Databases (K3)
 - Apply rules to infer knowledge from databases. (K3)
-- Learn concepts in mobile and spatial databases (K2).
+- Explain concepts in mobile and spatial databases (K2).
 
 ** TEXT BOOKS 
 1. Elmasri, Ramez, Shamkant Navathe, ``Fundamentals of database
@@ -122,8 +119,9 @@ After the completion of this course, students will be able to:
 3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T
    Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
    Systems'', Morgan Kaufmann publishers, 2006
-4. Membrey, Peter, Eelco Plugge, DUPTim Hawkins. ``The Definitive
-   Guide to MongoDB: The NoSQL Database for Cloud and Desktop
-   Computing'', Apress, 2011.
+4. M. Tamer Özsu, Patrick Valduriez, "Principles of Distributed 
+   Database Systems", Second Edition, Springer
+
+
 
 
