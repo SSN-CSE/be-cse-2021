@@ -62,7 +62,7 @@ CO5 was modified
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Write, test, and debug simple Python programs (K3).
+- Develop and debug simple Python programs (K3).
 - Build Python programs with conditionals and loops  (K3).
 - Solve  a problem using functions in python programming (K3).
 - Construct python programs using compound data like lists, tuples, and dictionaries (K3).
