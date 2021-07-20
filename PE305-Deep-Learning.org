@@ -117,7 +117,7 @@ After the completion of this course, students will be able to:
 - Apply Recurrent Neural Network and its variants for text analysis (K3)
 - Apply model evaluation for various applications (K3)
 - Apply autoencoders and generative models for suitable applications (K3)
-- Develop a real world application using suitable deep neural networks (K4)
+- Develop a real world application using suitable deep neural networks by applying best practices in teams (K4)
 
 #+begin_comment
 Added the Group projects.
