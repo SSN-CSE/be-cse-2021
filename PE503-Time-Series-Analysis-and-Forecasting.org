@@ -75,7 +75,7 @@ Upon completion of the course, the student should be able to:
 - Apply the exponential Smoothing Methods to time series data (K3)
 - Build timeseries Autoregressive Integrated Moving Average(Arima) models (K3)
 - Make use of transfer functions in time series modelling (K3)
-- Develop applications to perform Regression Analysis and Time Series Analysis for prediction and forecasting problems choosing appropriate techniques and applying best practices specific to the problem in a systematic approach  (K4)
+- Analyze the given problem and perform Regression Analysis or Time Series Analysis for prediction and forecasting problems choosing appropriate techniques and applying best practices specific to the problem in a systematic approach  (K4)
       
 ** TEXT BOOKS
 1. Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci, ``Introduction to Time Series Analysis and Forecasting'',
