@@ -79,7 +79,7 @@ Upon the completion of the course the students should be able to:
 - Explain service orientation, benefits of SOA. (K2)
 - Build web services and WS standards. (K3)
 - Apply web services extensions to develop solutions. (K3)
-- Understand and apply service modeling, service oriented analysis and design for application development in teams. (K3).
+- Apply service modeling, service oriented analysis and design for application development in teams. (K3).
 
 ** TEXT BOOKS
 1. Thomas Erl, ``Service Oriented Architecture: Concepts, Technology,
