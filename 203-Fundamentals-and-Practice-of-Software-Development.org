@@ -121,20 +121,20 @@ practices in Engineering.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-1. Formulate a problem, specifying the requirements and
-   identifying the scope and boundaries.
-2. Apply engineering fundamentals in Computer Science to
-   industrial applications or products.
-3. Design and develop solutions with novel technologies,
-   tools, and techniques.
-4. Communicate effectively through reflections, reports, and
-   presentations.
-5. Work in teams to develop modules and integrate them.
-6. Analyze the impact on health, safety, society, environment
-   as well as underlying legal and ethical considerations
-   wherever are applicable.
-7. Solve programming problems using basic constructs in C programming
-   language.
+- Formulate a problem, specifying the requirements and
+  identifying the scope and boundaries (K3).
+- Apply engineering fundamentals in Computer Science to
+  industrial applications or products (K3).
+- Design and develop solutions with novel technologies,
+  tools, and techniques (K3).
+- Communicate effectively through reflections, reports, and
+  presentations (K3).
+- Work in teams to develop modules and integrate them (K3).
+- Analyze the impact on health, safety, society, environment
+  as well as underlying legal and ethical considerations
+  wherever are applicable (K3).
+- Solve programming problems using basic constructs in C programming
+  language (K3).
 
 ** INSTRUCTIONS
 1. Instructor provides the links in Internet, industry links

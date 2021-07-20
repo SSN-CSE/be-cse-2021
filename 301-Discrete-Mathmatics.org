@@ -70,13 +70,13 @@ Added: Stone's representation Theorem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Write simple proofs using Propositional and First-Order Logics
-- Solve problems using different counting techniques
-- Prove simple graph properties.
+- Write simple proofs using Propositional and First-Order Logics (K3).
+- Solve problems using different counting techniques (K3).
+- Prove simple graph properties (K3)
 - Explain basic concepts in group theory such as semigroups, monoids
-  and groups.
+  and groups (K2).
 - Solve problems in partial ordering relations, equivalence relations
-  and lattices.
+  and lattices (K2).
 
 ** TEXT BOOKS
 1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th

@@ -101,8 +101,8 @@ After the completion of this course, students will be able to:
 - Apply various algorithms for classification and regression tasks (K3)
 - Apply tree and ensemble models for various problems (K3)
 - Apply the neural network algorithm for real world problems (K3).
+
 # - Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
-      
 ** TEXT BOOKS
 1. Aurelien Geron, ``Hands-On Machine Learning with Scikit-Learn and
    TensorFlow'', O'Reilly Media, 2017.

@@ -149,7 +149,7 @@ After the completion of this course, students will be able to:
 - Develop responsive web applications using Servlets and AJAX (K3)
 - Build web application using ReactJS framework (K3)
 - Develop web application using NodeJS framework (K3).
-- •	Examine various technologies to design web application with best practices  in teams with clear documentation (K4).
+- Examine various technologies to design web application with best practices  in teams with clear documentation (K4).
       
 ** TEXT BOOKS
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science

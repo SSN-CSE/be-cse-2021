@@ -62,11 +62,11 @@ Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle; Languages: Solid
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Explain the importance of distributed ledgers and need of blockchain [K2]
-- Explore and understand the decentralization concepts and apply consensus algorithsm [K3]
-- Understand the basic of cryptography and how it is applied in cryptocurrencies [K2]
-- Explore and Apply the various distributed ledgers for business [K4]
-- Make use of appropriate techniques for designing trust-based business networks[K4] 
+- Explain the importance of distributed ledgers and need of blockchain (K2)
+- Explore and understand the decentralization concepts and apply consensus algorithsm (K3)
+- Understand the basic of cryptography and how it is applied in cryptocurrencies (K2)
+- Explore and Apply the various distributed ledgers for business (K4)
+- Make use of appropriate techniques for designing trust-based business networks (K4)
 
 ** TEXTBOOKS
 1. Introduction to Blockchain Technology: The Many Faces of Blockchain

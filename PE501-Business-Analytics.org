@@ -53,11 +53,11 @@ SAP Business Intelligence - Zoho Analytics - Microsoft Power BI - Tableau - Orac
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Understanding various types of business analytics[K2]
-- Understanding business intelligence concepts and applying it for data modeling[K3]
-- Understanding and applying statistical tests in testing hypothesis on data[K3]
-- Analyze data by utilizing various data mining approaches[K4]
-- Build applications using business analytics tools[K4]
+- Understanding various types of business analytics (K2)
+- Understanding business intelligence concepts and applying it for data modeling (K3)
+- Understanding and applying statistical tests in testing hypothesis on data (K3)
+- Analyze data by utilizing various data mining approaches (K4)
+- Build applications using business analytics tools (K4)
  
 ** TEXT BOOKS
 1. R N Prasad, Seema Acharya, "Fundamentals of Business Analytics", 2nd Edition published by Wiley 2016.

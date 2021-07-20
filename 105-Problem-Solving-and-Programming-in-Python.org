@@ -70,8 +70,7 @@ After the completion of this course, students will be able to:
 - Make use of strings, lists, tuples and  dictionaries data structures (K3).
 - Perform Input/Output Operations using files (K3).
 
-
-
+  
 ** TEXT BOOKS
 1. Karl Beecher, ``Computational Thinking -- A beginner's Guide to
    Problem Solving and Programming'', British Computer Society

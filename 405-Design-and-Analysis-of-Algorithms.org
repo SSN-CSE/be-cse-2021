@@ -1,4 +1,4 @@
-* 405 <<<DESIGN AND ANALYSIS OF ALGORITHMS>>>
+g* 405 <<<DESIGN AND ANALYSIS OF ALGORITHMS>>>
 :properties:
 :author: Dr S Kavitha, Dr V Balasubramanian, Dr R S Milton
 :date: 29-03-2021
@@ -107,7 +107,7 @@ After the completion of this course, students will be able to:
 - Design and prove Greedy and Iterative improvement algorithsm (K4)
 - Prove the hardness of computing problems (K3)
 - Choose appropriate algorithms for computing problems and implement
-  them using efficient data structures.
+  them using efficient data structures (K4).
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of

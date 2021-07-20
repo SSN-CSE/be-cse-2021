@@ -62,11 +62,11 @@ Convex Optimization
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Use linear algebra for framing learning problems
-- Do matrix decompositions
-- Apply analytic geometry and vector calculus
-- Use probability distributions
-- Apply continuous optimization
+- Use linear algebra for framing learning problems (K3)
+- Do matrix decompositions (K2)
+- Apply analytic geometry and vector calculus (K2)
+- Use probability distributions (K3)
+- Apply continuous optimization (K2)
 
 ** TEXT BOOKS
 1. Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong,

@@ -31,7 +31,8 @@
 ** COURSE OBJECTIVES
 - To understand the design of parallel algorithms
 - To select suitable procedures for parallel algorithms
-- To understand different parallel architectures and models of computation
+- To understand different parallel architectures and models of
+  computation
 - To introduce the various classes of parallel algorithms
 - To study parallel algorithms for basic problems. 
 
@@ -66,7 +67,7 @@ parallelizability - NC-reductions - P-completeness
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to:
-- Understand why communication and coordination are critical to ensure correctness(K2)
+- Understand why communication and coordination are critical to ensure correctness (K2)
 - Understand the parallelism inherent in a simple sequential algorithm (K2)  
 - Apply suitable procedures for parallel algorithms (K3)
 - Apply parallel algorithms for standard problems and applications(K3)
