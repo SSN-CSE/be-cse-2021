@@ -87,10 +87,10 @@ After the completion of this course, students will be able to:
 
 ** TEXT BOOKS
 
-1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Seventh Edition, Pearson, 2019.
-2. William Stallings, "Network Security Essentials: Applications and Standards", Sixth edition, Pearson, 2017 
+1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Seventh Edition, Pearson, 2019. (Unit I, II)
+2. William Stallings, "Network Security Essentials: Applications and Standards", Sixth edition, Pearson, 2017 (Unit IV)
 3. Colin Boyd, Anish Mathuria, Douglas Stebila, "Protocols For Authentication And Key Establishment", Springer, 2020. (Unit III)
-2. Matt Bishop, ``Computer Security: Art and Science'', Second edition, Addison Wesley, 2019 (Unit IV, V).
+5. Matt Bishop, ``Computer Security: Art and Science'', Second edition, Addison Wesley, 2019 (Unit IV, V).
 
 
 ** REFERENCES
