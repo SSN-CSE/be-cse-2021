@@ -64,7 +64,7 @@ Justifications for comments given by Mr. R.Pradeep -
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Learn to implement Socket programming (K3)
+- Implement Socket programming (K3)
 - Implement the various application protocols using TCP and UDP. (K3)
 - Apply the functionalities of data link layer.(K3)
 - Implement various network protocols and Use simulation tools to analyze its performance.(K3)
