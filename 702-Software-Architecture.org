@@ -81,7 +81,7 @@ After the completion of this course, students will be able to:
 1. Explain the various architectural views and quality attributes(K2)
 2. Apply suitable architectural styles based on the software quality
    requirements (K3)
-3. Define ADLs and analyze alternate architectural solutions (K4)
+3. Analyze the alternate architectural solutions based on the definition of ADL's (K4)
 4. Construct new architectures based on the quality attribute
    requirements (K3)
 5. Analyze the architectural decisions for building data-intensive and
