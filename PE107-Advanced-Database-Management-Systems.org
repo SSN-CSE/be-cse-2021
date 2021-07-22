@@ -111,13 +111,15 @@ After the completion of this course, students will be able to:
    Third Edition, Pearson Education, 2007.
 
 ** REFERENCES
-1. Vijaya Kumar, "Mobile Database Systems", Wiley, 2016.
+1. Vijay Kumar, "Mobile Database Systems", Wiley, 2016.
 2. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database
    System Concepts'', 6th Edition, McGraw Hill, 2011.
 3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T
    Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
    Systems'', Morgan Kaufmann publishers, 2006
-4. M. Tamer Özsu, Patrick Valduriez, "Principles of Distributed 
+4. Stefano Ceri, Giuseppe Pelagatti, "Distributed Databases: 
+   Principles and Systems", Mc-Graw Hill,2017.
+5. M. Tamer Özsu, Patrick Valduriez, "Principles of Distributed 
    Database Systems", Second Edition, Springer
 
 
