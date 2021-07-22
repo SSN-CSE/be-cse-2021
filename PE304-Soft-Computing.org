@@ -1,7 +1,7 @@
 * PE304 <<<SOFT COMPUTING>>>
 :properties:
 :author: Dr. T.T. Mirnalinee  and Dr. K. Lekshmi
-:date: 26/03/2021
+:date: 21/07/2021
 :end:
 
 {{{credits}}}
@@ -10,15 +10,15 @@
 
 ** CO PO MAPPING :noexport:
 #+NAME: co-po-mapping
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO2 | PSO3 | PSO3 |	
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K3 |   K6 |   K6 | 
-| CO1            | K3 |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   3 |    3 |    0 |    1 |    3 |    1 |    3 |
-| CO2            | K2 |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   3 |    3 |    0 |    1 |    3 |    1 |    3 |
-| CO3            | K3 |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    3 |    0 |    1 |    3 |    1 |    3 |
-| CO4            | K2 |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    3 |    0 |    1 |    3 |    1 |    3 |
-| CO5            | K4 |   2 |   3 |   3 |   3 |   3 |   1 |   1 |   1 |   3 |    3 |    2 |    1 |    3 |    1 |    3 |
-| Score          |    |  10 |  15 |  15 |  15 |   9 |   1 |   1 |   1 |   9 |   15 |    2 |    5 |   15 |    5 |   15 |
-| Course Mapping |    |   2 |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   2 |    3 |    1 |    1 |    3 |    1 |    3 |
+|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |	
+|                |    |     |     |     |     |     |   - |   - |   - |   - |    - |    - |    - |      |      |      | 
+| CO1            |    |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   3 |    0 |    0 |    1 |    3 |    1 |    0 |
+| CO2            |    |   2 |   3 |   3 |   3 |   3 |   0 |   0 |   0 |   3 |    0 |    0 |    1 |    3 |    1 |    0 |
+| CO3            |    |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    3 |    0 |    0 |
+| CO4            |    |   2 |   3 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    3 |    0 |    0 |
+| CO5            |    |   2 |   3 |   3 |   3 |   3 |   0 |   1 |   1 |   3 |    3 |    2 |    1 |    3 |    1 |    1 |
+| Score          |    |  10 |  15 |  15 |  15 |   9 |   0 |   1 |   1 |   9 |    3 |    2 |    5 |   15 |    3 |    1 |
+| Course Mapping |    |   2 |   3 |   3 |   3 |   2 |   0 |   1 |   1 |   2 |    1 |    1 |    1 |    3 |    1 |    1 |
 
 ** COURSE OBJECTIVES
 - To introduce the ideas of fuzzy sets and fuzzy logic 
@@ -80,8 +80,6 @@ After the completion of this course, students will be able to:
 - Explain genetic algorithms and evolutionary optimization. (K2)
 - Analyse and compare neuro-fuzzy hybrid models for solving computational problems. (K4)
 
-
-
  
 ** TEXT BOOKS
 1.	J.S.R.Jang, C.T. Sun and E.Mizutani, ``Neuro-Fuzzy and Soft Computing'', PHI / Pearson Education 2004. 
@@ -95,3 +93,18 @@ After the completion of this course, students will be able to:
 5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996.
 6.	Stamatios V. Kartalopoulos, ``Understanding Neural Networks and Fuzzy Logic Basic concepts & Applications'', IEEE Press, PHI, New Delhi, 2004.
 7.	Vojislav Keeman, ``Learning & Soft Computing Support Vector Machines, Neural Networks, and Fuzzy Logic Models'', Pearson Education, New Delhi, 2006.
+
+** LIST of PROJECTS
+1.	Ant Colony Optimization to search best route in Travelling Sales Person Problem.
+2.	Ant Colony Optimization approach for edge detection in image.
+3.	Intelligent fuzzy based washing time prediction with parameter dependency.
+4.	Artficial Neural Network(ANN) Design for different Coin Recognition System.
+5.	Artificial Intelligence Based Fuzzified Anti Lock Breaking System(ABS) for smart vehicle.
+6.	Fuzzy system designing for detection of edge in image.
+7.	Any type of Cancer risk classification.
+8.	Fuzzy Logic in washing machine.
+9.	Artficial Intelligence based facial recognition software for social media “Facebook”.
+10.	Artificial Neural Networks in Cryptography(Hint: Simple Recurrent structure like Jordan Network, trained by the back-propagation algorithm).
+11.	Automatic text summarization (Hint: Apply deep neural networks).
+12.	Human activity recognition (Hint: implement a neural network-based model to detect human activities – for example, sitting on a chair, falling, picking something up, opening or closing a door, etc. This is a video classification project, which will include combining a series of images and classifying the action.)
+

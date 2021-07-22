@@ -80,7 +80,7 @@ After the completion of this course, students will be able to:
 - Apply machine learning algorithms for bioinformatics dataset (K3)
 - Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset (K3)
 - Infer the importance of microarray data analysis (K2)
-- Design or develop a model for gene expression and protein data using machine learning techniques(K4)
+- Analyze the models of gene expression and protein data implemented using machine learning techniques(K4)
    
 ** TEXT BOOKS
 1. Yi-Ping Phoebe Chen (Ed), ``BioInformatics Technologies'', First
