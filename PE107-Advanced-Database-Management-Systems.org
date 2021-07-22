@@ -111,9 +111,7 @@ After the completion of this course, students will be able to:
    Third Edition, Pearson Education, 2007.
 
 ** REFERENCES
-1. Capriolo, Edward, Dean Wampler, Jason Rutherglen. ``Programming
-   Hive: Data Warehouse and Query Language for Hadoop'', O'Reilly
-   Media Inc, 2012.
+1. Vijaya Kumar, "Mobile Database Systems", Wiley, 2016.
 2. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database
    System Concepts'', 6th Edition, McGraw Hill, 2011.
 3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T
