@@ -1,4 +1,4 @@
-* 306 <<<DIGITAL DESIGN LAB>>>
+* 306 DIGITAL DESIGN LAB
 :properties:
 :author: Ms. S. Angel Deborah and Dr.D.Venkatavara Prasad
 :date: 9.03.2021(Revision1 with COs)/29.3.2021 (R2021 changes)/6.06.2021(Checked)/20.07.2021(CO-PO mapping updated)

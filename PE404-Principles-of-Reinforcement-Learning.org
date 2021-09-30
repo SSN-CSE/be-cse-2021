@@ -1,4 +1,4 @@
-* PE404 <<<REINFORCEMENT LEARNING>>>
+* PE404 PRINCIPLES OF REINFORCEMENT LEARNING
 :properties:
 :author: Ms. M. Saritha and Ms. S. Rajalakshmi
 :date: 15-03-2021
@@ -29,7 +29,9 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION | 9 |
-Reinforcement Learning -- Examples -- Elements of Reinforcement Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits; Finite Markov Decision Processes.
+Reinforcement Learning -- Examples -- Elements of Reinforcement
+Learning -- Limitations and Scope -- Tic-Tac-Toe; Multi-armed Bandits;
+Finite Markov Decision Processes.
 
 {{{unit}}}
 | UNIT II | TABULAR SOLUTION METHODS | 11 |

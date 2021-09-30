@@ -1,4 +1,4 @@
-* 301 <<<DISCRETE MATHEMATICS>>>
+* 301 DISCRETE MATHEMATICS
 :properties:
 :author: Dr. R. Sundareswaran and Dr. N. Padmapriya
 :date:

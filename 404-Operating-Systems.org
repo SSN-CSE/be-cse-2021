@@ -1,6 +1,6 @@
-* 404 <<<OPERATING SYSTEMS>>>
+* 404 OPERATING SYSTEMS
 :properties:
-:author: Dr.J.Bhuvana and Ms. S. Lakshmi Priya
+:author: Dr. J. Bhuvana, Ms. S. Lakshmi Priya
 :date: 09-03-2021
 :end:
 

@@ -1,4 +1,4 @@
-* PE607 <<<PARALLEL ALGORITHMS>>>
+* PE607 PARALLEL ALGORITHMS
 :properties:
 :author: Dr. Milton R.S and Dr. V. Balasubramanian 
 :date: 18.6.2021

@@ -1,4 +1,4 @@
-* PE601 <<<BIOINFORMATICS TECHNOLOGIES>>>
+* PE601 BIOINFORMATICS TECHNOLOGIES
 :properties:
 :author: Dr.S.Kavitha and Dr.P.Mirunalini
 :date: 29-03-2021  

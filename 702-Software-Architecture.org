@@ -1,4 +1,4 @@
-* 702 <<<SOFTWARE ARCHITECTURE>>>
+* 702 SOFTWARE ARCHITECTURE
 :properties:
 :author: Dr. K. Vallidevi
 :date: 21st July, 2021
@@ -96,7 +96,12 @@ After the completion of this course, students will be able to:
 ** REFERENCES 
 1. Mary Shaw, David Garlan, ``Software Architecture: Perspectives on
    an Emerging Discipline'', Pearson Education, 2008.
-2. Kai Qian et al., ''Software Architecture and Design Illuminated'', Jones and Bartlett Publishers, Canada, 2010
-3. Martin Kleppman, ''Designing Data-Intensive Applications'', O’Reilly Media, 2017
-4. Bauer, Martin & Boussard, Mathieu & Bui, Nicola & Loof, Jourik & Magerkurth, Carsten & Meissner, Stefan & Nettsträter, Andreas & Stefa, Julinda & Thoma, Matthias & Joachim, Walewski, IoT Reference Architecture, (2013), ISBN-978-3-642-40402-3.  
+2. Kai Qian et al., ``Software Architecture and Design Illuminated'',
+   Jones and Bartlett Publishers, Canada, 2010
+3. Martin Kleppman, ``Designing Data-Intensive Applications'',
+   O'Reilly Media, 2017
+4. Bauer Martin, Boussard Mathieu, Bui Nicola, Loof Jourik, Magerkurth
+   Carsten, Meissner Stefan, Nettsträter Andreas, Stefa Julinda, Thoma
+   Matthias, Joachim Walewski, ``IoT Reference Architecture'', 2013,
+   ISBN-978-3-642-40402-3.
 
