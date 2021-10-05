@@ -1,4 +1,4 @@
-* PE207 INTERNET OF THINGS
+* PE207 IOT TECHNOLGIES
 :properties:
 :author: Dr. V. S. Felix Inigo, Dr. K. R. Sarath Chandran and Dr. K. Madheswari
 :date: 10-03-2021
@@ -78,10 +78,11 @@ After completion of this course, students should be able to:
 - Discuss various sensors and access protocols for IoT (K2)
 - Select different transport and application layer protocols based on
   application’s requirements (K3)
-- Apply various machine learning and data analytics techniques for
-  IoT applications (K3)
+- Apply various machine learning and data analytics techniques for IoT
+  applications (K3)
 - Use security aspects in designing real time IoT applications (K3).
-- Build an IoT application to solve a real world problem in teams by applying best practices of system design (K3)
+- Build an IoT application to solve a real world problem in teams by
+  applying best practices of system design (K3)
 
 
 ** TEXT BOOKS

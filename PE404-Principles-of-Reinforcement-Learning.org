@@ -69,8 +69,10 @@ After the completion of this course, students will be able to:
 - Apply reinforcement learning techniques for various case studies (K3).
 
 ** TEXT BOOKS
-1. Richard S. Sutton & Andrew G. Barto, ``Reinforcement Learning: An Introduction'', The MIT Press, 2nd Edition, 2018.
-2. Marco Wiering & Martijn van Otterlo, ``Reinforcement Learning State-of-the-Art'', Springer, 2012.
+1. Richard S. Sutton & Andrew G. Barto, ``Reinforcement Learning: An
+   Introduction'', The MIT Press, 2nd Edition, 2018.
+2. Marco Wiering & Martijn van Otterlo, ``Reinforcement Learning
+   State-of-the-Art'', Springer, 2012.
 
 ** REFERENCES
 1.  Boris Belousov, Hany Abdulsamad, Pascal Klink, Simone Parisi & Jan Peters, ``Reinforcement Learning Algorithms: Analysis and Applications'', Springer, 1st edition, 2021. 
