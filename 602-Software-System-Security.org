@@ -67,19 +67,23 @@ Denial of Service Models; Hybrid policy: Chinese Wall Model
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Examine symmetric and asymmetric ciphers (K3)
-- Examine the different authentication schemes (K3)
-- Outline the security mechanisms adapted in OS, Cloud and IoT  (K2)
-- Explain the functionality of access control mechanism (K2)
-- Compare and contrast various security policies (K3)
+After the completion of this course, students will be able to 
+1. Examine symmetric and asymmetric ciphers (K3)
+2. Examine the different authentication schemes (K3)
+3. Outline the security mechanisms adapted in OS, Cloud and IoT  (K2)
+4. Explain the functionality of access control mechanism (K2)
+5. Compare and contrast various security policies (K3).
 
 ** TEXT BOOKS
 
-1. William Stallings, Lawrie Brown, ``Computer Security  Principles and Practice'', Seventh Edition, Pearson, 2019. (Unit I, II)
-2. William Stallings, "Network Security Essentials: Applications and Standards", Sixth edition, Pearson, 2017 (Unit IV)
-3. Colin Boyd, Anish Mathuria, Douglas Stebila, "Protocols For Authentication And Key Establishment", Springer, 2020. (Unit III)
-5. Matt Bishop, ``Computer Security: Art and Science'', Second edition, Addison Wesley, 2019 (Unit IV, V).
+1. William Stallings, Lawrie Brown, ``Computer Security Principles and
+   Practice'', Seventh Edition, Pearson, 2019. (Unit I, II)
+2. William Stallings, "Network Security Essentials: Applications and
+   Standards", Sixth edition, Pearson, 2017 (Unit IV)
+3. Colin Boyd, Anish Mathuria, Douglas Stebila, "Protocols For
+   Authentication And Key Establishment", Springer, 2020. (Unit III)
+5. Matt Bishop, ``Computer Security: Art and Science'', Second
+   edition, Addison Wesley, 2019 (Unit IV, V).
 
 
 ** REFERENCES

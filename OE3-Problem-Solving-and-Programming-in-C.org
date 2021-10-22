@@ -58,12 +58,12 @@ Files: opening and closing a data file -- Creating a data file -- Processing a d
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Develop programs using basic programming constructs in C (K3) 
-- Develop modular programs using functions (K3) 
-- Develop applications using arrays and strings (K3)
-- Solve problems using pointers and structures (K3) 
-- Develop applications using file operations in C (K3).
+After the completion of this course, students will be able to 
+1. Develop programs using basic programming constructs in C (K3) 
+2. Develop modular programs using functions (K3) 
+3. Develop applications using arrays and strings (K3)
+4. Solve problems using pointers and structures (K3) 
+5. Develop applications using file operations in C (K3).
 
       
 ** TEXT BOOKS

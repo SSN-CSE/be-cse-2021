@@ -107,12 +107,12 @@ The topics of AU and Autonomous syllabi are one and the same.
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
-- Interpret the foundations of Distributed Systems (K2)
-- Able to solve synchronization and state consistency problems (K3)
-- Apply the resource sharing techniques in Distributed systems  (K3)
-- Comprehend the working model of consensus and reliability of Distributed Systems (K3)
-- Outline the fundamentals of Peer-to-Peer Systems (K2).
+Upon the completion of the course the students should be able to 
+1. Interpret the foundations of Distributed Systems (K2)
+2. Able to solve synchronization and state consistency problems (K3)
+3. Apply the resource sharing techniques in Distributed systems  (K3)
+4. Comprehend the working model of consensus and reliability of Distributed Systems (K3)
+5. Outline the fundamentals of Peer-to-Peer Systems (K2).
 
 ** TEXT BOOKS
 1. Kshemkalyani Ajay D, Mukesh Singhal. ``Distributed computing:

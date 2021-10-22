@@ -64,12 +64,14 @@ Learning : Introduction -- Clustering -- K-means; Evaluation metrics.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Demonstrate the need for Data Science and Data preparation process. (K2)
-- Develop Python programs to perform analysis on data. (K3)
-- Apply statistical techniques to explain and analyze the data. (K3)
-- Interpret the various Statistical Inferences. (K2).
-- Develop applications in teams to demonstrate machine learning algorithms in practice. (K3)
+After the completion of this course, students will be able to
+1. Demonstrate the need for Data Science and Data preparation process
+   (K2)
+2. Develop Python programs to perform analysis on data (K3)
+3. Apply statistical techniques to explain and analyze the data (K3)
+4. Interpret the various Statistical Inferences (K2)
+5. Develop applications in teams to demonstrate machine learning
+   algorithms in practice (K3)
  
 ** TEXT BOOKS
 1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data

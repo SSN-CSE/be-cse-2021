@@ -26,11 +26,11 @@ Polynomial manipulation.
 | UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 7 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications:
 Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
-expressions -- Function calls; Queue ADT: Queue model -- Array implementation of queues
--- Applications of queues.
+expressions -- Function calls; Queue ADT: Queue model -- Array
+implementation of queues -- Applications of queues.
 
 {{{unit}}}
-| UNIT III | NON LINEAR DATA STRUCTURES – TREES   | 10 |
+| UNIT III | NON LINEAR DATA STRUCTURES – TREES | 10 |
 Preliminaries; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; Tree traversals; B-Trees; Priority Queues: Binary heap.
 
@@ -43,18 +43,23 @@ All-pairs shortest path.
 
 {{{unit}}}
 | UNIT V | SORTING AND HASHING TECHNIQUES | 9 |
-Sorting: Insertion sort -- Shell sort -- External sorting; Hashing: Hash function -- Separate chaining -- Open
-addressing -- Rehashing -- Extendible hashing.
+Sorting: Insertion sort -- Shell sort -- External sorting; Hashing:
+Hash function -- Separate chaining -- Open addressing -- Rehashing --
+Extendible hashing.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Analyze the different types of list and their operations with suitable applications (K4)
-- Develop applications using stacks and queues (K3)
-- Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
-- Develop applications using traversal and shortest path algorithms of graph (K3)
-- Choose suitable sorting and hashing algorithms to solve various computing problems (K3).
+After the completion of this course, students will be able to
+1. Analyze the different types of list and their operations with
+   suitable applications (K4)
+2. Develop applications using stacks and queues (K3)
+3. Apply the operations of unbalanced and balanced trees to develop
+   solutions to various problems (K3)
+4. Develop applications using traversal and shortest path algorithms
+   of graph (K3)
+5. Choose suitable sorting and hashing algorithms to solve various
+   computing problems (K3).
    
       
 ** TEXT BOOKS

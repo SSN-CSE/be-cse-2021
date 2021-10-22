@@ -65,14 +65,16 @@ Design-- Tools.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to: 
-- Summarize the goals and principles of interface design (K2)
-- Apply life cycle models and identify the requirements for interface
-  design (K3)
-- Construct user interface design using prototypes (K3)
-- Develop user testing on user interface design (K3)
-- Apply tools to develop UI design for mobile app (K3).
-- Solve real world problems in teams by choosing suitable software problem and  applying best practices in programming  with a clear documentation  of problem statement and design interfaces. (K3)
+Upon the completion of the course the students should be able to 
+1. Summarize the goals and principles of interface design (K2)
+2. Apply life cycle models and identify the requirements for interface
+   design (K3)
+3. Construct user interface design using prototypes (K3)
+4. Develop user testing on user interface design (K3)
+5. Apply tools to develop UI design for mobile app (K3)
+6. Solve real world problems in teams by choosing suitable software
+   problem and applying best practices in programming with a clear
+   documentation of problem statement and design interfaces (K3).
 
 ** TEXT BOOKS
 1. Preece J, Rogers Y, Sharp H, ``Interaction design: Beyond

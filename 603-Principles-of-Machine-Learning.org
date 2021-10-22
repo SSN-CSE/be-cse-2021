@@ -94,13 +94,14 @@ Exploitation and exploration.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Demonstrate the basic concepts of machine learning (K2)
-- Apply supervised algorithms for different classification problems (K3)
-- Interpret the need of ensemble methods (K2) 
-- Apply unsupervised and reinforcement learning techniques to various
-  problems (K3)
-- Apply dimensionality reduction and optimisation techniques (K3)
+After the completion of this course, students will be able to 
+1. Demonstrate the basic concepts of machine learning (K2)
+2. Apply supervised algorithms for different classification problems
+   (K3)
+3. Interpret the need of ensemble methods (K2) 
+4. Apply unsupervised and reinforcement learning techniques to various
+   problems (K3)
+5. Apply dimensionality reduction and optimisation techniques (K3).
       
 ** TEXT BOOKS
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
@@ -123,7 +124,6 @@ After the completion of this course, students will be able to:
 5. Y S Abu-Mostafa, M Magdon-Ismail, H T Lin, ``Learning from Data'',
    AMLBook Publishers, 2012.
 
-#+startup: showall
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|

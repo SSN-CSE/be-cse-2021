@@ -41,12 +41,15 @@
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Make Use of boolean simplification techniques to design a combinational  circuit (K3)
-- Build and experiment combinational circuits using MSI devices (K3)
-- Build and experiment different functional units in a digital computer system (K3)
-- Build and experiment sequential circuits (K3)
-- Model the combinational and sequential circuits using VHDL/ Verilog HDL  (K3)
+After the completion of this course, students will be able to 
+1. Make Use of boolean simplification techniques to design a
+   combinational circuit (K3)
+2. Build and experiment combinational circuits using MSI devices (K3)
+3. Build and experiment different functional units in a digital
+   computer system (K3)
+4. Build and experiment sequential circuits (K3)
+5. Model the combinational and sequential circuits using VHDL/ Verilog
+   HDL (K3)
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
 Hardware:\\
@@ -68,4 +71,3 @@ Software:\\
 | Course | 3 | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 3 |  2 |  0 |  1 | 3 | 2 | 1 |
 
 # | Score          | 15 | 13 | 13 | 7 | 0 | 0 | 0 | 0 | 15 | 10 |  0 |  3 | 15 | 6 | 3 |
-

@@ -110,21 +110,21 @@ changes: "Consider a simple program as an input andprocess this code to   prin
 \hfill *Total Periods: 75*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Construct a lexical analyzer for a sample language (K3)
-- Apply different parsing algorithms to develop the parsers for the
-  given grammar (K3)
-- Build syntax directed translation for programming language
-  constructs (K3)
-- Outline and develop a simple code generator (K3)
-- Make use of code optimization techniques (K3).
-- Design and document a new compiler for a real-world language as a team using modern tools, technologies, and best practices. (K3)
+After the completion of this course, students will be able to 
+1. Construct a lexical analyzer for a sample language (K3)
+2. Apply different parsing algorithms to develop the parsers for the
+   given grammar (K3)
+3. Build syntax directed translation for programming language
+   constructs (K3)
+4. Outline and develop a simple code generator (K3)
+5. Make use of code optimization techniques (K3)
+6. Design and document a new compiler for a real-world language as a
+   team using modern tools, technologies, and best practices (K3).
 
 
 #+begin_comment
 Saraswathi: replaced words with action verbs
 #+end_comment
-
 
 ** TEXT BOOK
 1. Alfred V Aho, Monica S Lam, Ravi Sethi, Jeffrey D. Ullman,

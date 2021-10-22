@@ -36,12 +36,15 @@
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Analyze and apply suitable linear data structures to solve a given problem (K4) 
-- Apply suitable trees for various applications and perform traversals (K3)
-- Make use of graphs to solve appropriate problems (K3)
-- Develop programs using sorting and hashing techniques (K3)
-- Design and develop applications by choosing suitable data structure(s) for solving real world problems (K6).
+After the completion of this course, students will be able to 
+1. Analyze and apply suitable linear data structures to solve a given
+   problem (K4)
+2. Apply suitable trees for various applications and perform
+   traversals (K3)
+3. Make use of graphs to solve appropriate problems (K3)
+4. Develop programs using sorting and hashing techniques (K3)
+5. Design and develop applications by choosing suitable data
+   structure(s) for solving real world problems (K6).
 
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS

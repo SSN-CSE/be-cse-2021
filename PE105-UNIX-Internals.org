@@ -58,26 +58,30 @@ IPC
 |Total:|45|
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Demonstrate the different scenarios of buffer usage and Inode manipulation (K2)
-- Interpret the working of file subsystem and its system calls.(K2)
-- Illustrate the various aspects of Process Control and management (K2)
-- Interpret the memory management and I/O policies (K2)
-- Apply various process scheduling algorithms and IPC techniques (K3)
+After the completion of this course, students will be able to 
+1. Demonstrate the different scenarios of buffer usage and Inode
+   manipulation (K2)
+2. Interpret the working of file subsystem and its system calls.(K2)
+3. Illustrate the various aspects of Process Control and management
+   (K2)
+4. Interpret the memory management and I/O policies (K2)
+5. Apply various process scheduling algorithms and IPC techniques
+   (K3).
 
 ** TEXT BOOK
-1. Maurice J. Bach, "The Design of the Unix Operating System", Pearson Education, 2002.
+1. Maurice J Bach, ``The Design of the Unix Operating System'',
+   Pearson Education, 2002.
 
 ** REFERENCES
 1. Daniel P Bovet, Marco Cesati, ``Understanding the Linux Kernel'',
-   3rd Edition, O'Reilly,Shroff Publishers & Distributors
-   Pvt. Ltd, 2005.
+   3rd Edition, O'Reilly,Shroff Publishers & Distributors Pvt
+   Ltd, 2005.
 2. John Lion, ``Lion's Commentary on UNIX'', 6th edition, Peer-to-Peer
    Communications, 2004.
 3. M Beck et al, ``Linux Kernel Programming'', 3rd Edition, Pearson
-   Education Asia, 2015
+   Education Asia, 2015.
 4. Steve D Pate, ``Unix Internals: A Practical Approach'',
-   Addison-Wesley,1996
+   Addison-Wesley, 1996.
 
 
 ** CO TO PO/PSO MAPPING 

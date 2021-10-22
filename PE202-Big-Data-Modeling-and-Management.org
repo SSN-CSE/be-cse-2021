@@ -69,24 +69,38 @@ Cluster – Integrating with Apache Spark.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Illustrate the different data elements and able to identify data operations needed for problems (K2)
-- Explain the needs of differnet data models for desiging big data information system (K3)
-- Build a data model to suit the characteristics of data using Data lake in teams (K3) 
-- Apply Big Data Management System for building a system using Key-Value stores and Graph Databases in teams. (K3)
-- Build a new information system using Document based and columnar models in teams, demonstrate and write report on the work. (K3) 
+After the completion of this course, students will be able to 
+1. Illustrate the different data elements and able to identify data
+   operations needed for problems (K2)
+2. Explain the needs of differnet data models for desiging big data
+   information system (K3)
+3. Build a data model to suit the characteristics of data using Data
+   lake in teams (K3)
+4. Apply Big Data Management System for building a system using
+   Key-Value stores and Graph Databases in teams (K3)
+5. Build a new information system using Document based and columnar
+   models in teams, demonstrate and write report on the work (K3).
   
 ** TEXT BOOKS
-1. James Lee , Tao Wei , Suresh Kumar Mukhiya, "Hands-On Big Data Modeling", Packt Publishers, 2018.(Unit 1 & Unit 2)
-2. Bill Inmon, "Data Lake Architecture: Designing the data lake and avoiding the garbage dump", 1st Edition, Technics Publications, 2016.(Unit 3)
-3. Shannon Bradshaw, Eoin Brazil, Kristina Chodorow, "MongoDB: The Definitive Guide", 3rd Edition, 2019.(Unit 5)
+1. James Lee, Tao Wei, Suresh Kumar Mukhiya, ``Hands-On Big Data
+   Modeling'', Packt Publishers, 2018 (Unit 1 & Unit 2).
+2. Bill Inmon, ``Data Lake Architecture: Designing the Data Lake and
+   Avoiding the Garbage Dump'', 1st Edition, Technics Publications,
+   2016 (Unit 3).
+3. Shannon Bradshaw, Eoin Brazil, Kristina Chodorow, ``MongoDB: The
+   Definitive Guide'', 3rd Edition, 2019 (Unit 5).
 
 ** REFERENCES
-1. Kim H Pries, Robert Dunnigan, "Big Data Analytics: A Practical Guide for Managers", CRC Press, 2015.
-2. Vinoo Das, "Learning Redis", Packt Publications, 2015.(Unit 4)
-3. Jerome Baton; Rik Van Bruggen, "Learning Neo4j 3.x", 2nd Edition, Packt Publishers, 2017.(Unit 4)
-4. Aaron Ploetz , Tejaswi Malepati , Nishant Neeraj, "Mastering Apache Cassandra 3.x", 3rd Edition, Packt Publishers, 2018.(Unit 5)
-5. Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkin, "MongoDB in Action", 2nd Edition, Manning Publications, 2016.(Unit 5)
+1. Kim H Pries, Robert Dunnigan, ``Big Data Analytics: A Practical
+   Guide for Managers'', CRC Press, 2015.
+2. Vinoo Das, ``Learning Redis'', Packt Publications, 2015.(Unit 4)
+3. Jerome Baton, Rik Van Bruggen, ``Learning Neo4j 3.x'', 2nd Edition,
+   Packt Publishers, 2017 (Unit 4)
+4. Aaron Ploetz, Tejaswi Malepati, Nishant Neeraj, ``Mastering Apache
+   Cassandra 3.x'', 3rd Edition, Packt Publishers, 2018 (Unit 5).
+5. Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim
+   Hawkin, ``MongoDB in Action'', 2nd Edition, Manning Publications,
+   2016 (Unit 5).
 
 
 ** CO TO PO/PSO MAPPING

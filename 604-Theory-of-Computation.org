@@ -70,22 +70,30 @@ machines -- Post's Correspondence Problem (PCP).
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Solve the mathematical proofs related to compuation and Construct finite automata for the given language (K3)
-- Analyze the relationship between Finite Automata and regular expression (K4)
-- Distinguish the type of grammar, relationship between language to confext free grammar and construction of PDA for the CFG (K4)
-- Constuct Turing machine for the given Language (K3)
-- Explain the Decidability or Undecidability of various problems and make use of it (K3).
+After the completion of this course, students will be able to 
+1. Solve the mathematical proofs related to compuation and Construct
+   finite automata for the given language (K3)
+2. Analyze the relationship between Finite Automata and regular
+   expression (K4)
+3. Distinguish the type of grammar, relationship between language to
+   confext free grammar and construction of PDA for the CFG (K4)
+4. Constuct Turing machine for the given Language (K3)
+5. Explain the Decidability or Undecidability of various problems and
+   make use of it (K3).
 # - Design a suitable model for the given application (K6)
 
 ** TEXT BOOKS 
-1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata    Theory, Languages and Computations'', Pearson Education, 3rd
+1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata
+   Theory, Languages and Computations'', Pearson Education, 3rd
    Edition, 2008.
 
 ** REFERENCES
-1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the Theory of Computation'', Prentice Hall of India, 2nd Edition, 2003.
-2. Peter Linz, ``An Introduction to Formal Language and Automata'', Narosa Publishers, 3rd Edition, 2002.
-3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science -- Automata, Languages and Computation'', Prentice Hall of India, 3rd
+1. Harry R Lewis, Christos H Papadimitriou, ``Elements of the Theory
+   of Computation'', Prentice Hall of India, 2nd Edition, 2003.
+2. Peter Linz, ``An Introduction to Formal Language and Automata'',
+   Narosa Publishers, 3rd Edition, 2002.
+3. Mishra K L P, Chandrasekaran N, ``Theory of Computer Science --
+   Automata, Languages and Computation'', Prentice Hall of India, 3rd
    Edition, 2004.
 
 ** CO TO PO/PSO MAPPING

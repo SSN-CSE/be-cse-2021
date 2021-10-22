@@ -21,7 +21,7 @@
 - To write HDL code for combinational and sequential circuits.
 
 {{{unit}}}
-|UNIT I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
+| UNIT I | BOOLEAN ALGEBRA AND LOGIC GATES | 9 |
 Number Systems -- Arithmetic Operations -- Binary Codes-- Boolean
 Algebra and Logic Gates -- Theorems and Properties of Boolean Algebra
 -- Boolean Functions -- Canonical and Standard Forms -- Simplification
@@ -29,7 +29,7 @@ of Boolean Functions using Karnaugh Map -- Logic Gates – NAND and NOR
 Implementations.
 
 {{{unit}}}
-|UNIT II | COMBINATIONAL LOGIC | 9 |
+| UNIT II | COMBINATIONAL LOGIC | 9 |
 Combinational Circuits -- Analysis and Design Procedures -- Binary
 Adder--Subtractor -- Decimal Adder -- Binary Multiplier -- Magnitude
 Comparator -- Decoders -- Encoders -- Multiplexers -- Introduction to
@@ -37,20 +37,20 @@ HDL -- HDL Models of Combinational circuits.
 
 
 {{{unit}}}
-|UNIT III | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
+| UNIT III | SYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 Sequential Circuits -- Storage Elements: Latches , Flip--Flops;
 Analysis of Clocked Sequential Circuits -- State Reduction and
 Assignment -- Design Procedure -- Registers and Counters -- HDL Models
 of Sequential Circuits.
 
 {{{unit}}}
-|UNIT IV | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
+| UNIT IV | ASYNCHRONOUS SEQUENTIAL LOGIC | 9 |
 Analysis and Design of Asynchronous Sequential Circuits -- Reduction
 of State and Flow Tables -- Race-free State Assignment -- Hazards.
 
 
 {{{unit}}}
-|UNIT V | MEMORY AND PROGRAMMABLE LOGIC | 9 |
+| UNIT V | MEMORY AND PROGRAMMABLE LOGIC | 9 |
 RAM -- Memory Decoding -- Error Detection and Correction -- ROM --
 Programmable Logic Array -- Programmable Array Logic -- Sequential
 Programmable Devices.
@@ -58,14 +58,14 @@ Programmable Devices.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Solve Boolean functions using KMap (K3)
-- Analyze and construct Combinational Circuits (K4)
-- Analyze and construct Synchronous Sequential Circuits (K4)
-- Analyze and construct Asynchronous Sequential Circuits (K4)
-- Build various memories and Boolean functions using
-  Programmable Logic Devices (K3)
-- Build a digital system in teams by applying best practices of system design (K3) 
+After the completion of this course, students will be able to
+1. Solve Boolean functions using KMap (K3)
+2. Analyze and construct Combinational Circuits (K4)
+3. Analyze and construct Synchronous Sequential Circuits (K4)
+4. Analyze and construct Asynchronous Sequential Circuits (K4)
+5. Build various memories and Boolean functions using
+   Programmable Logic Devices (K3)
+6. Build a digital system in teams by applying best practices of system design (K3) 
 
 ** TEXT BOOKS
 1. Morris R Mano, Michael D Ciletti, ``Digital Design: With an

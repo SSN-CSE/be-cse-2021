@@ -68,21 +68,31 @@ Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -
 #+end_comment
 
 ** COURSE OUTCOMES
-Upon completion of the course, the student should be able to:
-- Identity the traditional configuration principles both thoery and practically (K3)
-- Develop a microservice (K3)
-- Build a container and deploy a  microservice (K3)
-- Explain the networking concepts in container (K2)
-- Choose the configutation features using Kubernetes and Docker swarm (K3).
+Upon completion of the course, the student should be able to
+1. Identity the traditional configuration principles both thoery and
+   practically (K3)
+2. Develop a microservice (K3)
+3. Build a container and deploy a  microservice (K3)
+4. Explain the networking concepts in container (K2)
+5. Choose the configutation features using Kubernetes and Docker swarm (K3).
       
 ** TEXT BOOKS
-1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert guidance for IT service managers and practitioners``, Revised edition,  BCS Learning and Development Ltd,   UK, 2014.
-2. Parminder Singh Kocher Boston, Microservices and Containers, Addison-Wesley, 2018.
-3. Michael Hausenblas, Docker Networking and Service Discovery, O'Reilly Publication, 2016.
+1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert
+   guidance for IT service managers and practitioners``, Revised
+   edition, BCS Learning and Development Ltd, UK, 2014.
+2. Parminder Singh Kocher Boston, ``Microservices and Containers'',
+   Addison-Wesley, 2018.
+3. Michael Hausenblas, ``Docker Networking and Service Discovery'',
+   O'Reilly Publication, 2016.
+
 ** REFERENCES
-1.  Thomas Uphill, Mastering Puppet, Second Edition,PACKT Publishing, 2016
-2.  Scott Coulton, Puppet for Containerization,PACKT Publishing, 2016 
-3.  Cesar de la Torre, Bill Wagner, Mike Rouses, .NET Microservices: Architecture for Containerized .NET Applications, Microsoft Corporation, V5.) Edition, 2020. 
+1. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
+   Publishing, 2016
+2. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,
+   2016
+3. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
+   Architecture for Containerized .NET Applications'', Microsoft
+   Corporation, V5.) Edition, 2020.
 
 
 ** CO TO PO/PSO MAPPING 

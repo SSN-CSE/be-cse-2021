@@ -68,17 +68,17 @@ Traditional applications -- Electronic mail (SMTP, POP3, IMAP, MIME)
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Describe the principles, design, terminology and concepts of the
-  network models (K2)
-- Select the protocols of data link layer and apply error control
-  mechanisms (K3)
-- Choose the core functions of network layer protocols and apply
-  them for data communication (K3)
-- Select the  Transport Layer Protocols suitable for transmission of data.
-  (K3)
-- Illustrate the Application Layer Protocols and their basic
-  functionalities (K2).
+After the completion of this course, students will be able to 
+1. Describe the principles, design, terminology and concepts of the
+   network models (K2)
+2. Select the protocols of data link layer and apply error control
+   mechanisms (K3)
+3. Choose the core functions of network layer protocols and apply
+   them for data communication (K3)
+4. Select the  Transport Layer Protocols suitable for transmission of data.
+   (K3)
+5. Illustrate the Application Layer Protocols and their basic
+   functionalities (K2).
 
 ** TEXT BOOKS 
 1. Behrouz A Forouzan, ``Data Communications and Networking'', 5th

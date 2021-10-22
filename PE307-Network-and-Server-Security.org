@@ -77,12 +77,12 @@ Server-Farm Design Alternative -- Management Network.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Summarize the essentials of computer security (K2) 
-- Explain the various applications of network security (K2) 
-- Outline the essentials of security practices and system security (K2)
-- Explain the security aspects in designing a datacenter (K2) 
-- Design the security protocols for the infrastructure (K3)
+After the completion of this course, students will be able to 
+1. Summarize the essentials of computer security (K2) 
+2. Explain the various applications of network security (K2) 
+3. Outline the essentials of security practices and system security (K2)
+4. Explain the security aspects in designing a datacenter (K2) 
+5. Design the security protocols for the infrastructure (K3).
 
 ** TEXT BOOKS
 1. William Stallings, ``Network Security Essentials: Applications and

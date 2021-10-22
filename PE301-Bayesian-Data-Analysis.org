@@ -63,20 +63,21 @@ Metropolis-Hastings Algorithm and Gibbs Sampler.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Summarize the basics of theory, machine learning and statistics(K2)
-- Apply One-parameter model to develop a system (K3)
-- Analysing data using hierarchical model (K4)
-- Compare non-bayesian model with bayesian model (K4)
-- Apply various Bayesian computation techiniques to solve a problem (K3)
-- Solve a real time problem using any bayesian approach with clear documentation (K4)
-
+After the completion of this course, students will be able to 
+1. Summarize the basics of theory, machine learning and statistics
+   (K2)
+2. Apply One-parameter model to develop a system (K3)
+3. Analysing data using hierarchical model (K4)
+4. Compare non-bayesian model with bayesian model (K4)
+5. Apply various Bayesian computation techiniques to solve a problem
+   (K3)
+6. Solve a real time problem using any bayesian approach with clear
+   documentation (K4).
 
       
 ** TEXT BOOKS
 1. Peter D Hoff, ``A first course in Bayesian Statistical Methods'',
    Springer, 2009.
-
 
 ** REFERENCES
 1. Andrew Gelman, John B Carlin, Hal S. Stern HS, David B Dunson, Aki

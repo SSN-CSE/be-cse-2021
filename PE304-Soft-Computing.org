@@ -61,41 +61,61 @@ Adaptive Networks –- Neuro Fuzzy Spectrum.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-
-- Utilize fuzzy logic for solving real world problems. (K3)
-- Demonstrate the use of neural networks algorithms in solving computational problems. (K2)
-- Make use of derivative based optimization techniques. (K3)
-- Explain genetic algorithms and evolutionary optimization. (K2)
-- Analyse and compare neuro-fuzzy hybrid models for solving computational problems. (K4)
+After the completion of this course, students will be able to 
+1. Utilize fuzzy logic for solving real world problems (K3)
+2. Demonstrate the use of neural networks algorithms in solving computational problems (K2)
+3. Make use of derivative based optimization techniques (K3)
+4. Explain genetic algorithms and evolutionary optimization (K2)
+5. Analyse and compare neuro-fuzzy hybrid models for solving
+   computational problems (K4)
 
  
 ** TEXT BOOKS
-1.	J.S.R.Jang, C.T. Sun and E.Mizutani, ``Neuro-Fuzzy and Soft Computing'', PHI / Pearson Education 2004. 
-
+1. J S R Jang, C T Sun, E Mizutani, ``Neuro-Fuzzy and Soft
+   Computing'', PHI / Pearson Education 2004.
 
 ** REFERENCES
-1.	S.Rajasekaran and G.A.Vijayalakshmi Pai, ``Neural Networks, Fuzzy Logic and Genetic Algorithm: Synthesis & Applications'', Prentice-Hall of India Pvt. Ltd., 2006. 
-2.	Timothy J.Ross, ``Fuzzy Logic with Engineering Applications'', McGraw-Hill, International Editions, Electrical Engineering Series, Singapore, 1997.
-3.	Davis E.Goldberg, ``Genetic Algorithms: Search, Optimization and Machine Learning'', Addison Wesley, N.Y., 1989.
-4.	Samir Roy, ``Introduction to Softcomputing : NeuroFuzzy and Genetic Algorithms'', First edition, Pearson Publishers, 2015.
-5.	R.Eberhart, P.Simpson and R.Dobbins, ``Computational Intelligence - PC Tools'', AP Professional, Boston. 1996.
-6.	Stamatios V. Kartalopoulos, ``Understanding Neural Networks and Fuzzy Logic Basic concepts & Applications'', IEEE Press, PHI, New Delhi, 2004.
-7.	Vojislav Keeman, ``Learning & Soft Computing Support Vector Machines, Neural Networks, and Fuzzy Logic Models'', Pearson Education, New Delhi, 2006.
+1. S Rajasekaran, G A Vijayalakshmi Pai, ``Neural Networks, Fuzzy
+   Logic and Genetic Algorithm: Synthesis & Applications'',
+   Prentice-Hall of India Pvt. Ltd., 2006.
+2. Timothy J Ross, ``Fuzzy Logic with Engineering Applications'',
+   McGraw-Hill, International Editions, Electrical Engineering Series,
+   Singapore, 1997.
+3. Davis E Goldberg, ``Genetic Algorithms: Search, Optimization and
+   Machine Learning'', Addison Wesley, N.Y., 1989.
+4. Samir Roy, ``Introduction to Softcomputing : NeuroFuzzy and Genetic Algorithms'', First edition, Pearson Publishers, 2015.
+5. R Eberhart, P Simpson, R Dobbins, ``Computational Intelligence - PC
+   Tools'', AP Professional, Boston. 1996.
+6. Stamatios V Kartalopoulos, ``Understanding Neural Networks and
+   Fuzzy Logic Basic concepts & Applications'', IEEE Press, PHI, New
+   Delhi, 2004.
+7. Vojislav Keeman, ``Learning & Soft Computing Support Vector
+   Machines, Neural Networks, and Fuzzy Logic Models'', Pearson
+   Education, New Delhi, 2006.
 
 ** LIST of PROJECTS
-1.	Ant Colony Optimization to search best route in Travelling Sales Person Problem.
-2.	Ant Colony Optimization approach for edge detection in image.
-3.	Intelligent fuzzy based washing time prediction with parameter dependency.
-4.	Artficial Neural Network(ANN) Design for different Coin Recognition System.
-5.	Artificial Intelligence Based Fuzzified Anti Lock Breaking System(ABS) for smart vehicle.
-6.	Fuzzy system designing for detection of edge in image.
-7.	Any type of Cancer risk classification.
-8.	Fuzzy Logic in washing machine.
-9.	Artficial Intelligence based facial recognition software for social media “Facebook”.
-10.	Artificial Neural Networks in Cryptography(Hint: Simple Recurrent structure like Jordan Network, trained by the back-propagation algorithm).
-11.	Automatic text summarization (Hint: Apply deep neural networks).
-12.	Human activity recognition (Hint: implement a neural network-based model to detect human activities – for example, sitting on a chair, falling, picking something up, opening or closing a door, etc. This is a video classification project, which will include combining a series of images and classifying the action.)
+1. Intelligent fuzzy based washing time prediction with parameter
+   dependency.
+2. Ant Colony Optimization to search best route in Travelling Sales Person Problem.
+3. Ant Colony Optimization approach for edge detection in image.
+4. Artficial Neural Network(ANN) Design for different Coin Recognition
+   System.
+5. Artificial Intelligence Based Fuzzified Anti Lock Breaking
+   System(ABS) for smart vehicle.
+6. Fuzzy system designing for detection of edge in image.
+7. Any type of Cancer risk classification.
+8. Fuzzy Logic in washing machine.
+9. Artficial Intelligence based facial recognition software for social
+   media “Facebook”.
+10. Artificial Neural Networks in Cryptography(Hint: Simple Recurrent
+    structure like Jordan Network, trained by the back-propagation
+    algorithm).
+11. Automatic text summarization (Hint: Apply deep neural networks).
+12. Human activity recognition (Hint: implement a neural network-based
+    model to detect human activities – for example, sitting on a
+    chair, falling, picking something up, opening or closing a door,
+    etc. This is a video classification project, which will include
+    combining a series of images and classifying the action.)
 
 ** CO TO PO/PSO MAPPING
 #+NAME: co-po-mapping

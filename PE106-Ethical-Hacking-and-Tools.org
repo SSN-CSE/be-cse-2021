@@ -56,12 +56,12 @@ Introduction – Security Assessments – Types of Penetration testing – Phase
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Describe Hacking attacks and protection tools.(K2)
-- Examine the computer against a variety of security attacks.(K2)
-- Illustrate the use of safe techniques for System security.(K3) 
-- Develop programs for security accomplishment.(K3)
-- Experiment the different testing tools.(K3)
+After the completion of this course, students will be able to 
+1. Describe Hacking attacks and protection tools (K2)
+2. Examine the computer against a variety of security attacks (K2)
+3. Illustrate the use of safe techniques for System security (K3) 
+4. Develop programs for security accomplishment (K3)
+5. Experiment the different testing tools (K3).
 
 
 ** TEXT BOOKS

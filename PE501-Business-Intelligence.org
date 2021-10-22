@@ -48,30 +48,33 @@ Tableau - Oracle BI - IBM Cognos Analytics.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Understanding various types of business analytics (K2)
-- Understanding business intelligence concepts and applying it for data modeling (K3)
-- Understanding and applying statistical tests in testing hypothesis on data (K3)
-- Analyze data by utilizing various data mining approaches (K4)
-- Build applications using business analytics tools (K4)
+After the completion of this course, students will be able to 
+1. Understanding various types of business analytics (K2)
+2. Understanding business intelligence concepts and applying it for
+   data modeling (K3)
+3. Understanding and applying statistical tests in testing hypothesis
+   on data (K3)
+4. Analyze data by utilizing various data mining approaches (K4)
+5. Build applications using business analytics tools (K4).
  
 ** TEXT BOOKS
-1. R N Prasad, Seema Acharya, "Fundamentals of Business Analytics",
+1. R N Prasad, Seema Acharya, ``Fundamentals of Business Analytics'',
    2nd Edition published by Wiley 2016.
-2. U Dinesh Kumar, " Business Analytics: The Science of Data - Driven
-   Decision Making", published by Wiley 2017
+2. U Dinesh Kumar, ``Business Analytics: The Science of Data-Driven
+   Decision Making'', published by Wiley 2017
 
 ** REFERENCES
-1. Philipp K. Janert, "Data Analysis with Open Source Tools",
+1. Philipp K. Janert, ``Data Analysis with Open Source Tools'',
    O'Reilley, 2010.
-2. Wes McKinney, "Python for Data Analysis", O'Reilley, 2012.
-3. Robert Nisbelt, John Elder, and Gary Miner, "Handbook of
-   statistical analysis and data mining applications", Academic
+2. Wes McKinney, ``Python for Data Analysis'', O'Reilley, 2012.
+3. Robert Nisbelt, John Elder, and Gary Miner, ``Handbook of
+   Statistical Analysis and Data Mining Applications'', Academic
    Press, 2009.
-4. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, "Big Data,
+4. Michael Minelli, Michelle Chambers, and Ambiga Dhiraj, ``Big Data,
    Big Analytics: Emerging Business Intelligence and Analytic Trends
-   for Today's Businesses", Wiley, 2013.
-5. David Ruppert, "Statistics and Data Analysis for Financial Engineering", Springer, 2011. 
+   for Today's Businesses'', Wiley, 2013.
+5. David Ruppert, ``Statistics and Data Analysis for Financial
+   Engineering'', Springer, 2011.
 
 ** CO TO PO/PSO MAPPING
 #+NAME: co-po-mapping

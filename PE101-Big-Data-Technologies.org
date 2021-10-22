@@ -61,26 +61,39 @@ Machine Learning using Apache Mahout -- Clustering & Classification
 Algorithms in Mahout -- Extending Spark with H2O -- H2O
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to: 
-- Illustrate big data analytics and related technologies. (K2)
-- Build distributed data processing applicatins using Apache Hadoop and Spark. (K3)
-- Develop a streaming application using Apache Spark in teams. (K3)
-- Experiment with Apache Kafka for processing stream data. (K3)
-- Develop an applicatin using Big Data Frameworks in teams applying best practices, demonstrate and write report on the work. (K3)
+Upon the completion of the course the students should be able to
+1. Illustrate big data analytics and related technologies (K2)
+2. Build distributed data processing applicatins using Apache Hadoop
+   and Spark (K3)
+3. Develop a streaming application using Apache Spark in teams (K3)
+4. Experiment with Apache Kafka for processing stream data (K3)
+5. Develop an applicatin using Big Data Frameworks in teams applying
+   best practices, demonstrate and write report on the work (K3).
 
 ** TEXT BOOKS
-1. Mike Frampton, "Mastering Apache Spark", Packt Publishers, 2015.(Init 2)
-2. Krishna Sankar, " Fast Data Processing using Spark 2", 3rd Edition, Packt Publishers, 2016. (Unit 2)
-3. Neha Narkhede, Gwen Shapira, and Todd Palino,"Kafka - Definitive Guide", 2017.(Unit 4)
+1. Mike Frampton, ``Mastering Apache Spark'', Packt Publishers,
+   2015.(Init 2)
+2. Krishna Sankar, ``Fast Data Processing using Spark 2'', 3rd Edition,
+   Packt Publishers, 2016. (Unit 2)
+3. Neha Narkhede, Gwen Shapira, and Todd Palino, ``Kafka -- Definitive
+   Guide'', 2017. (Unit 4)
 
 ** REFERENCES
-1. Gerald Maas & Francois Gorillot, "Stream Processing with Apache Spark", O'Reilly Media, 2019.(Unit 3)
-2. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.(Unit 2)
-3. William P. Bejeck Jr. "Kafka Streams in Action", Manning Publications, 2018. (Unit 4)
-4. Jayani Withanawasam, "Apache Mahout Essentials", Packt Publishers, 2015 (Unit 5)
-5. Steve Hoffman, "Apache Flume: Distributed Log Collection for Hadoop", 2nd Edition, Packt Publishers, 2015 (Unit 5)
-6. Flavio Junqueira, Benjamin Reed, "ZooKeeper: Distributed Process Co-ordination Paperback", O'Reilly Media, 2014 (Unit 5)
-7. Kathleen Ting, Jarek Jarcec Cecho, "Apache Sqoop Cookbook: Unlocking Hadoop for Your Relational Database", O'Reilly Media, 2013. (Unit 2)
+1. Gerald Maas,  Francois Gorillot, ``Stream Processing with Apache
+   Spark'', O'Reilly Media, 2019. (Unit 3)
+2. Gaurav Vaish, ``Getting Started with NoSQL'', Packt Publishing
+   Ltd, 2013. (Unit 2)
+3. William P Bejeck Jr, ``Kafka Streams in Action'', Manning
+   Publications, 2018. (Unit 4)
+4. Jayani Withanawasam, ``Apache Mahout Essentials'', Packt
+   Publishers, 2015. (Unit 5)
+5. Steve Hoffman, ``Apache Flume: Distributed Log Collection for
+   Hadoop'', 2nd Edition, Packt Publishers, 2015. (Unit 5)
+6. Flavio Junqueira, Benjamin Reed, ``ZooKeeper: Distributed Process
+   Co-ordination Paperback'', O'Reilly Media, 2014 (Unit 5)
+7. Kathleen Ting, Jarek Jarcec Cecho, ``Apache Sqoop Cookbook:
+   Unlocking Hadoop for Your Relational Database'', O'Reilly
+   Media, 2013. (Unit 2)
 
 
 ** CO TO PO/PSO MAPPING 

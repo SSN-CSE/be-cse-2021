@@ -97,16 +97,16 @@ Robotic Perception -- Planning to move -- Application Domains.
 \hfill *Total Periods: 75*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Identify different types of environments and agents (K2)
-- Identify, formulate and solve AI problems using search techniques
-  (K3)
-- Express knowledge using logic and solve AI problems using inference
-  in logic (K3)
-- Express uncertain knowledge using probability and solve AI problems
-  using probabilistic reasoning (K3)
-- Apply AI for Computer Vision and Robotics (K2)
-- Develop AI applications using search and inference techniques (K4).
+After the completion of this course, students will be able to
+1. Identify different types of environments and agents (K2)
+2. Identify, formulate and solve AI problems using search techniques
+   (K3)
+3. Express knowledge using logic and solve AI problems using inference
+   in logic (K3)
+4. Express uncertain knowledge using probability and solve AI problems
+   using probabilistic reasoning (K3)
+5. Apply AI for Computer Vision and Robotics (K2)
+6. Develop AI applications using search and inference techniques (K4).
   
 ** TEXT BOOKS
 1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern

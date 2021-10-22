@@ -38,12 +38,12 @@ Application for ReactJS and NodeJS was split into 2 programs
   Program on javascript framework has been divided into 2 parts: one with ReactJS and the other with NodeJS
 #+END_COMMENT
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Build website using HTML5 and CSS3 (K3)
-- Develop multi-tier web application using Servlets in team (K4)
-- Construct responsive web applications using AJAX (K3)
-- Make use of ReactJS framework to build front end of web application (K3)
-- Make use of NodeJS framework to build back end of web application (K3)
+After the completion of this course, students will be able to 
+1. Build website using HTML5 and CSS3 (K3)
+2. Develop multi-tier web application using Servlets in team (K4)
+3. Construct responsive web applications using AJAX (K3)
+4. Make use of ReactJS framework to build front end of web application (K3)
+5. Make use of NodeJS framework to build back end of web application (K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\

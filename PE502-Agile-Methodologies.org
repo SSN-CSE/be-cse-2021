@@ -103,30 +103,29 @@ Testing is added in addition to quality in anna university syllabus
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to: 
-- Explain evolutionary, iterative and adaptive development methods (K2)
-- Apply agile software process in requirement engineering (K3)
-- Outline agile methods for project planning and developement (K2)
-- Choose agile methods for software design (K3)
-- Apply agile based testing and quality assurance (K3)
-- Select and build a software project to solve a real world problem in teams by applying best practices of Agile methods (K5).
+Upon the completion of the course the students should be able to 
+1. Explain evolutionary, iterative and adaptive development methods (K2)
+2. Apply agile software process in requirement engineering (K3)
+3. Outline agile methods for project planning and developement (K2)
+4. Choose agile methods for software design (K3)
+5. Apply agile based testing and quality assurance (K3)
+6. Select and build a software project to solve a real world problem
+   in teams by applying best practices of Agile methods (K5).
 
 #+begin_comment
 modified on 20-07-2021 :  
 co6:  Build a software project to solve a real world problem in teams by applying best practices of Agile methods (K5).
 modified on 20-07-2021 :
 co6: Select and build a software project to solve a real world problem in teams by applying best practices of Agile methods (K5).
-
 #+end_comment
-
 
 	
 ** REFERENCES
 1. Hazza, Dubinsky, ``Agile Software Engineering, Series:
    Undergraduate Topics in Computer Science'',
    Springer, 2009. (Unit 5)
-2. Chetankumar Patel, Muthu Ramachandran, ``Story Card Maturity
-   Model (SMM): A Process Improvement Framework for Agile Requirements
+2. Chetankumar Patel, Muthu Ramachandran, ``Story Card Maturity Model
+   (SMM): A Process Improvement Framework for Agile Requirements
    Engineering Practices'', Journal of Software, Academy Publishers,
    Vol 4, No 5, 422-435, Jul 2009. (Unit 5)
 3. Kevin C Desouza, ``Agile Information Systems: Conceptualization,

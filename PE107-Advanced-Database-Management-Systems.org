@@ -25,12 +25,12 @@ The 4th and 5th units are new units.
 #+end_comment
 
 ** COURSE OBJECTIVES
-The student should be able to:
-- To acquire knowledge on parallel and distributed databases and their applications 
-- To study the usage and applications of Object and Object Relational Databases
-- To learn about XML Database
-- To acquire knowledge in intelligent Databases
-- To learn the concepts of emerging technologies
+The student should be able to
+1. To acquire knowledge on parallel and distributed databases and their applications 
+2. To study the usage and applications of Object and Object Relational Databases
+3. To learn about XML Database
+4. To acquire knowledge in intelligent Databases
+5. To learn the concepts of emerging technologies
 
 {{{unit}}}
 |UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
@@ -99,16 +99,16 @@ After the completion of this course, students will be able to:
    Third Edition, Pearson Education, 2007.
 
 ** REFERENCES
-1. Vijay Kumar, "Mobile Database Systems", Wiley, 2016.
+1. Vijay Kumar, ``Mobile Database Systems'', Wiley, 2016.
 2. Henry F Korth, Abraham Silberschatz, S Sudharshan, ``Database
    System Concepts'', 6th Edition, McGraw Hill, 2011.
 3. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T
    Snodgrass, V S Subrahmanian, Roberto Zicari, ``Advanced Database
    Systems'', Morgan Kaufmann publishers, 2006
-4. Stefano Ceri, Giuseppe Pelagatti, "Distributed Databases: 
-   Principles and Systems", Mc-Graw Hill,2017.
-5. M. Tamer Özsu, Patrick Valduriez, "Principles of Distributed 
-   Database Systems", Second Edition, Springer
+4. Stefano Ceri, Giuseppe Pelagatti, ``Distributed Databases: 
+   Principles and Systems'', Mc-Graw Hill,2017.
+5. M. Tamer Özsu, Patrick Valduriez, ``Principles of Distributed
+   Database Systems'', Second Edition, Springer
 
 
 ** CO TO PO/PSO MAPPING

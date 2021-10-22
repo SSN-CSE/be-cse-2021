@@ -51,12 +51,14 @@ Justifications for comments given by Mr. R.Pradeep -
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Implement Socket programming (K3)
-- Implement the various application protocols using TCP and UDP. (K3)
-- Apply the functionalities of data link layer.(K3)
-- Implement various network protocols and Use simulation tools to analyze its performance.(K3)
-- Compare and Analyse the performance of different transport layer protocols (K4) 
+After the completion of this course, students will be able to
+1. Implement Socket programming (K3)
+2. Implement the various application protocols using TCP and UDP (K3)
+3. Apply the functionalities of data link layer (K3)
+4. Implement various network protocols and Use simulation tools to
+   analyze its performance (K3)
+5. Compare and Analyse the performance of different transport layer
+   protocols (K4).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\

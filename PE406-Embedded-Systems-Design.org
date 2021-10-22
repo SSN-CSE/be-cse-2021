@@ -70,12 +70,13 @@ a hardware timeout.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the architecture and programming of ARM processor (K2)
-- Summarize the concepts of embedded systems (K2)
-- Build basic applications using peripherals and sensors (K3)
-- Apply the system design techniques to develop firmware (K3)
-- Make use of C programming for solving the problems of embedded systems (K3).
+After the completion of this course, students will be able to 
+1. Explain the architecture and programming of ARM processor (K2)
+2. Summarize the concepts of embedded systems (K2)
+3. Build basic applications using peripherals and sensors (K3)
+4. Apply the system design techniques to develop firmware (K3)
+5. Make use of C programming for solving the problems of embedded
+   systems (K3).
 
 ** TEXT BOOKS
 1. Marilyn Wolf, ``Computers as Components -- Principles of Embedded

@@ -19,31 +19,61 @@
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO BIG DATA | 7 |
-Introduction -- Understanding Big Data --  Big Data: Benifitting -- Managing -- Organizing and Analyzing Big Data: Learning and Analytics; Technology Challenges for Big Data.
+Introduction -- Understanding Big Data -- Big Data: Benifitting --
+Managing -- Organizing and Analyzing Big Data: Learning and Analytics;
+Technology Challenges for Big Data.
 
 {{{unit}}}
 | UNIT II | HDFS | 9 |
-Introduction -- Distributed File System -- Google File System -- HDFS Design Goals -- Using HDFS.
+Introduction -- Distributed File System -- Google File System -- HDFS
+Design Goals -- Using HDFS.
 
 {{{unit}}}
 | UNIT III | DATA PROCESSING USING MAPREDUCE | 10 |
-Introduction -- MapReduce Overview -- Working of MapReduce -- Programming -- Writing and Testing MapReduce Programs
+Introduction -- MapReduce Overview -- Working of MapReduce --
+Programming -- Writing and Testing MapReduce Programs
 
 {{{unit}}}
 | UNIT IV | NOSQL | 9 |
-Introduction to NoSQL -- Characteristics of NoSQL -- NoSQL Storage Types -- Advantages and Drawbacks - NoSQL Database Framework: Hive and HBase
+Introduction to NoSQL -- Characteristics of NoSQL -- NoSQL Storage
+Types -- Advantages and Drawbacks - NoSQL Database Framework: Hive and
+HBase
 
 {{{unit}}}
 | UNIT V | DATA ANALYSIS | 10 |
-Statistical  Methods: Regression modelling – Multivariate analysis;  Classification: SVM – Decision Trees; Linear Classifiers
+Statistical Methods: Regression modelling – Multivariate analysis;
+Classification: SVM – Decision Trees; Linear Classifiers
+
+\hfill *Theory Periods: 30*
+
+** SUGGESTIVE EXPERIMENTS
+- Hadoop
+    1. Applications using Map-Reduce programming (Examples: word count
+       / frequency programs / matrix multiplication)
+- R
+  1. Linear and logistic Regression (Loan prediction using Credit
+     approval dataset, Sales prediction using Bigmart dataset)
+  2. SVM / Decision tree classification techniques (Flower type
+     classification based on available attributes using Iris dataset,
+     Passengers survival classification using titanic dataset)
+  3. Clustering (Document categorization by multiclass techniques)
+  4. Visualize data using any plotting framework
+- Database
+  1. Application that stores data in Hbase (Sentiment analysis using
+     twitter dataset)
+
+\hfill *Practical Periods: 30*
+
+\hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to: 
-- Explore how to leverage the insights from big data analytics (K2)
-- Apply distributed computing for better storage of data (K3)
-- Develop applications using Hadoop related tools(K4)
-- Adapt database frameworks, Hive  and  Hbase for data  analytics(K3)
-- Solve applications using  statistical and data  analytic methods (K3)
+Upon the completion of the course the students should be able to 
+1. Explore how to leverage the insights from big data analytics (K2)
+2. Apply distributed computing for better storage of data (K3)
+3. Develop applications using Hadoop related tools (K4)
+4. Adapt database frameworks, Hive and Hbase for data analytics (K3)
+5. Solve applications using statistical and data analytic methods
+   (K3).
 
 ** TEXT BOOKS
 1. Parag Kulkarni, Sarang Joshi, "Big Data Anlytics", PHI Learning Pvt. Ltd, 2016.
@@ -55,24 +85,6 @@ Upon the completion of the course the students should be able to:
 3. Gaurav Vaish, "Getting Started with NoSQL",  Packt Publishing Ltd, 2013.
 4. E. Capriolo, D. Wampler, and J. Rutherglen, "Programming Hive", O'Reilly, 2012.
 5. Lars George, "HBase: The Definitive Guide", O'Reilly, 2011.
-
-** SUGGESTIVE EXPERIMENTS
--  Hadoop
-1. Applications using Map-Reduce programming (Examples: word count
-/ frequency programs / matrix  multiplication)
-
--  R
-1. Linear and logistic Regression (Loan prediction using Credit approval dataset, Sales prediction using  Bigmart  dataset)
-2. SVM / Decision tree classification techniques (Flower type classification based  on available attributes using  Iris dataset, Passengers survival classification using  titanic dataset)
-3. Clustering (Document categorization by multiclass techniques)
-4. Visualize  data  using  any plotting framework
-
-- Database
-1. Application that stores data  in Hbase (Sentiment analysis using  twitter dataset)
-
-
-\hfill *Total: 60*
-
 
 ** CO TO PO/PSO MAPPING 
 #+NAME: co-po-mapping

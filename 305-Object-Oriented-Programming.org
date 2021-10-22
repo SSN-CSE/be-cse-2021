@@ -32,8 +32,8 @@ Principles of OOP: Classes -- Objects -- Data hiding -- Data
 encapsulation -- Inheritance -- Polymorphism; Definition of Classes:
 Objects -- Methods -- Access specifiers -- Static and final classes
 and members; Object Construction and Destruction -- Fundamental
-programming structures in Java; Streams: Input--Output, String handling -- Examples in
-Java.
+programming structures in Java; Streams: Input--Output, String
+handling -- Examples in Java.
 
 #+begin_comment
 Retain 
@@ -47,12 +47,12 @@ Retain: Stream Input Output, Idea is to teach various streams to be used for inp
 #+end_comment
 
 {{{unit}}}
-| UNIT II | INHERITANCE 	 | 10 |
+| UNIT II | INHERITANCE | 10 |
 Inheritance: Definition -- Types of inheritance: Single -- Multilevel
--- Multiple -- Hierarchical; Subclass constructors --
-Interfaces in Java: Definition -- Implementation -- Extending
-interfaces -- Inheritance versus delegation -- Inheritance rules --
-Inner classes -- Examples in Java.
+-- Multiple -- Hierarchical; Subclass constructors -- Interfaces in
+Java: Definition -- Implementation -- Extending interfaces --
+Inheritance versus delegation -- Inheritance rules -- Inner classes --
+Examples in Java.
 
 #+begin_comment
 Retain 
@@ -66,7 +66,7 @@ Retain: Delegation Concept, Need to be taught without event handling
 #+end_comment
 
 {{{unit}}}
-| UNIT III | POLYMORPHISM AND EXCEPTION HANDLING	 | 7 |
+| UNIT III | POLYMORPHISM AND EXCEPTION HANDLING | 7 |
 Polymorphism: Method overloading and overriding -- Dynamic method
 dispatch; Exceptions: Hierarchy -- Built-in exceptions -- Creating own
 exception; Packages in Java -- Examples in Java.
@@ -81,7 +81,7 @@ Removal
 #+end_comment
 
 {{{unit}}}
-| UNIT IV | GENERIC TYPES AND METHODS	 | 9 |
+| UNIT IV | GENERIC TYPES AND METHODS | 9 |
 Definition and concepts: Generic classes and generic methods --
 Generic types -- Restrictions and limitations -- Inheritance rules for
 generic types -- Reflections -- Examples in Java.
@@ -94,11 +94,11 @@ Removal
 #+end_comment
 
 {{{unit}}}
-| UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS	 | 9 |
+| UNIT V | GENERIC COLLECTIONS FOR ADTS AND ALGORITHMS | 9 |
 Introduction to collections -- Collection Classes and Interfaces:
 Array list -- Linked list -- Queue -- Set -- Trees; Iterators for
-collections -- Map class -- Collection algorithms: Sorting -- Searching --
-User-defined algorithms -- Examples in Java.
+collections -- Map class -- Collection algorithms: Sorting --
+Searching -- User-defined algorithms -- Examples in Java.
 
 #+begin_comment
 Removal
@@ -113,13 +113,13 @@ Change:  Algorithms: Sorting– Searching – User defined algorithms changed to
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Make use of classes and objects for problem solving (K3)
-- Develop programs using inheritance and interfaces (K3)
-- Apply the concepts of polymorphism and exception handling (K3)
-- Build applications using generic programming (K3)
-- Apply the concepts of generic collections  (K3).
-- Select real world problems in teams by choosing suitable object oriented features and  applying best practices in programming  with a clear documentation  of algorithm and approach(K5).
+After the completion of this course, students will be able to 
+1. Make use of classes and objects for problem solving (K3)
+2. Develop programs using inheritance and interfaces (K3)
+3. Apply the concepts of polymorphism and exception handling (K3)
+4. Build applications using generic programming (K3)
+5. Apply the concepts of generic collections  (K3).
+6. Select real world problems in teams by choosing suitable object oriented features and  applying best practices in programming  with a clear documentation  of algorithm and approach(K5).
 
 #+begin_comment
 09.03.2021

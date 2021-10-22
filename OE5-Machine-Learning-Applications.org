@@ -86,12 +86,12 @@ hyperparameters; Introduction to Deep Learning.
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the basic concepts and types of machine learning (K2)
-- Demonstrate the various steps in developing a machine learning application (K2)
-- Apply various algorithms for classification and regression tasks (K3)
-- Apply tree and ensemble models for various problems (K3)
-- Apply the neural network algorithm for real world problems (K3).
+After the completion of this course, students will be able to 
+1. Explain the basic concepts and types of machine learning (K2)
+2. Demonstrate the various steps in developing a machine learning application (K2)
+3. Apply various algorithms for classification and regression tasks (K3)
+4. Apply tree and ensemble models for various problems (K3)
+5. Apply the neural network algorithm for real world problems (K3).
 
 # - Develop solutions using clustering and ensembling methods for machine learning tasks (K3)
 ** TEXT BOOKS

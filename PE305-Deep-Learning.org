@@ -100,19 +100,19 @@ Group Projects:
 
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the basics in deep neural networks (K2)
-- Apply Convolution Neural Network for image processing (K3)
-- Apply Recurrent Neural Network and its variants for text analysis (K3)
-- Apply model evaluation for various applications (K3)
-- Apply autoencoders and generative models for suitable applications (K3)
-- Develop a real world application using suitable deep neural networks by applying best practices in teams (K4)
+After the completion of this course, students will be able to 
+1. Explain the basics in deep neural networks (K2)
+2. Apply Convolution Neural Network for image processing (K3)
+3. Apply Recurrent Neural Network and its variants for text analysis (K3)
+4. Apply model evaluation for various applications (K3)
+5. Apply autoencoders and generative models for suitable applications (K3)
+6. Develop a real world application using suitable deep neural
+   networks by applying best practices in teams (K4).
 
 #+begin_comment
 Added the Group projects.
 Modified the Course outcomes.
 #+end_comment
-
 
 
 ** TEXT BOOKS

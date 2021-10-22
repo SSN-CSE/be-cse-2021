@@ -72,19 +72,19 @@ ARM processors.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Summarize the basic architecture, operation, programming of
-  microprocessor 8086 (K3)
-- Outline the design of basic and multiprocessor systems and their
-  bus timings (K2)
-- Build 8086 interfaces with memory, I/O and other peripheral
-  chips (K3)
-- Summarize the basic architecture and operation of microcontroller
-  8051 (K2)
-- Apply programming concepts to implement microcontroller interfaces
-  for different applications (K3).
-- Build a microprocessor based interface to solve a real world problem
-  in teams by applying best practices of system design (K3)
+After the completion of this course, students will be able to 
+1. Summarize the basic architecture, operation, programming of
+   microprocessor 8086 (K3)
+2. Outline the design of basic and multiprocessor systems and their
+   bus timings (K2)
+3. Build 8086 interfaces with memory, I/O and other peripheral
+   chips (K3)
+4. Summarize the basic architecture and operation of microcontroller
+   8051 (K2)
+5. Apply programming concepts to implement microcontroller interfaces
+   for different applications (K3)
+6. Build a microprocessor based interface to solve a real world
+   problem in teams by applying best practices of system design (K3).
 
 ** TEXT BOOKS
  1. Doughlas V Hall, ``Microprocessors and Interfacing, Programming

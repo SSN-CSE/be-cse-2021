@@ -49,12 +49,16 @@ CCC Feedback Committee Considerations
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Develop applications in Java using classes and methods(K3)
-- Test for inheritance and interface concepts while writing programs(K4)
-- Test for polymorphic methods and objects in Java programs (K4)
-- Develop applications using generic methods and generic programming(K3)
-- Select real-world problem in team by applying the appropriate features of object-oriented programming paradigm with best practices and document its methodology (K4).
+After the completion of this course, students will be able to 
+1. Develop applications in Java using classes and methods (K3)
+2. Test for inheritance and interface concepts while writing programs
+   (K4)
+3. Test for polymorphic methods and objects in Java programs (K4)
+4. Develop applications using generic methods and generic programming
+   (K3)
+5. Select real-world problem in team by applying the appropriate
+   features of object-oriented programming paradigm with best
+   practices and document its methodology (K4).
 
 #+begin_comment
 09.03.2021

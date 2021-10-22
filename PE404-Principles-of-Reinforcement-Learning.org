@@ -49,24 +49,30 @@ Human-level Video Game Play.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Illustrate the basics of reinforcement learning problem (K2)
-- Solve various problems using tabular solution methods (K3)
-- Apply the integrated tabular methods for problem solutions (K3)
-- Illustrate approximate solution methods for larger state space problems (K2)
-- Apply reinforcement learning techniques for various case studies (K3).
+After the completion of this course, students will be able to 
+1. Illustrate the basics of reinforcement learning problem (K2)
+2. Solve various problems using tabular solution methods (K3)
+3. Apply the integrated tabular methods for problem solutions (K3)
+4. Illustrate approximate solution methods for larger state space
+   problems (K2)
+5. Apply reinforcement learning techniques for various case studies
+   (K3).
 
 ** TEXT BOOKS
-1. Richard S. Sutton & Andrew G. Barto, ``Reinforcement Learning: An
+1. Richard S Sutton & Andrew G. Barto, ``Reinforcement Learning: An
    Introduction'', The MIT Press, 2nd Edition, 2018.
-2. Marco Wiering & Martijn van Otterlo, ``Reinforcement Learning
+2. Marco Wiering, Martijn van Otterlo, ``Reinforcement Learning
    State-of-the-Art'', Springer, 2012.
 
 ** REFERENCES
-1.  Boris Belousov, Hany Abdulsamad, Pascal Klink, Simone Parisi & Jan Peters, ``Reinforcement Learning Algorithms: Analysis and Applications'', Springer, 1st edition, 2021. 
-2.  Micheal Lanham, ``Hands-On Reinforcement Learning for Games'', Packt Publishing Ltd., 2020.
-3.  Taweh Beysolow II, ``Applied Reinforcement Learning with Python'', Apress, 2019.
-4.  Dimitri Bertsekas, ``Reinforcement Learning and Optimal Control'', Athena Scientific, 2019. 
+1.  Boris Belousov, Hany Abdulsamad, Pascal Klink, Simone Parisi & Jan
+   Peters, ``Reinforcement Learning Algorithms: Analysis and
+   Applications'', Springer, 1st edition, 2021.
+2.  Micheal Lanham, ``Hands-On Reinforcement Learning for Games'',
+   Packt Publishing Ltd., 2020.
+3.  Taweh Beysoloqw II, ``Applied Reinforcement Learning with Python'', Apress, 2019.
+4.  Dimitri Bertsekas, ``Reinforcement Learning and Optimal Control'',
+   Athena Scientific, 2019.
 
 ** CO TO PO/PSO MAPPING
 #+NAME: co-po-mapping 

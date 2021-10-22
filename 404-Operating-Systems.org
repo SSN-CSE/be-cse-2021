@@ -77,13 +77,13 @@ Android -- Introduction and architecture.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Outline the basic services and functionalities of operating systems (K2)
-- Analyze various scheduling algorithms, and understand the different
-  deadlock, prevention and avoidance schemes (K4)
-- Apply different memory management schemes (K3)
-- Apply various disk management schemes and illustrate the functionalities of file systems (K3)
-- Compare and contrast Linux, Windows and mobile operating systems (K2).
+After the completion of this course, students will be able to 
+1. Outline the basic services and functionalities of operating systems (K2)
+2. Analyze various scheduling algorithms, and understand the different
+   deadlock, prevention and avoidance schemes (K4)
+3. Apply different memory management schemes (K3)
+4. Apply various disk management schemes and illustrate the functionalities of file systems (K3)
+5. Compare and contrast Linux, Windows and mobile operating systems (K2).
 
 ** TEXT BOOKS
 1. Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, "Operating

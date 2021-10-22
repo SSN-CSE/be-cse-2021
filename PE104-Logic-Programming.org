@@ -82,12 +82,13 @@ Shell: Implementation -- Dealing with uncertainty;
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Apply propositional logic and predicate logic for knowledge representation (K3)
-- Apply different types of semantics for logic programming (K3)
-- Develop programs in PROLOG (K3)
-- Solve AI problems using search algorithms in PROLOG (K3)
-- Develop a simple Expert system shell in PROLOG (K3).
+After the completion of this course, students will be able to 
+1. Apply propositional logic and predicate logic for knowledge
+   representation (K3)
+2. Apply different types of semantics for logic programming (K3)
+3. Develop programs in PROLOG (K3)
+4. Solve AI problems using search algorithms in PROLOG (K3)
+5. Develop a simple Expert system shell in PROLOG (K3).
 
 #+begin_comment
 - 1. CO1 and CO2 changed to K3 level

@@ -54,14 +54,14 @@ sampling.
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Identify standard distributions and apply them (K2)
-- Solve problems in two dimension random variables and find the
-  correlation between them (K3)
-- Identify and apply the suitable testing of hypothesis under normal,
-  t, F and chi square distribution (K2)
-- Solve problems in analysis of variance (K3)
-- Analyze quality control by applying control chart methods (K2).
+After the completion of this course, students will be able to 
+1. Identify standard distributions and apply them (K2)
+2. Solve problems in two dimension random variables and find the
+   correlation between them (K3)
+3. Identify and apply the suitable testing of hypothesis under normal,
+   t, F and chi square distribution (K2)
+4. Solve problems in analysis of variance (K3)
+5. Analyze quality control by applying control chart methods (K2).
       
 ** TEXT BOOKS
 1. Milton J S and Arnold J C, ``Introduction to Probability and

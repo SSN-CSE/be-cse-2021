@@ -27,7 +27,7 @@
    - To study the concept of Boolean algebra.
 
 {{{unit}}}
-|UNIT I | LOGIC AND PROOFS  | 13 |
+| UNIT I | LOGIC AND PROOFS | 13 |
 Propositional Logic -- Propositional equivalences -- Predicates and
 quantifiers -- Nested quantifiers -- Rules of inference --
 Introduction to proofs -- Proof methods and strategy -- Normal forms
@@ -37,20 +37,20 @@ Added: Normal forms -- Applications to switching circuits.
 #+end_comment
 
 {{{unit}}}
-|UNIT II | COMBINATORICS | 11 |
+| UNIT II | COMBINATORICS | 11 |
 Mathematical induction -- Strong induction -- The pigeonhole principle
 -- Recurrence relations -- Partition of integers -- Solving linear
 recurrence relations using generating functions -- Inclusion and
 Exclusion Principle and its applications.
 
 {{{unit}}}
-|UNIT III | GRAPHS | 10 |
+| UNIT III | GRAPHS | 10 |
 Graphs -- Graph terminology and special types of graphs -- Subgraphs
 -- Matrix representation of graphs and graph isomorphism --
 Connectivity -- Eulerian and Hamilton graphs.
 
 {{{unit}}}
-|UNIT IV | ALGEBRAIC STRUCTURES | 13 |
+| UNIT IV | ALGEBRAIC STRUCTURES | 13 |
 Algebraic systems -- Semi groups and monoids -- Groups -- Subgroups
 Homomorphisms -- Normal subgroup and coset -- Lagrange's theorem --
 Definitions and examples of Rings and Fields.
@@ -68,14 +68,14 @@ Added: Stone's representation Theorem.
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Write simple proofs using Propositional and First-Order Logics (K3).
-- Solve problems using different counting techniques (K3).
-- Prove simple graph properties (K3)
-- Explain basic concepts in group theory such as semigroups, monoids
-  and groups (K2).
-- Solve problems in partial ordering relations, equivalence relations
-  and lattices (K2).
+After the completion of this course, students will be able to
+1. Write simple proofs using Propositional and First-Order Logics (K3)
+2. Solve problems using different counting techniques (K3)
+3. Prove simple graph properties (K3)
+4. Explain basic concepts in group theory such as semigroups, monoids
+   and groups (K2)
+5. Solve problems in partial ordering relations, equivalence relations
+   and lattices (K2)
 
 ** TEXT BOOKS
 1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th

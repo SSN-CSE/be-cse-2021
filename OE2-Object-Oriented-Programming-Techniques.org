@@ -73,6 +73,7 @@ exception; Definition and Concepts: Generic methods -- Generic types.
 All the topics are given in thrid and fourth unit of AU syllabus
 I/O streams,Multithreading topics are removed
 #+end_comment
+
 \hfill *Theory Periods: 30*
 
 ** SUGGESTIVE EXPERIMENTS
@@ -89,12 +90,12 @@ I/O streams,Multithreading topics are removed
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Outline the features of object oriented programming (K2)
-- Develop programs using basic constructs of Java (K3)
-- Experiment with classes and methods for problem solving (K3) 
-- Develop programs using inheritance and interfaces (K3) 
-- Apply the concept of polymorphism (K3).
+After the completion of this course, students will be able to 
+1. Outline the features of object oriented programming (K2)
+2. Develop programs using basic constructs of Java (K3)
+3. Experiment with classes and methods for problem solving (K3) 
+4. Develop programs using inheritance and interfaces (K3) 
+5. Apply the concept of polymorphism (K3).
       
 ** TEXT BOOKS
 1. Herbert Schildt, ``Java: The Complete Reference'', 8th Edition,

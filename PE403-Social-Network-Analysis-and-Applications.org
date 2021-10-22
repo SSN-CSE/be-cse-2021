@@ -70,27 +70,34 @@ networks.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain Social network concepts, measures and data (K2)
-- Interpret social networks mathematically (K2)
-- Apply community detection algorithms for Social networks (K3)
-- Apply SNA tools for analysing social networks (K3)  
-- Develop appropriate visualizations for different kinds of social networks using Visualization tools (K4).
+After the completion of this course, students will be able to 
+1. Explain Social network concepts, measures and data (K2)
+2. Interpret social networks mathematically (K2)
+3. Apply community detection algorithms for Social networks (K3)
+4. Apply SNA tools for analysing social networks (K3)  
+5. Develop appropriate visualizations for different kinds of social
+   networks using Visualization tools (K4).
 
 
 ** TEXTBOOKS
-
-1. Stanley Wasserman, Katherine Faust, ``Social Network Analysis Methods and Applications'', 1st Edition, Cambridge University
+1. Stanley Wasserman, Katherine Faust, ``Social Network Analysis
+   Methods and Applications'', 1st Edition, Cambridge University
    Press, 1999. (Unit I and Unit II)
-2. Borko Furht, ``Handbook of Social Network Technologies and Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
+2. Borko Furht, ``Handbook of Social Network Technologies and
+   Applications'', 1st Edition, Springer, 2010. (Unit III and Unit V)
 
       
 ** REFERENCES
 1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
-   Springer, 2007. (Unit I)
-2. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network Analysis for Startups'', O’Reilly,  2011. (Unit IV)
-3. Edward L. Platt, ``Network Science with Python and NetworkX Quick Start Guide: Explore and visualize network data effectively'', Packt Publishing, 2019
-4. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson, ``Analyzing Social Networks'', SAGE Publications, 2nd Edition, 2018.
+   Springer, 2007 (Unit I).
+2. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network
+   Analysis for Startups'', O’Reilly, 2011 (Unit IV).
+3. Edward L. Platt, ``Network Science with Python and NetworkX Quick
+   Start Guide: Explore and visualize network data effectively'',
+   Packt Publishing, 2019.
+4. Stephen P Borgatti, Martin G Everett, Jeffrey G Johnson,
+   ``Analyzing Social Networks'', SAGE Publications, 2nd
+   Edition, 2018.
 5. Charles Kadushin, ``Understanding Social Networks: Theories, Concepts, and Findings'', 1st Edition, Kindle Edition, Oxford
    University Press, 2012.
 

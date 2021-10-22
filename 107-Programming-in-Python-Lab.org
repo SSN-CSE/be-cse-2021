@@ -51,12 +51,14 @@ CO5 was modified
 \hfill *Total Hours: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Develop and debug simple Python programs (K3).
-- Build Python programs with conditionals and loops  (K3).
-- Solve  a problem using functions in python programming (K3).
-- Construct python programs using compound data like lists, tuples, and dictionaries (K3).
-- Build a simple application in teams using files and appropriate datatypes by applying the best programming practices (K3).
+After the completion of this course, students will be able to
+1. Develop and debug simple Python programs (K3)
+2. Build Python programs with conditionals and loops (K3)
+3. Solve a problem using functions in python programming (K3)
+4. Construct python programs using compound data like lists, tuples,
+   and dictionaries (K3)
+5. Build a simple application in teams using files and appropriate
+   datatypes by applying the best programming practices (K3).
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |

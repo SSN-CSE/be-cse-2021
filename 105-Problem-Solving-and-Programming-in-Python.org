@@ -59,15 +59,18 @@ reverse lookup, dictionaries and lists; Files: Text files, reading and
 writing files, format operator, file names and paths; command line
 arguments.
 
-*Total Hours:45*
+\hfill *Total Hours:45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Solve programming problems and express solutions in pseudo code (K3).
-- Develop simple programs using basic constructs (K3).
-- Construct programs using conditions and iterations decompose a problem into functions. (K3)
-- Make use of strings, lists, tuples and  dictionaries data structures (K3).
-- Develop Input/Output Operations using files (K3).
+After the completion of this course, students will be able to
+1. Solve programming problems and express solutions in pseudo code
+   (K3)
+2. Develop simple programs using basic constructs (K3)
+3. Construct programs using conditions and iterations decompose a
+   problem into functions (K3)
+4. Make use of strings, lists, tuples and dictionaries data structures
+   (K3)
+5. Develop Input/Output Operations using files (K3).
 
   
 ** TEXT BOOKS

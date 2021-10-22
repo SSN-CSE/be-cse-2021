@@ -111,13 +111,15 @@ NLP Tasks / Applications:
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to: 
-- Apply text pre processing techniques and build the language models (K3)
-- Explain the basic levels of knowledge namely word level and syntax level in language processing (K2)
-- Apply computational methods in lexical and vector semantics (K3)
-- Apply NLP techniques for discourse processing and build machine translation systems using deep learning (K3)
-- Apply learning methodologies for different NLP applications (K3).
-- Develop any NLP application by using NLP techniques and learning methodologies (K4)
+Upon the completion of the course the students should be able to 
+1. Apply text pre processing techniques and build the language models
+   (K3)
+2. Explain the basic levels of knowledge namely word level and syntax level in language processing (K2)
+3. Apply computational methods in lexical and vector semantics (K3)
+4. Apply NLP techniques for discourse processing and build machine translation systems using deep learning (K3)
+5. Apply learning methodologies for different NLP applications (K3)
+6. Develop any NLP application by using NLP techniques and learning
+   methodologies (K4).
 
 ** TEXT BOOKS
 1. Daniel Jurafsky and James H Martin, ``Speech and Language

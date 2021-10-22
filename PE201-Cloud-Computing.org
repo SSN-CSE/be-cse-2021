@@ -132,13 +132,16 @@ in AU syllabus.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to:
-- Summarize about the basics of Cloud Computing. (K2)
-- Apply the concept of virtualization and analyse its types. (K3)
-- Solve various design challenges in cloud environment. (K3)
-- Develop and deploy services on cloud and be able to set up a private cloud environment using open source software. (K3)
-- Illustrate security challenges in cloud environment. (K2)
-- Analyze the virtualization techniques in teams and deploy an application on Virtual Machine following legal governance, demonstrate and write report. (K4)
+Upon the completion of the course the students should be able to
+1. Summarize about the basics of Cloud Computing (K2)
+2. Apply the concept of virtualization and analyse its types (K3)
+3. Solve various design challenges in cloud environment (K3)
+4. Develop and deploy services on cloud and be able to set up a
+   private cloud environment using open source software (K3)
+5. Illustrate security challenges in cloud environment (K2)
+6. Analyze the virtualization techniques in teams and deploy an
+   application on Virtual Machine following legal governance,
+   demonstrate and write report (K4).
 
 
 ** TEXT BOOKS

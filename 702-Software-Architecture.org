@@ -67,15 +67,17 @@ Internet-of-Things(IoT).
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-1. Explain the various architectural views and quality attributes(K2)
+After the completion of this course, students will be able to 
+1. Explain the various architectural views and quality attributes (K2)
 2. Apply suitable architectural styles based on the software quality
    requirements (K3)
-3. Analyze the alternate architectural solutions based on the definition of ADL's (K4)
+3. Analyze the alternate architectural solutions based on the
+   definition of ADL's (K4)
 4. Construct new architectures based on the quality attribute
    requirements (K3)
 5. Analyze the architectural decisions for building data-intensive and
-   IoT systems in teams and apply best practices with clear documentation (K4)
+   IoT systems in teams and apply best practices with clear
+   documentation (K4).
 
 ** TEXTBOOKS  
 1. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in

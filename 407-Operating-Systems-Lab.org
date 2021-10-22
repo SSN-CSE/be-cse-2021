@@ -51,12 +51,12 @@ No changes
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Analyze the performance of various CPU Scheduling Algorithms (K4)
-- Implement Deadlock avoidance algorithms (K3)
-- Implement Semaphores and IPC (K3)
-- Implement various Page Replacement Algorithms (K3)
-- Implement File Organization and File Allocation Strategies (K3)
+After the completion of this course, students will be able to 
+1. Analyze the performance of various CPU Scheduling Algorithms (K4)
+2. Implement Deadlock avoidance algorithms (K3)
+3. Implement Semaphores and IPC (K3)
+4. Implement various Page Replacement Algorithms (K3)
+5. Implement File Organization and File Allocation Strategies (K3).
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:

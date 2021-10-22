@@ -86,15 +86,16 @@ Introduction to Graphics Processing Units.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the basics structure of computers, operations and
-  instructions (K2)
-- Design arithmetic and logic unit (K3)
-- Explain pipelined execution and design its control unit (K3)
-- Design of various memory systems and understand I/O communication
-  (K3)
-- Explain parallel processing architectures (K2).
-- Design a multi-functional ALU as per the requirement in teams by applying best practices of system design (K3)
+After the completion of this course, students will be able to 
+1. Explain the basics structure of computers, operations and
+   instructions (K2)
+2. Design arithmetic and logic unit (K3)
+3. Explain pipelined execution and design its control unit (K3)
+4. Design of various memory systems and understand I/O communication
+   (K3)
+5. Explain parallel processing architectures (K2)
+6. Design a multi-functional ALU as per the requirement in teams by
+   applying best practices of system design (K3).
 
 
 ** TEXT BOOKS

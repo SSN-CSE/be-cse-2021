@@ -47,25 +47,33 @@ Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle; Languages: Solid
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the importance of distributed ledgers and need of blockchain (K2)
-- Explore and understand the decentralization concepts and apply consensus algorithsm (K3)
-- Understand the basic of cryptography and how it is applied in cryptocurrencies (K2)
-- Explore and Apply the various distributed ledgers for business (K4)
-- Make use of appropriate techniques for designing trust-based business networks (K4)
+After the completion of this course, students will be able to 
+1. Explain the importance of distributed ledgers and need of
+   blockchain (K2)
+2. Explore and understand the decentralization concepts and apply
+   consensus algorithsm (K3)
+3. Understand the basic of cryptography and how it is applied in
+   cryptocurrencies (K2)
+4. Explore and Apply the various distributed ledgers for business (K4)
+5. Make use of appropriate techniques for designing trust-based
+   business networks (K4).
 
 ** TEXTBOOKS
-1. Introduction to Blockchain Technology: The Many Faces of Blockchain
-   Technology in the 21st Century Paperback – Import, 20 October 2019
-   by Van Haren Publishing (Editor)
-2. Mastering Blockchain by Imran Bashir published by Packt 2nd Ediction 2018.
-3. Blockchain: The Complete and Comprehensive Guide to Understanding Blockchain Technologies by Adrian Mcnulty, published by Createspace Independent Pub, 2018.
+1. Van Haren Publishing (Editor), ``Introduction to Blockchain
+   Technology: The Many Faces of Blockchain Technology in the 21st
+   Century'', Paperback Import, 2019.
+2. Imran Bashir, ``Mastering Blockchain'' Packt 2nd Ediction, 2018.
+3. Adrian Mcnulty, ``Blockchain: The Complete and Comprehensive Guide
+   to Understanding Blockchain Technologies'', Createspace Independent
+   Pub, 2018.
 
       
 ** REFERENCES
-1. Don and Alex Tapscott, Blockchain Revolution. Portfolio Penguin 2016.  
-2. William Mougayar, Business Blockchain Promise, Practice and Application of the Next Internet Technology, John Wiley & Sons 2016. 
-3. Blockchain for Dummies by Tiana Laurence published by John Wiley & Sons, 2017.
+1. Don, Alex Tapscott, ``Blockchain Revolution''. Portfolio Penguin 2016.
+2. William Mougayar, ``Business Blockchain Promise, Practice and
+   Application of the Next Internet Technology'', John Wiley &
+   Sons 2016.
+3. Tiana Laurence, ``Blockchain for Dummies'' John Wiley & Sons, 2017.
 
 ** CO TO PO/PSO MAPPING
 #+NAME: co-po-mapping

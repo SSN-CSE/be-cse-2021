@@ -84,15 +84,18 @@ Added: Case Study for Image recognition
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the basics and fundamentals of digital image processing,
-  such as digitization, sampling, quantization (K2)
-- Apply the techniques of smoothing, sharpening and
-  enhancement in both spatial and frequency domain (K3)
-- Explain the restoration concepts and filtering techniques (K2)
-- Identify the segmentation methods and apply in real time applications (K3)
-- Analyse the feature extraction and object recognition methods (K4).
-- Develop real time application in teams by  using image processing and analysis techniques with a clear documentation  of the approach (K4).
+After the completion of this course, students will be able to 
+1. Explain the basics and fundamentals of digital image processing,
+   such as digitization, sampling, quantization (K2)
+2. Apply the techniques of smoothing, sharpening and
+   enhancement in both spatial and frequency domain (K3)
+3. Explain the restoration concepts and filtering techniques (K2)
+4. Identify the segmentation methods and apply in real time
+   applications (K3)
+5. Analyse the feature extraction and object recognition methods (K4)
+6. Develop real time application in teams by using image processing
+   and analysis techniques with a clear documentation of the approach
+   (K4).
 
    
 ** TEXT BOOKS
@@ -103,9 +106,10 @@ After the completion of this course, students will be able to:
    
 ** REFERENCES
 1. Kenneth R Castleman, ``Digital Image Processing'', Pearson, 2006.
-2. Rafael C Gonzalez, Richard E Woods, Steven Eddins, ``Digital
-   Image Processing Using MATLAB'', Pearson Education, Inc., 2011.
-3. S Sridhar, ``Digital Image Processing'', 2nd Edition, Oxford University, 2016.
+2. Rafael C Gonzalez, Richard E Woods, Steven Eddins, ``Digital Image
+   Processing Using MATLAB'', Pearson Education, Inc., 2011.
+3. S Sridhar, ``Digital Image Processing'', 2nd Edition, Oxford
+   University, 2016.
 4. William K Pratt, ``Digital Image Processing'', John Wiley, New
    York, 2002.
 5. Milan Sonka, Roger Boyle, Vaclav Hlavac, ``Image Processing,

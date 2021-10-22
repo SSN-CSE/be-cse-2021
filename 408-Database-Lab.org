@@ -52,13 +52,13 @@ f) Online Commerce System
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Use data definitions and manipulation commands(K3)
-- Apply advanced DML statements (K3)
-- Implement Database programming using PL/SQL(K3)
-- Design a database for real-time applications(K3)
-- Implement and analyze the use of Tables, PL/SQL for a real world 
-  database applications using a Front-end tool(K3)
+After the completion of this course, students will be able to 
+1. Use data definitions and manipulation commands (K3)
+2. Apply advanced DML statements (K3)
+3. Implement Database programming using PL/SQL (K3)
+4. Design a database for real-time applications (K3)
+5. Implement and analyze the use of Tables, PL/SQL for a real world 
+   database applications using a Front-end tool (K3)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:\\
