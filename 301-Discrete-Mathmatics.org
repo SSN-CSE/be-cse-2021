@@ -1,4 +1,4 @@
-* 301 DISCRETE MATHEMATICS
+* 
 :properties:
 :author: Dr. R. Sundareswaran and Dr. N. Padmapriya
 :date:
@@ -13,10 +13,9 @@
 #+end_comment
 
 #+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 2 | 0 | 4 |
+{{{title-tab}}}
+| CODE    | COURSE TITLE         | L | T | P | C |
+| UMA2377 | DISCRETE MATHEMATICS | 3 | 2 | 0 | 4 |
 
 ** COURSE OBJECTIVES
    - To study the concepts of classical logic, normal forms and its

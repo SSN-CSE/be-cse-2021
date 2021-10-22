@@ -1,4 +1,4 @@
-* OE2 OBJECT ORIENTED PROGRAMMING TECHNIQUES
+*  
 :properties:
 :author: B. Bharathi
 :date: 09-03-2021
@@ -11,24 +11,10 @@
 - 5. Suggestive experiments are given
 #+end_comment
 
-
 #+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 2 | 0 | 2 | 3 |
-
-** CO PO MAPPING :noexport:
-#+NAME: co-po-mapping 
-
-|                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | 
-| CO1            |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 | 
-| CO2            |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    2 | 
-| CO3            |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    0 | 
-| CO4            |   2 |   3 |   3 |   2 |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    2 | 
-| CO5            |   2 |   3 |   3 |   1 |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    0 | 
-| Score          |  10 |  15 |  15 |   7 |   0 |   0 |   0 |   4 |   8 |    8 |    0 |    4 | 
-| Course mapping |  2  |  3  |  3 |   2  |   0 |   0 |   0 |   1 |   2 |    2 |    0 |    1 | 
+{{{title-tab}}}
+| CODE | COURSE TITLE                           | L | T | P | C |
+|      | OBJECT ORIENTED PROGRAMMING TECHNIQUES | 2 | 0 | 2 | 3 |
 
 ** COURSE OBJECTIVES
 - To learn the basics of Object Oriented Programming 
@@ -125,3 +111,19 @@ After the completion of this course, students will be able to:
 4. Paul Deitel, Harvey Deitel, ``Java SE 8 for Programmers'', 3rd
    Edition, Pearson, 2015.
 5. Steven Holzner, ``Java 2 Black Book'', Dreamtech Press, 2011.
+
+
+** CO TO PO/PSO MAPPING
+#+NAME: co-po-mapping 
+
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----|
+| CO1    | 2 | 3 | 3 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 |
+| CO2    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 2 |  2 |  0 |  2 |
+| CO3    | 2 | 3 | 3 | 1 | 0 | 0 | 0 | 1 | 2 |  2 |  0 |  0 |
+| CO4    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 2 |  2 |  0 |  2 |
+| CO5    | 2 | 3 | 3 | 1 | 0 | 0 | 0 | 1 | 2 |  2 |  0 |  0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----|
+| Course | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 2 |  2 |  0 |  1 |
+
+# | Score          | 10 | 15 | 15 | 7 | 0 | 0 | 0 | 4 | 8 |  8 |  0 |  4 |

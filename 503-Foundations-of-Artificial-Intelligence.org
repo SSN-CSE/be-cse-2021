@@ -1,4 +1,4 @@
-* 503 ARTIFICIAL INTELLIGENCE
+*  
 :properties:
 :author: Dr. T.T.Mirnalinee and Dr. S. Kavitha
 :date: 27-03-2021
@@ -6,20 +6,10 @@
 # PRINCIPLES OF ARTIFICIAL INTELLIGENCE
 
 #+startup: showall
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 2 | 4 |
+{{{title-tab}}}
+| CODE    | COURSE TITLE                           | L | T | P | C |
+| UCS2504 | FOUNDATIONS OF ARTIFICIAL INTELLIGENCE | 3 | 0 | 2 | 4 |
 
-** CO PO PSO MAPPING :noexport:
-#+NAME: co-po-pso mapping
-|                | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1            |   3 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
-| CO2            |   2 |   3 |   1 |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO3            |   3 |   3 |   1 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO4            |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| CO5            |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| CO6            |   3 |   2 |   2 |   3 |   0 |   0 |   0 |   1 |   3 |    2 |    0 |    2 |    3 |    0 |    0 |
-| Course mapping |   3 |   3 |   2 |   2 |   0 |   0 |   0 |   1 |   1 |    1 |    0 |    1 |    3 |    0 |    0 |
 #+tblfm: @>$2..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
 
 #+begin_comment
@@ -41,11 +31,14 @@
 #+end_comment
 
 ** COURSE OBJECTIVES
-- To Study the fundamental concepts of AI agents and environments.
-- To Learn the methods of problem solving in AI using various search strategies.
-- To Understand the concepts of knowledge representation and inference using logic.
-- To Understand the concepts of knowledge representation and inference under uncertainty.
-- To Learn the some appliactions in text and robotics.
+- To study the fundamental concepts of AI agents and environments.
+- To learn the methods of problem solving in AI using various search
+  strategies.
+- To understand the concepts of knowledge representation and inference
+  using logic.
+- To understand the concepts of knowledge representation and inference
+  under uncertainty.
+- To learn the some appliactions in text and robotics.
 
 {{{unit}}}
 | UNIT I | FOUNDATIONS | 7 |
@@ -135,3 +128,17 @@ After the completion of this course, students will be able to:
 4. David Poole, Alan Mackworth, ``Artificial Intelligence : Foundation
    of Computational Agents'', 2nd Edition, Cambridge University
    Press, 2017.
+
+
+** CO TO PO/PSO MAPPING
+#+NAME: co-po-pso mapping
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO2    | 2 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
+| CO3    | 3 | 3 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
+| CO4    | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO5    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO6    | 3 | 2 | 2 | 3 | 0 | 0 | 0 | 1 | 3 |  2 |  0 |  2 | 3 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 2 | 2 | 0 | 0 | 0 | 1 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |

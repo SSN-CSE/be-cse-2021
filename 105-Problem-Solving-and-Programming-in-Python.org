@@ -1,14 +1,13 @@
-* 105 PROBLEM SOLVING AND PROGRAMMING IN PYTHON
+* 
 :properties:
 :author: R S Milton, P Mirunalini, H Shahul Hamead
 :date: 27 March 2021
 :end:
 
 #+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+{{{title-tab}}}
+| CODE    | COURSE TITLE                              | L | T | P | C |
+| UGE2176 | PROBLEM SOLVING AND PROGRAMMING IN PYTHON | 3 | 0 | 0 | 3 |
 		
 ** R2021 CHANGES :noexport:
 1. The knowlede level of unit1 was modified from K2 to K3
@@ -94,12 +93,15 @@ After the completion of this course, students will be able to:
 5. Kenneth A. Lambert, ``Fundamentals of Python: First Programs'', 2nd
    Edition, CENGAGE Learning, 2018.
 
-** CO-PO MAPPING                                                   :noexport:
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1            | K3 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    1 |    0 |
-| CO2            | K3 |   2 |   2 |   0 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
-| CO3            | K3 |   2 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    0 |    0 |
-| CO4            | K3 |   2 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
-| CO5            | K3 |   2 |   2 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    2 |    0 |    0 |
-| Score          |    |  10 |  11 |   6 |   3 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |   11 |    0 |    0 |
-| Course Mapping |    |   2 |   3 |   2 |   1 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    3 |    1 |    0 |
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 1 | 0 |
+| CO2    | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO3    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
+| CO4    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO5    | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 1 | 0 |
+
+# | Score | 10 | 11 | 6 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 0 | 0 |

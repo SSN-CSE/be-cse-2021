@@ -1,25 +1,13 @@
-* PE401 HEALTHCARE ANALYTICS
+* 
 :properties:
 :author: Dr. K. Lekshmi and Dr. A. Beaula
 :date: 30-03-2021, 13-06-2021(CO-PO Mapping Updated)
 :end: 
 
 #+startup: showall
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
-
-** CO-PO MAPPING :noexport:
-#+NAME: co-po-mapping
-|                     | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |	
-| CO1                 |   2 |   3 |  0  |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
-| CO2                 |   3 |   1 |  2  |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
-| CO3                 |   2 |   3 |  1  |   2 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| CO4                 |   2 |   3 |  1  |   3 |   0 |   0 |   0 |   2 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| CO5                 |   2 |   2 |  1  |   3 |   0 |   0 |   0 |   2 |   0 |    0 |    0 |    0 |    0 |    0 |    0 |
-| CO6                 |   2 |   3 |  3  |   3 |   0 |   0 |   0 |   2 |   1 |    2 |    0 |    1 |    0 |    0 |    0 |
-| Score               |  12 |  17 |  7  |  13 |   0 |   0 |   0 |   6 |   1 |    2 |    0 |    1 |    2 |    0 |    0 |
-| Course Mapping      |   3 |   3 |  2  |   3 |   0 |   0 |   0 |   2 |   1 |    1 |    0 |    1 |    1 |    0 |    0 |
+{{{title-tab}}}
+| CODE    | COURSE TITLE              | L | T | P | C |
+| UCS2739 | HEALTHCARE DATA ANALYTICS | 3 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - Discuss the role of basic and advanced data analytics in Healthcare
@@ -113,3 +101,17 @@ After the completion of this course, students will be able to:
 3. Joseph M. Woodside , ``Applied Health Analytics and Informatics
    Using SAS'', SAS Institute, O'Reilly, 2018
 
+** CO TO PO/PSO MAPPING
+#+NAME: co-po-mapping
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 2 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO4    | 2 | 3 | 1 | 3 | 0 | 0 | 0 | 2 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO5    | 2 | 2 | 1 | 3 | 0 | 0 | 0 | 2 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO6    | 2 | 3 | 3 | 3 | 0 | 0 | 0 | 2 | 1 |  2 |  0 |  1 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 2 | 3 | 0 | 0 | 0 | 2 | 1 |  1 |  0 |  1 | 1 | 0 | 0 |
+
+# | Score | 12 | 17 | 7 | 13 | 0 | 0 | 0 | 6 | 1 | 2 | 0 | 1 | 2 | 0 | 0 |

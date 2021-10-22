@@ -1,8 +1,13 @@
-* PE205 NATURAL LANGUAGE PROCESSING
+* 
 :properties:
-:author: Dr. D. THenmozhi and Mr. B. Senthil Kumar
+:author: Dr. D. Thenmozhi and Mr. B. Senthil Kumar
 :date: 09-03-2021
 :end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                                 | L | T | P | C |
+| UCS2627 | NATURAL LANGUAGE PROCESSING AND APPLICATIONS | 3 | 0 | 0 | 3 |
 
 #+begin_comment
 - 1. Combined Unit 2 and 3 of AU into Unit 2, Unit 4 and 5 of AU into Unit 3 to give emphasis on
@@ -14,22 +19,6 @@
 - 5. Not Applicable
 #+end_comment
 
-#+startup: showall
-{{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
-
-** CO PO MAPPING :noexport:
-#+NAME: co-po-mapping
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-| CO1            | K3 |   3 |   3 |  2 |   1 |  0 |   0 |   0 |  0 |   0 |   1 |    0 |    0 |    3 |    0 |   0 |
-| CO2            | K2 |   2 |  3  |  2 |   1 |  1 |   0 |   0 |  0 |   0 |   1 |    0 |    2 |    3 |    0 |    0 |
-| CO3            | K3 |   1 |  1  |  2 |   1 |  1 |   0 |   0 |  0 |   0 |   1 |    0 |    2 |    3 |    0 |    0 |
-| CO4            | K3 |   3 |  3  |  2 |   1 |  1 |   0 |   0 |  0 |   0 |   1 |    0 |    1 |    3 |    0 |    0 |
-| CO5            | K3 |   1 |  2  |  2 |   0 |  0 |   0 |   0 |  0 |   0 |   1 |    0 |    1 |    3 |    0 |    0 |
-| CO6            | K4 |   3 |   3 |  3 |   3 |  2 |   1 |   1 |  1 |   3 |   2 |    0 |    3 |    3 |    2 |    3 |
-| Score          |    |  13 |  15 |  13 |   7 |   5 |   0 |   0 |  1 |  3 |   7 |    0 |   9 |   18 |   2 |  3 |
-| Course Mapping |    |   3 |   3 |   3 |   2 |   1 |   1 |   1 |   1 |   1 |    1 |   0 |   2 |   3 |    1 |  1 |
 
 ** COURSE OBJECTIVES
 - To learn language models
@@ -78,25 +67,19 @@ WordNet -- Word Sense Disambiguation
 
 
 #+begin_comment
-
 - 1. Removed basic representations of semantics
 - 2. Added Vector semantics
 - 3. Removed thematic roles from lexical semantics
 - 4. Added Word embeddings
-
 #+end_comment
 
 {{{unit}}}
-
 | UNIT IV | COREFERENCE RESOLUTION AND MACHINE TRANSLATION  | 9 |
 Coreference Resolution: Coreference phenomena -- Mention detection -- Mention-pair architecture;
 RNNs for sequence labeling and classification --  Stacked and Bi-directional RNN -- Machine Translation(MT): 
 Lexical divergence and typology -- Encoder-Decoder with RNNs --  MT Evaluation; 
 
-
-
 #+begin_comment
-
 - 1. Added Mention detection
 - 2. Removed Centering and other basic algorithms for reference resolution
 - 3. Added deep learning for sequence labeling and classification
@@ -109,15 +92,10 @@ Sentiment Classification: Naive Bayes classifier -- Optimizing for Sentiment Ana
 Information Extraction: Relation extraction; Information Retrieval ; IR-based Factoid Question Answering: 
 IR-based QA Datasets -- Answer span extraction; 
 
-
-
 #+begin_comment
-
 - 1. Moved IR and IE from Unit IV to Unit V
 - 2. Added Sentiment analysis
-
 #+end_comment
-
 
 NLP Tasks / Applications:
 1) CRF POS/NER Tagging
@@ -167,3 +145,19 @@ Upon the completion of the course the students should be able to:
 7. NLTK -- Natural Language Tool Kit - http://www.nltk.org/
 8. http://nlp-iiith.vlabs.ac.in/
 9. https://www.tensorflow.org/tutorials/text/nmt_with_attention
+
+
+** CO TO PO/PSO MAPPING 
+#+NAME: co-po-mapping
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
+| CO2    | 2 | 3 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  2 | 3 | 0 | 0 |
+| CO3    | 1 | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  2 | 3 | 0 | 0 |
+| CO4    | 3 | 3 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO5    | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO6    | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 3 |  2 |  0 |  3 | 3 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | 1 |  1 |  0 |  2 | 3 | 1 | 1 |
+
+# | Score          | 13 | 15 | 13 | 7 | 5 | 0 | 0 | 1 | 3 |  7 |  0 |  9 | 18 | 2 | 3 |

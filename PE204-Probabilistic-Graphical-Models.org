@@ -1,33 +1,21 @@
-* PE204 PROBABILISTIC GRAPHICAL MODELS
+* 
 :properties:
 :author: Dr.R.S.Milton, Ms.S.Rajalakshmi
 :date: 29.3.21
 :end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                   | L | T | P | C |
+| UCS2623 | PROBABILISTIC GRAPHICAL MODELS | 3 | 0 | 0 | 3 |
 
 #+begin_comment
 co-po mapping added
 soft po added
 #+end_comment
 
-#+startup: showall
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
 ** R2021 CHANGES :noexport:
 New Subject
-
-* CO-PO MAPPING :noexport:
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 | PSO1 | PSO2 | PSO3 |
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |   K5 |   K3 |   K6 |
-| CO1            | K2 |   2 |   1 |   1 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    0 |    1 |    0 |    0 |
-| CO2            | K2 |   3 |   3 |   3 |   1 |   1 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    0 |    0 |
-| CO3            | K3 |   3 |   3 |   3 |   1 |   1 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    0 |    0 |
-| CO4            | K3 |   3 |   3 |   3 |   1 |   1 |   0 |   0 |   0 |   1 |    1 |    0 |    1 |    3 |    0 |    0 |
-| CO5            | K3 |   2 |   3 |   3 |   0 |   0 |   0 |   0 |   0 |   0 |    0 |    0 |    1 |    1 |    0 |    0 |
-| CO6            | K3 |   3 |   3 |   3 |   2 |   2 |   1 |   1 |   1 |   3 |    3 |    0 |    1 |    3 |    2 |    2 |
-| Score          |    |  16 |  16 |   16 |  5 |   5 |   1 |   1 |   1 |   6 |    6 |    0 |    5 |    14 |   2 |    2 |
-| Course Mapping |    |   3 |   3 |   3 |   1 |   1 |   1 |   1 |   1 |   1 |    1 |    0 |    1 |    3 |    1 |    1 |
-
 
 ** COURSE OBJECTIVES
 - To learn the key aspects of directed and undirected models
@@ -109,3 +97,18 @@ Upon completion of the course, the student should be able to:
 2. Daphne Koller, Nir Friedman, ``Probabilistic Graphical Models -
    Principles and Technique'', MIT Press, 2007.  unit -2
 #+end_comment
+
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO2    | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO3    | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO4    | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO5    | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 1 | 0 | 0 |
+| CO6    | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 3 |  3 |  0 |  1 | 3 | 2 | 2 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 3 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |  0 |  1 | 3 | 1 | 1 |
+
+# | Score          | 16 | 16 | 16 | 5 | 5 | 1 | 1 | 1 | 6 |  6 |  0 |  5 | 14 | 2 | 2 |

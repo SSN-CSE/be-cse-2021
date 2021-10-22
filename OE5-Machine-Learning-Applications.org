@@ -1,8 +1,14 @@
-* OE5 MACHINE LEARNING APPLICATIONS
+* 
 :properties:
 :author: S. Rajalakshmi and M.Saritha
 :date: 6.03.2021
 :end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE | COURSE TITLE                  | L | T | P | C |
+|      | MACHINE LEARNING APPLICATIONS | 2 | 0 | 2 | 3 |
+
 
 ** R2021 CHANGES :noexport:
 1. revised COs and mapping
@@ -15,21 +21,6 @@
 - 5. Suggestive experiments are given
 #+end_comment
 
-#+startup: showall
-{{{credits}}}
-| L | T | P | C |
-| 2 | 0 | 2 | 3 |
-
-* CO-PO MAPPING :noexport:
-|                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | PO12 |  
-|                |    |  K3 |  K4 |  K5 |  K5 |  K6 |   - |   - |   - |   - |    - |    - |    - |    
-| CO1            | K2 |   2 |   1 |   1 |   0 |   0 |   0 |   0 |   1 |   0 |    1 |    0 |    1 |     
-| CO2            | K2 |   3 |   3 |   3 |   0 |   2 |   0 |   0 |   1 |   0 |    1 |    0 |    2 |     
-| CO3            | K3 |   3 |   3 |   3 |   2 |   2 |   1 |   1 |   1 |   1 |    1 |    0 |    2 |     
-| CO4            | K3 |   3 |   3 |   3 |   2 |   2 |   1 |   1 |   1 |   1 |    1 |    0 |    2 |    
-| CO5            | K3 |   2 |   3 |   3 |   2 |   1 |   1 |   1 |   1 |   1 |    1 |    0 |    2 |     
-| Score          |    |  13 |  13 |   13 |  6 |   7 |   3 |   3 |   5 |   3 |    5 |    0 |    9 |     
-| Course Mapping |    |   3 |   3 |   3 |   2 |   2 |   1 |   1 |   2 |   1 |    1 |    0 |    2 |    
 
 ** COURSE OBJECTIVES
 - To understand the need and types of machine learning techniques for
@@ -119,3 +110,16 @@ After the completion of this course, students will be able to:
    (India) Private Limited, 2013.
 5. Andreas C. Muller, Sarah Guido, ``Introduction to Machine
    Learning with Python'', O'Reilly Media, 2016.
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----|
+| CO1    | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 |  1 |  0 |  1 |
+| CO2    | 3 | 3 | 3 | 0 | 2 | 0 | 0 | 1 | 0 |  1 |  0 |  2 |
+| CO3    | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 |  1 |  0 |  2 |
+| CO4    | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 |  1 |  0 |  2 |
+| CO5    | 2 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | 1 |  1 |  0 |  2 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----|
+| Course | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 2 | 1 |  1 |  0 |  2 |
+
+# | Score          | 13 | 13 | 13 | 6 | 7 | 3 | 3 | 5 | 3 |  5 |  0 |  9 |
