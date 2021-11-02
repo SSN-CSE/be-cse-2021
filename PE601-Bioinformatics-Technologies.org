@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                | L | T | P | C |
-| UCS2821 | BIOINFORMATICS TECHNOLOGIES | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                | L | T | P | E | C |
+| UCS2821 | BIOINFORMATICS TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
  Few changes are done from AU 2013, 7th semester Elective course on Bioinformatics
@@ -62,13 +62,14 @@ Pattern Discovery.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Explain the concept and need of Bioinformatics (K2)
-- Identify the genome and protein data and its equivalent storage and mining process (K3)
-- Apply machine learning algorithms for bioinformatics dataset (K3)
-- Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset (K3)
-- Infer the importance of microarray data analysis (K2)
-- Analyze the models of gene expression and protein data implemented using machine learning techniques(K4)
+After the completion of this course, students will be able to 
+1. Explain the concept and need of Bioinformatics (K2)
+2. Identify the genome and protein data and its equivalent storage and mining process (K3)
+3. Apply machine learning algorithms for bioinformatics dataset (K3)
+4. Make use of hidden morkov modeling and probabilistic modeling for bioinformatics dataset (K3)
+5. Infer the importance of microarray data analysis (K2)
+6. Analyze the models of gene expression and protein data implemented
+   using machine learning techniques (K4).
    
 ** TEXT BOOKS
 1. Yi-Ping Phoebe Chen (Ed), ``BioInformatics Technologies'', First
@@ -81,7 +82,7 @@ After the completion of this course, students will be able to:
    Bioinformatics'', Tsinghua University Press, Springer, 2013
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 0 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |

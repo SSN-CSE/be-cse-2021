@@ -7,15 +7,15 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                           | L | T | P | C |
-| UCS2504 | FOUNDATIONS OF ARTIFICIAL INTELLIGENCE | 3 | 0 | 2 | 4 |
+| CODE    | COURSE TITLE                           | L | T | P | E | C |
+| UCS2504 | FOUNDATIONS OF ARTIFICIAL INTELLIGENCE | 3 | 0 | 2 | 0 | 4 |
 
 #+tblfm: @>$2..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
 
 #+begin_comment
 2018
 1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
-2. Unit IV, Uncertainty is given instaed of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
+2. Unit IV, Uncertainty is given instead of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
 3. Not Applicable
 4. Five Course outcomes specified and aligned with units
 5. Lab Exercises are given for each unit.
@@ -23,7 +23,7 @@
 
 #+begin_comment
 2021
-1. Unit V - COMMUNICATION, PERCEIVING AND ACTING, is given instaed of Learning, since Machine Learning comes in the same year.
+1. Unit V - COMMUNICATION, PERCEIVING AND ACTING, is given instead of Learning, since Machine Learning comes in the same year.
 2. Six Course outcomes specified and aligned with units
 3. Lab Exercises are given from the units units 2, 3 and 4.
 4. CO6 is included additionally
@@ -38,7 +38,7 @@
   using logic.
 - To understand the concepts of knowledge representation and inference
   under uncertainty.
-- To learn the some appliactions in text and robotics.
+- To learn the some applications in text and robotics.
 
 {{{unit}}}
 | UNIT I | FOUNDATIONS | 7 |
@@ -76,18 +76,18 @@ uncertain reasoning.
 {{{unit}}}
 | UNIT V | COMMUNICATION, PERCEIVING AND ACTING | 9 |
 Natural Language Processing: Language Models -- Text Classification --
-Information Retrieval; Robotics: Introduction -- Robot Hardawre --
+Information Retrieval; Robotics: Introduction -- Robot Hardware --
 Robotic Perception -- Planning to move -- Application Domains.
 
 \hfill *Theory Periods: 45*
 
-** LAB EXERCISES 
+** SUGGESTIVE EXPERIMENTS
 1. Uninformed Search Techniques
 2. Informed Search Techniques
 3. Hill Climbing algorithms
 4. Adversarial Search techniques
 5. Construction of AND-OR graph from knowledge base
-6. Inference from knowldge base
+6. Inference from knowledge base
 7. Inference using full joint probability distribution
 8. Inference using Bayesian network
 9. One Application using AI algorithm
@@ -131,7 +131,6 @@ After the completion of this course, students will be able to
 
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-pso mapping
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

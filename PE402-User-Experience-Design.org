@@ -7,8 +7,8 @@
 :end:
 
 {{{title-tab}}}
-| CODE    | COURSE TITLE           | L | T | P | C |
-| UCS2728 | USER EXPERIENCE DESIGN | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE           | L | T | P | E | C |
+| UCS2728 | USER EXPERIENCE DESIGN | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. No change in units from R-2018

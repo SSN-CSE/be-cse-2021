@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                   | L | T | P | C |
-| UCS2623 | PROBABILISTIC GRAPHICAL MODELS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                   | L | T | P | E | C |
+| UCS2623 | PROBABILISTIC GRAPHICAL MODELS | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 co-po mapping added

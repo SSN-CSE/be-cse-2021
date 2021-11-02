@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                | L | T | P | C |
-| UCS2303 | OBJECT ORIENTED PROGRAMMING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                | L | T | P | E | C |
+| UCS2303 | OBJECT ORIENTED PROGRAMMING | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 - String handling included
@@ -18,7 +18,7 @@
 - 1. The contents of units 3, 4 and 5 of this syllabus have been changed when compared to Anna University R-2017. Comments have been added along with the units
 - 2. The same course is not offered in P.G. Hence, there is no requirement for comparison of this syllabus with PG syllabus
 - 3. Five course outcomes are specified and are aligned with the units
-- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is seperate lab course available
+- 4. Suggestive experiments have not been specified in this syllabus as it is not an integrated course. There is separate lab course available
 #+end_comment
 
 ** COURSE OBJECTIVES
@@ -143,14 +143,13 @@ RK changed KL of CO6 and CO6's mapping to PO/PSO
 2. C Thomas Wu, ``An introduction to Object-oriented programming with
    Java'', 4th Edition, Tata McGraw-Hill Publishing company
    Ltd., 2006.
-3. Cay S Horstmann, Gary cornell, ``Core Java Volume –I
+3. Cay S Horstmann, Gary Cornell, ``Core Java Volume –I
    Fundamentals'', 9th Edition, Prentice Hall, 2013.
 4. Paul Deitel, Harvey Deitel, ``Java SE 8 for programmers'', 3rd
    Edition, Pearson, 2015.
 5. Steven Holzner, ``Java 2 Black book'', Dreamtech press, 2011.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |

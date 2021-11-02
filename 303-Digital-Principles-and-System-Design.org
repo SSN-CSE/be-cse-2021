@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                         | L | T | P | C |
-| UCS2301 | DIGITAL PRINCIPLES AND SYSTEM DESIGN | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                         | L | T | P | E | C |
+| UCS2301 | DIGITAL PRINCIPLES AND SYSTEM DESIGN | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. Reordered Unit 3 of R2018 as unit 5 in R2021.
@@ -79,14 +79,14 @@ After the completion of this course, students will be able to
 2. John F Wakerly, ``Digital Design Principles and Practices'', 5th
    Edition, Pearson Education, 2017.
 3. Charles H Roth Jr, Larry L Kinney,``Fundamentals of Logic Design'',
-   6th Edition,CENGAGE Learning, 2013.
+   6th Edition,Cengage Learning, 2013.
 4. Donald D Givone,``Digital Principles and Design'', Tata Mc Graw
    Hill, 2003.
 5. Thomas L Floyd, ``Digital Fundamentals'', 11th edition, Pearson
    Education, 2017.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

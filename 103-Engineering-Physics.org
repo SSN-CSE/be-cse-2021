@@ -1,0 +1,128 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE        | L | T | P | E | C |
+| UPH2176 | ENGINEERING PHYSICS | 3 | 0 | 0 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+- Comprehend and identify different crystal structures and their
+  imperfections.
+- Explain the elastic and thermal properties of materials and
+  understand their significance.
+- Develop an understanding of quantum mechanical phenomena and their
+  applications.
+- Provide an overview of the characteristics of sound, architectural
+  acoustics and the production, detection and applications of
+  ultrasound.
+- Explain the origin of laser action, production of laser, fibre
+  optics and their applications.
+
+{{{unit}}}
+| UNIT I | CRYSTAL PHYSICS | 9 |
+Single crystalline, polycrystalline and amorphous materials-- single
+crystals - Lattice -- Unit cell -- Bravais lattice -- Lattice planes
+-- Miller indices -- d spacing in cubic lattice -- Calculation of
+number of atoms per unit cell -- Atomic radius -- Coordination number
+-- Packing factor for SC, BCC, FCC and HCP structures -- Diamond and
+graphite structures (qualitative treatment) -- Crystal Imperfections
+-- Point, line (Edge and Screw dislocations -- Burger vectors) Surface
+(stacking faults) and Volume defects.
+
+{{{unit}}}
+| UNIT II | PROPERTIES OF MATTER AND THERMAL PHYSICS | 9 |
+Properties of matter: Elasticity -- Hooke's law -- Relationship
+between three moduli of elasticity -- stress -strain diagram--
+Poisson's ratio -- Factors affecting elasticity -- Torsional stress &
+deformations -- Twisting couple -- Torsion pendulum - theory and
+experiment -- bending of beams-bending moment -- cantilever: theory
+and experiment -- uniform and non-uniform bending: theory and
+experiment -- I-shaped girders.
+
+Thermal Physics: Modes of heat transfer -- thermal conduction,
+convection and radiation -- Newton's law of cooling -- thermal
+conductivity -- Lee's disc method for bad conductor -- Radial heat
+flow -- Rubber tube method -- conduction through compound media
+(series and parallel) -- Formation of ice on ponds.
+
+{{{unit}}}
+| UNIT III | ACOUSTICS AND ULTRASONICS | 9 |
+Acoustics: Classification and characteristics of Sound -- decibel --
+Weber-Fechner law -- Sabine's formula - derivation using growth and
+decay method -- factors affecting acoustics of buildings and their
+remedies -- Methods of determination of Absorption
+Coefficient. Ultrasonics: Production of ultrasonics by
+Magnetostriction and piezoelectric methods -- acoustic grating -Non
+Destructive Testing -- pulse echo system through transmission and
+reflection modes -- A, B and C -- scan displays.
+
+{{{unit}}}
+| UNIT IV | QUANTUM PHYSICS | 9 |
+Black body radiation -- Planck's theory (derivation) -- Deduction of
+Wien's displacement law and Rayleigh-Jeans' Law from Planck's theory
+-- Compton Effect. Theory and experimental verification -- Properties
+of Matter waves -- wave particle duality -- Schrodinger's wave equation
+-- Time independent and time dependent equations -- Physical
+significance of wave function -- Particle in a one dimensional box and
+extension to three dimensional box -- Degeneracy of electron energy
+states - Scanning electron microscope -- Transmission electron
+microscope.
+
+{{{unit}}}
+| UNIT V | PHOTONICS AND FIBRE OPTICS | 9 |
+Photonics: Spontaneous and stimulated emission -- Population inversion
+-- Einstein's A and B coefficients -- Conditions for Laser action --
+Types of lasers -- Nd: YAG, & CO2 lasers-Basics of diode lasers --
+Industrial and Medical Applications. Fibre optics: Principle and
+propagation of light in optical fibres -- Numerical aperture and
+Acceptance angle - Types of optical fibres (material, refractive
+index, mode) -- Losses in fibers - attenuation, dispersion, bending -
+Fibre Optical Communication system (Block diagram) -- Active and
+passive fibre sensors -- pressure and displacement.
+
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Analyze crystal structures and the influence of imperfections on
+   their properties.
+2. Demonstrate and explain the general concepts of elastic and thermal
+   properties of materials.
+3. Explain quantum mechanical theories to correlate with experimental
+   results and their applications to material diagnostics.
+4. Analyze the applications of acoustics and ultrasonics to
+   engineering and medical disciplines.
+5. Elucidate the principle and working of lasers and optical fibers,
+   and their applications in the field of industry, medicine and
+   telecommunication.
+
+
+** TEXT BOOKS
+1. Gaur  R K, Gupta S L, ``Engineering Physics'', Dhanpat Rai
+   Publishers, 2012.
+2. Serway R A, Jewett J W, ``Physics for Scientists and Engineers'',
+   Cengage Learning, 2010.
+   
+** REFERENCES
+1. Halliday D, Resnick R, Walker J, ``Principles of Physics'',
+   Wiley, 2015.
+2. Tipler P A, Mosca G, ``Physics for Scientists and Engineers with
+   Modern Physics'', WH Freeman, 2007.
+3. Avadhanulu M N, Kshirsagar P G, ``A Textbook of Engineering
+   Physics'', S Chand & Co Ltd, Ninth Revised Edition, 2012.
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO4    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO5    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |

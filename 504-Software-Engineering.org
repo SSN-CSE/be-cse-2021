@@ -7,8 +7,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE         | L | T | P | C |
-| UCS2503 | SOFTWARE ENGINEERING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE         | L | T | P | E | C |
+| UCS2503 | SOFTWARE ENGINEERING | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. New terminlogy like Phases of the SDLC introduced
@@ -81,18 +81,25 @@ After the completion of this course, students will be able to
    (K5).
 
 ** TEXT BOOKS
-1. Roger S Pressman, Bruce R.Maxin ``Software Engineering -- A Practitioner's Approach'', McGraw-Hill International Edition, Eighth Edition, 2015.
-2. Armando Fox and David Patterson , Engineering Software as a  Service: An Agile Approach Using Cloud Computing'', Strawberry Canyon LLC, Second Beta Edition, 2021.
+1. Roger S Pressman, Bruce R Maxin ``Software Engineering -- A
+   Practitioner's Approach'', McGraw Hill International Edition,
+   Eighth Edition, 2015.
+2. Armando Fox and David Patterson, Engineering Software as a
+   Service: An Agile Approach Using Cloud Computing'', Strawberry
+   Canyon LLC, Second Beta Edition, 2021.
 
 ** REFERENCES
-1. Ian Sommerville, ``Software Engineering'', Pearson Education Asia,Tenth Edition, 2015.
-2. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill Publishing Company Limited,2007.
-3. Brian Albee, Hands-On SoftwareEngineering with Python,  Packt Publishing, 2018.
+1. Ian Sommerville, ``Software Engineering'', Pearson Education
+   Asia,Tenth Edition, 2015.
+2. Stephen R Schach, ``Software Engineering'', Tata McGraw-Hill
+   Publishing Company Limited,2007.
+3. Brian Albee, Hands-On Software Engineering with Python, Packt
+   Publishing, 2018.
 4. Kelkar S A,``Software Engineering'', Prentice Hall of India, 2007.
 
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 3 | 0 |

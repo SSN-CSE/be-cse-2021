@@ -1,14 +1,13 @@
-* PE001 MATHEMATICS FOR MACHINE LEARNING
+* 
 :properties:
 :author: R S Milton, T T Mirnalinee
 :date:
 :end:
 
 #+startup: showall
-
-{{{credits}}}
-| L | T | P | C |
-| 3 | 0 | 0 | 3 |
+{{{title-tab}}}
+| CODE    | COURSE TITLE                     | L | T | P | E | C |
+| UMA2542 | MATHEMATICS FOR MACHINE LEARNING | 3 | 0 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
    - To learn the use of linear algebra for framing learning problems

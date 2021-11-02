@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE            | L | T | P | C |
-| UCS2729 | BLOCKCHAIN TECHNOLOGIES | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE            | L | T | P | E | C |
+| UCS2729 | BLOCKCHAIN TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
 
 #+BEGIN_COMMENT
 Modification
@@ -26,23 +26,35 @@ Major Change
 
 {{{unit}}}
 |UNIT I | INTRODUCTION | 9 |
-The growth of blockchain technology -- Distributed Systems -- P2P -- Distributed Legder -- Cryptographically Secure - Generic Element of Blockchain -- Benefits and limitation of blockchain -- Tiers of BT -- Types of Blockchain - Consensus -- CAP Theorem and Blockchain.
+The growth of blockchain technology -- Distributed Systems -- P2P --
+Distributed Legder -- Cryptographically Secure - Generic Element of
+Blockchain -- Benefits and limitation of blockchain -- Tiers of BT --
+Types of Blockchain - Consensus -- CAP Theorem and Blockchain.
 
 {{{unit}}}
 |UNIT II | DECENTRALIZATION | 9 |
-Methods of Decentralization - Routes to Decentralization - Smart Contract - Decentralized Organization - Platforms for Decentralization - Consensus Algorithms
+Methods of Decentralization -- Routes to Decentralization -- Smart
+Contract -- Decentralized Organization -- Platforms for
+Decentralization -- Consensus Algorithms.
 
 {{{unit}}}
-|UNIT III | Cryptocurrencies | 9 |
-Cryptographic Hash Functions -- Cryptography basic and Concepts -- Introduction Bitcoin -- Bitcoin Network and Payments -- Bitcoin clients and APIs -- Alternative Coins.
+| UNIT III | CRYPTOCURRENCIES | 9 |
+Cryptographic Hash Functions -- Cryptography basic and Concepts --
+Introduction Bitcoin -- Bitcoin Network and Payments -- Bitcoin
+clients and APIs -- Alternative Coins.
 
 {{{unit}}}
-|UNIT IV | Distributed Ledgers for Business  | 9 |
-Ethereum: Introduction -- Ethereum Network -- Components -- Programming Languages; Hyperledger: Introduction -- Reference Architecture -- Fabric -- Sawtooth Lake --Corda
+|UNIT IV | DISTRIBUTED LEDGERS FOR BUSINESS  | 9 |
+Ethereum: Introduction -- Ethereum Network -- Components --
+Programming Languages; Hyperledger: Introduction -- Reference
+Architecture -- Fabric -- Sawtooth Lake -- Corda.
 
 {{{unit}}}
-|UNIT V | Blockchain Development Tools and Frameworks | 9 |
-Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle; Languages: Solidity -- Go -- Java -- NodeJS; Blockchain Usecase: Financials -- Insurance - Supply Chain Management -- HealthCare -- IoT
+|UNIT V | BLOCKCHAIN DEVELOPMENT TOOLS AND FRAMEWORKS | 9 |
+Compilers: Solidity Complier -- Ganache -- Metamask -- Truffle;
+Languages: Solidity -- Go -- Java -- NodeJS; Blockchain Usecase:
+Financials -- Insurance - Supply Chain Management -- HealthCare --
+IoT.
 
 \hfill *Total Periods: 45*
 
@@ -76,7 +88,7 @@ After the completion of this course, students will be able to
 3. Tiana Laurence, ``Blockchain for Dummies'' John Wiley & Sons, 2017.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

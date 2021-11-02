@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE        | L | T | P | C |
-| UCS2826 | PARALLEL ALGORITHMS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE        | L | T | P | E | C |
+| UCS2826 | PARALLEL ALGORITHMS | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 - 1. Almost the same as AU 
@@ -54,12 +54,13 @@ String Matching - Text analysis - Pattern Matching - Limits to
 parallelizability - NC-reductions - P-completeness
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to:
-- Understand why communication and coordination are critical to ensure correctness (K2)
-- Understand the parallelism inherent in a simple sequential algorithm (K2)  
-- Apply suitable procedures for parallel algorithms (K3)
-- Apply parallel algorithms for standard problems and applications(K3)
-- Analyse efficiency of different parallel algorithms (K4).
+After the completion of this course, students will be able to
+1. Understand why communication and coordination are critical to
+   ensure correctness (K2)
+2. Understand the parallelism inherent in a simple sequential algorithm (K2)  
+3. Apply suitable procedures for parallel algorithms (K3)
+4. Apply parallel algorithms for standard problems and applications(K3)
+5. Analyse efficiency of different parallel algorithms (K4).
 
 ** TEXT BOOKS
 1. J. Jaja, An Introduction to Parallel Algorithms, Addison Wesley, 1992.

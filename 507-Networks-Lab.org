@@ -9,8 +9,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE | L | T | P |   C |
-| UCS2511 | NETWORKS LAB | 0 | 0 | 3 | 1.5 |
+| CODE    | COURSE TITLE | L | T | P | E |   C |
+| UCS2511 | NETWORKS LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 #+begin_comment
 - 1. Almost the same as AU
@@ -32,7 +32,7 @@ Justifications for comments given by Mr. R.Pradeep -
 - To learn and use simulation tools.
 - To use simulation tools to analyze the performance of various network protocols.
 
-** SUGGESTIVE LAB EXERCISES
+** SUGGESTIVE EXPERIMENTS
 1. Learn to use commands like tcpdump, netstat, ifconfig, nslookup and traceroute. Capture ping and traceroute PDUs using a network protocol analyzer and examine. 
 2. Write applications using TCP sockets like:
    - Echo client and echo server
@@ -70,7 +70,7 @@ Software:\\
    / Equivalent
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 1 | 1 |  1 |  0 |  0 | 2 | 0 | 0 |

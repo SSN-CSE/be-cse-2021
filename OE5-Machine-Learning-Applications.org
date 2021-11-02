@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE | COURSE TITLE                  | L | T | P | C |
-|      | MACHINE LEARNING APPLICATIONS | 2 | 0 | 2 | 3 |
+| CODE    | COURSE TITLE                  | L | T | P | E | C |
+| UCS2045 | MACHINE LEARNING APPLICATIONS | 2 | 0 | 2 | 0 | 3 |
 
 
 ** R2021 CHANGES :noexport:

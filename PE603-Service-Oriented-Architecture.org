@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                  | L | T | P | C |
-| UCS2823 | SERVICE ORIENTED ARCHITECTURE | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                  | L | T | P | E | C |
+| UCS2823 | SERVICE ORIENTED ARCHITECTURE | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.  Unit 4:
@@ -61,18 +61,19 @@ Design of client services -- Design of business process services.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to: 
-- Illustrate XML technologies. (K2)
-- Explain service orientation, benefits of SOA. (K2)
-- Build web services and WS standards. (K3)
-- Apply web services extensions to develop solutions. (K3)
-- Apply service modeling, service oriented analysis and design for application development in teams. (K3).
+Upon the completion of the course the students should be able to 
+1. Illustrate XML technologies (K2)
+2. Explain service orientation, benefits of SOA (K2)
+3. Build web services and WS standards (K3)
+4. Apply web services extensions to develop solutions (K3)
+5. Apply service modeling, service oriented analysis and design for
+   application development in teams (K3).
 
 ** TEXT BOOKS
 1. Thomas Erl, ``Service Oriented Architecture: Concepts, Technology,
    and Design'', Pearson Education, 2005.
-2. Sahankar Kambhampaly, ``Service-Oriented Architecture for Enterprise Applications'', 
-   Wiley India Pvt.Ltd, 2008
+2. Sahankar Kambhampaly, ``Service-Oriented Architecture for
+   Enterprise Applications'', Wiley India Pvt.Ltd, 2008
 
 ** REFERENCES
 1. James McGovern, Sameer Tyagi, Michael E Stevens, Sunil Mathew,
@@ -87,7 +88,7 @@ Upon the completion of the course the students should be able to:
    Services'', Pearson Education, 2005.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |

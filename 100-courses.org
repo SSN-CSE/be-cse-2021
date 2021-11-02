@@ -215,20 +215,20 @@
 
 ** OPEN ELECTIVES OFFERED BY CSE (TO OTHER DEPARTMENTS)
 {{{curriculum-table}}}
-| <5> | <9>  | <50>                                           | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
-|  No | Code | Title                                          | Cat | Hrs |   L |   T |   P | E   |   C |
-|-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |      | *Open Electives 1 (Semester VI)*               |     |     |     |     |     |     |     |
-|   1 | OE1  | Introduction to Data Structures (TCP a)        | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   2 | OE2  | Object Oriented Programming Techniques (TCP a) | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   3 | OE3  | Problem Solving and Programming in C (TCP a)   | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-|     |      | *Open Electives 2 (Semester VIII)*             |     |     |     |     |     |     |     |
-|   4 | OE4  | Introduction to Big Data Analytics (TCP a)     | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   5 | OE5  | Machine Learning Applications (TCP a)          | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|   6 | OE6  | Web Technology (TCP a)                         | OE  |   4 |   2 |   0 |   2 |     |   3 |
-|-----+------+------------------------------------------------+-----+-----+-----+-----+-----+-----+-----|
-
+| <5> | <9>  | <50>                                   | <6> | <5> | <5> | <5> | <5> | <5> | <5> |
+|  No | Code | Title                                  | Cat | Hrs |   L |   T |   P | E   |   C |
+|-----+------+----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |      | *Open Electives 1 (Semester VI)*       |     |     |     |     |     |     |     |
+|   1 | OE1  | Introduction to Data Structures        | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   2 | OE2  | Object Oriented Programming Techniques | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   3 | OE3  | Problem Solving and Programming in C   | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|-----+------+----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+|     |      | *Open Electives 2 (Semester VIII)*     |     |     |     |     |     |     |     |
+|   4 | OE4  | Introduction to Big Data Analytics     | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   5 | OE5  | Machine Learning Applications          | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|   6 | OE6  | Web Technology                         | OE  |   4 |   2 |   0 |   2 |     |   3 |
+|-----+------+----------------------------------------+-----+-----+-----+-----+-----+-----+-----|
+All open electives are Theory-cum-Practical (Lab-integrated Theory).
 
 * SPECIALIZATION
 {{{specialization-table}}}
@@ -237,9 +237,9 @@
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
 |    1 | Big Data Technologies, Software Testing                   | UNIX Internals, Ethical Hacking                                       | Mathematics for Machine Learning, Image Processing and Analysis, Logic Programming      |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
-|    2 | Big Data Management, Software Configuration Management    | Cloud Computing, Cyber Forensics, Internet of Things                  | Probablistic Graphical Models, Natural Language Processing                              |
+|    2 | Big Data Management, Software Configuration Management    | Cloud Computing, Cyber Forensics, Internet of Things                  | Probabilistic Graphical Models, Natural Language Processing                              |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
-|    3 | Object Orineted Analysis and Design                       | Multicore Architectures and Programming, Network and Server Security | Bayesian Data Analysis, Soft Computing, Deep Learning                                   |
+|    3 | Object Oriented Analysis and Design                       | Multicore Architectures and Programming, Network and Server Security | Bayesian Data Analysis, Soft Computing, Deep Learning                                   |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|
 |    4 | User Experience Design                                    | Blockchain Technologies, Embedded systems                             | Social Network Analysis, Reinforcement Learning                                         |
 |------+-----------------------------------------------------------+-----------------------------------------------------------------------+-----------------------------------------------------------------------------------------|

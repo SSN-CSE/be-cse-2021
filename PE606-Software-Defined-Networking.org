@@ -5,8 +5,8 @@
 :end:
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                | L | T | P | C |
-| UCS2827 | SOFTWARE DEFINED NETWORKING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                | L | T | P | E | C |
+| UCS2827 | SOFTWARE DEFINED NETWORKING | 3 | 0 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the need for SDN and it's data plane operations
@@ -44,25 +44,30 @@ Network Virtualization -- OpenDaylight’s Virtual Tenant Network.-- CoSoftware-
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Describe the motivation for SDN and its data plane (K2)
-- Illutrate the functions of control plane (K2)
-- Apply SDN motivations to Networking applications (K3)
-- Describe various operations of Network function virtualization (K2)
-- Explain the concept of network virtualization (K2).
+After the completion of this course, students will be able to 
+1. Describe the motivation for SDN and its data plane (K2)
+2. Illutrate the functions of control plane (K2)
+3. Apply SDN motivations to Networking applications (K3)
+4. Describe various operations of Network function virtualization (K2)
+5. Explain the concept of network virtualization (K2).
 
 ** TEXT BOOKS
 1. William Stallings, ``Foundations of Modern Networking: SDN, NFV,
    QoE, IoT, and Cloud'', Pearson, 1st Edition, 2015.
 
 ** REFERENCES
-1. Thomas D. Nadeau, Ken Gray,``SDN: Software Defined Networks'', O'Reilly Media, 2013.
-2. Fei Hu , ``Network Innovation through OpenFlow and SDN: Principles and Design'', 1st Edition, CRC Press, 2014.
-3. Paul Goransson Chuck Black Timothy Culver, ``Software Defined Networks: A Comprehensive Approach'', 2nd Edition, Morgan Kaufmann Press, 2016.
-4. Oswald Coker, Siamak Azodolmolky,"Software-Defined Networking with OpenFlow", 2nd Edition, O'Reilly Media, 2017.
+1. Thomas D. Nadeau, Ken Gray,``SDN: Software Defined Networks'',
+   O'Reilly Media, 2013.
+2. Fei Hu , ``Network Innovation through OpenFlow and SDN: Principles
+   and Design'', 1st Edition, CRC Press, 2014.
+3. Paul Goransson Chuck Black Timothy Culver, ``Software Defined
+   Networks: A Comprehensive Approach'', 2nd Edition, Morgan Kaufmann
+   Press, 2016.
+4. Oswald Coker, Siamak Azodolmolky,"Software-Defined Networking with
+   OpenFlow", 2nd Edition, O'Reilly Media, 2017.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 |        | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

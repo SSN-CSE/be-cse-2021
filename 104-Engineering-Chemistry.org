@@ -1,0 +1,115 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE          | L | T | P | E | C |
+| UCY2176 | ENGINEERING CHEMISTRY | 3 | 0 | 0 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+To impart knowledge to the students on the basic concepts of chemistry
+and properties of materials for various engineering applications
+
+{{{unit}}}
+| UNIT I | ATOMIC AND MOLECULAR NANO CHEMISTRY | 9 |
+Atoms -- Atomic orbitals, Molecules -- Molecular
+orbitals. Nanoparticles and its uniqueness. Distinction between
+molecules, nanoparticles and bulk materials. Classification of
+nanoparticles. Size dependent Properties -- Thermal, Optical,
+Chemical, Electronic and Mechanical. Synthesis of nanomaterials --
+bottom-up and top-down approaches -- Techniques- Colloidal,
+hydrothermal, electrodeposition, chemical vapour deposition, laser
+ablation. Objectives of surface modification of
+nanoparticles.Synthesis and applications -- Carbon Nano Tubes (CNT) --
+Gold nanoparticle
+
+{{{unit}}}
+| UNIT II | ELECTROCHEMISTRY | 9 |
+Conductivity of electrolytes -- factors influencing conductivity-
+Conductometric titration and its applications -- estimation of strong
+acid, estimation of mixture of strong and weak acids and estimation of
+BaCl_2. Electrochemical cell -- redox reaction -- origin of electrode
+potential, Types of electrodes, Measurement of electrode potential and
+emf of the electrochemical cell -- reference electrode- saturated
+calomel electrode and Ag/AgCl electrode -- Ion selective electrode --
+glass electrode measurement of pH -- Potentiometric titrations --
+estimation of ferrous ion and estimation of strong acid.  Problems
+based on all the above concepts.
+
+{{{unit}}}
+| UNIT III | CORROSION AND ITS CONTROL | 9 |
+Corrosion -- Definition -- Classification of corrosion-Chemical
+corrosion -- Pilling -- Bedworth rule -- electrochemical corrosion --
+different types -- galvanic corrosion -- differential aeration
+corrosion -- factors influencing corrosion -- corrosion control --
+selection of materials - sacrificial anode and impressed current
+cathodic methods -- corrosion inhibitors -- protective coatings --
+paints -- constituents and functions -- metallic coatings --
+electroplating (Au) and electroless (Ni) plating.
+
+{{{unit}}}
+| UNIT IV | PHASE EQUILIBRIA | 9 |
+Phase Rule -- Definition and explanation of terms involved with
+suitable examples -- Phase -- Components -- Degrees of Freedom --
+Applications and limitations of Phase Rule, One component system --
+H_2O Two component systems -- Construction of phase diagram by Thermal
+Analysis (or) Cooling curves -- Condensed Phase Rule -- Simple
+eutectic systems: Pb-Ag system -- System with congruent melting point:
+Zn-Mg -- System with incongruent melting point: Ni-Cd
+
+{{{unit}}}
+| UNIT V | SYNTHESIS AND APPLICATIONS OF INDUSTRIAL POLYMERS | 9 |
+Polymers and Polymerization: definition, classification --
+types of
+polymerization: addition and condensation -- mechanism of addition
+polymerization (cationic, anionic, free radical and coordination
+polymerization)-Properties: Glass Transition temperature, Average
+Molecular weight and its determination by viscosity method. Polymer
+composites (fibre reinforced plastics) -- preparation, properties and
+application of engineering plastics Epoxy resin, Polyurethans, Nylon
+6:6, Polycarbonate, PS, PVC and PET
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+demonstrate an understanding on
+1. The unique properties of nanoparticles and their applications
+2. The principles of electrochemistry and its application for
+   quantitative analysis
+3. The various types of corrosion under normal to severe corrosive
+   environments and their control measures
+4. Construction of phase diagram and its application to analyse simple
+   eutectic Systems
+5. The synthesis, properties and applications of important industrial
+   polymers
+
+** TEXT BOOKS
+1. Jain P C, Monika Jain, ``Engineering Chemistry'', Dhanpat Rai
+   Publishing Company Pvt Ltd, New Delhi, 2015
+2. S S Dara, ``Engineering Chemistry'', S Chand & Co Ltd, New Delhi,
+   2011
+   
+** REFERENCES
+1. T Pradeep, ``NANO: The Essentials: Understanding Nanoscience and
+   Nanotechnology'', 1st edition, McGraw Hill Education, 2017
+2. Gurdeep Raj, ``Phase Rule'', Goel Publishing House, Meerut, 2011.
+3. R Gopalan, K Rangarajan, P S Subramanian, ``Elements of Analytical
+   Chemistry'' Sultan Chand & Sons,2003.
+4. F W Billmayer, ``Textbook of Polymer Science'', 3rd Edison,
+   Wiley, 1991.
+       
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO4    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO5    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+

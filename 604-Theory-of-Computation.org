@@ -6,17 +6,17 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE          | L | T | P | C |
-| UCS2603 | THEORY OF COMPUTATION | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE          | L | T | P | E | C |
+| UCS2603 | THEORY OF COMPUTATION | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 CO-PO mapping later
 #+end_comment
 
 ** COURSE OBJECTIVES
-- To learn the mathematical notations and construct finite automata of the given laguage
+- To learn the mathematical notations and construct finite automata of the given language
 - To understand and infer the relationship of finite automate and regular expressions
-- To understand the language hierarchy, relatinship between context free grammar and its language and to constuct a PDA of CFG.
+- To understand the language hierarchy, relationship between context free grammar and its language and to construct a PDA of CFG.
 - To understand Turing machines and their programming capability
 - To infer the knowledge of undecidable problems.
 
@@ -76,8 +76,8 @@ After the completion of this course, students will be able to
 2. Analyze the relationship between Finite Automata and regular
    expression (K4)
 3. Distinguish the type of grammar, relationship between language to
-   confext free grammar and construction of PDA for the CFG (K4)
-4. Constuct Turing machine for the given Language (K3)
+   context free grammar and construction of PDA for the CFG (K4)
+4. Construct Turing machine for the given Language (K3)
 5. Explain the Decidability or Undecidability of various problems and
    make use of it (K3).
 # - Design a suitable model for the given application (K6)
@@ -97,7 +97,7 @@ After the completion of this course, students will be able to
    Edition, 2004.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |

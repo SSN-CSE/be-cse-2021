@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE  | L | T | P | C |
-| UCS2725 | DEEP LEARNING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE  | L | T | P | E | C |
+| UCS2725 | DEEP LEARNING | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 1. This syllabus was not offered under AU-2017 Regulations for UG.
@@ -140,7 +140,7 @@ Modified the Course outcomes.
    Springer, 2018
    
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping 
+ 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |

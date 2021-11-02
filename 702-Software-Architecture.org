@@ -16,8 +16,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE          | L | T | P | C |
-| UCS2703 | SOFTWARE ARCHITECTURE | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE          | L | T | P | E | C |
+| UCS2703 | SOFTWARE ARCHITECTURE | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. UNIT 4 of R2018 is renamed as Achieving Qulaities in 2021 regulation

@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                     | L | T | P | C |
-| UCS2824 | INFORMATION RETRIEVAL TECHNIQUES | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                     | L | T | P | E | C |
+| UCS2824 | INFORMATION RETRIEVAL TECHNIQUES | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 - 1. Modified 3 units of AU due to content overlapping
@@ -82,17 +82,18 @@ Retrieval -- Online Public Access Catalogs (OPACs).
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Apply the IR modeling techniques for the document retrieval problem
-  and measure the performance of IR systems by making use of IR
-  evaluation metrics (K3)
-- Construct the basic components of an IR system namely indexing and
-  querying (K3)
-- Explain the searching techniques for IR and Web (K2)
-- Apply machine learning techniques to text classification and
-  clustering for efficient Information Retrieval (K3)
-- Develop an IR application by applying best practices with proper documentation in teams.(K4)
-- Explain various IR applications (K2)
+After the completion of this course, students will be able to 
+1. Apply the IR modeling techniques for the document retrieval problem
+   and measure the performance of IR systems by making use of IR
+   evaluation metrics (K3)
+2. Construct the basic components of an IR system namely indexing and
+   querying (K3)
+3. Explain the searching techniques for IR and Web (K2)
+4. Apply machine learning techniques to text classification and
+   clustering for efficient Information Retrieval (K3)
+5. Develop an IR application by applying best practices with proper
+   documentation in teams (K4)
+6. Explain various IR applications (K2).
       
 ** TEXT BOOKS
 1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
@@ -118,7 +119,7 @@ After the completion of this course, students will be able to:
    Management, Types, and Standards'', CRC Press, 2012.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  3 | 3 | 0 | 0 |

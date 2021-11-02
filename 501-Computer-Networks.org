@@ -7,8 +7,8 @@
 # COMPUTER COMMUNICATION ANDNETWORKS
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE      | L | T | P | C |
-| UCS2501 | COMPUTER NETWORKS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE      | L | T | P | E | C |
+| UCS2501 | COMPUTER NETWORKS | 3 | 0 | 0 | 0 | 3 |
  
 #+begin_comment
 - 1. Almost the same as AU
@@ -82,7 +82,7 @@ After the completion of this course, students will be able to
 
 ** TEXT BOOKS 
 1. Behrouz A Forouzan, ``Data Communications and Networking'', 5th
-   Edition TMH, 2013.
+   Edition, Tata McGraw Hill, 2013.
 2. Larry L Peterson, Bruce S Davie, ``Computer Networks: A Systems
    Approach'', 5th Edition, Morgan Kaufmann Publishers, 2012.
 
@@ -101,7 +101,7 @@ After the completion of this course, students will be able to
 
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

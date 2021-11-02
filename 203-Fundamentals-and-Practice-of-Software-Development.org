@@ -6,9 +6,9 @@
 
 #+startup: showall
 
-{{{title-tab}}}
-| CODE    | COURSE TITLE                                      | L | T | P |   C |
-| UCS2201 | FUNDAMENTALS AND PRACTICE OF SOFTWARE DEVELOPMENT | 2 | 1 | 3 | 4.5 |
+{{{tcp-title-tab}}}
+| CODE    | COURSE TITLE                                      | L | T | P | E |   C |
+| UCS2201 | FUNDAMENTALS AND PRACTICE OF SOFTWARE DEVELOPMENT | 2 | 0 | 3 | 3 | 4.5 |
 		
 
 ** COURSE OBJECTIVES
@@ -17,7 +17,7 @@
   systems
 - To motivate independent learning and exploration.
 
-** LECTURES (30 hours)
+** LECTURES
 {{{unit}}}
 | UNIT I | PROGRAM DEVELOPMENT BASICS | 7 |
 Algorithm -- modularity, reusability, maintainability. Software
@@ -74,8 +74,9 @@ Feasibility study -- Cost-Benefit analysis -- Modular and
 architecture Design -- Documentation; Ethics and best
 practices in Engineering.
 #+END_COMMENT
+\hfill  *Lecture Periods: 30*
 
-** LAB ASSIGNMENTS (15 hours)
+** LAB ASSIGNMENTS
 1. Algorithm writing, verification and test case design (1)
 2. Programs using looping constructs
 3. Programs using functions with different parameter passing
@@ -92,8 +93,9 @@ practices in Engineering.
 
 # In all the above assignments, wherever applicable, focus on
 # reflection and introspection on learning outcome.
+\hfill  *Lab Periods: 15*
 
-** STUDIO SESSIONS (15 sessions of 3 hours each)
+** STUDIO SESSIONS
 - /Sample Case Study/: Timetable Management System for an Academic
   Institution
 - /Input/: Set of courses in a semester, Type of courses, Classrooms,
@@ -105,7 +107,9 @@ practices in Engineering.
   - A faculty does not handle more than 2 sessions per day for the same course.
   - A faculty cannot handle more than one class in each session.
 
-\hfill *Total Hours: 30 + 15 + 45 = 90*
+\hfill *Studio Sessions: 15 (3 periods)*
+
+\hfill *Total Periods: 30 + 15 + 45 = 90*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
@@ -124,7 +128,7 @@ After the completion of this course, students will be able to
 7. Solve programming problems using basic constructs in C programming
    language (K3).
 
-** INSTRUCTIONS
+** COMMENT INSTRUCTIONS
 1. Instructor provides the links in Internet, industry links
    and professional magazine articles available in SSN
    library and asks the students to study systems or
@@ -182,10 +186,10 @@ After the completion of this course, students will be able to
 | End sem evaluation by a committee      | Demo  (Innovation, emerging technologies, security, user interface): 40 |                        |        10 |           10 |     20 |
 |----------------------------------------+-------------------------------------------------------------------------+------------------------+-----------+--------------+--------|
 
-** ASSESSMENT
+** COMMENT ASSESSMENT
 | Assessment Tool         | Weight |    |
 |-------------------------+--------+----|
-| /Continous assessment/  |     50 |    |
+| /Continuous assessment/  |     50 |    |
 | CAT 1 (Theory)          |        | 15 |
 | CAT 2 (Theory / Lab)    |        | 15 |
 | Lab work                |        | 20 |
@@ -198,10 +202,10 @@ After the completion of this course, students will be able to
 | Total                   |    100 |    |
 
 #+BEGIN_COMMENT
-| Assessment Tool      | Weightage |     |
+| Assessment Tool      | Weight |     |
 |----------------------+-----------+-----|
 | End semester exam    |       25% |     |
-| Continous assessment |       75% |     |
+| Continuous assessment |       75% |     |
 | Class activity       |           | 10% |
 | Review 1             |           | 10% |
 | Review 2             |           | 15% |
@@ -261,7 +265,7 @@ own logic.
 3 - Proficient
 1 Task 1
 2 Task 2
-Best Practices / Application of fundaments learnt in theory courses
+Best Practices / Application of fundamentals learnt in theory courses
 Suggested by the Instructor
 Could you follow?
 Rate yourself in the scale of 1 to 3

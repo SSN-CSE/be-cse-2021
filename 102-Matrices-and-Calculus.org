@@ -1,0 +1,94 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE          | L | T | P | E | C |
+| UMA2176 | MATRICES AND CALCULUS | 3 | 1 | 0 | 0 | 4 |
+		
+** COURSE OBJECTIVES
+- To reduce quadratic form to canonical form of a matrix and identify its nature
+- To analyse the convergence of infinite series
+- To study the concept of evolute and envelope
+- To find the extreme values for a function of two variables
+- To compute area of closed surface and volume of solids using multiple integrals 
+
+{{{unit}}}
+| UNIT I | MATRICES | 12 |
+Characteristic equation -- Eigenvalues and Eigenvectors of a real
+matrix -- Properties of eigenvalues and eigenvectors, Cayley-Hamilton
+Theorem -- statement and applications, Diagonalization of matrices --
+Similarity transformation -- Quadratic form -- Reduction of a quadratic
+form to canonical form by orthogonal transformation -- Nature of
+quadratic forms.
+
+{{{unit}}}
+| UNIT II | SEQUENCES AND SERIES | 12 |
+Sequences -- Definition and examples, Series -- Types of Convergence,
+Series of positive terms, Tests of convergence -- Comparison test,
+Integral test and D'Alembert's ratio test, Alternating series --
+Leibnitz's test, Series of positive and negative terms, Absolute and
+conditional convergence.
+
+{{{unit}}}
+| UNIT III | APPLICATIONS OF DIFFERENTIAL CALCULUS | 12 |
+Curvature, radius of curvature -- Cartesian and parametric
+co-ordinates -- Centre of curvature -- Circle of curvature in
+Cartesian form, Evolutes, Envelopes (including two parameter family),
+Evolute as envelope of normal.
+
+{{{unit}}}
+| UNIT IV | FUNCTIONS OF SEVERAL VARIABLES | 12 |
+Partial derivatives -- Total derivative -- Differentiation of implicit
+functions -- Jacobian and its properties -- Taylor's series for
+functions of two variables -- Maxima and minima of functions of two
+variables -- Lagrange's method of undetermined multipliers.
+
+{{{unit}}}
+| UNIT V | MULTIPLE INTEGRALS | 12 |
+Double integrals in Cartesian and polar coordinates -- Change of order
+of integration, Area enclosed by plane curves -- Change of variables in
+double integrals, Triple integrals.
+
+\hfill *Total Periods: 60*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Identify the nature of quadratic form by reducing it to canonical form
+2. Analyse the convergence of a given infinite series
+3. Find evolute of a given curve and envelope of family of curves
+4. Find the extrema of function of two variables
+5. Evaluate the double and triple integrals
+
+
+** TEXT BOOKS
+1. Grewal B S, ``Higher Engineering Mathematics'', Khanna Publishers, 44th
+   Edition, 2018.
+2. Erwin Kreyszig, ``Advanced Engineering Mathematics'', John Wiley &
+   Sons, 10th Edition, 2016.
+   
+** REFERENCES
+    1. Bali N P, Manish Goyal, ``A Textbook of Engineering
+       Mathematics'', Ninth Edition, Laxmi Publications Pvt
+       Ltd, 2016.
+    2. James Stewart, ``Calculus: Early Transcendental'', Cengage
+       Learning, New Delhi, 7th Edition, 2013.
+    3. Dass H K, Rajnish Verma, ``Higher Engineering Mathematics'', S
+       Chand Private Ltd, 2011.
+    4. Srimanta Pal, Subodh C Bhunia, ``Engineering Mathematics'',
+       Oxford University Press, 2015.
+       
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO4    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO5    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+

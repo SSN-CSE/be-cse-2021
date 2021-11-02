@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                                 | L | T | P | C |
-| UCS2627 | NATURAL LANGUAGE PROCESSING AND APPLICATIONS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                                 | L | T | P | E | C |
+| UCS2627 | NATURAL LANGUAGE PROCESSING AND APPLICATIONS | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 - 1. Combined Unit 2 and 3 of AU into Unit 2, Unit 4 and 5 of AU into Unit 3 to give emphasis on
@@ -87,7 +87,7 @@ Lexical divergence and typology -- Encoder-Decoder with RNNs --  MT Evaluation;
 #+end_comment
 
 {{{unit}}}
-| UNIT V | NLP Applications | 9 |
+| UNIT V | NLP APPLICATIONS | 9 |
 Sentiment Classification: Naive Bayes classifier -- Optimizing for Sentiment Analysis -- Evaluation; 
 Information Extraction: Relation extraction; Information Retrieval ; IR-based Factoid Question Answering: 
 IR-based QA Datasets -- Answer span extraction; 
@@ -150,7 +150,7 @@ Upon the completion of the course the students should be able to
 
 
 ** CO TO PO/PSO MAPPING 
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |

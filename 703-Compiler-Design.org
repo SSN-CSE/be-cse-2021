@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE    | L | T | P | C |
-| UCS2702 | COMPILER DESIGN | 3 | 0 | 2 | 4 |
+| CODE    | COURSE TITLE    | L | T | P | E | C |
+| UCS2702 | COMPILER DESIGN | 3 | 0 | 2 | 0 | 4 |
 
 
 ** R2021 CHANGES :noexport:   
@@ -79,7 +79,7 @@ Developing plugin in LLVM.
 Added:Introduction to Low Level Virtual Machine (LLVM) - Design of
 LLVM - Core libraries - Developing plugin in LLVM.
  
-Deleted: Peephole optimization - Effcient dataflow algorithm
+Deleted: Peephole optimization - Efficient dataflow algorithm
 
 Suggestion: Saraswathi : 2021: Unit 5 BB, BP, DT - Subject handling staff told that this unit LLVM is new topic and after completing this semester they will give their feedback on LLVM
 
@@ -87,7 +87,7 @@ Suggestion: Saraswathi : 2021: Unit 5 BB, BP, DT - Subject handling staff told t
 
 \hfill *Theory Periods: 45* 
 
-* SUGGESTIVE EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Implementation of Lexical Analyzer using Lex Tool
 2. Implementation of Arithmetic Calculator using LEX and YACC
 3. Generation of TAC for a simple program using LEX and YACC
@@ -101,7 +101,7 @@ table,Implementation of Simple Code Optimization Techniques.#
 Added:Study of LLVM framework.
 
 
-changes: "Consider a simple program as an input andprocess this code to   printthe intermediate code after every phase. It is necessary to   printthe output of lexical, syntax, semantic, intermediate code  generation, code optimization and code generation phases"  replaced with simple program and ex4 is used as co6
+changes: "Consider a simple program as an input and process this code to�  printthe intermediate code after every phase. It is necessary to   printthe output of lexical, syntax, semantic, intermediate code  generation, code optimization and code generation phases"  replaced with simple program and ex4 is used as co6
 #+end_comment
 
 
@@ -158,7 +158,6 @@ Changed: Saraswathi : 2021: RBook 2 year changed from 2003 to 1997   ;  RBook 3 
 #+end_comment
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 3 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 1 | 0 |

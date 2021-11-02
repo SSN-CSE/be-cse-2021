@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                | L | T | P | C |
-| UCS2404 | DATABASE MANAGEMENT SYSTEMS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                | L | T | P | E | C |
+| UCS2404 | DATABASE MANAGEMENT SYSTEMS | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 1. Fifth unit is new unit. All other units are already discussed in AU-2017.
@@ -82,7 +82,7 @@ After the completion of this course, students will be able to
 1. Explain the database concepts and apply ER models to any real
    world applications (K3)
 2. Apply data definition and complex SQL queries (K3)
-3. Identify database schema for a given ptoblem (K3)
+3. Identify database schema for a given problem (K3)
 4. Apply transaction processing, concurrency control and recovery
    mechanisms for practical problems (K3)
 5. Explain the concepts of Distributed and NOSQL databases (K2)
@@ -94,8 +94,8 @@ After the completion of this course, students will be able to
 ** TEXT BOOKS 
 1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
    Systems'', 7th Edition, Pearson, 2016.
-2. Raghu Ramakrishnan, `` Database Management Systems'', 4th Edition, Tata Mc Graw
-   Hill,2010.
+2. Raghu Ramakrishnan, `` Database Management Systems'', 4th Edition,
+   Tata McGraw Hill, 2010.
 
 
 ** REFERENCES
@@ -105,15 +105,15 @@ After the completion of this course, students will be able to
    Management Systems '', (Studies in Computational Intelligence),
    Springer-Verlag, 2007.
 3. Abraham Silberschatz, Henry F Korth, S Sudharshan, ``Database
-   System Concepts'', 6th Edition, Tata Mc Graw Hill, 2011.
-4. Thomas M. Connolly, Carolyn E. Begg, "Database Systems - A Practical Approach 
+   System Concepts'', 6th Edition, Tata McGraw Hill, 2011.
+4. Thomas M Connolly, Carolyn E Begg, "Database Systems - A Practical Approach 
    to Design, Implementation and Management", 6th edition, 2015, Global 
    Edition, Pearson. 
 5. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, "Database
    Systems:The Complete Book", 2e, Pearson.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | O | 0 |

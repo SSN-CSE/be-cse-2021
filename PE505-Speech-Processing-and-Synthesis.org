@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                    | L | T | P | C |
-| UCS2738 | SPEECH PROCESSING AND SYNTHESIS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                    | L | T | P | E | C |
+| UCS2738 | SPEECH PROCESSING AND SYNTHESIS | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 - 1. First three unit contents are changed
@@ -94,14 +94,16 @@ Importance: Role of prosody in speech synthesis.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Illustrate how the speech production is modelled (K2)
-- Experiment the speech signal in time domain (K3)
-- Experiment the speech signal in frequency domain (K3)
-- Develop a speech recognition system using statistical approach (K3)
-- Compare the various methods of speech synthesis (K2).
-- Solve real world speech processing application in teams by choosing suitable frequency and time domain features and applying best practices in programming with a clear    
-  documentation of algorithm and approach(K4)
+After the completion of this course, students will be able to 
+1. Illustrate how the speech production is modelled (K2)
+2. Experiment the speech signal in time domain (K3)
+3. Experiment the speech signal in frequency domain (K3)
+4. Develop a speech recognition system using statistical approach (K3)
+5. Compare the various methods of speech synthesis (K2)
+6. Solve real world speech processing application in teams by choosing
+   suitable frequency and time domain features and applying best
+   practices in programming with a clear documentation of algorithm
+   and approach (K4).
 
 ** TEXT BOOKS
 1. L R Rabiner, R W Schafer, ``Digital Processing of Speech
@@ -125,7 +127,7 @@ After the completion of this course, students will be able to:
    Pearson education, 2013.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 1 |

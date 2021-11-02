@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE       | L | T | P |   C |
-| UCS2311 | DIGITAL DESIGN LAB | 0 | 0 | 3 | 1.5 |
+| CODE    | COURSE TITLE       | L | T | P | E |   C |
+| UCS2311 | DIGITAL DESIGN LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 
 ** R2021 CHANGES :noexport:
@@ -21,7 +21,7 @@
 - To design and implement sequential circuits
 - To understand  and code with HDL programming
 
-** SUGGESTIVE LAB EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 1. Verification of Boolean Theorems using basic gates.
 2. Design and implementation of combinational circuits using basic
    gates for arbitrary functions, code converters.
@@ -42,7 +42,7 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Make Use of boolean simplification techniques to design a
+1. Make Use of Boolean simplification techniques to design a
    combinational circuit (K3)
 2. Build and experiment combinational circuits using MSI devices (K3)
 3. Build and experiment different functional units in a digital
@@ -59,7 +59,6 @@ Software:\\
     1. HDL simulator.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 3 |  2 |  0 |  0 | 3 | 1 | 0 |

@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE               | L | T | P | C |
-| UCS2822 | FORMAL SYSTEM VERIFICATION | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE               | L | T | P | E | C |
+| UCS2822 | FORMAL SYSTEM VERIFICATION | 3 | 0 | 0 | 0 | 3 |
 
 #+begin_comment
 We are not aware of any Program Verification course in Anna University
@@ -68,32 +68,32 @@ KRONOS.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Analyse and compare various model checking algorithms (K3)
-- Construct proofs for partial correctness of simple programs using Hoare logic (K3)
-- State formal properties and specifications in CTL and LTL (K3)
-- Specify and verify simple systems using NuSMV (K3)
-- Specify and verify simple systems using UPPAAL (K3)
+After the completion of this course, students will be able to 
+1. Analyse and compare various model checking algorithms (K3)
+2. Construct proofs for partial correctness of simple programs using Hoare logic (K3)
+3. State formal properties and specifications in CTL and LTL (K3)
+4. Specify and verify simple systems using NuSMV (K3)
+5. Specify and verify simple systems using UPPAAL (K3).
 
 ** TEXTBOOKS
 1. M Huth, M Ryan, ``Logic in Computer Science -- Modeling and
    Reasoning About Systems'', 2nd Edition, Cambridge University
-   Press, 2004. (Units I, II and III)
+   Press, 2004 (Units I, II and III).
 2. Edmund Clarke, Orna Grumberg, Doron Peled, ``Model Checking'',
-   The MIT Press, 1999. (Units III and IV)
+   The MIT Press, 1999 (Units III and IV).
 3. C Baier, J Katoen, ``Principles of Model Checking'', The MIT
-   Press, 2008. (Unit V)
+   Press, 2008 (Unit V).
    
 ** REFERENCES
 1. Michael Clarke, Thomas Henzinger, Helmut Veith, Roderick Bloem,
-   ``Handbook of Model Checking'', Springer 2018
+   ``Handbook of Model Checking'', Springer 2018.
 2. Orna Grumberg, Helmut Veith, ``25 Years of Model Checking: History,
-   Achievements, Perspectives'' Springer-Verlag, 2008
+   Achievements, Perspectives'' Springer-Verlag, 2008.
 3. Zohar Manna, Amir Pnueli, ``Temporal Verification of Reactive
-   Systems: Safety'', Springer-Verlag, 2012
+   Systems: Safety'', Springer-Verlag, 2012.
 4. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rüdiger Olderog,
    ``Verification of Sequential and Concurrent Programs'', Springer,
-   3rd edition, 2009
+   3rd edition, 2009.
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |

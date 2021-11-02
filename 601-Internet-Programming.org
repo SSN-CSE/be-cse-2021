@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE         | L | T | P | C |
-| UCS2601 | INTERNET PROGRAMMING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE         | L | T | P | E | C |
+| UCS2601 | INTERNET PROGRAMMING | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 Changes :noexport:
   - CSS Box Model and JSON were added
@@ -38,7 +38,12 @@
 
 {{{unit}}}
 |UNIT I | WEB ESSENTIALS | 9 |
-Web Essentials: Clients -- Servers -- Communication; HTTP protocol: Request and Response Messages – Functionalities of Web Client and Web Server; Web Server: Vulnerabilities – Attacks & its prevention; HTML5: Table -- List – Image -- Form -- Semantic elements -- CSS3: Types of style sheets – Selectors – Box Model -- Rule cascading -- Inheritance -- Transformations --Transitions -- Animations
+Web Essentials: Clients -- Servers -- Communication; HTTP protocol:
+Request and Response Messages -- Functionalities of Web Client and Web
+Server; Web Server: Vulnerabilities -- Attacks & its prevention; HTML5:
+Table -- List -- Image -- Form -- Semantic elements -- CSS3: Types of
+style sheets -- Selectors -- Box Model -- Rule cascading -- Inheritance
+-- Transformations --Transitions -- Animations
 
 #+BEGIN_COMMENT
 17th March 2021
@@ -50,7 +55,11 @@ Removal
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
-JavaScript: Variables – Data types -- Statements – Function -- Object -- Array -- Built-in objects (String and Date) --  JSON: Parse, Stringify -- Event handling: Form, Mouse and Keyboard events -- DOM: Document tree –  Node object – Document object -- Event handling: Event propagation
+JavaScript: Variables -- Data types -- Statements -- Function -- Object
+-- Array -- Built-in objects (String and Date) -- JSON: Parse,
+Stringify -- Event handling: Form, Mouse and Keyboard events -- DOM:
+Document tree -- Node object -- Document object -- Event handling: Event
+propagation
 
 #+BEGIN_COMMENT
 Removal
@@ -80,7 +89,11 @@ Thought Process
 
 {{{unit}}}
 |UNIT IV | CLIENT SIDE FRAMEWORK | 9 |
-Javascript for ReactJS –- React elements – ReactDOM –- React Components – Mapping Arrays with JSX – Create React App – useState Hook: Refactoring for Advanced Reusability – useEffect Hook: State in component tree, Dependency Array – Rules to follow with hooks -- React router: Incorporation –-Nesting – Parameters
+Javascript for ReactJS -- React elements -- ReactDOM -- React
+Components -- Mapping Arrays with JSX -- Create React App -- useState
+Hook: Refactoring for Advanced Reusability -- useEffect Hook: State in
+component tree, Dependency Array -- Rules to follow with hooks -- React
+router: Incorporation -- Nesting -- Parameters
 
 #+BEGIN_COMMENT
 
@@ -103,7 +116,9 @@ From the above link, we have taken the recent concepts
 
 {{{unit}}}
 |UNIT V | SERVER SIDE FRAMEWORK | 9 |
-Node building blocks: Global objects, Events, Asynchronous Nature – Node and the Web: Server and Client  – Build and the NodeJS using MVC: Routing, Creation of Modules, Views and Controllers
+Node building blocks: Global objects, Events, Asynchronous Nature --
+Node and the Web: Server and Client -- Build and the NodeJS using MVC:
+Routing, Creation of Modules, Views and Controllers
 
 #+BEGIN_COMMENT
 Removal
@@ -118,7 +133,7 @@ Inclusion
 Thought process
       It is a recently developed lightweight sever side framework useful for quick development of web applications
 17th Marsh 2021
-Node building blocks – Learning node 2nd edition
+Node building blocks -- Learning node 2nd edition
 Introducing NPM, Javascript Package Manager  -- Your first week with NodeJS
 https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/
 Node and the Web - Learning node 2nd edition
@@ -159,7 +174,7 @@ After the completion of this course, students will be able to
 
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |

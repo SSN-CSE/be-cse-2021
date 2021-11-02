@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                                           | L | T | P |   C |
-| UCS2512 | MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING LAB | 0 | 0 | 3 | 1.5 |
+| CODE    | COURSE TITLE                                           | L | T | P | E |   C |
+| UCS2512 | MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 ** R2021 CHANGES :noexport:
 1. Serial interface dropped
@@ -25,7 +25,7 @@
 - To design different I/O interfaces with Microprocessors
 - To write Assembly Language Programming for 8051
 
-** SUGGESTIVE LIST OF EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 8086 Programs using kits 
 1. Basic arithmetic and Logical operations
 2. String manipulations
@@ -77,7 +77,7 @@ Software:\\
 
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 2 | 1 | 0 | 0 | 0 | 1 | 3 |  3 |  0 |  0 | 3 | 2 | 1 |

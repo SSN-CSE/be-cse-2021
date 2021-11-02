@@ -7,8 +7,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE             | L | T | P |   C |
-| UCS2611 | INTERNET PROGRAMMING LAB | 0 | 0 | 3 | 1.5 |
+| CODE    | COURSE TITLE             | L | T | P | E |   C |
+| UCS2611 | INTERNET PROGRAMMING LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 #+begin_comment
 - 1. Experiments related to JSP, PHP, XML and web services were
@@ -22,7 +22,7 @@ Application for ReactJS and NodeJS was split into 2 programs
 - To develop web applications using traditional client and server end technologies.
 - To develop web applications using Javascript frameworks.
 
-** SUGGESTIVE LAB EXPERIMENTS
+** SUGGESTIVE EXPERIMENTS
 - Build a web page using Table, Lists, Image and anchor elements. (Ex: Bio-Data)
 - Create website for an International Conference using HTML5 and CSS3 elements.
 - Validate a registration form using Javascript event handling mechanisms.
@@ -55,7 +55,7 @@ Software:\\
 3. Web Server - Tomcat Server
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 3 | 0 | 2 | 0 | 0 | 2 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |

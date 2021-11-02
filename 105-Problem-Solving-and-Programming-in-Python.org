@@ -6,11 +6,11 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                              | L | T | P | C |
-| UGE2176 | PROBLEM SOLVING AND PROGRAMMING IN PYTHON | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                              | L | T | P | E | C |
+| UGE2176 | PROBLEM SOLVING AND PROGRAMMING IN PYTHON | 3 | 0 | 0 | 0 | 3 |
 		
 ** R2021 CHANGES :noexport:
-1. The knowlede level of unit1 was modified from K2 to K3
+1. The knowledge level of unit1 was modified from K2 to K3
 2. Unit1 was reordered
 3. Reference book was added  for the unit1
 
@@ -59,7 +59,7 @@ reverse lookup, dictionaries and lists; Files: Text files, reading and
 writing files, format operator, file names and paths; command line
 arguments.
 
-\hfill *Total Hours:45*
+\hfill *Total Periods:45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
@@ -94,7 +94,7 @@ After the completion of this course, students will be able to
 4. Timothy A. Budd, ``Exploring Python'', Mc-Graw Hill Education
    (India) Private Ltd., 2015.
 5. Kenneth A. Lambert, ``Fundamentals of Python: First Programs'', 2nd
-   Edition, CENGAGE Learning, 2018.
+   Edition, Cengage Learning, 2018.
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |

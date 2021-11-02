@@ -1,0 +1,121 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE      | L | T | P | E | C |
+| UEN2176 | TECHNICAL ENGLISH | 2 | 0 | 2 | 0 | 3 |
+		
+** R2021 CHANGES :noexport:
+1. The knowledge level of unit1 was modified from K2 to K3
+2. Unit1 was reordered
+3. Reference book was added  for the unit1
+
+** COURSE OBJECTIVES
+- To enhance competence in reading comprehension for Science and
+  Technology.
+- To improve the writing proficiency specific to proposals, reports,
+  and letters.
+- To develop speaking skills for technical presentations, GDs and
+  public speaking.
+- To strengthen the listening skills of the students to enable them to
+  listen and comprehend lectures and talks.
+- To strengthen the grammatical competency
+
+{{{unit}}}
+| UNIT I | BASICS OF COMMUNICATION|	9|
+Language development: Subject-Verb Agreement, Tenses (simple),
+Conjunctions, Numerical adjective; Vocabulary development: Root words
+-- Prefixes and Suffixes, Standard abbreviations; Reading:
+Comprehension of short technical texts -- skimming and scanning;
+Writing: Describing an object, the process of an event/experiment and
+others, Paragraph Writing; Listening: Listening for taking notes and
+seeking clarifications (classroom lectures/ ted talks etc); Speaking:
+Self-introduction and introducing others/short conversations in formal
+and informal contexts
+
+{{{unit}}}
+| UNIT II | MAKING PRESENTATIONS | 9 |
+Language development: The pronouns-antecedent agreement,
+Tenses-continuous, If conditionals, Adverbs; Vocabulary development:
+Collocations and fixed expressions, Avoidance of Jargons; Reading:
+Comprehension of longer texts -- (Interpretative and Critical levels
+of meaning); Writing: Writing definitions (single sentence and
+extended), Expository and Persuasive Essays; Listening: Listening
+Comprehension Tasks; Speaking: Making technical presentations.
+
+{{{unit}}}
+| UNIT III | LISTENING TO SPEAK | 9 |
+Language development: Prepositions, Tenses-perfect, Articles, Embedded
+sentences; Vocabulary development: Compound words, Formal and informal
+vocabulary, Reading: Reading reviews, advertisements, SOPs for higher
+studies; Writing: Writing instruction and recommendations, formal and
+informal letters/ emails, Writing SOPs; Listening: Listening to longer
+technical talks and discussion; Speaking: Demonstrating working
+mechanisms.
+
+{{{unit}}}
+| UNIT IV | READING FOR SPEAKING | 9 |
+Language development: Reported speech, Active and Passive voices,
+Framing `Wh' and `Yes' or `No' questions; Vocabulary development:
+Technical vocabulary, Verbal analogies; Reading: Reading industrial
+case studies, interpreting technical text and making notes; Writing:
+Interpreting charts and graphs, writing blogs and vlogs; Listening:
+Listening to telephonic conversations and online interviews; Speaking:
+Participating in group discussions.
+
+{{{unit}}}
+| UNIT V | PROFESSIONAL NEEDS | 9 |
+Language development: Phrasal verbs, clauses, compound and complex
+sentences; Vocabulary development: Single-word substitutes, Vocabulary
+retention strategies; Reading: Reading for IELTS, GER, TOEFL; Writing:
+Writing proposals and reports, writing minutes of the meeting;
+Listening: Listening Skills for Proficiency Tests like IELTS;
+Speaking: Job Interviews (face to face and online) -- basics.
+
+\hfill *Total Periods:45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Read and comprehend texts (technical) effectively
+2. Write proposals, reports, emails, letters, SOPs meeting
+   professional expectations
+3. Improve Vocabulary (use of right collocations, idioms and phrases
+   etc)
+4. Enhance their grammatical competency for writing and speaking
+5. Improve their ability to listen and comprehend at deeper levels.
+
+
+** TEXT BOOKS
+1. Praveen Sam D, Shoba N A, ``Course in Technical English'',
+   Cambridge University Press, New Delhi, 2020.
+   
+** REFERENCES
+1. Sudharshana N P, Saveetha C, ``English for Technical
+   Communication'', Cambridge University Press, New Delhi, 2016.
+2. Raman, Meenakshi, Sharma, Sangeetha, ``Technical Communication
+   Principles and Practice'', Oxford University Press, New
+   Delhi, 2014.
+3. Kumar, Suresh E, ``Engineering English'', Orient Blackswan,
+   Hyderabad, 2015.
+4. Booth L Diana, ``Project Work'', Oxford University Press, 2014.
+5. Grussendorf, Marion, ``English for Presentations'', Oxford
+   University Press, 2007.
+6. Means, L Thomas, Elaine Langlois, ``English and Communication for
+   Colleges'', Cengage Learning, USA, 2007.
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+
+# | Score | 10 | 11 | 6 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 0 | 0 |

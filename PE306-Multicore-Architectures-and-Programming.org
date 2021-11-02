@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                            | L | T | P | C |
-| UCS2726 | MULTICORE ARCHITECTURES AND PROGRAMMING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                            | L | T | P | E | C |
+| UCS2726 | MULTICORE ARCHITECTURES AND PROGRAMMING | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. Same as R2018
@@ -106,7 +106,7 @@ After the completion of this course, students will be able to
    Kaufmann, 2014.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |

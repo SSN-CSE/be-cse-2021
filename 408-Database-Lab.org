@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE | L | T | P |   C |
-| UCS2411 | DATABASE LAB | 0 | 0 | 3 | 1.5 |
+| CODE    | COURSE TITLE | L | T | P | E |   C |
+| UCS2411 | DATABASE LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 ** COURSE OBJECTIVES
 - To understand data definitions and data manipulation commands
@@ -19,7 +19,7 @@
 
 ** SUGGESTIVE EXPERIMENTS
 1. Data Definition Commands 
-   - Creating tables with constraints, constraint voilations
+   - Creating tables with constraints, constraint violations
    - schema modifications
 2. Data Manipulation Commands 
    - Update operations
@@ -70,7 +70,7 @@ Software:\\
 2. Frontend - Netbeans / Java / JDBC
   
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 2 | 2 | 1 | 0 | 0 | 1 | 1 |  1 |  0 |  1 | 2 | 3 | 0 |

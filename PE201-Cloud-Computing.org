@@ -8,8 +8,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE    | L | T | P | C |
-| UCS2621 | CLOUD COMPUTING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE    | L | T | P | E | C |
+| UCS2621 | CLOUD COMPUTING | 3 | 0 | 0 | 0 | 3 |
 
 
 1. Unit 2 was chnaged covering only Virtualization concepts and included practical application to be developed and deployed in Cloud Platform.
@@ -168,7 +168,7 @@ Upon the completion of the course the students should be able to
    Auerbach Publications, 2006.
    
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 2 | 0 |

@@ -1,0 +1,155 @@
+
+Semester I
+Theory
+    1 UEN2176 Technical English	HS	4	2	0	2	3
+    2 UMA2176 Matrices and Calculus	BS	4	3	1	0	4
+    3 UPH2176 Engineering Physics	BS	3	3	0	0	3
+    4 UCY2176 Engineering Chemistry	BS	3	3	0	0	3
+    5 UGE2176 Problem Solving and Programming 
+              in Python	ES	3	3	0	0	3
+    6 UGE2177 Engineering Graphics	ES	5	1	0	4	3
+Practical
+    7 UGS2197 Physics and Chemistry Lab	BS	3	0	0	3	1.5
+    8 UGE2197 Programming in Python Lab	ES	3	0	0	3	1.5
+Total	28	15	1	12	0	22.
+Semester II
+Theory
+    1 UMA2276 Complex Functions and Laplace Transforms	BS	4	3	1	0	4
+    2 UEE2276 Basic Electrical and Electronics Engineering	ES	3	3	0	0	3
+    3 UCS2201 Fundamentals and Practice of Software Development ES	8	2	0	3	3	4.5
+    4 UCY2276 Environmental Science	BS	3	3	0	0	0
+    5         Humanities Elective I	HS	3	3	0	0	3
+    6 UCS2202 Foundations of Data Science	ES	3	3	0	0	3
+Practical
+    7 UGE2297 Design Thinking and Engineering 
+              Practices Lab	ES	3	0	0	3	1.5
+
+Total	27	17	1	6	3	19.
+Semester III
+Theory
+    1 UMA2377 Discrete Mathematics	BS	4	3	1	0	4
+    2 UHS2351 Universal Human Values II	HS	3	3	0	0	3
+    3 UCS2301 Digital Principles and System Design	ES	3	3	0	0	3
+    4 UCS2302 Data Structures	PC	3	3	0	0	3
+Practical
+    7 UCS2312 Data Structures Laboratory	PC	4	0	0	4	2
+    8 UCS2313 Object Oriented Programming Laboratory	PC	3	0	03	1.5
+Total	26	15	1	10	0	21.
+Semester IV
+Theory
+    1 UMA2455 Probability and Statistical Methods	BS	4	3	1	0	4
+    2 UHS2476 Indian Constitution	HS	3	3	0	0	0
+    3 UCS2401 Computer Organization and Architecture	PC	3	3	0	0	3
+    4 UCS2402 Operating Systems	PC	3	3	0	0	3
+    5 UCS2403 Design and Analysis of Algorithms 	PC	5	3	0	2	4
+    6 UCS2404 Database Management Systems	PC	3	3	0	0	3
+Practical
+    7 UCS2412 Operating Systems Laboratory	PC	3	003	1.5
+Theory
+    2 UCS2502 Microprocessors, microcontrollers and InterfacingPC	3	30	0	3
+    3 UCS2504 Foundations of Artificial Intelligence	PC	5	3	0	2	4
+    4 UCS2503 Software Engineering	PC	3	3	0	0	3
+    5 Professional Elective I	PE	3	3	0	0	3
+    6 Management Elective	HS	3	3	0	0	3
+Practical
+    7 UCS2511 Networks Laboratory	PC	3	0	0	3	1.5
+Theory
+    2 UCS2602 Software System Security	PC	3	3	0	0	3
+    3 UCS2604 Principles of Machine Learning	PC	3	3	0	0	3
+    4 UCS2603 Theory of Computation	PC	3	3	0	0	3
+    5 Professional Elective II	PE	3	3	0	0	3
+    6 Open Elective I	OE	3	3	0	0	3
+Practical
+    7 UCS2611Internet Programming Laboratory	PC	3	0	0	3	1.5
+Theory
+    2 UCS2703 Software Architecture 	PC	3	3	0	0	3
+    3 UCS2702 Compiler Design 	PC	5	3	0	2	4
+Continued on next page
+Continued from previous page
+
+No	Code	Title	Cat	Hrs	L	T	P	EL	C
+    4 Professional Elective III	PE	3	3	0	0	3
+    5 Professional Elective IV	PE	3	3	0	0	3
+    6 Professional Elective V	PE	3	3	0	0	3
+Practical
+    7 UCS2717 Project Work Phase I	EEC	6	0	0	6	3
+    8 UCS2716 Industrial Training / Internship	EEC	0	0	0	0	2
+Total	26	18	0	8	0	24
+Semester VIII
+Theory
+    1 Professional Elective VI	PE	3	3	0	0	3
+    2 Open Elective II	OE	3	3	0	0	3
+Practical
+    3 UCS2818 Project Work Phase II	EEC	16	0	0	16	8
+Total	22	6	0	16	0	14
+Grand Total	163
+
+No	Code	Title	Cat	Hrs	L	T	P	EL	C
+
+Professional Elective 1 (V SEM)
+    1 		UMA2542 Mathematics for Machine Learning 1	PE	3	3	0	0	3
+    2 		UCS2521 Big Data Technologies	PE	3	3	0	0	3
+    3 		UCS2522 Software Testing	PE	3	3	0	0	3
+    4 		UCS2523 Image Processing and Analysis	PE	3	3	0	0	3
+    5 		UCS2524 Logic Programming	PE	3	3	0	0	3
+    6 		UCS2525 UNIX Internals	PE	3	3	0	0	3
+    7 		UCS2527 Ethical Hacking and Tools	PE	3	3	0	0	3
+    8 		UCS2526 Advanced Database Management Systems	PE	3	3	0	0	3
+Professional Elective 2(VI SEM)
+    1 		UCS2621 Cloud Computing	PE	3	3	0	0	3
+    2 		UCS2626 Big Data Modeling and Management	PE	3	3	0	0	3
+    3 		UCS2622 Software Configuration Management	PE	3	3	0	0	3
+    4 		UCS2623 Probabilistic Graphical Models	PE	3	3	0	0	3
+    5 		UCS2627 Natural Language Processing and ApplicationsPE	3	30	0	3
+    6 		UCS2624 Cyber Forensics	PE	3	3	0	0	3
+    7 		UCS2625 IoT Technologies 	PE	3	3	0	0	3
+Professional Elective 3 (VII SEM)
+    1 		UCS2721 Bayesian Data Analysis	PE	3	3	0	0	3
+    2 		UCS2722 Wireless and Adhoc Networks	PE	3	3	0	0	3
+    3 		UCS2723 Object Oriented Analysis and Design	PE	3	3	0	0	3
+    4 		UCS2724 Soft Computing	PE	3	3	0	0	3
+    5 		UCS2725 Deep Learning	PE	3	3	0	0	3
+    6 		UCS2726 Multicore Architectures and GPU Computing	PE	3	3	0	0	3
+    7 		UCS2727 Network and Server Security	PE	3	3	0	0	3
+Professional Elective 4 (VII SEM)
+    1 		UCS2739 Healthcare Data Analytics	PE	3	3	0	0	3
+    2 		UCS2728 User Experience Design	PE	3	3	0	0	3
+3		UCS2741 Social Network Analysis and Applications	PE	3	3	0	0	3
+    3 		UCS2735 Principles of Reinforcement Learning	PE	3	3	0	0	3
+    4 		UCS2729 Blockchain Technologies	PE	3	3	0	0	3
+    5 		UCS2736 Embedded System Design	PE	3	3	0	0	3
+    6 		UCS2742 Graphics and Multimedia	PE	3	3	0	0	3
+Professional Elective 5 (VII SEM)
+    1 		UCS2743 Business Intelligence	PE	3	3	0	0	3
+    2 		UCS2731 Agile Methodologies	PE	3	3	0	0	3
+    3 		UCS2732 Time Series Analysis and Forecasting	PE	3	3	0	0	3
+    4 		UCS2737 Computer Vision	PE	3	3	0	0	3
+    5 		UCS2738 Speech Processing and Synthesis	PE	30	0	3
+    6 		UCS2733 Mobile Computing	PE	3	3	0	0	3
+    7 		UCS2734 Mobile and Wireless Security	PE	3	3	0	0	3
+Professional Elective 6(VIII SEM)
+    1 		UCS2821 Bioinformatics Technologies	PE	3	3	0	0	3
+    2 		UCS2822 Formal System Verification	PE	3	3	0	0	3
+    3 		UCS2823 Service Oriented Architecture	PE	3	3	0	0	3
+    4 		UCS2824 Information Retrieval Techniques	PE	3	3	0	0	3
+    5 		UCS2825 Introduction to Robotics	PE	3	3	0	0	3
+    6 		UCS2827 Software Defined Networking	PE	3	3	0	0	3
+    7           UCS2826 Parallel Algorithms	PE	3	3	0	0	3
+
+    1 UEN2241 Language and Communication	HS	3	0	0	0	0	3
+    2 UEN2242 Fundamentals of Linguistics	HS	3	0	0	0	0	3
+    3 UHS2243 Film Appreciation	HS	3	0	0	0	0	3
+    4 UHS2241 Human relations at Work	HS	3	0	0	0	0	3
+    5 UHS2242 Application of Psychology in Everyday Life	HS	3	0	0	0	0	3
+    6 UEN2243 Understanding Society and 
+            culture through                            HS   3      0      0     0      0     3
+                         Literature
+Management Electives
+No	Code	Title	Cat	Hrs	L	T	P	E	C
+    1 	UBA2541 Principles of Management	HS	3	0	0	0	0	3
+  2.	UBA2542 Total Quality Management	HS	3	0	0	0	0	3
+3	UBA2545 Operation Research	HS	3	0	0	0	0	3
+    4   UBA2544 Organization behaviour	HS	3	0	0	0	0	3
+    5   UBA2543 Work, Ethics, Corporate social 
+                                          Responsibility and Governance 
+HS	3	0

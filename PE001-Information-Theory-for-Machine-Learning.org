@@ -1,0 +1,96 @@
+* 
+:properties:
+:author: R S Milton, T T Mirnalinee
+:date:
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                            | L | T | P | E | C |
+| UIT1402 | INFORMATION THEORY AND ITS APPLICATIONS | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To learn fundamentals of random variables
+- To learn Shannon and Renyi entropy
+- To understand error control coding
+- Be familiar with the methods for the generation of these codes and
+  their decoding techniques
+- To apply information theory in the fields of coding, image
+  processing, and machine learning
+
+{{{unit}}}  
+| UNIT I | PROBABILITY | 9 |
+Probability measure -- Conditional probability, Random variable --
+ Probability distribution -- discrete and continuous, density
+ estimation - histogram - Parzen window using Gauaaisn Kernel
+
+{{{unit}}}
+| UNIT II | INFORMATION THEORY FUNDAMENTALS | 9 |
+Introduction to Information Theory -- Probability, Entropy, and
+Inference -- More about Inference
+
+Information Theory: Uncertainty, Shannon's Entropy, Relative Entropy:
+Kullback-Leibler Divergence - Mutual Information - Relationship
+Between Entropy and Mutual Information - Chain Rules for Entropy
+
+{{{unit}}}
+| UNIT III | INFORMATION THEORY AND COMMUNICATION | 9 |
+Source coding: Coding efficiency - Shannon's source coding theorem,
+Lossless compression: Shannon-Fado binary coding - Huffman coding -
+Run length coding Channel coding: Shannon's channel coding theorem,
+Error detection - parity coding, Error correction - cyclic single
+error correcting Hamming code
+
+{{{unit}}}
+| UNIT IV | INFORMATION THEORY AND IMAGE PROCESSING | 9 |
+Digital image: representation, Distance between two images based on
+pixels -- mean square error -- Image histogram -- normalization, Image
+entropy, Distance between two images based on probability -- mean
+square error -- Kullback-Leibler divergence; Image classification
+
+| UNIT V | INFORMATION THEORY AND CLASSIFICATION | 9 |
+Classification using Bayes theorem, Adaptive system, Cost function --
+Mean square error -- Least mean square error - Problems of LMS,
+Entropy as cost function - Minimum error entropy -- Entropy
+maximization
+
+\hfill *Total Periods: 45*
+
+
+** COURSE OUTCOMES
+On successful completion of this course, the student will be able to
+1. Explain and estimate information theory metrics, entropy and cross
+   entropy
+2. Design an application with error control
+3. Apply entropy as a cost function in machine learning algorithms
+4. Make use of MEE in small applications
+
+** TEXT BOOK
+1. Thomas Cover, Joy Thomas, ``Elements of Information Theory'' ,
+   Wiley Inderscience, 2nd Edition, 2006.
+
+** REFERENCES
+1. David J C MacKay, ``Information theory, Inference and Learning
+   Algorithms'', Cambridge University Press, 2005.
+2. Christopher M Bishop, ``Pattern Recognition and Machine Learning'',
+   Springer, 2006.
+3. Monica Borda, ``Fundamentals in Information Theory and Coding'',
+   Springer, 2011.
+4. R C Gonzalez, and R E Woods, ``Digital Image Processing'',
+   Pearson, 2018.
+5. Mark Nelson, ``Data Compression Book'', BPB Publication 1992
+     
+** CO TO PO/PSO MAPPING
+|        | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO2    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO3    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 2 | 0 | 0 |
+| CO4    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO5    | 3 | 2 | 2 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 | 2 | 1 | 2 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+
+#+tblfm: @>>$2..@>>$>='(apply '+ '(@<<..@>>>));N      
+#+tblfm: @>$2..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>>)))(length '(@<<..@>>>))));N      
+# | Score | 15 | 10 | 6 | 5 | 10 | 0 | 0 | 0 | 1 | 5 | 0 | 5 | 14 | 0 | 0 |

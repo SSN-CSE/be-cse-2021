@@ -14,8 +14,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE         | L | T | P |   C |
-| UCS2612 | MACHINE LEARNING LAB | 0 | 0 | 3 | 1.5 |
+| CODE    | COURSE TITLE         | L | T | P | E |   C |
+| UCS2612 | MACHINE LEARNING LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 
 ** COURSE OBJECTIVES
@@ -24,9 +24,9 @@
 - To interpret the various non-linear learning techniques and feature selection methods
 
 
-** List of Exercises
+** SUGGESTIVE EXPERIMENTS
 1. Working with Python packages - Numpy, Scipy, Scikit-learn, Matplotlib
-2. Loan amount prediction using linear regression and visulaize the intrepretation 
+2. Loan amount prediction using linear regression and visualize the interpretation 
 3. Handwritten character recognition using neural networks
 4. Classification of Email spam and MNIST data using Support Vector Machines.
 5. Predicting Diabetes using decision tree
@@ -58,7 +58,7 @@ Software: \\
 - Python
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 1 | 1 |  1 |  0 |  3 | 3 | 1 | 1 |

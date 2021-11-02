@@ -5,8 +5,8 @@
 :end:
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE    | L | T | P | C |
-| UCS1032 | DATA STRUCTURES | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE    | L | T | P | E | C |
+| UCS1032 | DATA STRUCTURES | 3 | 0 | 0 | 0 | 3 |
   
 ** COURSE OBJECTIVES
 - To comprehend the notion of linear and non linear data structures
@@ -81,7 +81,7 @@ After the completion of this course, students will be able to
    Outlines Series), 3rd Edition, Mcgraw Hill Higher Education, 2010.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 2 | 1 | 0 |

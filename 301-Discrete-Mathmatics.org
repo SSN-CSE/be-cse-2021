@@ -14,8 +14,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE         | L | T | P | C |
-| UMA2377 | DISCRETE MATHEMATICS | 3 | 2 | 0 | 4 |
+| CODE    | COURSE TITLE         | L | T | P | E | C |
+| UMA2377 | DISCRETE MATHEMATICS | 3 | 1 | 0 | 0 | 4 |
 
 ** COURSE OBJECTIVES
    - To study the concepts of classical logic, normal forms and its
@@ -96,5 +96,17 @@ After the completion of this course, students will be able to
 5. C L Liu, D P Mohapatra, ``Elements of Discrete Mathematics'', 4th
    Edition, McGraw Higher Education, 2017.
 6. John M Harris, Jeffry L Hirst, Michael J Mossinghoff,
-   ``Combinatorics and Graph Theory'', Springer verlag New
+   ``Combinatorics and Graph Theory'', Springer Verlag New
    York, 2008.
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO2    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO3    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO4    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO5    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+   

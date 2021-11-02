@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE        | L | T | P | C |
-| UCS2312 | DATA STRUCTURES LAB | 0 | 0 | 4 | 2 |
+| CODE    | COURSE TITLE        | L | T | P | E | C |
+| UCS2312 | DATA STRUCTURES LAB | 0 | 0 | 4 | 0 | 2 |
 
 
 ** REVISION 2021                                                   :noexport:
@@ -22,7 +22,7 @@
 ** SUGGESTIVE EXPERIMENTS
 1. Represent polynomial expression as linked list and write functions for polynomial manipulation
 2. Implement doubly linked list ADT (e.g Insert, delete, search, merge, reverse operations)
-3. Implementation of Stack ADT (e.g Balancing paranthesis, infix to postfix conversion, evaluation of postfix expression)
+3. Implementation of Stack ADT (e.g Balancing parenthesis, infix to postfix conversion, evaluation of postfix expression)
 4. Implementation of Queue ADT (e.g Simulating printer jobs)
 5. Implement binary search tree and produce its pre-order, in-order, and post-order traversals
 6. Implement AVL trees (e.g Implement dictionary)  
@@ -54,7 +54,6 @@ Software:\\
     1. C / C++ Compiler 
       
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 0 |  3 |  0 |  1 | 3 | 2 | 0 |

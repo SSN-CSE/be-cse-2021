@@ -7,8 +7,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE             | L | T | P | C |
-| UCS2825 | INTRODUCTION TO ROBOTICS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE             | L | T | P | E | C |
+| UCS2825 | INTRODUCTION TO ROBOTICS | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. Same as R2018
@@ -72,15 +72,14 @@ robotics -- Evolutionary robotics -- Humanoids.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Summarize the concepts of industrial robots(K2)
-- Apply different sensors and actuators for applications like maze solving and self driving cars (K3)
-- Model a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots (K3)
-- Apply the navigation and path planning techniques for robot motion planning (K3)
-- Outline the impact and progress of AI in the field of robotics (K2)
+After the completion of this course, students will be able to 
+1. Summarize the concepts of industrial robots(K2)
+2. Apply different sensors and actuators for applications like maze solving and self driving cars (K3)
+3. Model a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots (K3)
+4. Apply the navigation and path planning techniques for robot motion planning (K3)
+5. Outline the impact and progress of AI in the field of robotics (K2).
 
 ** TEXT BOOKS
-
 1. Roland Siegwart, Illah Reza Nourbakhsh, ``Introduction to
    Autonomous Mobile Robots'', MIT Press, 2011.
 2. Saeed B Niku, ``Introduction to Robotics, Analysis, System,
@@ -99,7 +98,7 @@ After the completion of this course, students will be able to:
 5. Robin Murphy, ``Introduction to AI Robotics'', MIT Press, 2000.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |

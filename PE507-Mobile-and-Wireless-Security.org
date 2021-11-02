@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                 | L | T | P | C |
-| UCS2734 | MOBILE AND WIRELESS SECURITY | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                 | L | T | P | E | C |
+| UCS2734 | MOBILE AND WIRELESS SECURITY | 3 | 0 | 0 | 0 | 3 |
 
 
 ** R2021 CHANGES :noexport:
@@ -61,27 +61,38 @@ process -- iOS security extensions.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to: 
-- Outline the vulnerabilities of wired and wireless networks (K2)
-- Examine the security mechanism followed in Bluetooth, Wi-Fi and Ad Hoc Networks (K3)
-- Compare the security mechanisms of telecommunication networks   (K3)
-- Explain Hardware Security Architectures in mobile devices (K2)
--  Examine the Android and iOS Based Security (K3).
+After the completion of this course, students will be able to 
+1. Outline the vulnerabilities of wired and wireless networks (K2)
+2. Examine the security mechanism followed in Bluetooth, Wi-Fi and Ad Hoc Networks (K3)
+3. Compare the security mechanisms of telecommunication networks   (K3)
+4. Explain Hardware Security Architectures in mobile devices (K2)
+5. Examine the Android and iOS Based Security (K3).
 
    
 ** TEXT BOOKS
-1. Hakima Chaouchi, Maryline Laurent-Maknavicius, ``Wireless and Mobile Network Security- Security Basics, Security in On-the-shelf and Emerging Technologies'',   Wiley-ISTE, June 2009 (Unit I--III).
-2. N. Asokan, Lucas Vincenzo Davi, Alexandra Dmitrienko, Stephan Heuser, Kari Kostiainen, Elena Reshetova, Ahmad-Reza Sadeghi,  ``Mobile Platform Security'', Synthesis Lectures on Information Security, Privacy, and Trust, Morgan &Claypool Publishers, 2013 (Unit IV, V).
+1. Hakima Chaouchi, Maryline Laurent-Maknavicius, ``Wireless and
+   Mobile Network Security- Security Basics, Security in On-the-shelf
+   and Emerging Technologies'', Wiley-ISTE, June 2009 (Unit I--III).
+2. N. Asokan, Lucas Vincenzo Davi, Alexandra Dmitrienko, Stephan
+   Heuser, Kari Kostiainen, Elena Reshetova, Ahmad-Reza Sadeghi,
+   ``Mobile Platform Security'', Synthesis Lectures on Information
+   Security, Privacy, and Trust, Morgan &Claypool Publishers, 2013
+   (Unit IV, V).
 
 ** REFERENCES
-1. Xiao, Yang, Shen, Xuemin Sherman, Du, Ding-Zhu, `` Wireless Network Security'',  Springer, 2007.
-2. Noureddine Boudriga, Security of Mobile Communications, CRC Press, 2019 
-3. Levente Buttyán and Jean-Pierre Hubaux, Security and Cooperation in Wireless Networks, Cambridge University Press, 2012
-4. James Kempf, Wireless Internet Security: Architectures and Protocols, Cambridge University Press, 2010
-5. Patrick Traynor, Patrick McDaniel, and Thomas La Porta, Security for Telecommunications Networks, Springer, 2008
+1. Xiao, Yang, Shen, Xuemin Sherman, Du, Ding-Zhu, `` Wireless Network
+   Security'', Springer, 2007.
+2. Noureddine Boudriga, ``Security of Mobile Communications'', CRC
+   Press, 2019
+3. Levente Buttyan, Jean-Pierre Hubaux, ``Security and Cooperation in
+   Wireless Networks'', Cambridge University Press, 2012
+4. James Kempf, ``Wireless Internet Security: Architectures and
+   Protocols'', Cambridge University Press, 2010
+5. Patrick Traynor, Patrick McDaniel, Thomas La Porta, ``Security for
+   Telecommunications Networks'', Springer, 2008
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

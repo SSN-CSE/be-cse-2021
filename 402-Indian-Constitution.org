@@ -1,0 +1,85 @@
+* 
+:properties:
+:author: Dr. G. Kalpana and Dr. N. Padmapriya
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE        | L | T | P | E | C |
+| UHS2476 | INDIAN CONSTITUTION | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To teach the history and philosophy of the Indian constitution.
+- To summarize the powers and functions of the Indian government.
+- To explain the structure and functions of local administration.
+- To demonstrate the organization and working of the Judiciary.
+- To discuss financial power and emergency provisions.
+
+{{{unit}}}
+| UNIT I | INTRODUCTION | 6  |
+Historical background -- Government of India act -- Indian councils act
+-- Making of the constitution -Philosophy of the Indian constitution --
+Preamble.
+
+{{{unit}}}
+| UNIT II | GOVERNMENT OF THE UNION | 6 |
+Powers and Functions of President and Prime Minister - Council of
+Ministers -- President in relation to his council - Legislature
+structure and functions of Lok Sabha and Rajya Sabha -- Speaker.
+
+{{{unit}}}
+| UNIT III | GOVERNMENTS OF THE STATES AND LOCAL GOVERNMENT | 6 |
+The state executive: General structure -- Governor -- Council of
+ministers -- State legislature.Local government - Panchayat --
+Municipality-- Power authority and responsibilities municipalities.
+
+{{{unit}}}
+| UNIT IV | THE JUDICATURE | 6 |
+Organization and Composition of Judiciary -- Constitution --
+Appointment -- Qualifications -- Powers and functions of the supreme
+court -- High courts -- Control over subordinate courts.
+
+| UNIT V | THE FEDERAL SYSTEM | 6 |
+Distribution of financial powers: Need, principles-Underlaying
+distribution of tax revenues- Distribution of legislative power --
+Interstate relation - Emergency provisions.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+- Understand the history and philosophy of the Indian constitution.
+- Realize the powers and functions of the Indian government.
+- Acquire awareness of the structure and functions of local administration.
+- Enhance knowledge about the organization and composition of the judiciary.
+- Explore the distribution of financial powers and emergency provisions.
+      
+** TEXT BOOKS
+1. Basu D.D, ``Introduction to Indian Constitution'', Prentice Hall of
+   India, New Delhi, 2015.
+2. Gupta D.C, ``Indian Government and Politics'', Vikas Publishing
+   House, New Delhi, 2010.
+
+** REFERENCES
+1. Pylee M V, ``Introduction to the Constitution of India'', Vikas
+   Publishing House, New Delhi, 2011.
+2. Kashyap S, ``Our Constitution'', National Book Trust, New
+   Delhi, 2010.
+3. ``The Constitution of India, 1950 (Bare Act''), Government
+   Publication.
+4. Jain M P, ``Indian Constitution Law'', 7th Edition., Lexis
+   Nexis, 2014.
+5. Busi S N, Ambedkar B R ,``Framing of Indian Constitution'',
+   1stEdition, 2015.
+   
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |

@@ -5,8 +5,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE      | L | T | P | C |
-| UCS2524 | LOGIC PROGRAMMING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE      | L | T | P | E | C |
+| UCS2524 | LOGIC PROGRAMMING | 3 | 0 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To understand the foundations of Logic programming
@@ -113,7 +113,7 @@ After the completion of this course, students will be able to
 
 
 ** CO TO PO/PSO MAPPING 
-#+NAME: co-po-mapping 
+ 
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|

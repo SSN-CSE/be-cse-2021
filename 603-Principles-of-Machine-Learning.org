@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                   | L | T | P | C |
-| UCS2604 | PRINCIPLES OF MACHINE LEARNING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                   | L | T | P | E | C |
+| UCS2604 | PRINCIPLES OF MACHINE LEARNING | 3 | 0 | 0 | 0 | 3 |
 
 #+BEGIN_COMMENT
 - AU title is Machine Learning Techniques

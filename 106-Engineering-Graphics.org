@@ -1,0 +1,124 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE         | L | T | P | E | C |
+| UGE2177 | ENGINEERING GRAPHICS | 1 | 0 | 4 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+- To develop the graphic skills for communication of concepts, ideas
+  and design of engineering products.
+- To expose them to existing national standards related to technical
+  drawings
+
+Concepts and Conventions (Not for Examinations):\\
+Importance of graphics in engineering applications -- Use of drafting
+instruments -- BIS conventions and specifications -- Size, layout and
+folding of drawing sheets -- Lettering and dimensioning.
+  
+{{{unit}}}
+| UNIT I | PLANE CURVES AND FREE HAND SKETCHING | 10 |
+Basic Geometrical constructions, Curves used in engineering practices:
+Conics -- Construction of ellipse, parabola and hyperbola by
+eccentricity method -- Drawing of tangents and normal to the above
+curves. Visualization concepts and Free Hand sketching: Visualization
+principles -- Representation of Three-Dimensional objects -- Layout of
+views- Freehand sketching of multiple views from pictorial views of
+objects.
+
+{{{unit}}}
+| UNIT II | PROJECTION OF POINTS, LINES AND PLANE SURFACES | 15 |
+Orthographic projection principles - Principal planes - First angle
+projection - Layout of views - Projection of points. Projection of
+straight lines (only First angle projections) inclined to both the
+principal planes - Determination of true lengths and true inclinations
+by rotating line method and traces. Projection of planes (polygonal
+and circular surfaces) inclined to both the principal planes by
+rotating object method.
+
+{{{unit}}}
+| UNIT III | PROJECTION OF SOLIDS | 15 |
+Projection of simple solids like prisms, pyramids, cylinder, cone and
+truncated solids when the axis is inclined to one of the principal
+planes by rotating object method.
+
+{{{unit}}}
+| UNIT IV | SECTION OF SOLIDS AND DEVELOPMENT OF SURFACES | 20 |
+Sectioning of above solids in simple vertical position when the
+cutting plane is inclined to the one of the principal planes and
+perpendicular to the other -- obtaining true shape of
+section. Development of lateral surfaces of truncated solids (simple
+position only) -- Prisms, pyramids, cylinders and cones.
+
+{{{unit}}}
+| UNIT V | ISOMETRIC AND PERSPECTIVE PROJECTIONS | 15 |
+Principles of isometric projection -- isometric scale -- Isometric
+projections of simple solids and truncated solids - Prisms, pyramids,
+cylinders, cones- combination of two solid objects in simple vertical
+positions. Perspective projection of simple solids- Prisms, pyramids
+and cylinders by visual ray method.
+
+\hfill *Total Periods: 75*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Draw Plane curves and perform Free hand sketching of three - dimensional objects. (BL: L3)
+2. Draw the Orthographic projections of points, lines and plane surfaces. (BL: L3)
+3. Draw the Projections of solids. (BL: L3)
+4. Draw the Projections of sectioned solids and Development of surfaces. (BL: L3)
+5. Draw the Isometric and Perspective projections of solids. (BL: L3)
+
+
+** TEXT BOOKS
+1. Natarajan K V, ``A Textbook of Engineering Graphics'', Dhanalakshmi
+   Publishers, Chennai, 33rd Edition, 2020 [ISBN: 9788190414089]
+2. Venugopal K, Prabhu Raja V, ``Engineering Graphics'', New Age
+   International (P) Limited, 15th Edition, 2018 [ISBN: 9789386649249]
+   
+** REFERENCES
+1. Bhatt N D, ``Engineering Drawing'', Charotar Publishing House, 53rd
+   Edition, 2014.  [ISBN: 9789380358963]
+2. Basant Agarwal, Agarwal C M, ``Engineering Drawing'', McGraw Hill,
+   3rd Edition, 2019. [ISBN: 9789353167448]
+3. Gopalakrishna K R, ``Engineering Drawing'' (Vol I & II Combined),
+   Subhas Publications, 27th Edition, 2017. [ISBN: 9789383214235]
+4. Luzzader J Warren, Jon M Duff, ``Fundamentals of Engineering
+   Drawing with an introduction to Interactive Computer Graphics for
+   Design and Production'', Pearson Education, 11th
+   Edition, 2005. [ISBN :9789332549982]
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 | 2 | 0 | 0 | 2 | 0 | 0 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 3 | 2 | 2 | 0 | 0 | 2 | 0 | 0 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 3 | 2 | 2 | 0 | 0 | 2 | 0 | 0 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
+| CO4    | 3 | 2 | 2 | 0 | 0 | 2 | 0 | 0 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
+| CO5    | 3 | 2 | 2 | 0 | 0 | 2 | 0 | 0 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 | 2 | 0 | 0 | 2 | 0 | 0 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
+
+** PUBLICATION OF BUREAU OF INDIAN STANDARDS
+1. IS 10711 -- 2001: Technical products Documentation -- Size and lay out of drawing sheets.
+2. IS 9609 (Parts 0 & 1) -- 2001: Technical products Documentation --
+   Lettering.
+3. IS 10714 (Part 20) -- 2001 & SP 46 -- 2003: Lines for technical
+   drawings.
+4. IS 11669 -- 1986 & SP 46 -- 2003: Dimensioning of Technical Drawings.
+5. IS 15021 (Parts 1 to 4) -- 2001: Technical drawings -- Projection
+   Methods.
+
+** SPECIAL POINTS APPLICABLE TO END SEMESTER EXAMINATIONS ON ENGINEERING GRAPHICS
+1. There will be five questions, each of either-or type covering all
+   units of the syllabus.
+2. All questions will carry equal marks of 20 each making a total
+   of 100.
+3. The answer paper shall consist of drawing sheets of A3 size
+   only. The students will be permitted to use appropriate scale to
+   fit solution within A3 size.
+4. The examination will be conducted in appropriate sessions on the
+   same day.

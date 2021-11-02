@@ -8,12 +8,12 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                | L | T | P | C |
-| UCS2202 | FOUNDATIONS OF DATA SCIENCE | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                | L | T | P | E | C |
+| UCS2202 | FOUNDATIONS OF DATA SCIENCE | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. New subject.
-2. All 5 units were revisited and topics were changed from Regualtion 2018.
+2. All 5 units were revisited and topics were changed from Regulation 2018.
 
 
 ** COURSE OBJECTIVES
@@ -25,7 +25,7 @@
   # used for statistical modeling
 - To understand statistical Inferences.
   # used for statistical modeling 
-- To be familar with supervised and unsupervised methods in machine
+- To be familiar with supervised and unsupervised methods in machine
   learning.
 
 
@@ -40,7 +40,7 @@ data -- Cleansing, integrating and transforming data -- Data analysis
 |UNIT II | DATA PREPROCESSING| 9 |
 Data manipulation: Reading and selection -- Filtering missing data -- Sorting -- Grouping -- Ranking and plotting; 
 Introduction to Python; Fundamental Python Libraries for Data Scientists : Numpy -- Scipy -- ScikitLearn -- Pandas -- Matplotlib;
-IDE; Data Manipulation with Pandas; Sample programs to pre-process and visulaize data.
+IDE; Data Manipulation with Pandas; Sample programs to pre-process and visualize data.
 
 {{{unit}}}
 |UNIT III | DESCRIPTIVE STATISTICS | 8 |
@@ -93,13 +93,12 @@ After the completion of this course, students will be able to
 1. Davy Cielen, Arno D B Meysman, Mohamed Ali, ``Introducing Data
    Science -- Big data, Machine Learning, and more using Python
    tools'', Manning Publications Co, 2016. (Unit I)
-2. Laura Igual, Santi SeguaÂ­, ``Introduction to Data Science -- A
+2. Laura Igual, Santi Segua­, ``Introduction to Data Science -- A
    Python Approach to Concepts, Techniques and Applications'',
    Springer Nature, 2017 (Unit I, II, III, IV, V)
 #+end_comment
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 1 | 1 | 0 | 0 | 0 | 1 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

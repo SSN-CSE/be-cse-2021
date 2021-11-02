@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE      | L | T | P | C |
-| UCS2402 | OPERATING SYSTEMS | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE      | L | T | P | E | C |
+| UCS2402 | OPERATING SYSTEMS | 3 | 0 | 0 | 0 | 3 |
 
 
 ** R2021 CHANGES :noexport:
@@ -15,7 +15,7 @@
 2. I/O Systems in Unit IV removed.
 
 #+begin_comment
-  1. As the course is focussed towards fundamental resource handling strategies, advanced techniques suggested like RELRO and ASLR are not included
+  1. As the course is focused towards fundamental resource handling strategies, advanced techniques suggested like RELRO and ASLR are not included
   2. Since there exists a specific course on security in a higher semester, inclusion of security perspectives for operating systems theory and lab would be too early for second-year students
 #+end_comment
 
@@ -105,7 +105,7 @@ After the completion of this course, students will be able to
 
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |

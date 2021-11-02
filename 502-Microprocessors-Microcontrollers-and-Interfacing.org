@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                                       | L | T | P | C |
-| UCS2502 | MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                                       | L | T | P | E | C |
+| UCS2502 | MICROPROCESSORS, MICROCONTROLLERS, AND INTERFACING | 3 | 0 | 0 | 0 | 3 |
  
 #+begin_comment
 - 1. Almost the same as AU
@@ -87,18 +87,18 @@ After the completion of this course, students will be able to
    problem in teams by applying best practices of system design (K3).
 
 ** TEXT BOOKS
- 1. Doughlas V Hall, ``Microprocessors and Interfacing, Programming
-    and Hardware'', TMH, 2012.
+ 1. Douglas V Hall, ``Microprocessors and Interfacing, Programming and
+    Hardware'', Tata McGraw Hill, 2012.
  2. Mohamed Ali Mazidi, Janice Gillispie Mazidi, Rolin McKinlay, ``The
     8051 Microcontroller and Embedded Systems: Using Assembly and C'',
-    2nd Edition, Pearson education, 2011.
+    2nd Edition, Pearson Education, 2011.
  
 ** REFERENCES
 1. Yu-Cheng Liu, Glenn A Gibson, ``Microcomputer Systems: The
    8086/8088 Family - Architecture, Programming and Design'', 2nd
    Edition, Prentice Hall of India, 2007.
 2. A K Ray, K M Bhurchandi,``Advanced Microprocessors and
-   Peripherals'', 3rd edition, Tata McGrawHill, 2012.
+   Peripherals'', 3rd edition, Tata McGraw Hill, 2012.
 3. Barry B Bray, ``The Intel Micro processor
    8086/8088,80186,80286,80386 and 80486 - Arcitecture, Programming
    and Interfacing'', 8th Edition, PHI, 2011.
@@ -110,8 +110,8 @@ After the completion of this course, students will be able to
 
 
 ** CO TO PO/PSO MAPPING                                           
-#+NAME: co-po-mapping
-| PO/PSo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
 | CO2    | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |

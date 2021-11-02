@@ -1,0 +1,131 @@
+* 
+:properties:
+:author: Dr. G. Kalpana and Dr. N. Padmapriya
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE           | L | T | P | E | C |
+| UHS2351 | UNIVERSAL HUMAN VALUES | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To help students distinguish between values and skills, and
+  understand the need, basic guidelines, content and process of value
+  education.
+- To help students initiate a process of dialogue within themselves to
+  know what they ‘want to be in their life and profession
+- To help students understand the meaning of happiness and prosperity
+  for a human being.
+- To facilitate the students to understand harmony at all the levels
+  of human living, and live accordingly.
+- To facilitate the students in applying the understanding of harmony
+  in existence in their profession and lead an ethical life Course
+
+{{{unit}}}
+| UNIT I | INTRODUCTION TO    VALUE   EDUCATION | 9 |
+Value Education -- Need, Basic Guidelines, Content and Process,
+Self-Exploration -- meaning, importance and process, Continuous
+Happiness and Prosperity -- A look at basic Human Aspirations, Right
+understanding, Relationship and Physical Facilities -- The basic
+requirements, Understanding Happiness and Prosperity -- A critical
+appraisal of the current scenario, Method to fulfil the above human
+aspirations -- UNDERSTANDING and living in harmony at various levels.
+
+{{{unit}}}
+| UNIT II | HARMONY IN THE HUMAN BEING | 9 |
+An understanding human being as a co-existence of the sentient `I' and
+the material `Body', Understanding the needs of Self (`I') and `Body'
+-- Sukh and Suvidha, Understanding the Body as an instrument of `I' (I
+being the doer, seer and enjoyer), Understanding the characteristics
+and activities of `I' and harmony in `I', Understanding the harmony of
+I with the Body: Sanyam and Swasthya; correct appraisal of Physical
+needs, the meaning of Prosperity in detail, Programs to ensure Sanyam
+and Swasthya.
+
+{{{unit}}}
+| UNIT III | HARMONY IN THE FAMILY AND SOCIETY | 9 |
+Understanding harmony in the family -- The basic unit of human
+interaction, understanding values in a human-to-human relationship;
+Understanding Trust -- The foundational value in relationship,
+Difference between intention and competence, Understanding Respect --
+as the right evaluation, Difference between respect and
+differentiation; the other salient values in a relationship,
+Understanding the harmony in the society -- comprehensive Human Goals,
+Visualizing a universal harmonious order in society-- Undivided
+Society, Universal Order -- From family to world family!
+
+{{{unit}}}
+| UNIT IV | HARMONY IN NATURE AND EXISTENCE | 9 |
+Understanding the harmony in Nature, Interconnectedness,
+self-regulation and mutual fulfilment among the four orders of nature
+-- recyclability, Understanding Existence as Coexistence of mutually
+interacting units in all-pervasive space, Holistic perception of
+harmony at all levels of existence.
+
+{{{unit}}}
+| UNIT V | IMPLICATIONS OF THE ABOVE HOLISTIC UNDERSTANDING OF HARMONY ON PROFESSIONAL ETHICS | 9 |
+Natural acceptance of human values, Definitiveness of Ethical Human
+Conduct, Basis for Humanistic Education, Humanistic Constitution and
+Humanistic Universal Order, Competence in Professional Ethics --
+augmenting universal human order, the scope and characteristics of
+people-friendly and eco-friendly, Holistic Technologies, production
+systems and management models -- Case studies, Strategy for the
+transition from the present state to Universal Human Order -- At the
+level of individual: as socially and ecologically responsible
+engineers, technologists and managers, At the level of society: as
+mutually enriching institutions and organizations.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+- Understand the significance of value inputs in a classroom,
+  distinguish between values and skills, understand the need, basic
+  guidelines, content and process of value education, explore the
+  meaning of happiness and prosperity and do a correct appraisal of
+  the current scenario in the society.
+- Distinguish between the Self and the Body, understand the meaning of
+  Harmony in the Self the Co-existence of Self and Body.
+- Understand the value of harmonious relationship based on trust,
+  respect and other naturally acceptable feelings in human-human
+  relationships and explore their role in ensuring a harmonious
+  society.
+- Understand the harmony in nature and existence, and work out their
+  mutually fulfilling participation in nature.
+- Distinguish between ethical and unethical practices, and start
+  working out the strategy to actualize a harmonious environment
+  wherever they work.
+      
+** TEXT BOOKS
+1.  R R Gaur, R Sangal, G P Bagaria, ``A Foundation Course in Human
+   Values and Professional Ethics'', Excel Books, New Delhi, 2nd Revised
+   Edition, 2019.
+   
+** REFERENCES
+1. A Nagaraj, ``Jeevan Vidya: Ek Parichaya'', Jeevan Vidya Prakashan,
+   Amarkantak, 1999.
+2. A N Tripathi, ``Human Values'', New Age Intl Publishers, New
+   Delhi, 2004.
+3. ``The Story of Stuff'' (Book).
+4. Mohandas Karamchand Gandhi, ``The Story of My Experiments with Truth''.
+5. E F Schumacher, ``Small is Beautiful'' 
+6. Cecile Andrews, ``Slow is Beautiful'' 
+7. J C Kumarappa, ``The Economy of Permanence'' 
+8. Pandit Sunderlal, ``Bharat Mein Angreji Raj''
+9. Dharampal, ``Rediscovering India'' 
+10. Mohandas K Gandhi, ``Hind Swaraj or Indian Home Rule'' 
+11. Maulana Abdul Kalam Azad, ``India Wins Freedom'' 
+12. Romain Rolland, ``Vivekananda''  (English)
+13. Romain Rolland, ``Gandhi''  (English)
+              
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 |  2 |  0 |  3 | 1 | 1 | 1 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 |  2 |  0 |  3 | 1 | 1 | 1 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 |  2 |  0 |  3 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 |  2 |  0 |  3 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 |  2 |  0 |  3 | 1 | 1 | 1 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 3 | 3 |  2 |  0 |  3 | 1 | 1 | 1 |

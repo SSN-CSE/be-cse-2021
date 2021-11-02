@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                      | L | T | P | C |
-| UCS2403 | DESIGN AND ANALYSIS OF ALGORITHMS | 3 | 0 | 2 | 4 |
+| CODE    | COURSE TITLE                      | L | T | P | E | C |
+| UCS2403 | DESIGN AND ANALYSIS OF ALGORITHMS | 3 | 0 | 2 | 0 | 4 |
 
 ** R2021 CHANGES :noexport:
 1. Brute force dropped
@@ -75,7 +75,7 @@ problem -- Knapsack problem.
 1. Iterative and recursive algorithms using decrease-and-conquer
 2. Backtracking: subset sum, N-queeens
 3. Divide-and-conquer: Mergesort, Quicksort 
-4. Dynamic Programming: Longest Increasing Subsequene, Floyd-Warshall
+4. Dynamic Programming: Longest Increasing Subsequence, Floyd-Warshall
 5. Greedy: Prim's, Dijkstra's
 6. Iterative improvement: Stable matching, Network flow
 7. Branch and Bound: Knapsack

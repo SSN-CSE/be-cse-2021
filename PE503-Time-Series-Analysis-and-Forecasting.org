@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE                         | L | T | P | C |
-| UCS2732 | TIME SERIES ANALYSIS AND FORECASTING | 3 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                         | L | T | P | E | C |
+| UCS2732 | TIME SERIES ANALYSIS AND FORECASTING | 3 | 0 | 0 | 0 | 3 |
 
 
 ** COURSE OBJECTIVES
@@ -57,24 +57,36 @@ Cross-Correlation Function -- Model Specification -- Forecasting with
 Transfer Function–Noise Models -- Intervention Analysis.
 
 ** COURSE OUTCOMES
-Upon completion of the course, the student should be able to:
-- Illustrate the statistical background for forecasting (K2)
-- Compare various models for regression analysis and forecasting (K3)
-- Apply the exponential Smoothing Methods to time series data (K3)
-- Build timeseries Autoregressive Integrated Moving Average(Arima) models (K3)
-- Make use of transfer functions in time series modelling (K3)
-- Analyze the given problem and perform Regression Analysis or Time Series Analysis for prediction and forecasting problems choosing appropriate techniques and applying best practices specific to the problem in a systematic approach  (K4)
+Upon completion of the course, the student should be able to
+1. Illustrate the statistical background for forecasting (K2)
+2. Compare various models for regression analysis and forecasting (K3)
+3. Apply the exponential Smoothing Methods to time series data (K3)
+4. Build timeseries Autoregressive Integrated Moving Average(Arima)
+   models (K3)
+5. Make use of transfer functions in time series modelling (K3)
+6. Analyze the given problem and perform Regression Analysis or Time
+   Series Analysis for prediction and forecasting problems choosing
+   appropriate techniques and applying best practices specific to the
+   problem in a systematic approach (K4).
       
 ** TEXT BOOKS
-1. Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci, ``Introduction to Time Series Analysis and Forecasting'',
-   2nd Edition, Wiley, 2015.
+1. Douglas C. Montgomery, Cheryl L. Jennings, Murat Kulahci,
+   ``Introduction to Time Series Analysis and Forecasting'', 2nd
+   Edition, Wiley, 2015.
 
 ** REFERENCES
-1. Peter J. BrockwellRichard A. Davis, ``Introduction to Time Series and Forecasting'', 2ndh Edition, Springer, 2010.
-2. George E. P. Box, Gwilym M. Jenkins, Gregory C. Reinsel, Greta M. Ljung, ''Time Series Analysis: Forecasting and Control'', 5th Edition, Wiley, 2015
-3. Robert Yaffee, Monnie McGee, ''An Introduction to Time Series Analysis and Forecasting'', 1st Edition, Elsevier, 2000
-4. Aileen Nielsen, ''Practical Time Series Analysis'', O'Reilly , Elsevier, 2019
-5. Shmueli, G., and K. C. Lichtendahl, Jr., ''Practical Time Series Forecasting with R: A Hands-On Guide'', Axelrod Schnall Publisher, 2015.
+1. Peter J Brockwell, Richard A Davis, ``Introduction to Time Series
+   and Forecasting'', 2ndh Edition, Springer, 2010.
+2. George E P Box, Gwilym M Jenkins, Gregory C. Reinsel, Greta
+   M. Ljung, ''Time Series Analysis: Forecasting and Control'', 5th
+   Edition, Wiley, 2015
+3. Robert Yaffee, Monnie McGee, ''An Introduction to Time Series
+   Analysis and Forecasting'', 1st Edition, Elsevier, 2000
+4. Aileen Nielsen, ''Practical Time Series Analysis'', O'Reilly ,
+   Elsevier, 2019
+5. Shmueli G,  K C Lichtendahl Jr, ''Practical Time Series
+   Forecasting with R: A Hands-On Guide'', Axelrod Schnall
+   Publisher, 2015.
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |

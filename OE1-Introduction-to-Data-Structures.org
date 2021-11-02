@@ -5,8 +5,8 @@
 :end:
 
 {{{title-tab}}}
-| CODE | COURSE TITLE                    | L | T | P | C |
-|      | INTRODUCTION TO DATA STRUCTURES | 2 | 0 | 2 | 3 |
+| CODE    | COURSE TITLE                    | L | T | P | E | C |
+| UCS2041 | INTRODUCTION TO DATA STRUCTURES | 2 | 0 | 2 | 0 | 3 |
 
 
 ** COURSE OBJECTIVES
@@ -84,7 +84,7 @@ After the completion of this course, students will be able to
    Outlines Series), Mcgraw Hill Higher Ed,3rd Edition, 2010.
 
 ** CO TO PO/PSO MAPPING
-#+NAME: co-po-mapping 
+ 
 |        | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 2 | 3 | 2 | 2 | 0 | 0 | 0 | 1 | 0 |  0 |  0 |  2 | 0 | 0 | 0 |
