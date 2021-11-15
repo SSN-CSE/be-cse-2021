@@ -1,0 +1,87 @@
+*  
+:properties:
+:author: Dr. J Suresh and Dr. Y. V. Lokeswari
+:date: 11-06-2021
+:author: Dr. J Suresh and Dr. Y. V. Lokeswari
+:date: 27-03-2021
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE      | L | T | P | E | C |
+| UHS2243 | FILM APPRECIATION | 2 | 0 | 2 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To introduce students to the development of film as an art and entertainment form
+- To discuss the language of cinema as it evolved over a century
+- To enable the students to read the script of a film and appreciate the various nuances
+- To enable students, understand the evolution of film industry from the past to present
+- To guide the students to study films joyfully and appreciate all aspects of the film.
+
+{{{unit}}}
+| UNIT I | THE COMPONENT OF FILMS | 9 |
+- The material and equipment
+- The story, screenplay and script
+- The actors, crew members, and the director
+- The process of filmmaking
+
+{{{unit}}}
+| UNIT II | EVOLUTION OF FILM LANGUAGE | 9 |
+- Film language, form, movement etc.
+- Early cinema - silent film (Particularly French) 
+- The emergence of feature films: Birth of a Nation Talkies 
+- Films and their influence on the language of people			       
+
+{{{unit}}}
+| UNIT III | FILM APPRECIATION  | 9 |
+- Realist theory; Auteurists     
+- Psychoanalytic, Ideological, Feminists 
+- How to read films?
+- Film Criticism / Appreciation 
+
+{{{unit}}}
+| UNIT IV | DEVELOPMENT OF FILMS  | 9 |
+- Representative Soviet films
+- Representative Japanese films
+- Representative Italian films
+- Representative Hollywood film and the studio stem 
+
+{{{unit}}}
+| UNIT V | INDIAN FILMS  | 9 |
+- The early era
+- The important films made by the directors E-3: The regional films
+- The documentaries in India 
+- The Indian Film Industry and the Hollywood
+- The impact of Films on students in India.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to understand
+1. The process of	the development of film as an art and entertainment form. 
+2. The evolution of the language of cinema as it evolved over a century. 
+3. The script writing techniques of a film and appreciate the various nuances. 
+4. The evolution of film industry from the past to present
+5. How to appreciate all aspects of the film.
+
+** TEXT BOOKS
+1. Jim Piper, ``The Film Appreciation Book: The Film Course You Always
+   Wanted to Take'', Allworth Press, New York, 2014.
+
+** REFERENCES
+1. Stanley Cavell, ``The World Viewed: Reflections on the Ontology of
+   Film'', Enlarged Edition, Harvard University Press, 1979.
+2. Joseph M Boggs, Dennis W Petrie, ``The Art of Watching Films'',
+   McGraw Hill, 2006.
+3. Bernard F Dick, ``Anatomy of Film'', St Martins Press, 1990.
+4. Jan Bone, Ron Johnson, ``Understanding the Film: An Introduction to
+   Film Appreciation''
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |

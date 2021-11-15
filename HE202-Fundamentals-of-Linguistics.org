@@ -1,0 +1,93 @@
+*  
+:properties:
+:author:
+:date: 
+:author:
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                | L | T | P | E | C |
+| UEN2242 | FUNDAMENTALS OF LINGUISTICS | 2 | 0 | 2 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To introduce the students to Linguistics (the scientific study of language)
+- To explore some basic issues and questions related to language such
+  as what do we know when we know a language
+- To discover the relation between language and brain, language and society
+- To understand how a child learns a language, how the languages of
+  the world are similar as well as different, how we can analyze
+  language as a structure, etc.
+- To provide students to a brief outline of language studies in Indian
+  and western tradition and many applications of linguistics in
+  different fields.
+
+{{{unit}}}
+| UNIT I | DEFINING LANGUAGE  | 9 |
+- What is language and where is language?
+  - Language is a means of communication, a social product
+  - Language is a cognitive ability, relation between language and brain
+- Study of Language in Indian and western traditions
+
+{{{unit}}}
+| UNIT II | AN INSIGHT INTO LINGUISTICS | 9 |
+- What is Linguistics and what is not Linguistics?
+  - Linguistics is not prescriptive grammar learnt in the school
+  - Linguistics is not learning of many languages
+  - Linguistics provides tools to analyze language structure scientifically
+
+{{{unit}}}
+| UNIT III | FORM AND FUNCTION  | 9 |
+- Levels of Language Analysis: Form and content
+  - Sound
+  - Word
+  - Sentence
+  - Meaning
+- Similarities and differences of languages
+
+{{{unit}}}
+| UNIT IV | APPLICATIONS  | 9 |
+- Applications of Linguistics
+  - Natural Language Processing
+  - Clinical Linguistics
+  - Psycholinguistics etc.
+
+{{{unit}}}
+| UNIT V | IMPACT ON CAREER  | 9 |
+- Impact of linguistics on one's career
+  - An understanding of Linguistics for better use of language
+  - Language and personality development
+  - Linguistic features specific to Engineers.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+1. Understand what is linguistics
+2. Explore some basic issues and questions related to language 
+3. Understand the subtle difference between the use of English in Indian and western tradition.
+4. Familiarize themselves with the unique features of language in technology
+5. Understand the basics of how children acquire languages
+
+** TEXT BOOKS
+1. Raj Kumar Sharma, ``Fundamentals of Linguistics'', Atlantic
+   Publishers, Chennai, 2019.
+  
+** REFERENCES
+1. Thomas Herbst, ``English Linguistics: A Coursebook for Students of
+   English'', De Gruyter Mouton Publication, Germany, 2010.
+2. Victoria A Fromkin (ed), ``Linguistics: An Introduction to
+   Linguistic Theory'', Blackwell Publishers, USA, 2001.
+3. Jeff Connor, Linto, Ralph W Fasold, ``An Introduction to Language
+   and Linguistics'', Cambridge University Press, 2014.
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+

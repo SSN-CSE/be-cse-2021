@@ -1,0 +1,106 @@
+*  
+:properties:
+:author:
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                                                | L | T | P | E | C |
+| UBA2543 | WORK ETHICS, CORPORATE SOCIAL RESPONSIBILITY AND GOVERNANCE | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To impart the value of professional practices with code of conduct and ethical values
+- To discuss the various outlooks of roles and responsibilities with work ethics.
+- To introduce the Indian constitutional statutes for ethical practices by citizens
+- To analyze the ethical commitments to be hold by industry with protecting environment
+- To insist on corporate and social responsibilities through Governance practices and regulation
+
+{{{unit}}}
+| UNIT I | INTRODUCTION | 9 |
+Ethics - Definition & nature, Characteristics, Attributes of Ethics -
+Business Ethics; Ethical theories; Causes of unethical behavior;
+Ethical abuses; Work ethics; Code of conduct; Public good.
+
+{{{unit}}}
+| UNIT II | ETHICS THEORY AND BEYOND | 9 |
+Management of Ethics - Ethics analysis [ Hosmer model ]; Ethical
+dilemma; Ethics in practice - ethics for managers; Role and function
+of ethical managers - Comparative ethical behaviour of managers; Code
+of ethics; Competitiveness, organizational size, profitability and
+ethics; Cost of ethics in Corporate ethics evaluation.
+
+{{{unit}}}
+| UNIT III | LEGAL ASPECTS OF ETHICS | 9 |
+Political - legal environment; Provisions of the Indian constitution
+pertaining to Business; Political setup - major characteristics and
+their implications for business; Prominent features of MRTP
+&FERA. Social - cultural environment and their impact on business
+operations, Salient features of Indian culture and values.
+
+{{{unit}}}
+| UNIT IV | ENVIRONMENTAL ETHICS | 9 |
+Economic Environment; Philosophy of economic grow and its implications
+for business, Main features of Economic Planning with respect to
+business; Industrial policy and framework of government contract over
+Business; Role of chamber of commerce and confederation of Indian
+Industries.
+
+{{{unit}}}
+| UNIT V | CORPORATE SOCIAL RESPONSIBILITY AND GOVERNANCE | 9 |
+Definition- Evolution- Need for CSR; Theoretical perspectives;
+Corporate citizenship; Business practices; Strategies for CSR;
+Challenges and implementation; Evolution of corporate governance;
+Governance practices and regulation; Structure and development of
+boards; Role of capital market and government; Governance ratings;
+Future of governance- innovative practices; Case studies with lessons
+learnt.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+1. Understand ethical issues in workplace and have good practices in
+   professional duties
+2. Learn roles and responsibilities in professional career as a team
+   worker
+3. Understand the legal aspects in Indian constitutional for
+   protection of societal values
+4. Analyze the economical development by industry with importance to
+   environment protection
+5. Understand need of good Governance in a corporate with ethical
+   organizational behavior.
+
+** TEXT BOOKS
+1. S A Sherlekar, ``Ethics in Management'', Himalaya Publishing
+   House, 2009.
+2. William B Werther, David B Chandler, ``Strategic Corporate Social
+   Responsibility'', SagePublications Inc, 2011.
+3. V V Robert, A G Monks, Nell Minow, ``Corporate Governance'', John
+   Wiley and Sons, 2011.
+
+** REFERENCES
+1. V W H Shaw, ``Business Ethics'', Cengage Learning, 2007.
+2. Beeslory, Michel, Evens, ``Corporate Social Responsibility'', Taylor
+   and Francis, 1978.
+3. Philip Kotler, Nancy Lee, ``Corporate Social Responsibility: Doing
+   the Most Good for Company and Your Cause'', Wiley, 2005.
+4. Subhabrata Bobby Banerjee, ``Corporate Social Responsibility: the
+   Good, the Bad and the Ugly'', Edward Elgar Publishing, 2007.
+5. Satheesh kumar, ``Corporate Governance'', Oxford University,
+   Press, 2010.
+6. Bob Tricker, ``Corporate Governance -- Principles, Policies and
+   Practices'', Oxford University Press, 2009
+7. Larue Tone Hosmer, Richard D, ``The Ethics of Management'', Irwin
+   Inc, 1995.
+8. Joseph A Petrick, John F Quinn, ``Management Ethics -- Integrity at
+   Work'', Sage, 1997.
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 |  1 |  0 |  2 | 0 | 0 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 |  1 |  0 |  2 | 0 | 0 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 3 | 2 | 3 | 1 |  1 |  0 |  2 | 0 | 0 | 0 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 |  1 |  3 |  2 | 0 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 1 |  1 |  2 |  2 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 3 | 2 |  2 |  2 |  3 | 0 | 0 | 0 |

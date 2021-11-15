@@ -1,0 +1,96 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE          | L | T | P | E | C |
+| UCY2276 | ENVIRONMENTAL SCIENCE | 3 | 0 | 0 | 0 | 0 |
+
+** COURSE OBJECTIVES
+- To better understand human relationships, perceptions and
+  policies towards the environment
+- To focus on design and technology for improving environmental
+  quality
+
+{{{unit}}}
+| UNIT I | ENVIRONMENT, ECOSYSTEMSANDBIODIVERSITY | 6 |
+Definition, scope and importance of environment -- concept, structure
+and function of an ecosystem -- energy flow- food chains, food webs
+and ecological pyramids -- ecological succession Introduction to
+biodiversity definition and types-- values of biodiversity- India as a
+mega-diversity nation -- hot-spots of biodiversity -- threats to
+biodiversity-endangered and endemic species of India -- conservation
+of biodiversity: In-situ and ex-situ conservation of biodiversity.
+
+{{{unit}}}
+| UNIT II | NATURAL RESOURCES | 6 |
+Uses, over-exploitation of natural resources: Forest, Water, Mineral,
+Food, Energy and Land. Case studies on over exploitation of natural
+resources -- Role of an individual in conservation of natural
+resources- Equitable use of resources for sustainable life styles.
+
+{{{unit}}}
+| UNIT III | CURRENT ENVIRONMENTAL ISSUES | 6  |
+Environmental issues -- causes, effects and control measures of
+Pollution of (a) Air (Smog, acid rain, climate change and global
+warming, ozone layer depletion) (b) Water (rain water harvesting,
+watershed management and waste water treatment) (c) Soil (solid waste
+management, wasteland reclamation) (d)Electronic waste.
+
+Population explosion, Resettlement and rehabilitation of people and
+Disaster management
+
+{{{unit}}}
+| UNIT IV | ENGINEERING INTERVENTIONS TO REDUCE ENVIRONMENTAL  STRESSES | 6 |
+Role of information technology in environment -- Remote Sensing --
+satellites and sensors -- Geographical Information Systems(GIS) --
+Applications. Environment data base management system. Green chemistry
+-- Principles -- Green buildings -- Advantages of green buildings over
+conventional buildings -- Electric and Hybrid Electric Vehicles (HEV)
+
+{{{unit}}}
+| UNIT V | ENVIRONMENTAL REGULATIONS | 9 |
+Environmental Ethics for sustainable development -- Human rights --
+Environmental Impact Assessment -- Ecomark -- role of NGO- Central and
+state pollution control boards -- Air (Prevention and Control of
+Pollution) act 1981 -- Water (Prevention and control of Pollution) act
+1974 -- Wildlife protection act 1972 -- Forest conservation act 1980
+-- The National Green Tribunal Act 2010
+
+\hfill *Total Periods: 30*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. The structure and functions of the ecosystems and diversity among life forms within an ecosystem
+2. The importance of various natural resources and its sustainable use
+3. The various environmental issues such as pollution, population explosion etc and suggest remedial measures.
+4. The role of engineering techniques to minimize environmental stress
+5. The role of various environmental machineries and to ensure proper environmental regulation
+
+
+** TEXT BOOKS
+1. Anubha Kaushik, C P Kaushik, ``Environmental Science and
+   Engineering'', New Age International Publishers, 14thEdition, 2014.
+2. Benny Joseph, ``Environmental Science and Engineering'', Tata
+   McGraw-Hill, New Delhi, 2006.
+   
+** REFERENCES
+1. Gilbert M Masters, ``Introduction to Environmental Engineering and
+   Science'', 2nd edition, Pearson Education, 2004.
+2. G Tyler Miller, Scott E Spoolman, ``Environmental Science'',
+   Cengage Learning India PVT Ltd, New Delhi, 2014.
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO4    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO5    | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+

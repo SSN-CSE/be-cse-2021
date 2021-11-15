@@ -1,0 +1,95 @@
+*  
+:properties:
+:author:
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE             | L | T | P | E | C |
+| UBA2541 | PRINCIPLES OF MANAGEMENT | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To sketch the Evolution of Management. 
+- To extract the functions and principles of management. 
+- To learn the application of the principles in an organization. 
+- To study the various HR related activities. 
+- To analyze the position of self and company goals towards business
+
+{{{unit}}}
+| UNIT I | INTRODUCTION TO MANAGEMENT AND ORGANIZATIONS | 9 |
+Definition of Management -- Science or Art -- Manager Vs Entrepreneur-
+types of managers managerial roles and skills -- Evolution of
+Management -- Scientific, human relations , system and contingency
+approaches -- Types of Business organization- Sole proprietorship,
+partnership, company-public and private sector enterprises-
+Organization culture and Environment -- Current trends and issues in
+Management.
+
+{{{unit}}}
+| UNIT II | PLANNING | 9 |
+Nature and purpose of planning -- Planning process -- Types of planning
+-- Objectives -- Setting objectives -- Policies -- Planning premises --
+Strategic Management -- Planning Tools and Techniques -- Decision making
+steps and process.
+
+{{{unit}}}
+| UNIT III | ORGANISING | 9 |
+Nature and purpose -- Formal and informal organization -- Organization
+chart -- Organization structure -- Types -- Line and staff authority --
+Departmentalization -- delegation of authority -- Centralization and
+decentralization -- Job Design - Human Resource Management -- HR
+Planning, Recruitment, selection, Training and Development,
+Performance Management , Career planning and management.
+
+{{{unit}}}
+| UNIT IV | DIRECTING	  | 9 |
+Foundations of individual and group behaviour -- Motivation -- Motivation
+theories -- Motivational techniques -- Job satisfaction -- Job enrichment
+-- Leadership -- types and theories of leadership -- Communication --
+Process of communication -- Barrier in communication -- Effective
+communication -- Communication and IT.
+
+{{{unit}}}
+| UNIT V | CONTROLLING | 9 |
+System and process of controlling -- Budgetary and non - Budgetary
+control techniques -- Use of computers and IT in Management control --
+Productivity problems and management -- Control and performance --
+Direct and preventive control -- Reporting
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+# Upon completion of the course, students will be able to have clear
+# understanding of managerial functions like planning, organizing,
+# staffing, leading & controlling.
+1. Have same basic knowledge on international aspect of management
+2. Ability to understand management concept of organizing
+3. Ability to understand management concept of directing
+4. Ability to understand management concept of controlling.
+
+** TEXT BOOKS
+1. Harold Koontz, Heinz Weihrich, ``Essentials of Management'', Tata
+   McGraw Hill, 1998.
+2. Stephen P Robbins, Mary Coulter, ``Management'', Prentice Hall
+   (India)Pvt. Ltd., 10th Edition, 2009.
+
+** REFERENCES
+1. Robert Kreitner, Mamata Mohapatra, ``Management'',
+   Biztantra, 2008.
+2. Stephen A Robbins, David A Decenzo, Mary Coulter, ``Fundamentals of
+   Management'', Pearson Education, 7th Edition, 2011.
+3. Tripathy P C, Reddy P N, ``Principles of Management'', Tata McGraw
+   Hill, 1999.
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  2 |  1 | 0 | 0 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  0 |  3 |  1 | 0 | 0 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  0 |  2 |  1 | 0 | 0 | 0 |
+| CO4    | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |  2 |  2 |  1 | 0 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  1 |  1 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2 |  1 |  2 |  2 | 0 | 0 | 0 |
+
+

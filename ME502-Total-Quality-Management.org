@@ -1,0 +1,98 @@
+*  
+:properties:
+:author:
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE             | L | T | P | E | C |
+| UBA2542 | TOTAL QUALITY MANAGEMENT | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- Teach the need for quality, its evolution, basic concepts,
+  contribution of quality gurus, TQM framework, Barriers and Benefits
+  of TQM
+- Explain the TQM Principles for application
+- Define the basics of Six Sigma and apply Traditional tools, New
+  tools, Benchmarking and FMEA
+- Describe Taguchi's Quality Loss Function, Performance Measures and
+  apply Techniques like QFD, TPM, COQ and BPR
+- Illustrate and apply QMS and EMS in any organization.
+
+{{{unit}}}
+| UNIT I | INTRODUCTION | 9 |
+Introduction - Need for quality - Evolution of quality - Definition of
+quality - Dimensions of product and service quality -- Definition of
+TQM -- Basic concepts of TQM -- Gurus of TQM (Brief introduction)--
+TQM Framework- Barriers to TQM -- Benefits of TQM.
+
+{{{unit}}}
+| UNIT II | TQM PRINCIPLES | 9 |
+Leadership - Deming Philosophy, Quality Council, Quality statements
+and Strategic planning Customer Satisfaction -- Customer Perception of
+Quality, Feedback, Customer complaints, Service Quality, Kano Model
+and Customer retention -- Employee involvement -- Motivation,
+Empowerment, Team and Teamwork, Recognition & Reward and Performance
+Appraisal--Continuous process improvement -- Juran Trilogy, PDSA
+cycle, 5S and Kaizen - Supplier partnership -- Partnering, Supplier
+selection, Supplier Rating and Relationship development.
+
+{{{unit}}}
+| UNIT III | TQM TOOLS & TECHNIQUES I | 9 |
+The seven traditional tools of quality - New management tools -
+Six-sigma Process Capability Bench marking - Reasons to benchmark,
+Benchmarking process, What to Bench Mark, Understanding Current
+Performance, Planning, Studying Others, Learning from the data, Using
+the findings, Pitfalls and Criticisms of Benchmarking - FMEA - Intent,
+Documentation, Stages: Design FMEA and Process FMEA.
+
+{{{unit}}}
+| UNIT IV | TQM TOOLS & TECHNIQUES II | 9 |
+Quality circles -- Quality Function Deployment (QFD) -- Taguchi quality
+loss function -- TPM -- Concepts, improvement needs -- Performance
+measures -- Cost of Quality -- BPR.
+
+{{{unit}}}
+| UNIT V | QUALITY MANAGEMENT SYSTEM | 9 |
+Introduction - Benefits of ISO Registration - ISO 9000 Series of
+Standards - Sector - Specific Standards - AS 9100, TS16949 and TL 9000
+-- ISO 9001 Requirements - Implementation - Documentation - Internal
+Audits - Registration - ENVIRONMENTAL MANAGEMENT SYSTEM: Introduction
+-- ISO 14000 Series Standards -- Concepts of ISO 14001 -- Requirements
+of ISO 14001-Benefits of EMS.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+1. Apply TQM concepts in a selected enterprise.
+2. Apply TQM principles in a selected enterprise.
+3. Understand Six Sigma and apply Traditional tools, New tools, Benchmarking and FMEA.
+4. Understand Taguchi's Quality Loss Function, Performance Measures and apply QFD, TPM, COQ and BPR.
+5. Apply QMS and EMS in any organization.
+
+** TEXT BOOKS
+- Dale H Besterfiled, Carol B Michna, Glen H Bester Field, Mary B
+  Sacre, Hemant Urdhwareshe, Rashmi Urdhwareshe, ``Total Quality
+  Management'', Pearson Education Asia, Revised Third Edition, Indian
+  Reprint, Sixth Impression, 2013.
+
+** REFERENCES
+1. Joel E Ross, ``Total Quality Management -- Text and Cases'',
+   Routledge.,2017.
+2. Kiran D R, ``Total Quality Management: Key Concepts and Case
+   Studies'', Butterworth--Heinemann Ltd, 2016.
+3. Oakland J S, ``TQM -- Text with Cases'', Butterworth--Heinemann
+   Ltd, Oxford, Third Edition, 2003.
+4. Suganthi L, Anand Samuel, ``Total Quality Management'', Prentice
+   Hall (India) Pvt Ltd, 2006
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 2 | 1 |  0 |  1 |  1 | 0 | 0 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 0 | 2 |  0 |  1 |  1 | 0 | 0 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 2 | 3 | 0 | 0 | 1 |  0 |  1 |  1 | 0 | 0 | 0 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 3 | 1 | 0 | 1 |  0 |  1 |  1 | 0 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 3 | 2 | 0 | 1 |  0 |  1 |  1 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 1 | 3 | 1 | 1 | 2 |  0 |  2 |  2 | 0 | 0 | 0 |

@@ -1,0 +1,99 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                                 | L | T | P | E | C |
+| UEE2276 | BASIC ELECTRICAL AND ELECTRONICS ENGINEERING | 3 | 0 | 0 | 0 | 3 |
+		
+** COURSE OBJECTIVES
+- To learn the basic concepts of electric circuits.
+- To know the operation of various electrical machines.
+- To study the concepts of utilization of electrical power.
+- To comprehend the working principle of electronic devices and its applications.
+- To grasp the working principle of various sensors and transducers.
+
+{{{unit}}}
+| UNIT I | ELECTRICAL CIRCUITS | 9 |
+DC Circuits: Ohm's Law- Kirchhoff's laws - Mesh current and Node
+voltage methods (Analysis with only independent source). Network
+theorems - Superposition theorem, Thevenins theorem and Norton
+theorem. AC circuit: Waveforms and RMS value, Phasor diagram, Power,
+Power factor. Three phase supply -- Star connection, Delta connection
+-- Balanced Loads - Power in three-phase systems.
+
+{{{unit}}}
+| UNIT II | ELECTRICAL MACHINES | 9 |
+Construction, Principle of Operation, Basic Equations and
+Applications - DC Generators, DC Motors, Single Phase Transformer,
+Single phase Induction Motor, Three phase Induction Motor, Three phase
+Alternator, Stepper and BLDC motors.
+
+{{{unit}}}
+| UNIT III | UTILIZATION OF ELECTRICAL POWER | 9 |
+Renewable energy sources- wind and Solar panels. Illumination by
+lamps- Sodium Vapour, Mercury vapour, Fluorescent
+tube. Batteries-NiCd, Pb Acid and Li ion Charge and Discharge
+Characteristics. Protection- Earthing, Fuses. Energy Tariff
+calculation for domestic loads.
+
+{{{unit}}}
+| UNIT IV | ELECTRONIC DEVICES AND APPLICATIONS | 9 |
+Operation of PN junction diodes, VI characteristics, Zener diode, BJT-
+CB, CE, CC configurations, input and output characteristics,
+MOSFET. Half wave and full wave rectifier, capacitive filters, zener
+voltage regulator, Operational amplifiers, Ideal Op-Amp
+characteristics, Inverting and Non-inverting amplifier.
+
+{{{unit}}}
+| UNIT V | SENSORS AND TRANSDUCERS | 9 |
+Sensors: Capacitive and resistive sensors, magnetic sensors, Hall
+effect sensors, Piezo-resistive sensors, viscosity, optical sensors,
+Ultrasonic sensors, Nuclear and microsensors.
+
+Transducers: Classification of transducers, strain gauges, RTD,
+thermocouples, Piezo-electric, LVDT and Thermo electric transducers
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Solve and analyse DC and AC circuits.	
+2. Explain the operating principle of AC and DC machines.
+3. Know the concepts electrical power utilization.	
+4. Describe the working principle of various electronic devices and its applications
+5. Describe the working principle of various sensors and transducers.	
+
+   
+** TEXT BOOKS
+1. Kothari DP, I J Nagrath, ``Basic Electrical and Electronics
+   Engineering'', McGraw Hill Education, 2014
+2. Alan S Moris, ``Principles of Measurements and Instruments'',
+   Prentice Hall of India Pvt Ltd, New Delhi,1999.
+3. S Salivahanan, R Rengaraj, G R Venkatakrishnan, ``Basic Electrical,
+   Electronics and Measurement Engineering'', McGraw Hill, 2017.
+   
+** REFERENCES
+1. S B Lal Seksena, Kaustuv Dasgupta, ``Fundaments of Electrical
+   Engineering'', Cambridge, 2016.
+2. M S Sukhija, T K Nagsarkar, ``Basic Electrical and Electronic
+   Engineering'', Oxford, 2016.
+3. S K Sahdev, ``Basic of Electrical Engineering'', Pearson, 2015.
+4. Edward Hughes, John Hiley, Keith Brown, Ian McKenzie Smith,
+   ``Electrical And Electronic Technology'', Pearson Education Ltd,
+   10th Edition, 2008
+5. H Cotton, ``Electrical Technology'' 7th Edition, CBS, 2005.
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 | 2 | 0 | 2 | 1 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 1 | 0 |
+| CO2    | 3 | 2 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 2 | 0 |
+| CO3    | 3 | 2 | 1 | 0 | 2 | 1 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 1 | 0 |
+| CO4    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO5    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 | 1 | 0 | 1 | 1 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 1 | 0 |

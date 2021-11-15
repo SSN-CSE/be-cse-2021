@@ -1,0 +1,113 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                             | L | T | P | E | C |
+| UMA2276 | COMPLEX FUNCTIONS AND LAPLACE TRANSFORMS | 3 | 1 | 0 | 0 | 4 |
+ 
+** COURSE OBJECTIVES
+- To apply C-R equations in the construction of Analytic Functions. 
+- To study the methods of Complex Integration, finding Taylor's and Laurent's Series expansions. 
+- To find the Laplace Transforms and inverse transforms for standard functions. 
+- To solve Differential Equations using different techniques. 
+- To evaluate Line, Surface and Volume integrals.  
+
+{{{unit}}}
+| UNIT I | ANALYTIC FUNCTIONS | 12 |
+Analytic functions -- necessary and sufficient conditions,
+Cauchy-Riemann equations in Cartesian and polar form (with proof) --
+Properties -- harmonic functions, Construction of analytic function,
+conformal mapping -- some standard transformations --, bilinear
+transformation.
+
+{{{unit}}}
+| UNIT II | COMPLEX INTEGRATION | 12 |
+Line integral -- Cauchy's integral theorem -- Cauchy's integral
+formula, Taylor's and Laurent's series, Singularities -- Residues --
+Residue theorem -- Application of residue theorem for evaluation of
+real integrals -- Use of circular contour and semicircular contour
+(except the poles on the real axis).
+
+{{{unit}}}
+| UNIT III | LAPLACE TRANSFORMS | 12 |
+Definition, properties, existence conditions -- Transforms of
+elementary functions -- Transform of unit step function and unit
+impulse function, shifting theorems, Transforms of derivatives and
+integrals, Initial and final value theorems, Periodic functions,
+Inverse transforms -- Convolution theorem.
+
+{{{unit}}}
+| UNIT IV | ORDINARY DIFFERENTIAL EQUATIONS | 12 |
+Solution of second and higher order linear differential equation with
+constant coefficients (), Method of variation of parameters,
+Simultaneous linear equations with constant coefficients of first
+order, Solving linear second order ordinary differential equations
+with constant coefficients using Laplace transforms.
+
+{{{unit}}}
+| UNIT V | VECTOR CALCULUS  | 12 |
+Gradient and directional derivative -- Divergence and curl -- Vector
+identities -- Irrotational and Solenoidal vector fields, Line integral
+over a plane curve, Surface integral - Area of a curved surface,
+Volume integral, Green's, Gauss divergence and Stoke's theorems --
+Verification and application in evaluating line, surface and volume
+integrals.
+
+\hfill *Total Periods: 60*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+1. Solve problems in Analytic functions and construction of analytic
+   functions using C-R equations.
+2. Solve problems using integration techniques, find Taylor's and
+   Laurent's Series expansions.
+3. Obtain the Laplace Transforms and inverse transforms of standard
+   functions.
+4. Solve Differential Equations using different techniques.
+5. Evaluate Line, Surface and Volume integrals. 
+
+
+** TEXT BOOKS
+1. Grewal B S, ``Higher Engineering Mathematics'', Khanna Publishers, 44th
+   Edition, 2018.
+2. Erwin Kreyszig, ``Advanced Engineering Mathematics'', John Wiley &
+   Sons, 10th Edition, 2016.
+   
+** REFERENCES
+1. Bali N P, Goyal M, Watkins C, ``Advanced Engineering
+   Mathematics'', Laxmi Publications Pvt Limited, 2007.
+2. Boyce W E, DiPrima R C, ``Elementary Differential Equations and
+   Boundary Value Problems'', 11th Edition, Global Edition,
+   Wiley, 2017.
+3. George B Thomas Jr, Maurice D Weir, Joel R Hass, ``Thomas'
+   Calculus: Early Transcendental'', 13th Edition, Pearson
+   Education, 2014.
+4. O'Neil P V, ``Advanced Engineering Mathematics'', 7th Edition,
+   Cengage Learning India Pvt Ltd, New Delhi, 2012.
+5. Howard Anton, Irl C Bivens, Stephen Davis, ``Calculus: Early
+   Transcendentals'', 11th Edition, Global Edition, John Wiley & Sons,
+   Inc., 2017.
+6. Srimanta Pal, Subodh C Bhunia, ``Engineering Mathematics'', Oxford
+   University Press, 2015.
+7. Srivastava A C, Srivastava P K, ``Engineering Mathematics'', Volume
+   I and II, PHI learning Pvt Ltd, 2011.
+              
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO2    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO3    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO4    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+| CO5    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
+
+
+
+REFERENCE BOOKS:
+

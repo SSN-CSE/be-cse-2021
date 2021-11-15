@@ -1,0 +1,88 @@
+*  
+:properties:
+:author:
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE            | L | T | P | E | C |
+| UHS2241 | HUMAN RELATIONS AT WORK | 2 | 0 | 2 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To be aware of human relations at work and its relationship with self
+- To be aware of the processes involved in interaction with people at work
+- To understand the importance of psychological and physical health in
+  maintaining human relations at work and progressing in career
+- To understand the ways and means to improve human relations at work
+- To realize the importance of safeguarding themselves from any
+  exploitation.
+
+{{{unit}}}
+| UNIT I |  HUMAN RELATIONS | 9 |
+- Understanding and Managing Yourself
+- Human Relations and You
+- Self-Esteem and Self Confidence
+- Self-Motivation and Goal Setting
+- Emotional Intelligence
+- Attitudes and Happiness
+- Values and Ethics and Problem Solving and Creativity.
+
+{{{unit}}}
+| UNIT II | INTERPERSONAL RELATIONSHIP  | 9 |
+- Dealing Effectively with People
+- Communication in the Workplace
+- Specialized Tactics for Getting Along with Others in the Workplace
+- Managing Conflict; Becoming an Effective Leader
+- Motivating Others and Developing Teamwork
+- Diversity and Cross-Cultural Competence
+
+{{{unit}}}
+| UNIT III | HEALTHY LIVING  | 9 |
+- Staying Physically Healthy
+- Yoga, Pranayama
+- Exercise: Aerobic and anaerobic.
+
+{{{unit}}}
+| UNIT IV | MENTAL WELL BEING  | 9 |
+- Staying Psychologically Healthy
+- Managing Stress and Personal Problems
+- Meditation.
+
+{{{unit}}}
+| UNIT V | CAREER READINESS  | 9 |
+- Developing Career Thrust
+- Getting Ahead in Your Career
+- Learning Strategies
+- Perception
+- Life Span Changes
+- Developing Good Work Habits.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+1. Enhance their awareness about human relations at work and its relationship with self.
+2. Become aware of the processes involved in interaction with people at work.
+3. Understand the importance of psychological and physical health in maintaining human relations at work.
+4. Understand the ways and means to improve human relations at work.
+5. Realize the importance of safeguarding themselves from any exploitation.
+
+** TEXT BOOKS
+1. Dubrien A J, ``Human Relations for Career and Personal Success:
+   Concepts, Applications, and Skills'', 11th Ed, Upper Saddle River,
+   NJ: Pearson, 2017.
+
+** REFERENCES
+1. Greenberg J S, ``Comprehensive Stress Management'', 14th edition,
+   New York: McGraw Hill, 2017.
+2. Udai Y, ``Yogasanaurpranayam'', New Delhi:N S Publications, 2015.
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |

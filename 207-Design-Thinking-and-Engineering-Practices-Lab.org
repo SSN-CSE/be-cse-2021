@@ -1,0 +1,104 @@
+* 
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                                  | L | T | P | E |   C |
+| UGE2297 | DESIGN THINKING AND ENGINEERING PRACTICES LAB | 0 | 0 | 3 | 0 | 1.5 |
+		
+** COURSE OBJECTIVES
+- To provide exposure to the students with hands on experience on
+  various basic engineering practices in Civil, Mechanical, Electrical
+  and Electronics Engineering
+
+** LIST OF EXPERIMENTS
+
+** GROUP A (CIVIL & MECHANICAL) 
+
+*I CIVIL ENGINEERING PRACTICE*
+    
+*Buildings*:
+1. Study of plumbing and carpentry components of residential and
+   industrial buildings - Safety aspects.
+
+*Plumbing Works*:
+1. Study of pipeline joints, its location and functions: valves, taps,
+   couplings, unions, reducers, and elbows in household fittings.
+2. Preparation of plumbing line sketches for water supply and sewage
+   works.
+3. Hands-on-exercise: 
+   - Basic pipe connections - Mixed pipe material connection - Pipe
+     connections with different joining components.
+   - Plumbing with basic connections for washing basin and sink
+
+*Carpentry using Power Tools only*:
+1. Study of the joints in roofs, doors, windows and furniture.
+2. Hands-on-exercise: Wood work, joints by sawing, planning and
+   cutting.
+   - Fabrication of different models of pencil box and pen stand.
+   - Fabrication of wooden wall shelf
+3. Demonstration of wood working machinery
+
+    
+*II MECHANICAL ENGINEERING PRACTICE*
+
+*Basic Machining*:
+1. Drilling Practice (holes of various diameters - steel sheet metal,
+   wood, hylam/plywood sheet)
+
+*Sheet Metal Work*:
+1. Forming & Bending
+2. Different type of joints.
+   - Fabrication of mobile phone metal stand
+   - Fabrication of electrical control panel box
+
+     
+** GROUP B (ELECTRICAL & ELECTRONICS ENGINEERING PRACTICE) 
+1. Residential house wiring, staircase wiring and tube light wiring
+   with single phase AC two wire system -- Designing assembling
+   andtesting of single phase 3 wire connection for a room with fan,
+   tube light, and 3-point socket with control switches.
+2. Energy measurement with RLC Load.Design and find the power and
+   energy consumption of a residential house when all appliances are
+   in use for 10 hours per day for 60 days.
+3. Earth resistance measurement. Fault diagnosis analysis of in
+   electrical appliances.
+4. Measurement of AC parameters using CRO and half wave and Full wave
+   rectifier. Design assemble and test a charger for cell phone.
+5. Study of logic gates AND, OR, EX-OR & NOT. Design assemble and test
+   a basic controller with relay for a washing machine and a half
+   adder using Logic gates.
+6. Soldering practice -- Components Devices and Circuits -- Using
+   PCB. Design assemble and test a dc power supply using PCB
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+
+** REFERENCES
+1. S Gowri, T Jeyapoovan, ``Engineering Practices Lab Manual'', 5th
+   Edition, Vikas Publishing, 2016.
+2. V Ramesh Babu, Engineering Practices Laboratory, VRB
+   Publications, 2006.
+
+** COURSE OUTCOMES   
+After the completion of this course, students will be able to   
+1. Obtain knowledge about civil and mechanical works.
+2. Obtain knowledge about basic household electrical practices
+3. Obtain knowledge about basic household electronics practices
+   
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 2 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 3 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO2    | 2 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 3 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 2 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 3 |  0 |  0 |  0 | 0 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 2 | 1 | 1 | 0 | 0 | 1 | 0 | 0 | 3 |  0 |  0 |  0 | 0 | 0 | 0 |
+
+
+

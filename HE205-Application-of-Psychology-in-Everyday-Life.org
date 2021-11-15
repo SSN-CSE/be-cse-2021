@@ -1,0 +1,80 @@
+*  
+:properties:
+:author: 
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                                | L | T | P | E | C |
+| UHS2242 | APPLICATIONS OF PSYCHOLOGY IN EVERYDAY LIFE | 2 | 0 | 2 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To be aware of the different applications of psychology to everyday issues of life
+- To be aware of the different social issues, workplace issues, and behavioral issues
+- To understand how the knowledge gained from this course can be used
+  in their own personal and professional work life
+- To understand the psychological principles relevant to human
+  development
+- To understand the impact of Psychology on human life.
+
+{{{unit}}}
+| UNIT I | PSYCHOLOGY OF AN INDIVIDUAL  | 9 |
+- Introduction: Nature and fields.
+- The individual human being and his or her experiences, mental
+  processes and behaviors.
+
+{{{unit}}}
+| UNIT II | DIFFERENT TYPES OF PSYCHOLOGY | 9 |
+- Psychology in industries and organizations: Job analysis; fatigue
+  and accidents; consumer behavior.
+- Different types of psychology: cognitive, forensic, social, and
+  developmental psychology
+
+{{{unit}}}
+| UNIT III | PSYCHOLOGY AND MENTAL HEALTH  | 9 |
+- Psychology and mental health: Abnormality, symptoms and causes
+  psychological disorders.
+- Psychology for better decision making, stress management and
+  behavior.
+
+{{{unit}}}
+| UNIT IV | COUNSELING | 9 |
+- Psychology and Counseling: Need of Counseling, Counselor and the
+  Counselee, Counseling Process, Areas of Counseling.
+
+{{{unit}}}
+| UNIT V | SOCIAL BEHAVIOR  | 9 |
+- Psychology and social behaviour: Group, group dynamics, team
+  building, Prejudice and stereotypes; Effective Communication,
+  conflict and negotiation.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+1. Raise their awareness on applications of psychology to everyday issues of life
+2. Deal more efficiently with different issues in society, workplace and human behavior
+3. Apply principles of psychology in their own personal and professional lives
+4. Use the psychological principles for their own human development
+5. Appreciate the impact of Psychology on human life.
+
+** TEXT BOOKS
+1. Schultz D, Schultz S E, ``Psychology and Work Today'', 10th ed, New
+   Jersey: Pearson/Prentice Hall, 2009.
+
+** REFERENCES
+1. Butcher J N, Mineka S, Hooley J M, ``Abnormal Psychology'', 14th ed, New York: Pearson,  2010.
+2. Gladding S T, ``Counselling: A Comprehensive Profession'', New
+   Delhi: Pearson Education, 2014.
+3. Aronson E, Wilson T D, Akert R M, ``Social Psychology'', 7th Ed,
+   Upper Saddle River, NJ: Prentice Hall, 2010.
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |

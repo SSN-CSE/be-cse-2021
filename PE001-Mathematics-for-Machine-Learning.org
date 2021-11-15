@@ -10,87 +10,89 @@
 | UMA2542 | MATHEMATICS FOR MACHINE LEARNING | 3 | 0 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
-   - To learn the use of linear algebra for framing learning problems
-   - To understand matrix decompositions
-   - To apply analytic geometry and vector calculus
-   - To use probability distributions
-   - To apply continuous optimization
+- To study the basics of vector spaces and subspaces.
+- To study the linear transformation of vector spaces and to find the
+  matrix of the linear transformation and diagonalize.
+- To study the inner product, norms and Gram-Schmidt orthonormal
+  process.
+- To study various matrix decomposition techniques.
+- To identify the standard distributions and apply them in solving
+  problems.
+   
+{{{unit}}}
+| UNIT I |VECTOR SPACES  | 9 |
+Vector spaces -- Subspaces -- Linear combinations and system of Linear
+equations -- Linear independence and Linear dependence -- Bases and
+Dimensions.
 
 {{{unit}}}
-|UNIT I |  LINEAR ALGEBRA | 9  |
-Linear Algebra: Systems of Linear Equations Matrices --
-Solving Systems of Linear Equations -- Vector Spaces --
-Linear Independence -- Basis and Rank -- Linear Mappings --
-Affine Spaces.
+| UNIT II | LINEAR TRANSFORMATIONS  | 9 |
+Linear transformations -- One-to-one and onto linear transformations
+-- Null space, Range space, Dimension theorem (statement only) -
+Matrix representation of linear transformation -- Eigenvalues,
+Eigenvectors and Diagonalization.
 
 {{{unit}}}
-| UNIT II | ANALYTIC GEOMETRY | 9  |
-Analytic Geometry: Norms -- Inner Products -- Lengths and
-Distances -- Angles and Orthogonality -- Orthonormal Basis --
-Orthogonal Complement -- Inner Product of Functions --
-Orthogonal Projections -- Rotations
+| UNIT III | INNER PRODUCT SPACES | 9 |
+Inner product and norms -- Gram Schmidt orthogonalization process --
+Orthogonal Complement -- Least square approximation.
 
 {{{unit}}}
-| UNIT III | MATRIX DECOMPOSITIONS | 9  |
-Matrix Decompositions: Determinant and Trace -- Eigenvalues
-and Eigenvectors -- Cholesky Decomposition --
-Eigendecomposition and Diagonalization -- Singular Value
-Decomposition -- Matrix Approximation -- Matrix Phylogeny
+| UNIT IV | MATRIX DECOMPOSITION | 9 |
+Cholesky decomposition method - QR decomposition -- Generalized
+inverse of a matrix, Singular value decomposition.
 
 {{{unit}}}
-| UNIT IV | VECTOR CALCULUS | 9  |
-Vector Calculus: Differentiation of Univariate Functions --
-Partial Differentiation and Gradients -- Gradients of
-Vector-Valued Functions -- Gradients of Matrices -- Useful
-Identities for Computing Gradients -- Backpropagation and
-Automatic Differentiation -- Higher-Order Derivatives --
-Linearization and Multivariate Taylor Series
-
-{{{unit}}}
-| UNIT V | PROBABILITY AND DISTRIBUTIONS, CONTINUOUS OPTIMIZATION | 9 |
-Probability and Distributions: Construction of a Probability
-Space -- Discrete and Continuous Probabilities -- Sum Rule,
-Product Rule, and Bayes' Theorem -- Summary Statistics and
-Independence -- Gaussian Distribution -- Conjugacy and the
-Exponential Family -- Change of Variables/Inverse Transform;
-Continuous Optimization: Optimization Using Gradient Descent
--- Constrained Optimization and Lagrange Multipliers --
-Convex Optimization
+| UNIT V | PROBABILITY AND RANDOM VARIABLES | 9 |
+Probability -- Sum and Product rules, Bayes Theorem, Random Variables
+-- Discrete and continuous random variables -- Moments -- Moment
+generating functions -- Binomial, Poisson, Exponential and Normal
+distribution.
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. Solve learning problems using linear algebra  (K3)
-2. Apply analytic geometry for handling multi-dimensional data (K3)
-3. Construct matrix decompositions (K3)
-4. Apply vector calculus for optimization problems (K3)  
-5. Choose appropriate probability distributions and apply continuous
-   optimization (K3).
+- Solve the problems using the concepts of vector spaces and subspaces
+- Find the matrix of linear transformation and verify dimension
+  theorem and to obtain the eigenvalues and eigenvectors to
+  diagonalize a given matrix.
+- Apply Gram-Schmidt's orthogonalization process to find orthonormal
+  vectors and to solve the given system of equations by least square
+  approximations
+- Decompose the matrix using different methods.
+- Identify standard distributions and apply them.
 
 
 ** TEXT BOOKS
-1. Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong,
-   ``Mathematics for Machine Learning'', Cambridge University
-   Press, 2020
+1. Friedberg A H, Insel A J, Spence L, ``Linear Algebra'', Prentice
+   Hall of India, 4th Edition, New Delhi, 2004.
+2. Milton J S, Arnold J C, ``Introduction to Probability and
+   Statistics'', Tata McGraw Hill, New Delhi, 4th Edition, 2014.
 
 ** REFERENCES
-1. David J C MacKay, ``InformationTheory, Inference,and
-   Learning Algorithms'', Cambridge University Press, 2003.
-2. Christopher Bishop, ``Pattern Recognition and Machine
-   Learning'', Springer,2006
+1. Kumaresan S, ``Linear Algebra -- A Geometric Approach'', Prentice Hall
+   of India, New Delhi, Reprint, 2010.
+2. Strang G, ``Linear Algebra and its Applications'', 4th Edition,
+   Brooks/Cole (Thomson Publications), New Delhi, 2006.
+3. Bernard Kolman, David R Hill, ``Introductory Linear Algebra'',
+   Pearson Education, New Delhi, 8th Edition, 2005.
+4. Richard Branson, ``Matrix Operations'', Schaum's outline series,
+   McGraw Hill, 1989.
+5. M Tamban Nair, Arindama Singh, ``Linear Algebra'', Springer, 2018.
+6. Johnson R A, Gupta C B, ``Miller and Freund's Probability and
+   Statistics for Engineers'', Pearson Education, Asia, 9th
+   Edition, 2016.
 
+   
 ** CO TO PO/PSO MAPPING
 |        | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
-| CO2    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
-| CO3    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 2 | 0 | 0 |
-| CO4    | 3 | 2 | 1 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
-| CO5    | 3 | 2 | 2 | 1 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO1    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO2    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO3    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO4    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO5    | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 2 | 2 | 1 | 2 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+| Course | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
 
-#+tblfm: @>>$2..@>>$>='(apply '+ '(@<<..@>>>));N      
-#+tblfm: @>$2..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>>)))(length '(@<<..@>>>))));N      
-# | Score | 15 | 10 | 6 | 5 | 10 | 0 | 0 | 0 | 1 | 5 | 0 | 5 | 14 | 0 | 0 |

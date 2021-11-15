@@ -1,0 +1,111 @@
+*  
+:properties:
+:author:
+:date: 
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                                         | L | T | P | E | C |
+| UEN2243 | UNDERSTANDING SOCIETY AND CULTURE THROUGH LITERATURE | 2 | 0 | 2 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To acquire skills not only the ones necessary for one's ``trade'',
+  but also the ones to acquire knowledge andbecome a better human
+  being, as a means towards the end of creating a better society
+- To facilitate understanding a society, its people, their mind,
+  prevalent traditions and culture with a view to developing a
+  holistic worldview, which is essential for a sustainable society
+- To felicitate self-reflection and deeper understanding of oneself
+- To introduce students to literary works of various countries/
+  regions / societies and attempt to understand the respective
+  traditions to which the works belong
+- To understand the relationship between life and literature.
+
+{{{unit}}}
+| UNIT I | LITERATURE AND LIFE | 9 |
+- Traditional Knowledge.
+- What is Literature? 
+- Significance of studying literature,
+- Studying society and culture through literature, 
+- Understanding morality through literature.
+- Reading of Literary texts -- The literary piece will be given to
+  students beforehand so that they read it and become familiar with
+  the texts before coming to the class. In the class, the text will be
+  read once again, where doubts if any will be cleared.
+- First Discussion -- The reading will be followed by a discussion
+  where the text will be analyzed in detail. The students will be
+  encouraged to share their interpretation of the text.
+
+{{{unit}}}
+| UNIT II | RESOLVING DILEMMA | 9 |
+- Definition and Description of `Dilemma'
+- Choice of literary texts to confront situations where one is faced
+  with a dilemma (differentiating what is right and wrong? and develop
+  a deeper insight into the various realities of life.
+  - Presentation of analysis of the literary text (The students will
+    keep in mind the author's background and the socio-historical and
+    cultural backgrounds while preparing this presentation)
+  - Q&A Session on the Presentation (the students will be encouraged
+    to ask questions to their respective classmates regarding the
+    presentation/ analysis initiating a second discussion on the text.
+
+{{{unit}}}
+| UNIT III | GENDER STUDIES | 9 |
+- Literary pieces that question the current notions of gender, and
+  raises uncomfortable questions,
+- Literature that challenges the status quo, forcing us to think about
+  the real meaning of equality and emancipation
+- Second Discussion -- (Having made their presentation, and heard the
+  presentations made by their classmates, the students would now have
+  a fairly good idea of the various nuances of the text, making it a
+  ripe moment to have the second detailed discussion on the text. Here
+  the teacher may refer to those points which may have been missed by
+  the students.)
+
+{{{unit}}}
+| UNIT IV | READING LITERATURE | 9 |
+- Reading of select Literary works 
+- The author's Background, Historical and Social Background for a
+  better understanding of the literary work
+- Study of other significant study material as required for an overall
+  understanding of the literary work.
+
+{{{unit}}}
+| UNIT V |   | 9 |
+- Submission of a report -- Having faced questions from their
+  classmates, and after having a second discussion on the text, the
+  student would come across new ideas which will be incorporated into
+  the analysis and submitted in the form of a report.
+
+** COURSE OUTCOMES
+Upon the completion of the course the students should be able to
+1. Improvement in the awareness of various traditions
+2. Not only understand not just the diversity found between various
+   traditions but also celebrate them
+3. Strengthen their analytical capability
+4. Improve their language skills and also the ability to express
+   complex ideas
+5. Understand the relationship between life and literature.
+
+** TEXT BOOKS
+1. Literary works will be provided by the teacher. 
+2. Author's background, historical and social background which are
+   significant for a better understanding of the work will be provided
+   by the teacher.
+
+** REFERENCES
+1. Reference materials or other significant study material as required
+   for an overall understanding of the literary work will be sourced
+   out by the students in consultation with the teacher
+
+** CO TO PO/PSO MAPPING 
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 0 |
