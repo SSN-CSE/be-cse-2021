@@ -15,7 +15,6 @@
 3. Square program in 8051 is dropped
 4. 1's count is introduced in 8051
    
-
 #+startup: showall
 
 ** COURSE OBJECTIVES

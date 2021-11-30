@@ -9,21 +9,15 @@
 | CODE    | COURSE TITLE                   | L | T | P | E | C |
 | UCS2623 | PROBABILISTIC GRAPHICAL MODELS | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-co-po mapping added
-soft po added
-#+end_comment
-
 ** R2021 CHANGES :noexport:
-New Subject
+- New Subject
+- co-po mapping added
+- soft po added
 
 ** COURSE OBJECTIVES
 - To learn the key aspects of directed and undirected models
 - To apply the techniques to represent the model, do inference and learning
 - To understand the methods for learning in hidden data.
-#+begin_comment
-
-#+end_comment
 
 {{{unit}}}
 |UNIT I | INTRODUCTION| 9 |

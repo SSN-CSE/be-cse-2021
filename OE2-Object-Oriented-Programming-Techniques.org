@@ -3,13 +3,13 @@
 :author: B. Bharathi
 :date: 09-03-2021
 :end:
-#+begin_comment
-- 1. Most of the topics are same as AU syllabus. First unit of the OOP in AU syllabus is divided in to three units.Mulitithreading and event handling topics are removed
-- 2. For changes, see the individual units.
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Suggestive experiments are given
-#+end_comment
+
+** R2021 CHANGES :noexport:   
+1. Most of the topics are same as AU syllabus. First unit of the OOP in AU syllabus is divided in to three units.Mulitithreading and event handling topics are removed
+2. For changes, see the individual units.
+3. Not Applicable
+4. Five Course outcomes specified and aligned with units
+5. Suggestive experiments are given
 
 #+startup: showall
 {{{title-tab}}}

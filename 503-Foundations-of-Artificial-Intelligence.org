@@ -10,25 +10,19 @@
 | CODE    | COURSE TITLE                           | L | T | P | E | C |
 | UCS2504 | FOUNDATIONS OF ARTIFICIAL INTELLIGENCE | 3 | 0 | 2 | 0 | 4 |
 
-#+tblfm: @>$2..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
-
-#+begin_comment
-2018
+** R2018 CHANGES                                                   :noexport:
 1. This course syllabus is substantially different from the current one in Anna University curriculum in unit IV and V.
 2. Unit IV, Uncertainty is given instead of Software agents.Unit V, Introduction to Learning is given, instead of Applications.
 3. Not Applicable
 4. Five Course outcomes specified and aligned with units
 5. Lab Exercises are given for each unit.
-#+end_comment
 
-#+begin_comment
-2021
+** R2021 CHANGES :noexport:
 1. Unit V - COMMUNICATION, PERCEIVING AND ACTING, is given instead of Learning, since Machine Learning comes in the same year.
 2. Six Course outcomes specified and aligned with units
 3. Lab Exercises are given from the units units 2, 3 and 4.
 4. CO6 is included additionally
 5. CO-PO-PSO mapping is updated on 16.06.2021
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To study the fundamental concepts of AI agents and environments.

@@ -9,16 +9,13 @@
 | CODE    | COURSE TITLE                             | L | T | P | E | C |
 | UCS2741 | SOCIAL NETWORK ANALYSIS AND APPLICATIONS | 3 | 0 | 0 | 0 | 3 |
 
-
-#+BEGIN_COMMENT
+** R2021 CHANGES :noexport:
 Modification
   - Course Objectives changed
   - Course Outcome Changed
   - CO-PO Mapping Changed
   - 3 outcomes are made K3 level
   - Text books Versions updated
-  
-#+END_COMMENT
 
 
 ** COURSE OBJECTIVES

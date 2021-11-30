@@ -11,17 +11,15 @@
 
 ** R2021 CHANGES :noexport:
 1. Bezier curves and surfaces removed to concentrate more on 3D transformations and projections
-
-#+begin_comment
-1. Unit IV & V differ from AU2017. 
-2. Unit I - Moved Topics on "Illumination and color Models" to Unit IV.Random and Raster scan systems are added as introductory topics.
+2. Unit IV & V differ from AU2017. 
+3. Unit I - Moved Topics on "Illumination and color Models" to Unit IV.Random and Raster scan systems are added as introductory topics.
    Unit III - Spline representations, Bezier curves and surfaces and B splines are removed from spline representaions topic,  Visible surface detection methods removed.
    Unit IV - Instead of Multimedia introduction, changed to Illumination models and added Animation. 
    Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
-3. Not Applicable
-4. Five Course outcomes specified and aligned with units
-5. For Lab, suggestive experiments are clearly defined.
-#+end_comment
+4. Not Applicable
+5. Five Course outcomes specified and aligned with units
+6. For Lab, suggestive experiments are clearly defined.
+
 
 ** COURSE OBJECTIVES
 - To gain knowledge on different display devices and its working principles

@@ -9,12 +9,12 @@
 | CODE    | COURSE TITLE        | L | T | P | E | C |
 | UCS2826 | PARALLEL ALGORITHMS | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-- 1. Almost the same as AU 
-- 2. Not Applicable
-- 3. Five Course outcomes specified and aligned with units
-- 4. Not Applicable
-#+end_comment
+** R2021 CHANGES :noexport:
+1. Almost the same as AU 
+2. Not Applicable
+3. Five Course outcomes specified and aligned with units
+4. Not Applicable
+
 
 ** COURSE OBJECTIVES
 - To understand the design of parallel algorithms

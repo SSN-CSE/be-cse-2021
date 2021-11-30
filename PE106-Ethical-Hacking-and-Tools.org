@@ -12,7 +12,6 @@
 New Syllabus
 
 ** COURSE OBJECTIVES
-
 - To learn about the importance of information security
 - To learn different scanning and enumeration methodologies and tools
 - To understand various hacking techniques and attacks

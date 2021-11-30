@@ -13,18 +13,16 @@
 1. Added case study in units 2,4 & 5
 2. Modified CO5 from K3 to K4
 3. CO6 is added to map the soft POs and mapping done accordingly.
+4. Almost the same as EC8093  DIGITAL IMAGE PROCESSING in AU 2017
+5. Change in Unit V (see the comment below unit V)
+6. Unit - II in PCP1279(M.E. CSE Image Processing and Analysis)is
+   split into Unit- II and III
+   Image segmentation and Feature analysis methods in Unit- III of PCP1279 are moved to Unit - IV and 
+   Unit - V respectively.
+   The topic object recognition is added in Unit - V
+7. Five Course outcomes specified and aligned with units
+8. Not Applicable.
 
-#+begin_comment
-- 1. Almost the same as EC8093  DIGITAL IMAGE PROCESSING in AU 2017
-- 2. Change in Unit V (see the comment below unit V)
-- 3. Unit - II in PCP1279(M.E. CSE Image Processing and Analysis)is
-     split into Unit- II and III
-     Image segmentation and Feature analysis methods in Unit- III of PCP1279 are moved to Unit - IV and 
-     Unit - V respectively.
-     The topic object recognition is added in Unit - V
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable.
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To be familiar with digital image fundamentals

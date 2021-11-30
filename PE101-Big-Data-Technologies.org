@@ -14,7 +14,7 @@
 ** R2021 CHANGES :noexport:
 1. Unit 1 to 5 have been fully changed with recent Big Data Technologies.
 
-** Course Objectives
+** COURSE OBJECTIVES
 - To understand the competitive advantages of big data analytics 
 - To understand distributed data processing using Hadoop MapReduce
 - To learn apache spark for stream processing

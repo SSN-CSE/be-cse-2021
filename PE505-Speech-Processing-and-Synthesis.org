@@ -9,14 +9,14 @@
 | CODE    | COURSE TITLE                    | L | T | P | E | C |
 | UCS2738 | SPEECH PROCESSING AND SYNTHESIS | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-- 1. First three unit contents are changed
-- 2. For changes, see the individual units
-- 3. Two text books and five reference books are included
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable.
-#+end_comment
+** R2021 CHANGES :noexport:
+1. First three unit contents are changed
+2. For changes, see the individual units
+3. Two text books and five reference books are included
+4. Five Course outcomes specified and aligned with units
+5. Not Applicable.
 
+   
 ** COURSE OBJECTIVES
 - To explore the fundamentals of digital speech processing
 - To understand the basic concepts and algorithms of speech processing

@@ -14,14 +14,12 @@
 2. All five units were changed and updated based on the recent text books
 3. Testing techniques for Object oriented software has been added
 4. Testing techniques for Web and Mobile application have been included
+5. Anna University Regulation 2017 has this course. 
+6. The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) has been newly introduced.
+7. Not Applicable
+8. Five Course outcomes specified and aligned with units
+9. Not Applicable
 
-#+begin_comment
-1.Anna University Regulation 2017 has this course. 
-2.The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) has been newly introduced.
-3.Not Applicable
-4. Five Course outcomes specified and aligned with units
-5.Not Applicable
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To explain the software testing fundamentals 

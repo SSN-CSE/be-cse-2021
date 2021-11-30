@@ -12,18 +12,17 @@
 | CODE    | COURSE TITLE | L | T | P | E |   C |
 | UCS2511 | NETWORKS LAB | 0 | 0 | 3 | 0 | 1.5 |
 
-#+begin_comment
-- 1. Almost the same as AU
-- 2. For changes, see the individual units.
-- 3. Not Applicable
-- 4. Five Course outcomes specified 
-- 5. Suggestive experiments given
-
-Justifications for comments given by Mr. R.Pradeep - 
-   1. All the topics available in the IIT Kharagpur are included in the Syllabus
-   2. Apart from the topics in IIT Karagpur, we have included Routing algorithms as well.
-   
-#+end_comment
+** R2021 CHANGES :noexport:
+1. Almost the same as AU
+2. For changes, see the individual units.
+3. Not Applicable
+4. Five Course outcomes specified 
+5. Suggestive experiments given
+6. Justifications for comments given by Mr. R.Pradeep - 
+   1. All the topics available in the IIT Kharagpur are included in
+      the Syllabus
+   2. Apart from the topics in IIT Karagpur, we have included Routing
+      algorithms as well.
 
 ** COURSE OBJECTIVES
 - To learn and use network commands.

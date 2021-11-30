@@ -3,6 +3,9 @@
 :author: Dr. J Suresh and Dr. G Raghuraman
 :date: 18-03-2021
 :end:
+
+#+startup: showall
+
 {{{title-tab}}}
 | CODE    | COURSE TITLE          | L | T | P | E | C |
 | UCS2743 | BUSINESS INTELLIGENCE | 3 | 0 | 0 | 0 | 3 |
@@ -13,8 +16,6 @@
 -To provide information about estimation, regression and testing of hypothesis
 -To learn data mining methods
 -To gain knowledge about business intelligence tools
-
-#+startup: showall
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO BUSINESS ANALYTICS | 9 |

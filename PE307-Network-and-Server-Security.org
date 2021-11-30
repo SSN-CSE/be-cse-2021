@@ -9,19 +9,15 @@
 | CODE    | COURSE TITLE                | L | T | P | E | C |
 | UCS2727 | NETWORK AND SERVER SECURITY | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-Topic:
-1. Introduction to web security alone is discussed in unit 3.
-2. Due to limited hours,  indepth topics on Web security cannot be included.
-3. OWASP deals with web application security.
+** R2021 CHANGES :noexport:
+- Topics
+  1. Introduction to web security alone is discussed in unit 3.
+  2. Due to limited hours,  indepth topics on Web security cannot be included.
+  3. OWASP deals with web application security.
 
-Regarding BoS Comments:
-
-1. As per suggestions, Unit III is revised.
-
-2. Book suggested by BoS handles Cryptography and it deviates from the
-course content.
-#+end_comment
+- Regarding BoS Comments:
+  1. As per suggestions, Unit III is revised.
+  2. Book suggested by BoS handles Cryptography and it deviates from the course content.
 
 ** COURSE OBJECTIVES
 - To study about the essentials of computer security

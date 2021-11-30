@@ -10,10 +10,10 @@
 | UCS2737 | COMPUTER VISION | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
-1) Removed Image enhancement techniques 
-2) Modified the units 1, 2 and 3 based on different levels of features.
-3) Unit 5 is added newely with deep learning techniques for computer vision
-4) CO6 is added to map the soft POs and mapping done accordingly.
+1. Removed Image enhancement techniques 
+2. Modified the units 1, 2 and 3 based on different levels of features.
+3. Unit 5 is added newely with deep learning techniques for computer vision
+4. CO6 is added to map the soft POs and mapping done accordingly.
 
 ** COURSE OBJECTIVES
 - To explore the Low level vision features

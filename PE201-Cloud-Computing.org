@@ -11,25 +11,22 @@
 | CODE    | COURSE TITLE    | L | T | P | E | C |
 | UCS2621 | CLOUD COMPUTING | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
+** R2021 CHANGES :noexport:
 1. Unit 2 was chnaged covering only Virtualization concepts and included practical application to be developed and deployed in Cloud Platform.
 2. Unit 3 was changed to Design Challenges and Inter Cloud Resource Management.
-
-1. This syllabus was not offered under AU-2017 Regulations for UG.
-2. Introduces the Deep learning theory to undergraduate students which is recent trend and 
+3. This syllabus was not offered under AU-2017 Regulations for UG.
+4. Introduces the Deep learning theory to undergraduate students which is recent trend and 
    has its application in different areas.
-3. This subject is offered under M.E syllabus with additional unit on Deep learning with Tensorflow. 
+5. This subject is offered under M.E syllabus with additional unit on Deep learning with Tensorflow. 
    For changes, see the individual units.
-4. Five Course outcomes specified and aligned with units.
-5. No lab.
-#+end_comment
-#+begin_comment
-- 1. Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus which was mentioned at the end of every unit.
-- 2. For changes, see the individual units.
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. No Lab
-#+end_comment
+6. Five Course outcomes specified and aligned with units.
+7. No lab.
+8. Anna University Regulation 2017 has this course. The syllabus content across units were modified in Autonomous syllabus which was mentioned at the end of every unit.
+9. For changes, see the individual units.
+10. Not Applicable
+11. Five Course outcomes specified and aligned with units
+12. No Lab
+
 
 ** COURSE OBJECTIVES
 - To interpret the basics of cloud computing.

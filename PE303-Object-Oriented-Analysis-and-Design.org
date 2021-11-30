@@ -12,12 +12,9 @@
 ** R2021 CHANGES :noexport:
 1. No change in units from R-2018
 2. The Course ourcomes are rephrased and aligned with the units. And CO-PO-PSO Mappings are done as per the expert's suggestions.
-
-#+begin_comment
-1. Sixth Course outcome specified and aligned with units
-2. No change of content from R-2018
-3. Reference book edition is changed for "Design patterns: Elements of Reusable Object Oriented Software", Pearson Education, 2015.
-#+end_comment
+3. Sixth Course outcome specified and aligned with units
+4. No change of content from R-2018
+5. Reference book edition is changed for "Design patterns: Elements of Reusable Object Oriented Software", Pearson Education, 2015.
 
 
 ** COURSE OBJECTIVES

@@ -4,13 +4,12 @@
 :date: 9.03.2021
 :end:
 
-#+begin_comment
+** R2021 CHANGES :noexport:
 1. Almost the same as AU
 2. No changes from AU 2017.
 3. Not Applicable
 4. Five Course outcomes specified and aligned with units
 5. Suggestive List of Experiments given.
-#+end_comment
 
 #+startup: showall
 {{{title-tab}}}

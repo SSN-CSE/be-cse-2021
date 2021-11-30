@@ -9,16 +9,14 @@
 | CODE    | COURSE TITLE                  | L | T | P | E | C |
 | UCS2823 | SERVICE ORIENTED ARCHITECTURE | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.  Unit 4:
-Have included the topic "XML Web services for .Net" which is availale
-in the second text book of the syllabus Unit 5: Replaced the old
-content from the second text book they are more relevant to the
-subject
-
-Second Text book of Anna University Syllabus is altered, which is
-authored by, Sahankar Kambhampaly...
-#+end_comment
+** R2021 CHANGES :noexport:
+- Unit 1, 2, and 3 are same as R2017 Anna University Syllabus.
+- Unit 4: Have included the topic "XML Web services for .Net" which is
+  availale in the second text book of the syllabus
+- Unit 5: Replaced the old content from the second text book they are
+  more relevant to the subject
+- Second Text book of Anna University Syllabus is altered, which is
+  authored by, Sahankar Kambhampaly.
 
 ** COURSE OBJECTIVES
 - To learn the fundamentals of XML

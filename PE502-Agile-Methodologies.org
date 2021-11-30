@@ -13,23 +13,15 @@
 1. We have verified the syllabus with industry expert.
 2. No changes made in the syllabus
 3. Books are updated to recent edition.
+4. 1-6 : 1
+5. 7-12: 2
+6. 13-18: 3
+7. Anna University Regulation 2017 has this course. 
+8. The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.
+9. Not Applicable
+10. Five Course outcomes specified and aligned with units
+11. Not Applicable
 
-#+begin_comment
-1-6 : 1  
-7-12: 2
-13-18: 3
-#+end_comment
-
-#+begin_comment
-
-1.Anna University Regulation 2017 has this course. 
-2.The syllabus content across units were modified in Autonomous syllabus as adviced by the 
-  domain expert committee.
-    
- 3.Not Applicable
-4. Five Course outcomes specified and aligned with units
-5.Not Applicable
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To understand the basic concepts of Agile software process

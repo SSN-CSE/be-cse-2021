@@ -9,13 +9,12 @@
 | CODE    | COURSE TITLE           | L | T | P | E | C |
 | UCS2736 | EMBEDDED SYSTEM DESIGN | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-- 1. Same as AU 2017 syllabus.  
-- 2. No changes from AU 2017 syllabus
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
-#+end_comment
+** R2021 CHANGES :noexport:
+1. Same as AU 2017 syllabus.  
+2. No changes from AU 2017 syllabus
+3. Not Applicable
+4. Five Course outcomes specified and aligned with units
+5. Not Applicable
 
 
 ** COURSE OBJECTIVES

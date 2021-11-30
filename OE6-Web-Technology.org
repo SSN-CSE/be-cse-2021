@@ -9,13 +9,12 @@
 | CODE    | COURSE TITLE   | L | T | P | E | C |
 | UCS2046 | WEB TECHNOLOGY | 2 | 0 | 2 | 0 | 3 |
 
-#+begin_comment
+** R2021 CHANGES :noexport:
 1. In AU-R2017, it is given under the name Internet Programming, we have changed both client and server side with single technology for ease
 2. For changes, see the individual units
 3. This subject is offered under B.E syllabus as Internet Programming (core), it additionally includes Java server technology and different Javascript client framework 
 4. Five Course outcomes have been specified and it was aligned with the units.
 5. Suggestive experiments are given.
-#+end_comment
 
 ** COURSE OBJECTIVES
 - Learn to design static web pages using HTML5 and CSS3

@@ -9,12 +9,9 @@
 | CODE    | COURSE TITLE            | L | T | P | E | C |
 | UCS2729 | BLOCKCHAIN TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
 
-#+BEGIN_COMMENT
-Modification
-   NIL
-Major Change
-  NIL  
-#+END_COMMENT
+** R2021 CHANGES :noexport:
+- Modification: NIL
+- Major Change: NIL  
 
 
 ** COURSE OBJECTIVES

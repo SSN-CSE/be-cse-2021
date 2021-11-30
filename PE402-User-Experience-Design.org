@@ -6,6 +6,8 @@
 :date: 29.3.2021
 :end:
 
+#+startup: showall
+
 {{{title-tab}}}
 | CODE    | COURSE TITLE           | L | T | P | E | C |
 | UCS2728 | USER EXPERIENCE DESIGN | 3 | 0 | 0 | 0 | 3 |
@@ -15,7 +17,6 @@
 2. The Course ourcomes are rephrased and aligned with the units. And CO-PO-PSO Mappings are done as per the expert's suggestions.
 3. Brian Fling added as Text Book to align with the units. Bill Scot and Theresa Neil moved to references.
 4. Text Books contents are verified to align with the units and are marked in the syllbus. 
-#+startup: showall
 
 
 ** COURSE OBJECTIVES

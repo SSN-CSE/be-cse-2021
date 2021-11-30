@@ -10,13 +10,10 @@
 | CODE    | COURSE TITLE             | L | T | P | E |   C |
 | UCS2611 | INTERNET PROGRAMMING LAB | 0 | 0 | 3 | 0 | 1.5 |
 
-#+begin_comment
-- 1. Experiments related to JSP, PHP, XML and web services were
-removed when compared to AU-R2017 as they were removed in the theory
-#+end_comment
-
-** R2021 Changes
-Application for ReactJS and NodeJS was split into 2 programs
+** R2021 CHANGES :noexport:
+1. Experiments related to JSP, PHP, XML and web services were removed
+   when compared to AU-R2017 as they were removed in the theory
+2. Application for ReactJS and NodeJS was split into 2 programs
 
 ** COURSE OBJECTIVES
 - To develop web applications using traditional client and server end technologies.

@@ -12,14 +12,12 @@
 
 ** R2021 CHANGES :noexport:
 1. revised COs and mapping
+2. No equivalent course in AU 2017 Curriculum
+3. Framed the syllabus with a balance of theoretical concepts and practical implementation
+4. Text book and syllabus are different from M.E syllabus
+5. Five Course outcomes specified and aligned with units
+6. Suggestive experiments are given
 
-#+begin_comment
-- 1. No equivalent course in AU 2017 Curriculum
-- 2. Framed the syllabus with a balance of theoretical concepts and practical implementation
-- 3. Text book and syllabus are different from M.E syllabus
-- 4. Five Course outcomes specified and aligned with units
-- 5. Suggestive experiments are given
-#+end_comment
 
 
 ** COURSE OBJECTIVES

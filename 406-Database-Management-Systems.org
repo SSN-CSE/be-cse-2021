@@ -9,14 +9,13 @@
 | CODE    | COURSE TITLE                | L | T | P | E | C |
 | UCS2404 | DATABASE MANAGEMENT SYSTEMS | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
+** R2021 CHANGES :noexport:
 1. Fifth unit is new unit. All other units are already discussed in AU-2017.
 2. For changes, see the individual units.
 3. This subject is not offered under M.E syllabus.
 4. Five Course outcomes specified and aligned with units.
 5. Done.
 6. Added CO6 and updated the pos accordingly
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To introduce the fundamentals of database systems and conceptual

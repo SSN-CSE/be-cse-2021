@@ -7,13 +7,16 @@
 {{{title-tab}}}
 | CODE    | COURSE TITLE    | L | T | P | E | C |
 | UCS1032 | DATA STRUCTURES | 3 | 0 | 0 | 0 | 3 |
-  
+
+** R2021 CHANGES :noexport:
+1. In Unit 2, Function call is added in the application of stack.
+2. In Unit 5, External sorting is added.
+
 ** COURSE OBJECTIVES
 - To comprehend the notion of linear and non linear data structures
 - To apply the linear and non-linear data structures to various problems 
 - To learn sorting and hashing techniques
 - To design suitable data structures for different problems and implement them in C.
-
 
 {{{unit}}}
 | UNIT I | LINEAR DATA STRUCTURES - LIST | 10 |
@@ -93,7 +96,3 @@ After the completion of this course, students will be able to
 | Course | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 2 | 1 | 0 |
 
 # | Score | 10 | 15 | 14 | 9 | 0 | 0 | 0 | 0 | 3 | 5 | 0 | 5 | 10 | 5 | 0 |
-
-** REVISION 2021                                                   :noexport:
-1. In Unit 2, Function call is added in the application of stack.
-2. In Unit 5, External sorting is added.

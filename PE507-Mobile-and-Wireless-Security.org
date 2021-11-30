@@ -11,11 +11,9 @@
 
 
 ** R2021 CHANGES :noexport:
- New course
- 
-#+begin_comment
-Yet to do co-po mapping, c-objs, c-outcomes, ref
-#+end_comment
+- New course
+- Yet to do co-po mapping, c-objs, c-outcomes, ref
+
 
 ** COURSE OBJECTIVES
 - To Understand vulnerabilities of wired and wireless networks

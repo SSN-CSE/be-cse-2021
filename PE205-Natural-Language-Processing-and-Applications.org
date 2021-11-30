@@ -9,15 +9,15 @@
 | CODE    | COURSE TITLE                                 | L | T | P | E | C |
 | UCS2627 | NATURAL LANGUAGE PROCESSING AND APPLICATIONS | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-- 1. Combined Unit 2 and 3 of AU into Unit 2, Unit 4 and 5 of AU into Unit 3 to give emphasis on
-   NLP applications
-- 2. For changes, see the indidual units
-- 3. The unit headings are similar to M.E syllabus with addition and deletion of topics except Unit 4. 
-     Unit 4 and 5 are focussing on NLP applications. Removed NLP using Python
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
-#+end_comment
+** R2021 CHANGES :noexport:
+1. Combined Unit 2 and 3 of AU into Unit 2, Unit 4 and 5 of AU into
+   Unit 3 to give emphasis on NLP applications
+2. For changes, see the indidual units
+3. The unit headings are similar to M.E syllabus with addition and
+   deletion of topics except Unit 4.  Unit 4 and 5 are focussing on
+   NLP applications. Removed NLP using Python
+4. Five Course outcomes specified and aligned with units
+5. Not Applicable
 
 
 ** COURSE OBJECTIVES

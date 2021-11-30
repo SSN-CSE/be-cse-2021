@@ -10,14 +10,10 @@
 | UCS2624 | CYBER FORENSICS | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
-1: Complete Syllabus changed based on a new text book.
-
-#+begin_comment
-1-6 : 1  
-7-12: 2
-13-18: 3
-#+end_comment
-
+- Complete Syllabus changed based on a new text book.
+- 1-6 : 1  
+- 7-12: 2
+- 13-18: 3
 
 ** COURSE OBJECTIVES
 - To learn computer forensics and understand incident response

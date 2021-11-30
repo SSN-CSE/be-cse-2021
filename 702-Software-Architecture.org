@@ -6,13 +6,12 @@
 
 #+startup: showall
 
-#+begin_comment
-- 1. Split the first unit of M.E (SE) R2017 Software Architecture into two units
-- 2. Removed the second unit on Software Design
-- 3. The unit headings have been suitably changed
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable
-#+end_comment
+** R2021 CHANGES :noexport:
+1. Split the first unit of M.E (SE) R2017 Software Architecture into two units
+2. Removed the second unit on Software Design
+3. The unit headings have been suitably changed
+4. Five Course outcomes specified and aligned with units
+5. Not Applicable
 
 #+startup: showall
 {{{title-tab}}}

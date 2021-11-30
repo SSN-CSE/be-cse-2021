@@ -10,25 +10,22 @@
 | UCS2601 | INTERNET PROGRAMMING | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 Changes :noexport:
-  - CSS Box Model and JSON were added
-  - Audio and video controls as they are not very important
-  - Topics of Unit 4 are changed based on the following book as the ReactJS moved to recent version
-  - Book Alex Banks, Eve Porcello, ``Learning React: Modern Patterns
-    for Devloping React Apps'', June 2020, O'Reilly Media Inc.,
-  - Topics of Unit 5 are changed based on the following book as the
-    NodeJS moved to recent version -- Book Shelly Powers, ``Learning
-    Node 2nd Edition'', 1st Edition, O'Reilly Media,
-    June 2016. (Unit 5)
-  - Book Sitepoint Team, ``Your First Week With Node.js'', SitePoint,
-    February 2018. (Unit 5)
-  
-#+BEGIN_COMMENT
-1. Comments for the inclusion and removal of the contents in this syllabus with respect to AU R-2017 have been included along with the units
-2. The syllabi for UG and PG are different to a larger extent
-3. Course outcomes are specified and aligned with the units 
-4. Suggestive experiments are specified in the separate lab course for this subject
-5. In Unit-I, Web server vulnerabilities and solutions has been added as suggested by Mr. Karthik
-#+END_COMMENT
+  1. CSS Box Model and JSON were added
+  2. Audio and video controls as they are not very important
+  3. Topics of Unit 4 are changed based on the following book as the ReactJS moved to recent version
+  4. Book Alex Banks, Eve Porcello, ``Learning React: Modern Patterns
+     for Devloping React Apps'', June 2020, O'Reilly Media Inc.,
+  5. Topics of Unit 5 are changed based on the following book as the
+     NodeJS moved to recent version -- Book Shelly Powers, ``Learning
+     Node 2nd Edition'', 1st Edition, O'Reilly Media,
+     June 2016. (Unit 5)
+  6. Book Sitepoint Team, ``Your First Week With Node.js'', SitePoint,
+     February 2018. (Unit 5)
+  7. Comments for the inclusion and removal of the contents in this syllabus with respect to AU R-2017 have been included along with the units
+  8. The syllabi for UG and PG are different to a larger extent
+  9. Course outcomes are specified and aligned with the units 
+  10. Suggestive experiments are specified in the separate lab course for this subject
+  11. In Unit-I, Web server vulnerabilities and solutions has been added as suggested by Mr. Karthik
 
 ** COURSE OBJECTIVES
 - To understand different client and server end technologies
@@ -45,13 +42,13 @@ Table -- List -- Image -- Form -- Semantic elements -- CSS3: Types of
 style sheets -- Selectors -- Box Model -- Rule cascading -- Inheritance
 -- Transformations --Transitions -- Animations
 
-#+BEGIN_COMMENT
-17th March 2021
-Addition    
-  CSS Box as it is fundamental
-Removal
-  Audio and video controls as they are not very important
-#+END_COMMENT
+#+begin_comment
+- 17th March 2021
+- Addition    
+  - CSS Box as it is fundamental
+- Removal
+  - Audio and video controls as they are not very important
+#+end_comment
 
 {{{unit}}}
 |UNIT II | CLIENT SIDE PROGRAMMING | 9 |
@@ -96,7 +93,6 @@ component tree, Dependency Array -- Rules to follow with hooks -- React
 router: Incorporation -- Nesting -- Parameters
 
 #+BEGIN_COMMENT
-
 Removal
       PHP and XML in AU R-2017 have been removed
 Thought Process

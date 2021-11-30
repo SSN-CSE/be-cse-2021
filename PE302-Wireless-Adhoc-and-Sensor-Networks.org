@@ -9,11 +9,9 @@
 | CODE    | COURSE TITLE                       | L | T | P | E | C |
 | UCS2722 | WIRELESS ADHOC AND SENSOR NETWORKS | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
+** R2021 CHANGES :noexport:
 1. Removed unit 5 (security)
 2. included topology control
-#+end_comment
-
 
 ** COURSE OBJECTIVES
 - To understand the working of MAC Protocols and routing in  ad hoc networks

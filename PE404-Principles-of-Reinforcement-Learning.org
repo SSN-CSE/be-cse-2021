@@ -5,6 +5,7 @@
 :end:
 
 #+startup: showall
+
 {{{title-tab}}}
 | CODE    | COURSE TITLE                         | L | T | P | E | C |
 | UCS2735 | PRINCIPLES OF REINFORCEMENT LEARNING | 3 | 0 | 0 | 0 | 3 |

@@ -14,15 +14,12 @@
 2. Unit 5 is fully changed to Mobile and Spatial databases.
 3. NoSQL databases covered in DBMS core course (R2017-Unit4).
 4. Big data - a separate course is introduced (R2017-Unit 5).
+5. One professional elective was offered by AU-2017 "Advanced Topics on Databases".
+6. No changes in the first and second units.The last unit of AU-2017 was pushed to 3rd unit. The 4th and 5th units are new units.
+7. Syllabus is different from M.E syllabus
+8. Five course outcomes are specified and alligned with units.
+9. Not Applicable.
 
-#+begin_comment
-1. One professional elective was offered by AU-2017 "Advanced Topics on Databases".
-2.No changes in the first and second units.The last unit of AU-2017 was pushed to 3rd unit.
-The 4th and 5th units are new units.
-3.Syllabus is different from M.E syllabus
-4.Five course outcomes are specified and alligned with units.
-5.Not Applicable.
-#+end_comment
 
 ** COURSE OBJECTIVES
 The student should be able to
