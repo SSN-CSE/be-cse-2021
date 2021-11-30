@@ -14,7 +14,7 @@
 2. For changes, see the indidual units
 3. The unit headings are similar to M.E syllabus with addition and deletion of topics
 4. Five Course outcomes specified and aligned with units
-5. Not Applicable
+
 
 ** COURSE OBJECTIVES
 - To understand the basics of information retrieval with pertinence to

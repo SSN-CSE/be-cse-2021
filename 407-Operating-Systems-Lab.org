@@ -5,6 +5,7 @@
 :end:
 
 #+startup: showall
+
 {{{title-tab}}}
 | CODE    | COURSE TITLE          | L | T | P | E |   C |
 | UCS2412 | OPERATING SYSTEMS LAB | 0 | 0 | 3 | 0 | 1.5 |
@@ -12,16 +13,13 @@
 ** R2021 CHANGES :noexport:
 No changes
 
-#+begin_comment
+** R2018 CHANGES                                                   :noexport:
  1. 2 Experiments removed
  2. Shell programming experiment removed.
- Deadlock detection is removed as deadlock avoidance is already there under deadlock concept. 
- 3. Not Applicable
+ 3. Deadlock detection is removed as deadlock avoidance is already there under deadlock concept. 
  4. Five course outcomes clearly defined and aligned with the experiments
  5. Lab requirements clearly outlined.
-#+end_comment
 
-#+startup: showall
 
 ** COURSE OBJECTIVES
 - To learn and implement basic Unix commands using system calls

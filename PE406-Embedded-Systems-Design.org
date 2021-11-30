@@ -12,10 +12,7 @@
 ** R2021 CHANGES :noexport:
 1. Same as AU 2017 syllabus.  
 2. No changes from AU 2017 syllabus
-3. Not Applicable
-4. Five Course outcomes specified and aligned with units
-5. Not Applicable
-
+3. Five Course outcomes specified and aligned with units
 
 ** COURSE OBJECTIVES
 - To learn the architecture and programming of ARM processor

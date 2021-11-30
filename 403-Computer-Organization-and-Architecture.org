@@ -18,26 +18,11 @@
 ** R2021 CHANGES :noexport:
 1. Subword parallelism dropped from Unit 2
 2. Cache mapping techniques added in Unit 5
-
-#+begin_comment
-- 1. Almost the same as AU
-- 2. For changes, see the comments below the units, Unit IV and Unit V
-- 3. Not Applicable
-- 4. Five Course outcomes specified and aligned with units
-- 5. Not Applicable. 
-- 6. Included problems introduced by predictive branching: Spectre and Meltdown.
-      Since the text books are not available, website links are provided in References.
-#+end_comment
-
-** COMMENT REVISION 2018
-   1. Almost the same as AU
-   2. For changes, see the comments below the units, Unit IV and Unit V
-   3. Not Applicable
-   4. Five Course outcomes specified and aligned with units
-   5. Not Applicable. 
-   6. Included problems introduced by predictive branching: Spectre
-      and Meltdown. Since text books are not available, website links
-      are provided in References.
+3. Almost the same as AU
+4. For changes, see the comments below the units, Unit IV and Unit V
+5. Five Course outcomes specified and aligned with units
+6. Included problems introduced by predictive branching: Spectre and Meltdown.
+7. Since the text books are not available, website links are provided in References.
 
 ** COURSE OBJECTIVES
 - To learn the basic structure and operations of a computer 

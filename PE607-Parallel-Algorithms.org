@@ -11,9 +11,7 @@
 
 ** R2021 CHANGES :noexport:
 1. Almost the same as AU 
-2. Not Applicable
-3. Five Course outcomes specified and aligned with units
-4. Not Applicable
+2. Five Course outcomes specified and aligned with units
 
 
 ** COURSE OBJECTIVES

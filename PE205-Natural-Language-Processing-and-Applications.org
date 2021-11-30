@@ -17,8 +17,6 @@
    deletion of topics except Unit 4.  Unit 4 and 5 are focussing on
    NLP applications. Removed NLP using Python
 4. Five Course outcomes specified and aligned with units
-5. Not Applicable
-
 
 ** COURSE OBJECTIVES
 - To learn language models

@@ -21,7 +21,6 @@
    Unit - V respectively.
    The topic object recognition is added in Unit - V
 7. Five Course outcomes specified and aligned with units
-8. Not Applicable.
 
 
 ** COURSE OBJECTIVES

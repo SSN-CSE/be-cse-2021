@@ -16,9 +16,8 @@
    Unit III - Spline representations, Bezier curves and surfaces and B splines are removed from spline representaions topic,  Visible surface detection methods removed.
    Unit IV - Instead of Multimedia introduction, changed to Illumination models and added Animation. 
    Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
-4. Not Applicable
-5. Five Course outcomes specified and aligned with units
-6. For Lab, suggestive experiments are clearly defined.
+4. Five Course outcomes specified and aligned with units
+5. For Lab, suggestive experiments are clearly defined.
 
 
 ** COURSE OBJECTIVES

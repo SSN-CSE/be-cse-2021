@@ -7,9 +7,7 @@
 ** R2021 CHANGES :noexport:
 1. Almost the same as AU
 2. For changes, see the individual units.
-3. Not Applicable
-4. Five Course outcomes specified and aligned with units
-5. Not Applicable
+3. Five Course outcomes specified and aligned with units
 
 #+startup: showall
 {{{title-tab}}}

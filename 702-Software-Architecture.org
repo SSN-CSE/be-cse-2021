@@ -6,21 +6,18 @@
 
 #+startup: showall
 
-** R2021 CHANGES :noexport:
-1. Split the first unit of M.E (SE) R2017 Software Architecture into two units
-2. Removed the second unit on Software Design
-3. The unit headings have been suitably changed
-4. Five Course outcomes specified and aligned with units
-5. Not Applicable
-
-#+startup: showall
 {{{title-tab}}}
 | CODE    | COURSE TITLE          | L | T | P | E | C |
 | UCS2703 | SOFTWARE ARCHITECTURE | 3 | 0 | 0 | 0 | 3 |
 
+** R2018 CHANGES                                                   :noexport:
+1. Split the first unit of M.E (SE) R2017 Software Architecture into two units
+2. Removed the second unit on Software Design
+3. The unit headings have been suitably changed
+4. Five Course outcomes specified and aligned with units
+
 ** R2021 CHANGES :noexport:
 1. UNIT 4 of R2018 is renamed as Achieving Qulaities in 2021 regulation
-
 
 ** COURSE OBJECTIVES
 - To understand the various architectural views and quality attributes 

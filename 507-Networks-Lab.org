@@ -15,10 +15,9 @@
 ** R2021 CHANGES :noexport:
 1. Almost the same as AU
 2. For changes, see the individual units.
-3. Not Applicable
-4. Five Course outcomes specified 
-5. Suggestive experiments given
-6. Justifications for comments given by Mr. R.Pradeep - 
+3. Five Course outcomes specified 
+4. Suggestive experiments given
+5. Justifications for comments given by Mr. R.Pradeep - 
    1. All the topics available in the IIT Kharagpur are included in
       the Syllabus
    2. Apart from the topics in IIT Karagpur, we have included Routing

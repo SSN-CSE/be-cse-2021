@@ -16,9 +16,7 @@
 4. Testing techniques for Web and Mobile application have been included
 5. Anna University Regulation 2017 has this course. 
 6. The syllabus content across units were modified in Autonomous syllabus as adviced by the domain expert committee.Unit V(SOFTWARE QUALITY ASSURANCE) has been newly introduced.
-7. Not Applicable
 8. Five Course outcomes specified and aligned with units
-9. Not Applicable
 
 
 ** COURSE OBJECTIVES

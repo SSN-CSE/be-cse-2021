@@ -10,16 +10,15 @@
 | UCS2726 | MULTICORE ARCHITECTURES AND PROGRAMMING | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
-- Same as R2018
-- COs and COs mapping are changed
-- Almost the same as AU
-- No changes 
-- Few topics of First unit in PG subject ``Multicore Architectures and GPU Computing'' are matching which is essential for understanding the basics. The rest of the four units are different.  With respect to the PG Elective paper "Parallel Programming", the following observations are noticed:
-- Few topics in Unit 1 of both the subjects are matched.
-- Third unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is same as fourth unit of PE231-Parallel Programming of PG syllabus.
-- Fourth unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is same as second unit of PE231-Parallel Programming of PG syllabus.
-- Five Course outcomes specified and aligned with units
-- Not Applicable
+1. Same as R2018
+2. COs and COs mapping are changed
+3. Almost the same as AU
+4. No changes 
+5. Few topics of First unit in PG subject ``Multicore Architectures and GPU Computing'' are matching which is essential for understanding the basics. The rest of the four units are different.  With respect to the PG Elective paper "Parallel Programming", the following observations are noticed:
+6. Few topics in Unit 1 of both the subjects are matched.
+7. Third unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is same as fourth unit of PE231-Parallel Programming of PG syllabus.
+8. Fourth unit of PE305-MULTICORE ARCHITECTURE AND PROGRAMMING is same as second unit of PE231-Parallel Programming of PG syllabus.
+9. Five Course outcomes specified and aligned with units
 
 
 ** COURSE OBJECTIVES

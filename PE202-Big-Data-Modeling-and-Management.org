@@ -16,7 +16,6 @@
 2. For changes, see the individual units. Unit - III of AU 2017 syllabus is removed. Unit IV is added as new
 3. There are difference in three units when compared to M.E
 4. Five Course outcomes specified and aligned with units
-5. Not Applicable
 
 ** R2021 CHANGES :noexport:
 1. Unit 1 to 5 have been fully changed with recent Big Data Management Tools.
