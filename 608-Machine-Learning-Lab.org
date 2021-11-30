@@ -51,11 +51,11 @@ After the completion of this course, students will be able to
 5. Develop an open ended solution for any real world problems (K3).
 
 ** LABORATORY REQUIREMENTS
-Hardware: \\
-- Standalone Desktops - 38 Nos 
+Hardware:
+1. Standalone Desktops - 38 Nos 
 
-Software: \\
-- Python
+Software:
+1. Python
 
 ** CO TO PO/PSO MAPPING
 

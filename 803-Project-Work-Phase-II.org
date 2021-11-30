@@ -1,0 +1,43 @@
+* 
+:properties:
+:author: B Bharathi
+:date: 16-11-2021
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE          | L | T |  P | E | C |
+| UCS2818 | PROJECT WORK PHASE II | 0 | 0 | 16 | 0 | 8 |
+
+** COURSE OBJECTIVES
+- To make use of the knowledge gained by the student at various stages
+  of the degree course.
+- To develop the ability to solve a specific problem right from its
+  identification and literature review till the successful solution of
+  the same.
+- To train the students in preparing project reports and to face
+  reviews and viva voce examination
+  
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+1. Construct suitable solutions by applying software engineering
+   principles (K6)
+2. Divide the work appropriately among the team members to manage time
+   and complexity (K4)
+3. Analyse the issues pertaining to society, health, safety, legal,
+   environment, culture applicable to the project and examine the
+   impact of the proposed solution on these issues (K4)
+4. Evaluate, document and present the solution (K5)
+5. Apply best practices and follow ethics in developing the solutions
+   (K3)   
+   
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  2 |  2 | 3 | 2 | 3 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 3 | 3 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
+| CO4    | 0 | 0 | 2 | 3 | 0 | 0 | 0 | 0 | 3 |  3 |  0 |  0 | 3 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 |  0 |  0 |  3 | 0 | 2 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 1 | 1 | 2 | 2 | 1 | 1 | 1 | 1 | 2 |  1 |  1 |  2 | 2 | 2 | 1 |

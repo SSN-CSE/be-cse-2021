@@ -66,13 +66,13 @@ After the completion of this course, students will be able to
 
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
-Hardware:\\
+Hardware:
 1. Standalone Desktops - 30 Nos
 2. 8086 development kits - 30 Nos
 3. Interfacing Units - Each 10 Nos
 4. Microcontroller kits- 30 nos
 
-Software:\\
+Software:
 1. MASM software
 
 

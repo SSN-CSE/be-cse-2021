@@ -48,7 +48,7 @@ Justifications for comments given by Mr. R.Pradeep -
 10. Simulation of Congestion Control Algorithms using NS2 and analyse its performance.
 
 
-\hfill *Total Periods: 60*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
@@ -61,10 +61,10 @@ After the completion of this course, students will be able to
    protocols (K4).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
-Hardware:\\
+Hardware:
 1. Standalone Desktops - 38 Nos
 
-Software:\\
+Software:
 1. C / C++ / Java / Python / Equivalent Compiler 
 2. Network simulator like NS2 / NS3 / Glomosim / OPNET/ Packet Tracer
    / Equivalent

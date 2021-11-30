@@ -62,6 +62,8 @@ Audits - Registration - ENVIRONMENTAL MANAGEMENT SYSTEM: Introduction
 -- ISO 14000 Series Standards -- Concepts of ISO 14001 -- Requirements
 of ISO 14001-Benefits of EMS.
 
+\hfill *Total Periods:45*
+
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to
 1. Apply TQM concepts in a selected enterprise.

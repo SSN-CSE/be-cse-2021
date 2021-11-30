@@ -21,11 +21,11 @@
 
 
 ** COURSE OBJECTIVES
-1. To understand and differentiate Unified Process from other approaches 
-2. To understand object-oriented software design using UML's static diagrams
-3. To understand software modeling using the UML's dynamic diagrams
-4. To learn improving software design with design patterns
-5. To learn testing the software with its requirements specification.
+- To understand and differentiate Unified Process from other approaches 
+- To understand object-oriented software design using UML's static diagrams
+- To understand software modeling using the UML's dynamic diagrams
+- To learn improving software design with design patterns
+- To learn testing the software with its requirements specification.
 
 {{{unit}}}
 |UNIT I | DEVELOPMENT PROCESS & USE-CASE DIAGRAM (STATIC)  | 9 |

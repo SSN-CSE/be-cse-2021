@@ -40,6 +40,7 @@ Organization and Composition of Judiciary -- Constitution --
 Appointment -- Qualifications -- Powers and functions of the supreme
 court -- High courts -- Control over subordinate courts.
 
+{{{unit}}}
 | UNIT V | THE FEDERAL SYSTEM | 6 |
 Distribution of financial powers: Need, principles-Underlaying
 distribution of tax revenues- Distribution of legislative power --
@@ -49,11 +50,11 @@ Interstate relation - Emergency provisions.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-- Understand the history and philosophy of the Indian constitution.
-- Realize the powers and functions of the Indian government.
-- Acquire awareness of the structure and functions of local administration.
-- Enhance knowledge about the organization and composition of the judiciary.
-- Explore the distribution of financial powers and emergency provisions.
+1. Understand the history and philosophy of the Indian constitution.
+2. Realize the powers and functions of the Indian government.
+3. Acquire awareness of the structure and functions of local administration.
+4. Enhance knowledge about the organization and composition of the judiciary.
+5. Explore the distribution of financial powers and emergency provisions.
       
 ** TEXT BOOKS
 1. Basu D.D, ``Introduction to Indian Constitution'', Prentice Hall of
@@ -76,10 +77,10 @@ After the completion of this course, students will be able to
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
-| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
-| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
-| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
-| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| CO1    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO2    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO3    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO4    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 1 | 1 | 1 |
+| Course | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |  3 |  0 |  2 | 0 | 0 | 0 |

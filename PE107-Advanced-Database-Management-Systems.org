@@ -26,11 +26,11 @@ The 4th and 5th units are new units.
 
 ** COURSE OBJECTIVES
 The student should be able to
-1. To acquire knowledge on parallel and distributed databases and their applications 
-2. To study the usage and applications of Object and Object Relational Databases
-3. To learn about XML Database
-4. To acquire knowledge in intelligent Databases
-5. To learn the concepts of emerging technologies
+- To acquire knowledge on parallel and distributed databases and their applications 
+- To study the usage and applications of Object and Object Relational Databases
+- To learn about XML Database
+- To acquire knowledge in intelligent Databases
+- To learn the concepts of emerging technologies
 
 {{{unit}}}
 |UNIT I |PARALLEL AND DISTRIBUTED DATABASES| 9 |
@@ -85,11 +85,11 @@ Newly added to meet industry requirements
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to: 
-- Summarize Parallel and Distributed Databases (K2)
-- Develop schema and query in Object and Object Relational Databases (K3)
-- Construct schema and query XML Databases (K3)
-- Apply rules to infer knowledge from databases. (K3)
-- Explain concepts in mobile and spatial databases (K2).
+1. Summarize Parallel and Distributed Databases (K2)
+2. Develop schema and query in Object and Object Relational Databases (K3)
+3. Construct schema and query XML Databases (K3)
+4. Apply rules to infer knowledge from databases. (K3)
+5. Explain concepts in mobile and spatial databases (K2).
 
 ** TEXT BOOKS 
 1. Elmasri, Ramez, Shamkant Navathe, ``Fundamentals of database

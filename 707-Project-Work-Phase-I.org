@@ -1,0 +1,46 @@
+* 
+:properties:
+:author: B Bharathi
+:date: 16-11-2021
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE         | L | T | P | E | C |
+| UCS2717 | PROJECT WORK PHASE I | 0 | 0 | 6 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To develop skills to formulate a complex engineering problem
+- To carry out the survey on related literature and find out the
+  research gap
+- To explore use of new tools, algorithms and techniques required to
+  carry out the projects
+- To enable the students to gain experience in organization and
+  implementation of a small project and thus acquire the necessary
+  confidence to carry out project in the phase 2
+- To provide guidelines to prepare technical report of the project.
+  
+** COURSE OUTCOMES
+After the completion of this course, students will be able to 
+1. Formulate complex engineering problems and choose suitable
+   technologies and tools required to solve them effectively
+   (K4)
+2. Analyse the related literature on the proposed problem and its
+   feasibility (K4)
+3. Construct suitable solutions by applying software engineering
+   principles (K6)
+4. Evaluate, document, and present the solution (K5)
+5. Apply best practices and follow ethics in developing the solutions
+   (K3)
+
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 3 | 3 | 2 | 3 | 0 | 0 | 0 | 0 |  3 |  3 |  2 | 3 | 0 | 3 |
+| CO2    | 3 | 3 | 2 | 3 | 3 | 0 | 0 | 0 | 0 |  3 |  3 |  2 | 3 | 2 | 3 |
+| CO3    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  2 |  2 | 3 | 2 | 3 |
+| CO4    | 0 | 0 | 2 | 3 | 0 | 0 | 0 | 0 | 3 |  3 |  0 |  0 | 3 | 0 | 0 |
+| CO5    | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3 | 0 |  0 |  0 |  3 | 0 | 2 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 1 | 1 |  3 |  3 |  3 | 3 | 3 | 3 |
+

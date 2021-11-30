@@ -48,10 +48,10 @@ After the completion of this course, students will be able to
 
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
-Hardware:\\
-    1. Standalone Systems - 25 Nos 
-Software:\\
-    1. C / C++ Compiler 
+Hardware:
+1. Standalone Systems - 25 Nos 
+Software:
+1. C / C++ Compiler 
       
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |

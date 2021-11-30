@@ -27,15 +27,15 @@ RK changed mapping of CO5 to PO/PSO
 - To understand and implement generic programming.
 
 ** SUGGESTIVE EXPERIMENTS
-1.	Build an application using classes and objects (Eg: Electricity bill generation)
-2.	Develop an application using Inheritance (Eg: Payrollapplication)
-3.	Write a program to experiment with Polymorphism (E.g. Area of different shapes)
-4.	Design a Java interface for ADTs. (E.g. Stack, Queue)
-5.	Programs using Exception handling. (E.g. Bank Account manipulation)
-6.	Program to implement packages (Eg: Currency converter)
-7.	Program to implement generic classes, methods (Eg: Generic stack, Sorting)
-8.	Program to perform operations using Collection classes (Eg: ArrayList, LinkedList)
-9.	Develop a mini project for any application using the constructs of Java.
+1. Build an application using classes and objects (Eg: Electricity bill generation)
+2. Develop an application using Inheritance (Eg: Payrollapplication)
+3. Write a program to experiment with Polymorphism (E.g. Area of different shapes)
+4. Design a Java interface for ADTs. (E.g. Stack, Queue)
+5. Programs using Exception handling. (E.g. Bank Account manipulation)
+6. Program to implement packages (Eg: Currency converter)
+7. Program to implement generic classes, methods (Eg: Generic stack, Sorting)
+8. Program to perform operations using Collection classes (Eg: ArrayList, LinkedList)
+9. Develop a mini project for any application using the constructs of Java.
 
 
 #+begin_comment
@@ -67,10 +67,10 @@ CCC Feedback Committee Considerations
 #+end_comment
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
-Hardware:\\
-    1. Standalone Systems - 25 Nos
-Software:\\
-    1. Java
+Hardware:
+1. Standalone Systems - 25 Nos
+Software:
+1. Java
 
 ** CO TO PO/PSO MAPPING
 

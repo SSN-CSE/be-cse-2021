@@ -76,21 +76,18 @@
 
 \hfill *Total Periods: 45*
 
-** COURSE OUTCOMES
-After the completion of this course, students will be able to
-
-** REFERENCES
-1. S Gowri, T Jeyapoovan, ``Engineering Practices Lab Manual'', 5th
-   Edition, Vikas Publishing, 2016.
-2. V Ramesh Babu, Engineering Practices Laboratory, VRB
-   Publications, 2006.
-
 ** COURSE OUTCOMES   
 After the completion of this course, students will be able to   
 1. Obtain knowledge about civil and mechanical works.
 2. Obtain knowledge about basic household electrical practices
 3. Obtain knowledge about basic household electronics practices
    
+** REFERENCES
+1. S Gowri, T Jeyapoovan, ``Engineering Practices Lab Manual'', 5th
+   Edition, Vikas Publishing, 2016.
+2. V Ramesh Babu, Engineering Practices Laboratory, VRB
+   Publications, 2006.
+
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|

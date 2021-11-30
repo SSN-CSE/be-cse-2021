@@ -126,7 +126,7 @@ After the completion of this course, students will be able to
 Saraswathi: replaced words with action verbs
 #+end_comment
 
-** TEXT BOOK
+** TEXT BOOKS
 1. Alfred V Aho, Monica S Lam, Ravi Sethi, Jeffrey D. Ullman,
    ``Compilers: Principles, Techniques and Tools'', 2nd Edition,
    Pearson Education, 2009.

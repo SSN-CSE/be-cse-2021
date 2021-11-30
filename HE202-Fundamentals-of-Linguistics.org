@@ -60,6 +60,8 @@
   - Language and personality development
   - Linguistic features specific to Engineers.
 
+\hfill *Total Periods:45*
+
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to
 1. Understand what is linguistics

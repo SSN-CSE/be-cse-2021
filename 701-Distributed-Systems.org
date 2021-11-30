@@ -106,7 +106,7 @@ The topics of AU and Autonomous syllabi are one and the same.
 
 \hfill *Total: 45*
 
-** Course Outcomes
+** COURSE OUTCOMES
 Upon the completion of the course the students should be able to 
 1. Interpret the foundations of Distributed Systems (K2)
 2. Able to solve synchronization and state consistency problems (K3)

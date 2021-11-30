@@ -46,10 +46,10 @@ After the completion of this course, students will be able to
 5. Make use of NodeJS framework to build back end of web application (K3).
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
-Hardware:\\
+Hardware:
 1. Standalone Desktops - 38 Nos
 
-Software:\\
+Software:
 1. Frontend - Netbeans/Eclipse with Java
 2. Database - MySQL 
 3. Web Server - Tomcat Server

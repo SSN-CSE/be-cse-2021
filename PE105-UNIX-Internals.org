@@ -55,7 +55,7 @@ Process Scheduling and Time: Process Scheduling -- System calls for
 Time -- Clock. Interprocess Communication: Process Tracing – System V
 IPC
 
-|Total:|45|
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 

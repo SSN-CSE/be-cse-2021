@@ -52,11 +52,11 @@ After the completion of this course, students will be able to
    HDL (K3)
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
-Hardware:\\
-    1. Digital trainer kits  - 25
-    2. Digital ICs required for the experiments in sufficient numbers
-Software:\\
-    1. HDL simulator.
+Hardware:
+1. Digital trainer kits  - 25
+2. Digital ICs required for the experiments in sufficient numbers
+Software:
+1. HDL simulator.
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |

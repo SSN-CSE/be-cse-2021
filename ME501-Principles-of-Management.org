@@ -57,6 +57,8 @@ control techniques -- Use of computers and IT in Management control --
 Productivity problems and management -- Control and performance --
 Direct and preventive control -- Reporting
 
+\hfill *Total Periods:45*
+
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to
 # Upon completion of the course, students will be able to have clear

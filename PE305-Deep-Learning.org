@@ -91,7 +91,7 @@ Same as in Unit-IV in PG syllabus except the Representation learning.
 
 \hfill *Total Periods: 45*
 
-Group Projects:
+** GROUP PROJECTS
 1) Solving XOR problem using DNN
 2) Character / Face recognition using CNN
 3) Language modeling using RNN

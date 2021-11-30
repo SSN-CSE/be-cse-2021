@@ -11,11 +11,10 @@
 | CODE    | COURSE TITLE    | L | T | P | E | C |
 | UCS2621 | CLOUD COMPUTING | 3 | 0 | 0 | 0 | 3 |
 
-
+#+begin_comment
 1. Unit 2 was chnaged covering only Virtualization concepts and included practical application to be developed and deployed in Cloud Platform.
 2. Unit 3 was changed to Design Challenges and Inter Cloud Resource Management.
 
-#+begin_comment
 1. This syllabus was not offered under AU-2017 Regulations for UG.
 2. Introduces the Deep learning theory to undergraduate students which is recent trend and 
    has its application in different areas.
