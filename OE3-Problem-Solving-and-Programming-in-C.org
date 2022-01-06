@@ -85,10 +85,8 @@ After the completion of this course, students will be able to
    Ed, 2004.
 
 
-** CO TO PO/PSO MAPPING 
- 
-
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+** CO TO PO MAPPING 
+| PO     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----|
 | CO1    | 2 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 |
 | CO2    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 0 |  2 |  0 |  1 |

@@ -77,7 +77,7 @@ practices in Engineering.
 \hfill  *Lecture Periods: 30*
 
 ** LAB ASSIGNMENTS
-1. Algorithm writing, verification and test case design (1)
+1. Algorithm writing, verification and test case design
 2. Programs using looping constructs
 3. Programs using functions with different parameter passing
    techniques: Call by value, call by reference (e.g. changing the
