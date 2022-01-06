@@ -11,10 +11,8 @@
 | UCS2612 | MACHINE LEARNING LAB | 0 | 0 | 3 | 0 | 1.5 |
 
 ** R2021 CHANGES :noexport:
-1. Almost the same as AU
-2. No changes from AU 2017.
-3. Five Course outcomes specified and aligned with units
-4. Suggestive List of Experiments given.
+1. Five Course outcomes specified and aligned with units
+2. Suggestive List of Experiments given.
 
 ** COURSE OBJECTIVES
 - To apply and analyze the appropriate machine learning strategy for any given problem 
