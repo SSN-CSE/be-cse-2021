@@ -89,7 +89,7 @@ After the completion of this course, students will be able to
 3. Explain the restoration concepts and filtering techniques (K2)
 4. Identify the segmentation methods and apply in real time
    applications (K3)
-5. Analyse the feature extraction and object recognition methods (K4)
+5. Analyse the feature extraction and object recognition methods (K3)
 6. Develop real time application in teams by using image processing
    and analysis techniques with a clear documentation of the approach
    (K4).
