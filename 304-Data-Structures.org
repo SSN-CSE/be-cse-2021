@@ -6,7 +6,7 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE    | COURSE TITLE    | L | T | P | E | C |
-| UCS1032 | DATA STRUCTURES | 3 | 0 | 0 | 0 | 3 |
+| UCS2302 | DATA STRUCTURES | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. In Unit 2, Function call is added in the application of stack.
