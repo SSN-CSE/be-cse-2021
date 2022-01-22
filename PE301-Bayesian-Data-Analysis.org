@@ -70,10 +70,7 @@ After the completion of this course, students will be able to
 3. Analysing data using hierarchical model (K4)
 4. Compare non-bayesian model with bayesian model (K4)
 5. Apply various Bayesian computation techiniques to solve a problem
-   (K3)
-6. Solve a real time problem using any bayesian approach with clear
-   documentation (K4).
-
+   (K3) 
       
 ** TEXT BOOKS
 1. Peter D Hoff, ``A first course in Bayesian Statistical Methods'',
