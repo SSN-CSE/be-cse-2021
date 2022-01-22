@@ -41,7 +41,7 @@
 
 Introduction to Software Engineering; Objectives, Principles and Practices; The Software Development Life Cycle : Pre-development phases of the SDLC -- Development specific phases of the SDLC -- Post-development phases of the SDLC; Methodologies Paradigm and Practices : Process methodologies -- Development paradigms -- Development practices; 
 
-Project Planning Process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management.
+Project Planning Process; Software Project Estimation: Decomposition techniques -- Empirical estimation models -- The make/buy decision -- Project scheduling; Risk Management; Handling Ethical Dilemmas.
 
 
 {{{unit}}}
@@ -71,14 +71,12 @@ Agile Development: Agile Teams -- Team and Scrum --  Branches -- Pull Requests -
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Choose an appropriate process model and estimate project cost and effort required(K4)
-2. Analyse and model requirements (K4)
+1. Choose an appropriate process model and estimate project cost and effort required by applying software engineering principles(K5)
+2. Identify and analyze the requirements and construct their models (K5)
 3. Apply systematic procedure for software design (K3)
 4. Compare and contrast the various testing and maintenance activities (K2)
 5. Make use of agile development and Devops (K3)
-6. Select an appropriate process model to construct a system in teams
-   by applying best practices and principles in software engineering
-   (K5).
+6. Identifying unethical issues and applying ethical practices for a given case study (K3)
 
 ** TEXT BOOKS
 1. Roger S Pressman, Bruce R Maxin ``Software Engineering -- A
