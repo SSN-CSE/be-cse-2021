@@ -86,7 +86,7 @@ After the completion of this course, students will be able to
 4. Demonstrate the working of different illumination and color models
    used to render an animation scene (K2)
 5. Compare different types of multimedia file formats, compression
-   techniques and demonstrate modelling, shading and textures on basic shapes in Blender.(K2)
+   techniques and demonstrate modelling, shading and textures on basic shapes in Blender (K2)
 
 ** TEXT BOOKS
 1. Donald Hearn, Pauline Baker M, ``Computer Graphics'', Prentice
