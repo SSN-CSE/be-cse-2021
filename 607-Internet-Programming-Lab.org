@@ -39,7 +39,7 @@
 After the completion of this course, students will be able to 
 1. Build web applications using traditional client/server technologies (K3)
 2. Construct web application using javascript frameworks (K3)
-3. Develop and evaluate a web application for a given set of requirements on JavaScript Framework with NodeJS Server, applying suitable design options and techniques  (K6
+3. Develop and evaluate a web application for a given set of requirements on JavaScript Framework with NodeJS Server, applying suitable design options and techniques  (K6)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:
