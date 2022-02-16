@@ -119,7 +119,7 @@ After the completion of this course, students will be able to
 3. Apply the concepts of polymorphism and exception handling (K3)
 4. Build applications using generic programming (K3)
 5. Apply the concepts of generic collections  (K3).
-6. Select real world problems in teams by choosing suitable object oriented features and  applying best practices in programming  with a clear documentation  of algorithm and approach(K5).
+6. Design real world case study by choosing suitable object oriented features (K3).
 
 #+begin_comment
 09.03.2021
