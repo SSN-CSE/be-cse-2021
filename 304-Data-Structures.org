@@ -46,7 +46,7 @@ All-pairs shortest path.
 
 {{{unit}}}
 | UNIT V | SORTING AND HASHING TECHNIQUES | 9 |
-Sorting: Insertion sort -- Shell sort -- External sorting; Hashing:
+Sorting: Insertion sort -- Shell sort -- Radix Exchange sort; Hashing:
 Hash function -- Separate chaining -- Open addressing -- Rehashing --
 Extendible hashing.
 
