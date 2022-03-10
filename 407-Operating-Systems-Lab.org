@@ -50,11 +50,9 @@ No changes
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Analyze the performance of various CPU Scheduling Algorithms (K4)
-2. Implement Deadlock avoidance algorithms (K3)
-3. Implement Semaphores and IPC (K3)
-4. Implement various Page Replacement Algorithms (K3)
-5. Implement File Organization and File Allocation Strategies (K3).
+1. Analyze the performance of various CPU scheduling algorithms (K4)
+2. Develop programs to implement deadlock avoidance algorithms, semaphores and IPC (K3)
+3. Develop programs to implement various page replacement algorithms, file organization and file allocation strategies (K3).
       
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:
@@ -67,12 +65,9 @@ Software:
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO2    | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO3    | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO4    | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO5    | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
+| CO1    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO2    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO3    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
-
-# | Score          | 15 | 15 | 15 | 15 | 0 | 0 | 0 | 0 | 0 |  5 |  0 |  0 | 15 | 0 | 0 |
+| Score | 9 | 6 |   | 9 |   |   |   |   |   |    |    |    | 9 |   |   |
+| Course mapping  | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |   |
