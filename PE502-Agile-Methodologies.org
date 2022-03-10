@@ -93,7 +93,7 @@ Testing is added in addition to quality in anna university syllabus
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-Upon the completion of the course the students should be able to 
+After the completion of this course, students will be able to:
 1. Explain evolutionary, iterative and adaptive development methods (K2)
 2. Apply agile software process in requirement engineering (K3)
 3. Outline agile methods for project planning and developement (K2)
