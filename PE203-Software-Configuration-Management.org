@@ -13,11 +13,11 @@
 1. A new syllabus
 
 ** COURSE OBJECTIVES
-- Explain the key aspects of traditional configuration management
-- Demonstrate the microservices application  
-- Deploy the microservice in a container 
-- Explore Docker container networking services
-- Modify the configuration techniques using kubernetes and Docker swarm 
+-Explain and demonstrate the key aspects of traditional configuration management
+-Understand and demonstrate the microservices application  
+-Explore and deploy the microservice in a container 
+-Install and explore Docker container networking services
+-Modify the configuration techniques using kubernetes and Docker swarm 
 
 {{{unit}}}
 |UNIT I | TRADITIONAL | 9 |
@@ -69,12 +69,13 @@ Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
-1. Identity the traditional configuration principles both thoery and
-   practically (K3)
-2. Develop a microservice (K3)
-3. Build a container and deploy a  microservice (K3)
-4. Explain the networking concepts in container (K2)
-5. Choose the configutation features using Kubernetes and Docker swarm (K3).
+
+-Explain traditional software configuration principles (K2)
+-Develop  microservices (K3)
+-Build a container and deploy a  microservice (K3)
+-Explain networking concepts in containers (K2)
+-Choose  configuration features using Kubernetes and Docker swarm (K3).
+
       
 ** TEXT BOOKS
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert
@@ -98,12 +99,12 @@ Upon completion of the course, the student should be able to
 ** CO TO PO/PSO MAPPING 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 2 | 2 | 1 | 0 | 0 | 1 | 0 | 0 |  3 |  0 |  2 | 2 | 1 | 0 |
-| CO2    | 2 | 2 | 3 | 1 | 2 | 0 | 1 | 0 | 1 |  3 |  1 |  1 | 1 | 2 | 0 |
-| CO3    | 2 | 3 | 3 | 1 | 2 | 0 | 1 | 0 | 2 |  1 |  1 |  1 | 3 | 2 | 0 |
-| CO4    | 0 | 3 | 1 | 1 | 0 | 0 | 1 | 0 | 1 |  1 |  0 |  1 | 1 | 0 | 0 |
-| CO5    | 0 | 3 | 1 | 1 | 0 | 0 | 1 | 0 | 1 |  1 |  0 |  1 | 1 | 0 | 0 |
+| CO1    |   | 2 | 2 |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO2    | 3 | 3 | 2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |   |
+| CO3    | 3 | 3 | 2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |   |
+| CO4    | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    |   |   |   |
+| CO5    |   | 2 | 2 |   |   |   |   |   |   |    |    |    | 2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 2 | 1 | 1 | 0 | 1 | 0 | 0 |  2 |  1 |  2 | 2 | 1 | 0 |
-
-# | Score          | 6 | 13 | 10 | 5 | 4 | 0 | 5 | 0 | 5 |  9 |  2 |  6 | 8 | 5 | 0 |
+| Score | 9 |12 | 10 |   |   |   |   |   | 6 |  6 |  6 |    | 8 |   |   |
+  
+|mapping| 3 | 3 | 2  |   |   |   |   |   | 3 |  3 |  3 |    | 2 |    |   |
