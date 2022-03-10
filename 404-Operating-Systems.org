@@ -78,7 +78,7 @@ Android -- Introduction and architecture.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
 1. Outline the basic services and functionalities of operating systems (K2)
-2. Analyze various scheduling algorithms, and understand process synchronization, deadlock prevention and avoidance schemes (K4)
+2. Analyze various scheduling algorithms, and explain process synchronization, deadlock prevention and avoidance schemes (K4)
 3. Apply different memory management schemes (K3)
 4. Apply various disk management schemes and illustrate the functionalities of file systems (K3)
 5. Compare and contrast Linux, Windows and mobile operating systems (K2).
@@ -107,12 +107,12 @@ After the completion of this course, students will be able to
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    | 3 |   |   |
-| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
-| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO2    | 3 | 3 | 3 |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO3    | 3 | 3 | 3 |   |   |   |   |   |   |    |    |    | 3 |   |   |
 | CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
 | CO5    | 3 |   |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Score  | 15| 8 | 2 |   |   |   |   |   |   |    |    |    | 15 |  |   |
-| Course mapping | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    |  3 |  |   |
+| Score  | 15| 10 | 8 |   |   |   |   |   |   |    |    |    | 15 |  |   |
+| Course mapping | 3 | 3 | 3 |   |   |   |   |   |   |    |    |    |  3 |  |   |
 
 
