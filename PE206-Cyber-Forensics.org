@@ -94,11 +94,11 @@ third-party application data.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Summarize the basics of computer forensics. (K2)
-2. Apply different computer forensic tools to collect data. (K3)
-3. Apply tools to analyze and validate forensic data. (K5)
-4. Classify the malware and threat intelligence. (K2)  
-5. Apply forensic tools on mobile data. (K3)
+1. Summarize the basics of computer forensics (K2)
+2. Apply different computer forensic tools to collect data (K3)
+3. Apply tools to analyze and validate forensic data (K5)
+4. Classify the malware and threat intelligence (K2)  
+5. Apply forensic tools on mobile data (K3).
 
 
 ** TEXT BOOKS 
