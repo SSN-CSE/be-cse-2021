@@ -107,14 +107,12 @@ changes: "Consider a simple program as an input and process this code to Â  p
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Construct a lexical analyzer for a sample language. (K3)
-2. Apply different parsing algorithms to develop the parsers for the
-   given grammar. (K3)
-3. Build syntax directed translation for programming language
-   constructs. (K3)
-4. Outline and develop a simple code generator. (K3)
-5. Make use of code optimization techniques. (K3)
-6. Construct a compiler for a simple language using modern tools. (K6)
+1. Construct a lexical analyzer for a sample language (K3)
+2. Apply different parsing algorithms to develop the parsers for the given grammar (K3)
+3. Build syntax directed translation for programming language constructs (K3)
+4. Outline and develop a simple code generator (K3)
+5. Make use of code optimization techniques (K3)
+6. Construct a compiler for a simple language using modern tools (K6).
 
 
 #+begin_comment
