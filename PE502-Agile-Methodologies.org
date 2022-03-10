@@ -98,11 +98,9 @@ Upon the completion of the course the students should be able to
 2. Apply agile software process in requirement engineering (K3)
 3. Outline agile methods for project planning and developement (K2)
 4. Choose agile methods for software design (K3)
-5. Apply agile based testing and quality assurance (K3)
-6. Select and build a software project to solve a real world problem
-   in teams by applying best practices of Agile methods (K5).
-
-#+begin_comment
+5. Apply agile based testing with quality assurance (K3).
+   
+ #+begin_comment
 modified on 20-07-2021 :  
 co6:  Build a software project to solve a real world problem in teams by applying best practices of Agile methods (K5).
 modified on 20-07-2021 :
@@ -133,13 +131,11 @@ co6: Select and build a software project to solve a real world problem in teams 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO2    | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO3    | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 1 | 0 |
-| CO4    | 2 | 3 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 2 | 0 |
-| CO5    | 2 | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 1 | 0 |
-| CO6    | 2 | 3 | 3 | 3 | 1 | 2 | 2 | 2 | 3 |  3 |  1 |  3 | 3 | 2 | 2 |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO2    | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO3    | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO4    | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO5    | 3 | 3 | 3 |   |   |   |   |   |   |    |    |    | 2 | 3 |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 3 | 1 | 1 | 1 | 2 | 1 | 1 |  2 |  1 |  1 | 2 | 1 | 1 |
-
-# | Score | 12 | 18 | 17 | 3 | 1 | 2 | 7 | 2 | 3 | 10 | 1 | 3 | 11 | 6 | 6 |
+| Score  |15 |11 | 9 |   |   |   |   |   |   |    |    |    |10 | 3 |   |
+| Mapping| 3 | 3 | 3 |   |   |   |   |   |   |    |    |    | 2 | 3 |   |
