@@ -111,4 +111,4 @@ After the completion of this course, students will be able to
 | CO5    | 3 | 2 |   |   | 2 |   |   |   |   |    |    |  2 | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | Score  |15 |10 |   |   | 2 |   |   |   |   |    |    |  2 | 15 |   |   |
-| Course mapping | 3 | 2 |   |   | 2 |  |  |  |   |   |  | 2 | 3 |  | 2 |
+| Course mapping | 3 | 2 |   |   | 2 |  |  |  |   |   |  | 2 | 3 |  |  |
