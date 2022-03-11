@@ -67,8 +67,8 @@ Likelihood -- Bayesian Hypothesis Testing for Outcome Analysis.
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
 1. Explain the need for probabilistic graphical models (K2)
-2. Apply  various representations like directed and undirected models (K3)
-3. Select the inference algorithms for graphical models (K3)
+2. Apply various representations like directed and undirected models (K3)
+3. Select inference algorithms for graphical models (K3)
 4. Apply techniques to learn the structure and parameters in models (K3)
 5. Outline the learning techniques for hidden data (K2)
 
