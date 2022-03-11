@@ -75,17 +75,11 @@ Support Systems: Various Types of CDSS, Diagnostic Decision Support.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
 1. Explain the basic and advanced data analytics in public health (K2)
-2. Build data models that integrate patient data from multiple sources
-   to create comprehensive, patient-centered views of data using
-   analytics tools for EHR, Image and Sensor Data (K3)
-3. Build data models that integrate patient data from multiple sources
-   to create comprehensive, patient-centered views of data using
-   analytics tools for Signal, Genome and Text Data (K3)
-4. Apply and Solve meaningful patterns and trends in advanced data analytics
-   systems (K3)
-5. Apply descriptive and inferential methodologies according to the
-   type of study design in Healthcare practical systems (K3)
-6. Develop a health care system for a given application (K3).
+2. Integrate patient data from multiple sources into data models using  analytics tools for EHR, Image and Sensor Data (K3)
+3. Integrate patient data from multiple sources into data models using  analytics tools for Signal, Genome and Text Data (K3)
+4. Apply meaningful patterns and trends in advanced data analytics systems (K3)
+5. Apply descriptive and inferential methodologies according to the type of study design in Healthcare practical systems (K3)
+
 
  
 ** TEXT BOOKS
