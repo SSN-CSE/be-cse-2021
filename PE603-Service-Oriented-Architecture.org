@@ -60,12 +60,11 @@ Design of client services -- Design of business process services.
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to 
-1. Illustrate XML technologies (K2)
+1. Apply  appropriate XML technologies to solve a given problem (K4) 
 2. Explain service orientation, benefits of SOA (K2)
-3. Build web services and WS standards (K3)
+3. Describe  web services and WS standards (K2) 
 4. Apply web services extensions to develop solutions (K3)
-5. Apply service modeling, service oriented analysis and design for
-   application development in teams (K3).
+5. Apply service modeling, service oriented analysis and design for application development in teams (K3).
 
 ** TEXT BOOKS
 1. Thomas Erl, ``Service Oriented Architecture: Concepts, Technology,
