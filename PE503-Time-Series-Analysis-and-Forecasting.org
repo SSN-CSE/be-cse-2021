@@ -17,18 +17,6 @@
 - To learn Autoregressive Integrated Moving Average(Arima) models
 - To explore transfer Functions and Intervention Models.
 
-** CO TO PO/PSO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 2 |  |  |
-| CO2    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 3 |  |  |
-| CO3    | 3 | 2 |  | 3 |  |  |  |  |  |   |   |   | 3 |  |  |
-| CO4    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 3 |  |  |
-| CO5    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 3 |  |  |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Score | 15 | 10 |  | 3 |  |  |  |  |  |  |  |  | 14 |  |  |
-| Course | 3 | 3 |  | 3 |  |  |  |  |  |  |   |  | 3 |  |  |
-
 {{{unit}}}
 |UNIT I | INTRODUCTION TO FORECASTING | 9 |
 Introduction to Forecasting: The Nature and Uses of Forecasts -- Some
@@ -70,12 +58,12 @@ Transfer Function–Noise Models -- Intervention Analysis.
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
-1. Illustrate the statistical background for forecasting (K2)
-2. Select appropriate models for regression analysis and forecasting (K3)
-3. Apply the exponential Smoothing Methods to time series data (K3)
-4. Build timeseries Autoregressive Integrated Moving Average(Arima)
-   models (K3)
-5. Make use of transfer functions in time series modelling (K3)
+1. Explain the statistical background for forecasting (K2)
+2. Apply various models for regression analysis and forecasting (K3)
+3. Apply exponential smoothing methods on time series data (K3)
+4. Build time series Autoregressive Integrated Moving Average (Arima) models (K3)
+5. Apply transfer functions for time series modeling (K3)
+
 
       
 ** TEXT BOOKS
@@ -98,6 +86,17 @@ Upon completion of the course, the student should be able to
    Publisher, 2015.
 
 
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 2 |  |  |
+| CO2    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 3 |  |  |
+| CO3    | 3 | 2 |  | 3 |  |  |  |  |  |   |   |   | 3 |  |  |
+| CO4    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 3 |  |  |
+| CO5    | 3 | 2 |  |   |  |  |  |  |  |   |   |   | 3 |  |  |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Score | 15 | 10 |  | 3 |  |  |  |  |  |  |  |  | 14 |  |  |
+| Course | 3 | 3 |  | 3 |  |  |  |  |  |  |   |  | 3 |  |  |
 
 
 
