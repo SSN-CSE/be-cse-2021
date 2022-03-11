@@ -87,12 +87,12 @@ problem -- Knapsack problem.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Develop the analysis Asymptotic framework for various computing problems (K3)
-2. Analyze the time and space complexity of Divide and Conquer algorithm strategy and compare with naïve approach (K4)
-3. Distinguish the importance of Dynamic Programming and Greedy Technique (K4)
-4. Identify suitable algorithm design technique for optimization problems (K4)
-5. Understand the limitations of algorithmic power (K2)
-6. Develop the important algorithms with appropriate data structures (K3).
+1. Analyze asymptotic running time for various kinds of algorithms (K4)
+2. Analyze the time and space complexity of Divide-and-Conquer and  Backtracking algorithms (K4)
+3. Evaluate Dynamic Programming and Greedy techniques for a given problem (K5)
+4. Use iterative improvement and branch-and-bound design techniques (K5)
+5. Explain the concepts of NP completeness (K2)
+
 
 ** TEXT BOOKS
 1. Anany Levitin, ``Introduction to the Design and Analysis of
@@ -123,6 +123,8 @@ After the completion of this course, students will be able to
 #+end_comment
 
 ** CO TO PO/PSO MAPPING
+
+
 #+NAME: co-po-pso mapping
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
