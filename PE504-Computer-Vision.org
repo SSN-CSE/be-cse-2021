@@ -79,11 +79,11 @@ Spatio-temporal Models -- Action/Activity Recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Apply various low level feature detection methods (K3)
-2. Choose various feature analysis methods and transforms for intermediate level vision (K3)
-3. Explain depth estimation and 3D reconstruction (K2)
-4. Analyse the object recognition methods (K4)
-5. Develop a real time computer vision application using deep learning models (K4)
+Apply various low level feature detection methods (K3)
+Apply various feature analysis methods and transforms for intermediate level vision (K3)
+Explain depth estimation and 3D reconstruction (K2)
+Analyse different object recognition methods (K4)
+Analyse deep learning models for a real time computer vision application (K4)
 
 
 ** TEXT BOOKS
@@ -107,16 +107,19 @@ After the completion of this course, students will be able to
    Inference'', Cambridge University Press, 2012.
 
 ** CO TO PO/PSO MAPPING
+** CO TO PO/PSO MAPPING 
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 |2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO2    | 3 |2 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO3    | 3 |2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO4    | 3 |2 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO5    | 3 |2 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  3 |  0 |  2 | 2 | 0 | 0 |
-| |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Score  |15 | 10 | 0 | 9 | 0 | 0 | 0 | 0 | 0 | 3 | 0 | 2 | 10 | 0 | 0 | 
-| Course | 3 | 2 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  3 | 0 | 2 | 2 | 0 | 0 |
+| CO1    | 3 |  2 |   |   |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO2    | 3 |  2 |   | 3 |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO3    | 3 |  2 |   |   |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO4    | 3 |  2 |   | 3 |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO5    | 3 |  2 |   | 3 |   |   |   |   |  | 3 |   |  2  | 2 |   |  |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 15 | 10 |  | 9 |   |   |   |   |  | 3 |   |  2 |  10|   |  |
+| Score | 3   |  2 |  | 3 |   |   |   |   |  | 3 |   |  2 |  2 |   |  |
+
 
 
 
