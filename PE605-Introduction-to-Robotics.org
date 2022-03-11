@@ -73,11 +73,12 @@ robotics -- Evolutionary robotics -- Humanoids.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Summarize the concepts of industrial robots(K2)
+1. Summarize the concepts of industrial robots (K2)
 2. Apply different sensors and actuators for applications like maze solving and self driving cars (K3)
 3. Model a 2R robot & an end-effector and solve the kinematics and dynamics of motion for robots (K3)
 4. Apply the navigation and path planning techniques for robot motion planning (K3)
 5. Outline the impact and progress of AI in the field of robotics (K2).
+
 
 ** TEXT BOOKS
 1. Roland Siegwart, Illah Reza Nourbakhsh, ``Introduction to
@@ -101,12 +102,12 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
-| CO2    | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 0 | 1 |
-| CO3    | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 1 | 1 |
-| CO4    | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 3 | 1 | 1 |
-| CO5    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
+| CO1    | 3 |   |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   | 3  |    | 3  | 3 |   |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 | 3 |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 3 | 1 | 1 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 3 | 1 | 1 |
+| Score | 15 | 8 |   |   |   |   |   |   |   |  3 |    | 3  |13 | 3 |   |
+| Course mapping | 3 | 2 |   |   |   |   |   |   |   | 3 |    | 3  | 2 | 3 |   |
 
-# | Score |   | 13 | 13 | 11 | 3 | 3 | 0 | 0 | 0 | 2 | 2 | 0 | 5 | 13 | 2 | 3 |
