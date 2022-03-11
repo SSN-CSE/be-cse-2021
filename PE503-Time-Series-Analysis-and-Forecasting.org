@@ -71,7 +71,7 @@ Transfer Function–Noise Models -- Intervention Analysis.
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
 1. Illustrate the statistical background for forecasting (K2)
-2. Compare various models for regression analysis and forecasting (K3)
+2. Select appropriate models for regression analysis and forecasting (K3)
 3. Apply the exponential Smoothing Methods to time series data (K3)
 4. Build timeseries Autoregressive Integrated Moving Average(Arima)
    models (K3)
