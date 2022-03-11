@@ -92,7 +92,7 @@ After the completion of this course, students will be able to
    clustering for efficient Information Retrieval (K3)
 5. Develop an IR application by applying best practices with proper
    documentation in teams (K4)
-6. Explain various IR applications (K2).
+6. Demonstrate the use of IR applications in different domains (K2).
       
 ** TEXT BOOKS
 1. Ricardo Baeza Yates, Berthier Ribeiro Neto, ``Modern Information
