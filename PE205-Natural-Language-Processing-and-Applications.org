@@ -115,7 +115,7 @@ Upon the completion of the course the students should be able to
 2. Apply basic levels of knowledge at word level and syntax level in language processing (K3)
 3. Apply computational methods in lexical and vector semantics (K3)
 4. Explain discourse processing and  machine translation systems (K2)
-5. Apply learning algorithms for various NLP applications (K3)
+5. Apply learning algorithms for various NLP applications (K3).
 
 ** TEXT BOOKS
 1. Daniel Jurafsky and James H Martin, ``Speech and Language
@@ -155,6 +155,7 @@ Upon the completion of the course the students should be able to
 | CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
 | CO5    | 3 | 3 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Score  |15 |11 |   | 3 |   |   |   |   |   |    |    |    | 11|   |   |
 | Course | 3 | 3 |   | 3 |   |   |   |   |   |    |    |    | 3 |   |   |
 
-# | Score          | 15 | 11 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 | 0 | 11 | 0 | 0 |
+# 
