@@ -94,6 +94,7 @@ After the completion of this course, students will be able to
    Machines, Neural Networks, and Fuzzy Logic Models'', Pearson
    Education, New Delhi, 2006.
 
+#+begin_comment
 ** LIST OF PROJECTS
 1. Intelligent fuzzy based washing time prediction with parameter
    dependency.
@@ -117,6 +118,7 @@ After the completion of this course, students will be able to
     chair, falling, picking something up, opening or closing a door,
     etc. This is a video classification project, which will include
     combining a series of images and classifying the action.)
+#+end_comment
 
 ** CO TO PO/PSO MAPPING
 
