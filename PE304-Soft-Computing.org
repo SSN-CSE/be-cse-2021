@@ -64,11 +64,11 @@ Adaptive Networks –- Neuro Fuzzy Spectrum.
 After the completion of this course, students will be able to 
 
    
-1.   Apply fuzzy logic for solving real world problems. (K3)
-2.   Demonstrate the use of neural networks in solving computational problems. (K2)
-3.   Apply derivative based optimization techniques on computational problems. (K3)
-4.   Explain genetic algorithms and evolutionary optimization. (K2)
-5.   Analyse and compare neuro-fuzzy hybrid models  (K4).
+1.   Apply fuzzy logic for solving real world problems (K3)
+2.   Demonstrate the use of neural networks in solving computational problems (K2)
+3.   Apply derivative based optimization techniques on computational problems (K3)
+4.   Explain genetic algorithms and evolutionary optimization (K2)
+5.   Analyse and compare neuro-fuzzy hybrid models (K4)
 
  
 ** TEXT BOOKS
