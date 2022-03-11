@@ -78,7 +78,7 @@ databases.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. 1. Explain the database concepts and apply ER models for a database applications (K3)
+1. Explain the database concepts and apply ER models for a database applications (K3)
 2. Apply SQL for relational data model (K3)
 3. Apply database programming techniques , database design theory and normalization(K3)
 4. Apply concurrency control and recovery mechanisms for transaction processing systems (K3)
