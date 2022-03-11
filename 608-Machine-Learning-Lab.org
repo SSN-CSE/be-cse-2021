@@ -40,11 +40,9 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Analyze the supervised learning techniques (K4)
-2. Examine the working of clustering (K4)
-3. Apply the ensemble techniques to solve the problems with better performance (K3)
-4. Demonstrate the working of dimensionality reduction methods (K3)
-5. Develop an open ended solution for any real world problems (K3).
+1. Apply supervised and unsupervised learning techniques for various problems (K3)
+2. Apply  ensemble techniques to solve the problems and demonstrate the working of dimensionality reduction methods (K3)
+3. Develop an open ended solution for a given real world problem (K4).
 
 ** LABORATORY REQUIREMENTS
 Hardware:
@@ -57,12 +55,10 @@ Software:
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 1 | 1 |  1 |  0 |  3 | 3 | 1 | 1 |
-| CO2    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 1 | 1 |  1 |  0 |  3 | 3 | 1 | 1 |
-| CO3    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 1 | 1 |  1 |  0 |  3 | 3 | 1 | 1 |
-| CO4    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 1 | 1 |  1 |  0 |  3 | 3 | 1 | 1 |
-| CO5    | 3 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 2 |  2 |  0 |  3 | 3 | 2 | 2 |
+| CO1    | 3 | 2 | 2 | 3 |  |  |  |  |   |   |  |   | 2 |   |  |
+| CO2    | 3 | 2 | 2 | 3 |  |  |  |  |   |   |  |   | 2 |   |  |
+| CO3    | 3 | 3 | 3 | 3 |3 |  |  |  | 3 | 3 |  |   | 3 | 2 |  |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |  1 |  0 |  3 | 3 | 2 | 2 |
+| Course | 3 | 3 | 3 | 3 | 3 |   |   |   |  3 |  3 |  |  | 3 | 2 |  |
 
 # | Score          |    | 15 | 15 | 15 | 15 | 15 | 1 | 1 | 5 | 6 |  6 |  0 | 15 | 15 | 6 | 6 |
