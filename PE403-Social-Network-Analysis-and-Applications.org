@@ -68,12 +68,13 @@ networks.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Explain Social network concepts, measures and data (K2)
-2. Interpret social networks mathematically (K2)
-3. Apply community detection algorithms for Social networks (K3)
-4. Apply SNA tools for analysing social networks (K3)  
-5. Develop appropriate visualizations for different kinds of social
-   networks using Visualization tools (K4).
+
+1. Describe social network concepts, measures and data (K2)
+2. Apply social networks concepts using formal methods (K3)
+3. Compare the working of community detection algorithms (K2)
+4. Apply SNA concepts for social networks using NetworkX tool (K3)
+5. Design and analyse social networks using visualization tools to solve real world problems (K4)
+
 
 
 ** TEXTBOOKS
