@@ -1,7 +1,7 @@
 * 
 :properties:
 :author: Dr. K. R. Sarath Chandran, Ms. S. Angel Deborah, Mr. H. Shahul Hamead 
-:date: 10-03-2021, 13.06.21 (co-po mapping updated), 17.07.21(PSO2 mapping updated as per the comments and Action verbs checked)
+:date: 10-03-2021, 13.06.21 (co-po mapping updated), 17.07.21(PSO2 mapping updated as per the comments and Action verbs checked),last modified:11/03/2022
 :end:
 
 #+startup: showall
@@ -101,5 +101,5 @@ After the completion of this course, students will be able to
 | CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 | 3 |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | Score | 15 | 10 |   |   |   |   |   |   |   |  3 |    | 3  |13 | 3 |   |
-| Course mapping | 3 | 2 |   |   |   |   |   |   |   | 3 |    | 3  | 3 | 3 | 
+| Course mapping | 3 | 2 |   |   |   |   |   |   |   | 3 |   | 3 | 3 | 3 | 
    
