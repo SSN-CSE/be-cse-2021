@@ -107,26 +107,26 @@ practices in Engineering.
   - A faculty does not handle more than 2 sessions per day for the same course.
   - A faculty cannot handle more than one class in each session.
 
-\hfill *Studio Sessions: 15 (3 periods)*
+\hfill *Studio Sessions: 10 (3 periods)*
 
-\hfill *Total Periods: 30 + 15 + 45 = 90*
+\hfill *Total Periods: 30 + 0 + 45 = 75*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
 1. Formulate a problem, specifying the requirements and
-   identifying the scope and boundaries (K3)
+   identifying the scope and boundaries (K6)
 2. Apply engineering fundamentals in Computer Science to
    industrial applications or products (K3)
 3. Design and develop solutions with novel technologies,
-   tools, and techniques (K3)
+   tools, and techniques (K6)
 4. Communicate effectively through reflections, reports, and
-   presentations (K3)
-5. Work in teams to develop modules and integrate them (K3)
+   presentations  
+5. Work in teams to develop modules and integrate them  
 6. Analyze the impact on health, safety, society, environment
    as well as underlying legal and ethical considerations
-   wherever are applicable (K3)
+   wherever are applicable  
 7. Solve programming problems using basic constructs in C programming
-   language (K3).
+   language (K3)
 
 ** COMMENT INSTRUCTIONS
 1. Instructor provides the links in Internet, industry links
