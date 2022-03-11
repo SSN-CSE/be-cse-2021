@@ -37,14 +37,9 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Analyze and apply suitable linear data structures to solve a given
-   problem (K4)
-2. Apply suitable trees for various applications and perform
-   traversals (K3)
-3. Make use of graphs to solve appropriate problems (K3)
-4. Develop programs using sorting and hashing techniques (K3)
-5. Design and develop applications by choosing suitable data
-   structure(s) for solving real world problems (K6).
+1. Solve the applications using linear data structures applying best practices in programming (K3)
+2. Develop programs using non-linear data structures for various applications (K3)
+3. Apply searching, sorting, and hashing techniques to solve the given problems (K3).
 
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
@@ -56,12 +51,10 @@ Software:
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 0 |  3 |  0 |  1 | 3 | 2 | 0 |
-| CO2    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  3 |  0 |  1 | 2 | 1 | 0 |
-| CO3    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  3 |  0 |  1 | 2 | 1 | 0 |
-| CO4    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  3 |  0 |  1 | 2 | 1 | 0 |
-| CO5    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 3 |  3 |  0 |  1 | 3 | 2 | 1 |
+| CO1    | 3 | 2 | 2 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
+| CO2    | 3 | 2 | 2 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
+| CO3    | 3 | 2 | 2 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 1 |  3 |  0 |  1 | 3 | 2 | 1 |
+| Course | 3 | 2 | 2 | 3 |  |  |  |  |  |   |   |   | 2 | 2 |  |
 
 # | Score  | 10 | 15 | 12 | 7 | 0 | 0 | 0 | 2 | 3 | 15 |  0 |  5 | 12 | 7 | 1 |
