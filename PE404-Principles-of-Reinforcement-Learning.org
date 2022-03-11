@@ -57,7 +57,7 @@ After the completion of this course, students will be able to
 4. Illustrate approximate solution methods for larger state space
    problems (K2)
 5. Apply reinforcement learning techniques for various case studies
-   (K3).
+   (K3)
 
 ** TEXT BOOKS
 1. Richard S Sutton & Andrew G. Barto, ``Reinforcement Learning: An
