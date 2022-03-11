@@ -82,11 +82,11 @@ Spatio-temporal Models -- Action/Activity Recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-- Apply various low level feature detection methods (K3)
-- Apply various feature analysis methods and transforms for intermediate level vision (K3)
-- Explain depth estimation and 3D reconstruction (K2)
-- Analyse different object recognition methods (K4)
-- Analyse deep learning models for a real time computer vision application (K4).
+ 1. Apply various low level feature detection methods (K3)
+ 2. Apply various feature analysis methods and transforms for intermediate level vision (K3)
+ 3. Explain depth estimation and 3D reconstruction (K2)
+ 4. Analyse different object recognition methods (K4)
+ 5. Analyse deep learning models for a real time computer vision application (K4)
 
 
 ** TEXT BOOKS
