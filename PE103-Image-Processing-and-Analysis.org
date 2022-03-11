@@ -9,6 +9,7 @@
 | CODE    | COURSE TITLE                  | L | T | P | E | C |
 | UCS2523 | IMAGE PROCESSING AND ANALYSIS | 3 | 0 | 0 | 0 | 3 |
 
+#+begin_comment
 ** R2021 CHANGES :noexport:
 1. Added case study in units 2,4 & 5
 2. Modified CO5 from K3 to K4
@@ -21,7 +22,7 @@
    Unit - V respectively.
    The topic object recognition is added in Unit - V
 7. Five Course outcomes specified and aligned with units
-
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To be familiar with digital image fundamentals
