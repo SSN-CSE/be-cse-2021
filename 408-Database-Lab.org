@@ -53,12 +53,9 @@ f) Online Commerce System
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Use data definitions and manipulation commands (K3)
-2. Apply advanced DML statements (K3)
-3. Implement Database programming using PL/SQL (K3)
-4. Design a database for real-time applications (K3)
-5. Implement and analyze the use of Tables, PL/SQL for a real world 
-   database applications using a Front-end tool (K3)
+1. Construct queries using SQL in database creation and manipulation. (K3)
+2. Develop PL/SQL blocks using database programming constructs. (K3)
+3. Design a database schema and develop an application using IDE that interacts with a DBMS server via API (K6)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:
@@ -75,7 +72,7 @@ Software:
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
 | CO2    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   |   |
-| CO3    | 3 | 2 | 3 | 3 | 2 |   |   |   | 3 | 2  |    |    | 2 |   |   |
+| CO3    | 3 | 3 | 3 | 3 | 2 |   |   |   | 3 | 2  |    |    | 2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 9 | 6 | 3 | 6 | 2 |   |   |   | 3 | 2  |    |    | 6 |   |   |
-| Score  |3  | 2 | 3 | 3 | 2 |   |   |   | 3 | 2  |    |    | 2 |   |   | 
+| Course | 9 | 7 | 3 | 6 | 2 |   |   |   | 3 | 2  |    |    | 6 |   |   |
+| Score  |3  | 3 | 3 | 3 | 2 |   |   |   | 3 | 2  |    |    | 2 |   |   | 
