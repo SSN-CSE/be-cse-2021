@@ -78,17 +78,12 @@ databases.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Explain the database concepts and apply ER models to any real
-   world applications (K3)
-2. Apply data definition and complex SQL queries (K3)
-3. Identify database schema for a given problem (K3)
-4. Apply transaction processing, concurrency control and recovery
-   mechanisms for practical problems (K3)
+1. 1. Explain the database concepts and apply ER models for a database applications (K3)
+2. Apply SQL for relational data model (K3)
+3. Apply database programming techniques , database design theory and normalization(K3)
+4. Apply concurrency control and recovery mechanisms for transaction processing systems (K3)
 5. Explain the concepts of Distributed and NOSQL databases (K2)
-6. Analyze the data and create Database for real time applications in
-   teams by applying database design concepts with a clear
-   documentation and approach (K4).
-
+6.  Design the database schema by analyzing the data for a real time application with documentation (K6).
 
 ** TEXT BOOKS 
 1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
@@ -115,13 +110,15 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | O | 0 |
-| CO2    | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 1 |  1 |  0 |  1 | 2 | 2 | 0 |
-| CO3    | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 1 | 1 |  1 |  0 |  1 | 2 | 2 | 0 |
-| CO4    | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO5    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO6    | 2 | 2 | 3 | 2 | 1 | 0 | 0 | 1 | 2 |  2 |  0 |  1 | 2 | 3 | 2 |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |   |   |     |  2 |   |  |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |   |   |     |    |   |  |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |   |   |     | 2  |   |  |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |   |   |     | 2  |   |  |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |   |   |     | 2  |   |  |
+| CO6    |   | 3 | 3 |   |   |   |   |   | 3 | 3 |   |     | 2  |   |  |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 2 | 2 | 1 | 1 | 0 | 0 | 1 | 1 |  1 |  0 |  1 | 2 | 2 | 1 |
+| Course |15 | 13| 3 |   |   |   |    |  | 3 | 3  |  |     |  8 |  |   |
+| Score | 3  | 3 | 3 |   |   |   |    |  | 3 | 3  |  |     |  2 |  |   |
 
-# | Score          |    | 17 | 12 | 9 | 2 | 1 | 0 | 0 | 2 | 4 |  4 |  0 |  3 | 11 | 7 | 2 |
+
+
