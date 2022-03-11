@@ -77,8 +77,7 @@ After the completion of this course, students will be able to
 3. Explain pipelined execution and design its control unit (K3)
 4. Design of various memory systems and understand I/O communication (K3)
 5. Explain parallel processing architectures (K2)
-6. Design a multi-functional ALU as per the requirement by applying best practices of
-system design (K4).
+6. Design a multi-functional ALU as per the requirement by applying best practices of system design (K4).
 
 
 
