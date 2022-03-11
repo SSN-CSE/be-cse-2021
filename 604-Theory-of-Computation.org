@@ -9,8 +9,8 @@
 | CODE    | COURSE TITLE          | L | T | P | E | C |
 | UCS2603 | THEORY OF COMPUTATION | 3 | 0 | 0 | 0 | 3 |
 
-** R2021 CHANGES :noexport:
-CO-PO mapping later
+#+** R2021 CHANGES :noexport:
+#+CO-PO mapping done 11.03.2021
 
 ** COURSE OBJECTIVES
 - To learn the mathematical notations and construct finite automata of the given language
