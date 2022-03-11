@@ -24,6 +24,7 @@
 3. Lab Exercises are given from the units units 2, 3 and 4.
 4. CO6 is included additionally
 5. CO-PO-PSO mapping is updated on 16.06.2021
+6. CO reduced to five and mapping updated with indicator on 11.03.2021
 
 ** COURSE OBJECTIVES
 - To study the fundamental concepts of AI agents and environments.
