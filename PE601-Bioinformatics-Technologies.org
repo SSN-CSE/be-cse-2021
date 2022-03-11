@@ -60,12 +60,11 @@ Pattern Discovery.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1.Explain the concept and need of bioinformatics (K2)
+1. Explain the concept and need of bioinformatics (K2)
 2. Identify the genome and protein data and its equivalent storage and mining process (K3)
 3. Apply machine learning algorithms on bioinformatics data (K3)
 4. Apply Hidden Markov Modeling and probabilistic modeling for bioinformatics data (K3)
-5. Infer the importance of microarray data analysis (K2).
-
+5. Infer the importance of microarray data analysis (K2)
    
 ** TEXT BOOKS
 1. Yi-Ping Phoebe Chen (Ed), ``BioInformatics Technologies'', First
@@ -76,10 +75,7 @@ After the completion of this course, students will be able to
    Oxford University Press, 2008
 2. Rui Jiang, Xuegong Zhang, Michael Q Zhang, ``Basics of
    Bioinformatics'', Tsinghua University Press, Springer, 2013
-   
-   
-   
-   
+        
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
