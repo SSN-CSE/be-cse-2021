@@ -9,7 +9,7 @@
 | CODE    | COURSE TITLE                      | L | T | P | E | C |
 | UCS2403 | DESIGN AND ANALYSIS OF ALGORITHMS | 3 | 0 | 2 | 0 | 4 |
 
-#+begin-comment
+#+begin_comment
 ** R2021 CHANGES :noexport:
 1. Brute force dropped
 2. Reordered topics
@@ -25,7 +25,7 @@
 6. Jeff Erickson added as a textbook. Dasgupta book moved to
    reference.
 7. Modified the co-po mapping on 11.3.2022
-#+end-comment
+#+end_comment
 
 # +tblfm: @>$3..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
 
@@ -34,9 +34,7 @@
 - To analyze the asymptotic performance of algorithms.
 - To apply different algorithm design strategies.
 - To prove the limitations of algorithmic power.
-- To demonstrate the familiarity with important algorithms and data
-  structures.
-
+- To demonstrate the familiarity with important algorithms and data structures.
 
 {{{unit}}}
 | UNIT I | INTRODUCTION AND ANALYSIS | 9 |
@@ -82,7 +80,6 @@ problem -- Knapsack problem.
 5. Greedy: Prim's, Dijkstra's
 6. Iterative improvement: Stable matching, Network flow
 7. Branch and Bound: Knapsack
-8. Mini project
 
 \hfill *Practical Periods: 30*
 
@@ -112,18 +109,6 @@ After the completion of this course, students will be able to
 3. Steven S Skiena, ``The Algorithm Design Manual'', 2nd Edition,
    Springer, 2008.
 
-#+begin_comment
-- Analyse asymptotic complexity of iterative and recursive algorithmic
-  problems (K3)
-- Design and analyse divide-and-conquer algorithm strategy and compare
-  with naive approach (K3)
-- Design and analyse backtracking algorithms and where possible convert them to
-  Dynamic Programming algorithms (K4)
-- Design and prove Greedy and Iterative improvement algorithsm (K4)
-- Prove the hardness of computing problems (K3)
-- Choose appropriate algorithms for computing problems and implement
-  them using efficient data structures (K4).
-#+end_comment
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
