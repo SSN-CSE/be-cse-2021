@@ -95,6 +95,7 @@ IR-based QA Datasets -- Answer span extraction;
 - 2. Added Sentiment analysis
 #+end_comment
 
+#+begin_comment
 NLP Tasks / Applications:
 1) CRF POS/NER Tagging
 2) Word Generation using N-grams
@@ -103,21 +104,18 @@ NLP Tasks / Applications:
 5) Neural machine translation - NMT
 6) Sequence classification / Naive Bayes classifier for Sentiment analysis
 7) Relation Extraction
-
+#+end_comment
 
 
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to 
-1. Apply text pre processing techniques and build the language models
-   (K3)
-2. Explain the basic levels of knowledge namely word level and syntax level in language processing (K2)
+1. Apply text pre-processing techniques and build the language models (K3)
+2. Apply basic levels of knowledge at word level and syntax level in language processing (K3)
 3. Apply computational methods in lexical and vector semantics (K3)
-4. Apply NLP techniques for discourse processing and build machine translation systems using deep learning (K3)
-5. Apply learning methodologies for different NLP applications (K3)
-6. Develop any NLP application by using NLP techniques and learning
-   methodologies (K4).
+4. Explain discourse processing and  machine translation systems (K2)
+5. Apply learning algorithms for various NLP applications (K3).
 
 ** TEXT BOOKS
 1. Daniel Jurafsky and James H Martin, ``Speech and Language
@@ -151,13 +149,12 @@ Upon the completion of the course the students should be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO2    | 2 | 3 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  2 | 3 | 0 | 0 |
-| CO3    | 1 | 1 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  2 | 3 | 0 | 0 |
-| CO4    | 3 | 3 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
-| CO5    | 1 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 3 | 0 | 0 |
-| CO6    | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 3 |  2 |  0 |  3 | 3 | 2 | 3 |
+| CO1    | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO2    | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO3    | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO4    | 3 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO5    | 3 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | 1 |  1 |  0 |  2 | 3 | 1 | 1 |
+| Course | 3 | 3 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
 
-# | Score          | 13 | 15 | 13 | 7 | 5 | 0 | 0 | 1 | 3 |  7 |  0 |  9 | 18 | 2 | 3 |
+# | Score          | 15 | 11 | 0 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 | 0 | 11 | 0 | 0 |
