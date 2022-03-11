@@ -82,7 +82,7 @@ Added: Case Study for Image recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. 1. Explain the basics and fundamentals of digital image processing, such as digitization, sampling, quantization (K2)
+1. Explain the basics and fundamentals of digital image processing, such as digitization, sampling, quantization (K2)
 2. Apply the techniques of smoothing, sharpening and enhancement in both spatial and frequency domain (K3)
 3. Explain the restoration concepts and filtering techniques (K2)
 4. Identify the segmentation methods and apply in suitable image processing
