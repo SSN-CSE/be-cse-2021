@@ -9,6 +9,7 @@
 | CODE    | COURSE TITLE            | L | T | P | E | C |
 | UCS2742 | GRAPHICS AND MULTIMEDIA | 3 | 0 | 0 | 0 | 3 |
 
+#+begin_comment
 ** R2021 CHANGES :noexport:
 1. Bezier curves and surfaces removed to concentrate more on 3D transformations and projections
 2. Unit IV & V differ from AU2017. 
@@ -18,7 +19,7 @@
    Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
 4. Five Course outcomes specified and aligned with units
 5. For Lab, suggestive experiments are clearly defined.
-
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To gain knowledge on different display devices and its working principles
@@ -81,7 +82,7 @@ After the completion of this course, students will be able to
 2. Apply transformations, representations and clipping on 2D objects and map window to viewport transformations (K3)
 3. Apply three dimensional representations, geometric transformations, and projections on 3D objects (K3)
 4. Demonstrate the working of different illumination and color models used to render an animation scene (K2)
-5. Compare different types of multimedia file formats, compression techniques and demonstrate modelling, shading and textures on basic shapes using multimedia tools (K2).
+5. Compare different types of multimedia file formats, compression techniques and demonstrate modelling, shading and textures on basic shapes using multimedia tools (K2)
 
 ** TEXT BOOKS
 1. Donald Hearn, Pauline Baker M, ``Computer Graphics'', Prentice
