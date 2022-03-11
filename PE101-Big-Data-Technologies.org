@@ -9,6 +9,11 @@
 :date: 11-03-2022
 :end:
 
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE          | L | T | P | E | C |
+| UCS2521 | BIG DATA TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
+
 ** CO TO PO/PSO MAPPING (Based on PI)
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
@@ -21,10 +26,6 @@
 | Score | 15| 10 | 3 | 12 |   |   |   |   |   |  |   |   | 10 |   |  6 |
 | Course Mapping| 3 | 2 | 3 | 3 |   |   |   |   |   |    |    |   | 2 |   | 2  |
 
-#+startup: showall
-{{{title-tab}}}
-| CODE    | COURSE TITLE          | L | T | P | E | C |
-| UCS2521 | BIG DATA TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 1. Unit 1 to 5 have been fully changed with recent Big Data Technologies.
