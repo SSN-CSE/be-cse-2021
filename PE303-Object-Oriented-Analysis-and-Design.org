@@ -68,11 +68,11 @@ of object orientation on testing -- Develop test cases and test plans.
 
 ** COURSE OUTCOMES
 On successful completion of this course, the student will be able to 
-CO 1: Model the given problem  using Use case diagrams (K3) 
-CO 2: Apply OO concepts for project development (K3) 
-CO 3: Choose appropriate UML diagrams for modeling  user requirements (K5) 
-CO 4: Make use of the design patterns to transform UML based software design into pattern-based design (K3) 
-CO 5:   Develop test cases and test plans for object oriented software   (K3).
+1. Model the given problem  using Use case diagrams (K3) 
+2. Apply OO concepts for project development (K3) 
+3. Choose appropriate UML diagrams for modeling  user requirements (K5) 
+4. Make use of the design patterns to transform UML based software design into pattern-based design (K3) 
+5.   Develop test cases and test plans for object oriented software   (K3).
 
 
 ** TEXT BOOKS
