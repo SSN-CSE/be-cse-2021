@@ -20,16 +20,14 @@
   
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Construct suitable solutions by applying software engineering
-   principles (K6)
-2. Divide the work appropriately among the team members to manage time
-   and complexity (K4)
-3. Analyse the issues pertaining to society, health, safety, legal,
-   environment, culture applicable to the project and examine the
-   impact of the proposed solution on these issues (K4)
-4. Evaluate, document and present the solution (K5)
-5. Apply best practices and follow ethics in developing the solutions
-   (K3)   
+1. Use suitable technologies and tools   to solve complex engineering problems effectively (K4)
+2. Analyse the related literature on the proposed problem and its feasibility (K4)
+3. Construct  suitable solutions by applying software engineering principles (K6)
+4. Divide the work appropriately among the team members to manage time and   
+          complexity
+5.  Evaluate the performance of the solution using appropriate metrics (K5)
+6. Analyse the impact of the proposed solution on the issues pertaining to society, health, safety, legal, environment, culture  and apply ethical principles. 
+7.Apply ethical principles in developing the solutions and present the solution with good documentation
    
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
