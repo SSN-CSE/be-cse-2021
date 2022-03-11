@@ -1,7 +1,7 @@
 * 
 :properties:
 :author: Dr. K. R. Sarath Chandran and Ms. S. Angel Deborah
-:date: 6.03.2021/ revised 15.3.2021 (CO6 added)/ 29.03.2021(Changes highlighted)/13.06.2021(co-po mapping updated)/17.07.21(Action verbs updated)
+:date: 6.03.2021/ revised 15.3.2021 (CO6 added)/ 29.03.2021(Changes highlighted)/13.06.2021(co-po mapping updated)/17.07.21(Action verbs updated),last updated:11/03/2022
 :end:
 
 #+startup: showall
@@ -70,18 +70,12 @@ ARM processors.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Summarize the basic architecture, operation, programming of
-   microprocessor 8086 (K3)
-2. Outline the design of basic and multiprocessor systems and their
-   bus timings (K2)
-3. Build 8086 interfaces with memory, I/O and other peripheral
-   chips (K3)
-4. Summarize the basic architecture and operation of microcontroller
-   8051 (K2)
-5. Apply programming concepts to implement microcontroller interfaces
-   for different applications (K3)
-6. Build a microprocessor based interface to solve a real world
-   problem in teams by applying best practices of system design (K3).
+1. Summarize the basic architecture, operations and apply the programming concepts of microprocessor 8086 (K3)
+2. Outline the design of basic and multiprocessor systems and their   bus timings (K2)
+3. Build 8086 interfaces with memory, I/O and other peripheral   chips (K3)
+4. Summarize the basic architecture and operation of microcontroller   8051 (K2)
+5. Apply programming concepts to implement microcontroller interfaces   for different applications (K3)
+
 
 ** TEXT BOOKS
  1. Douglas V Hall, ``Microprocessors and Interfacing, Programming and
@@ -112,9 +106,9 @@ After the completion of this course, students will be able to
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
 | CO2    | 3 |   |   |   |   |   |   |   |   |    |    |    |   |   |   |
-| CO3    | 3 | 3 | 3 |   |   |   |   |   |   | 3  |    |    | 2 | 3 |   |
+| CO3    | 3 | 2 | 2 |   |   |   |   |   |   | 3  |    |    | 2 | 3 |   |
 | CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
 | CO5    | 3 | 2 | 2 |   |   |   |   |   |   |    |    |    | 2 | 3 |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Score | 15 | 9 | 5 |   |   |   |   |   |   |  3 |    |   |8 | 6 |   |
-| Course mapping | 3 | 3 |3   |   |   |   |   |   |   | 3 |    |   | 2 | 3 |   |
+| Score | 15 | 8 | 4 |   |   |   |   |   |   |  3 |    |   |8 | 6 |   |
+| Course mapping | 3 | 2 |2   |   |   |   |   |   |   | 3 |    |   | 2 | 3 |   |
