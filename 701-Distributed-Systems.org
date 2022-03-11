@@ -146,6 +146,6 @@ Upon the completion of the course the students should be able to
 | CO6    | 3 | 3 | 3 |   |   |   |   |   |   |    |    |  2 | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | Score | 18 | 13 | 3 |   |   |   |   |   |   |  |   | 2 | 17 |   |    |
-| Course Mapping| 3 | 2 | 2 |   |   |   |   |   |   |    |    |  2 | 3 |   |   |
+| Course Mapping| 3 | 3 | 3 |   |   |   |   |   |   |    |    |  2 | 3 |   |   |
 
 
