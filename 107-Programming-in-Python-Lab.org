@@ -52,7 +52,7 @@ CO5 was modified
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. CO1: Develop Python programs using conditions, loops and functions (K3)
+1. Develop Python programs using conditions, loops and functions (K3)
 2. Solve problems using strings, lists and  tuples (K3)
 3. Construct programs using dictionaries and perform Input/Output operations using files (K3)
 
