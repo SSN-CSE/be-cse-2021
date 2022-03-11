@@ -70,16 +70,12 @@ machines -- Post's Correspondence Problem (PCP).
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Solve the mathematical proofs related to compuation and Construct
-   finite automata for the given language (K3)
-2. Analyze the relationship between Finite Automata and regular
-   expression (K4)
-3. Distinguish the type of grammar, relationship between language to
-   context free grammar and construction of PDA for the CFG (K4)
-4. Construct Turing machine for the given Language (K3)
-5. Explain the Decidability or Undecidability of various problems and
-   make use of it (K3).
-# - Design a suitable model for the given application (K6)
+1. Construct mathematical proofs related to computation and finite automata for a given language (K3)
+2. Identify relationship between finite automata and regular expressions (K3)
+3. Distinguish different types of grammars, analyse relationship between language and context free grammar and construct PDA for CFG (K4)
+4. Construct Turing machine for a given language (K3)
+5. Explain the decidability or undecidability of various problems and make use of it (K3)
+
 
 ** TEXT BOOKS 
 1. Hopcroft J E, Motwani R, Ullman J D, ``Introduction to Automata
@@ -99,12 +95,11 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
-| CO2    | 2 | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
-| CO3    | 2 | 3 | 2 | 2 | 0 | 0 | 0 | 1 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
-| CO4    | 2 | 3 | 1 | 2 | 0 | 0 | 0 | 1 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
-| CO5    | 2 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 1 | 0 | 0 |
+| CO1    |  3 |  2 |  |   |   |   |   |   |   |    |    |   | 3 |   |   |
+| CO2    |  3 |  2 |  |   |   |   |   |   |   |    |    |   | 3 |   |   |
+| CO3    |  3 |  2 |  |   |   |   |   |   |   |    |    |   | 3 |   |   |
+| CO4    |  3 |  2 |  |   |   |   |   |   |   |    |    |   | 3 |   |   |
+| CO5    |  3 |  2 |  |   |   |   |   |   |   | 2  |    |   | 2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 2 | 2 | 0 | 0 | 0 | 1 | 0 |  0 |  0 |  1 | 2 | 0 | 0 |
-
-# | Score          |    | 13 | 15 | 7 | 10 | 0 | 0 | 0 | 2 | 0 |  0 |  0 |  5 | 9 | 0 | 0 | 
+| Total  | 15 | 10 |  |   |   |   |   |   |  |  2 |    |   | 14 |   |   |
+| Score  | 3  | 2  |  |   |   |   |   |   |  |  2 |    |   |  3 |   |   | 
