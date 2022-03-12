@@ -189,7 +189,7 @@ After the completion of this course, students will be able to
 ** COMMENT ASSESSMENT
 | Assessment Tool         | Weight |    |
 |-------------------------+--------+----|
-| /Continuous assessment/  |     50 |    |
+| /Continuous assessment/ |     50 |    |
 | CAT 1 (Theory)          |        | 15 |
 | CAT 2 (Theory / Lab)    |        | 15 |
 | Lab work                |        | 20 |
@@ -202,6 +202,7 @@ After the completion of this course, students will be able to
 | Total                   |    100 |    |
 
 #+BEGIN_COMMENT
+
 | Assessment Tool      | Weight |     |
 |----------------------+-----------+-----|
 | End semester exam    |       25% |     |
