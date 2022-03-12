@@ -11,17 +11,6 @@
 | CODE    | COURSE TITLE            | L | T | P | E | C |
 | UCS2729 | BLOCKCHAIN TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
 
-** CO TO PO/PSO MAPPING (Based on PI)
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
-| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
-| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   | 2 |
-| CO4    | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 |   | 2 |
-| CO5    | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 |   | 2 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Score  | 15|10 |   |   | 2 |   |   |   |   |    |    |    | 10|   | 6 |
-| Course | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 |   | 2 |
 
 ** R2021 CHANGES :noexport:
 - Modification: NIL
@@ -89,7 +78,6 @@ After the completion of this course, students will be able to
 3. Adrian Mcnulty, ``Blockchain: The Complete and Comprehensive Guide
    to Understanding Blockchain Technologies'', Createspace Independent
    Pub, 2018.
-
       
 ** REFERENCES
 1. Don, Alex Tapscott, ``Blockchain Revolution''. Portfolio Penguin 2016.
@@ -98,3 +86,14 @@ After the completion of this course, students will be able to
    Sons 2016.
 3. Tiana Laurence, ``Blockchain for Dummies'' John Wiley & Sons, 2017.
 
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   | 2 |
+| CO4    | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 |   | 2 |
+| CO5    | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 |   | 2 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Score  | 15|10 |   |   | 2 |   |   |   |   |    |    |    | 10|   | 6 |
+| Course | 3 | 2 |   |   | 1 |   |   |   |   |    |    |    | 2 |   | 2 |
