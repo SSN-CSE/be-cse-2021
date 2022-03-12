@@ -113,4 +113,3 @@ After the completion of this course, students will be able to
 |--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---+---|
 | Score  | 15 | 10 |   | 2 | 2 |   |   |   |   |    |    |    | 10 |   |   |
 | Course |  3 |  2 |   | 2 | 1 |   |   |   |   |    |    |    |  2 |   |   |
-
