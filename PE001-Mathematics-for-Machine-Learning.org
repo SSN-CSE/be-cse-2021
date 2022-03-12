@@ -1,0 +1,98 @@
+* 
+:properties:
+:author: R S Milton, T T Mirnalinee
+:date:
+:end:
+
+#+startup: showall
+{{{title-tab}}}
+| CODE    | COURSE TITLE                     | L | T | P | E | C |
+| UMA2542 | MATHEMATICS FOR MACHINE LEARNING | 3 | 0 | 0 | 0 | 3 |
+
+** COURSE OBJECTIVES
+- To study the basics of vector spaces and subspaces.
+- To study the linear transformation of vector spaces and to find the
+  matrix of the linear transformation and diagonalize.
+- To study the inner product, norms and Gram-Schmidt orthonormal
+  process.
+- To study various matrix decomposition techniques.
+- To identify the standard distributions and apply them in solving
+  problems.
+   
+{{{unit}}}
+| UNIT I |VECTOR SPACES  | 9 |
+Vector spaces -- Subspaces -- Linear combinations and system of Linear
+equations -- Linear independence and Linear dependence -- Bases and
+Dimensions.
+
+{{{unit}}}
+| UNIT II | LINEAR TRANSFORMATIONS  | 9 |
+Linear transformations -- One-to-one and onto linear transformations
+-- Null space, Range space, Dimension theorem (statement only) -
+Matrix representation of linear transformation -- Eigenvalues,
+Eigenvectors and Diagonalization.
+
+{{{unit}}}
+| UNIT III | INNER PRODUCT SPACES | 9 |
+Inner product and norms -- Gram Schmidt orthogonalization process --
+Orthogonal Complement -- Least square approximation.
+
+{{{unit}}}
+| UNIT IV | MATRIX DECOMPOSITION | 9 |
+Cholesky decomposition method - QR decomposition -- Generalized
+inverse of a matrix, Singular value decomposition.
+
+{{{unit}}}
+| UNIT V | PROBABILITY AND RANDOM VARIABLES | 9 |
+Probability -- Sum and Product rules, Bayes Theorem, Random Variables
+-- Discrete and continuous random variables -- Moments -- Moment
+generating functions -- Binomial, Poisson, Exponential and Normal
+distribution.
+
+\hfill *Total Periods: 45*
+
+** COURSE OUTCOMES
+After the completion of this course, students will be able to
+- Solve the problems using the concepts of vector spaces and subspaces
+- Find the matrix of linear transformation and verify dimension
+  theorem and to obtain the eigenvalues and eigenvectors to
+  diagonalize a given matrix.
+- Apply Gram-Schmidt's orthogonalization process to find orthonormal
+  vectors and to solve the given system of equations by least square
+  approximations
+- Decompose the matrix using different methods.
+- Identify standard distributions and apply them.
+
+
+** TEXT BOOKS
+1. Friedberg A H, Insel A J, Spence L, ``Linear Algebra'', Prentice
+   Hall of India, 4th Edition, New Delhi, 2004.
+2. Milton J S, Arnold J C, ``Introduction to Probability and
+   Statistics'', Tata McGraw Hill, New Delhi, 4th Edition, 2014.
+
+** REFERENCES
+1. Kumaresan S, ``Linear Algebra -- A Geometric Approach'', Prentice Hall
+   of India, New Delhi, Reprint, 2010.
+2. Strang G, ``Linear Algebra and its Applications'', 4th Edition,
+   Brooks/Cole (Thomson Publications), New Delhi, 2006.
+3. Bernard Kolman, David R Hill, ``Introductory Linear Algebra'',
+   Pearson Education, New Delhi, 8th Edition, 2005.
+4. Richard Branson, ``Matrix Operations'', Schaum's outline series,
+   McGraw Hill, 1989.
+5. M Tamban Nair, Arindama Singh, ``Linear Algebra'', Springer, 2018.
+6. Johnson R A, Gupta C B, ``Miller and Freund's Probability and
+   Statistics for Engineers'', Pearson Education, Asia, 9th
+   Edition, 2016.
+
+   
+** CO TO PO/PSO MAPPING
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 1 | 11 | 12 | 1 | 2 |
+|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |
+|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
+| Course | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |
+
