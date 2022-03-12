@@ -26,19 +26,19 @@ Circular linked lists -- Doubly linked lists -- Applications of Lists:
 Polynomial manipulation.
 
 {{{unit}}}
-| UNIT II | LINEAR DATA STRUCTURES – STACKS AND QUEUES | 7 |
+| UNIT II | LINEAR DATA STRUCTURES -- STACKS AND QUEUES | 7 |
 Stack ADT: Stack model -- Implementation of stacks -- Applications:
 Balancing symbols -- Infix to postfix conversion -- Evaluating postfix
 expressions -- Function calls; Queue ADT: Queue model -- Array
 implementation of queues -- Applications of queues.
 
 {{{unit}}}
-| UNIT III | NON LINEAR DATA STRUCTURES – TREES | 10 |
+| UNIT III | NON LINEAR DATA STRUCTURES -- TREES | 10 |
 Preliminaries; Binary trees: Expression trees; Binary search tree ADT;
 AVL trees; Tree traversals; B-Trees; Priority Queues: Binary heap.
 
 {{{unit}}}
-| UNIT IV | NON LINEAR DATA STRUCTURES – GRAPHS | 9 |
+| UNIT IV | NON LINEAR DATA STRUCTURES -- GRAPHS | 9 |
 Graph Algorithms: Definitions -- Representation of graphs; Graph
 Traversals: Breadth-first traversal -- Depth-first traversal;
 Topological sort -- Shortest-Path Algorithms: Dijkstra's algorithm --
@@ -77,7 +77,7 @@ After the completion of this course, students will be able to
    of Data Structures in C'', 2nd Edition, University Press, 2008.
 4. S Sridhar, ``Design and Analysis of Algorithms``, 1st Edition,
    Oxford University Press, 2014.
-5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum’s
+5. Byron Gottfried, Jitender Chhabra, ``Programming with C`` (Schaum's
    Outlines Series), 3rd Edition, Mcgraw Hill Higher Education, 2010.
 
 ** CO TO PO/PSO MAPPING

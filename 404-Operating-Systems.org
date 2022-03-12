@@ -36,7 +36,7 @@
 
 {{{unit}}}
 |UNIT I | OPERATING SYSTEMS OVERVIEW | 9 |
-Computer System Overview: Basic elements -- Instruction execution –
+Computer System Overview: Basic elements -- Instruction execution --
 Interrupts -- Memory hierarchy -- Cache memory -- Direct memory access
 -- Multiprocessor and multicore organization; Operating System
 Overview: Objectives and functions -- Evolution of operating
@@ -99,7 +99,7 @@ After the completion of this course, students will be able to
 4. Harvey M Deitel, ``Operating Systems'', 3rd Edition, Pearson
    Education, 2004.
 5. Daniel P Bovet, Marco Cesati, ``Understanding the Linux Kernel'',
-   3rd edition, O‘Reilly,2005.
+   3rd edition, O'Reilly,2005.
 
 
 ** CO TO PO/PSO MAPPING

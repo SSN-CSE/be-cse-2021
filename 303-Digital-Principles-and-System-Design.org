@@ -25,7 +25,7 @@
 Number Systems -- Arithmetic Operations -- Binary Codes-- Boolean
 Algebra and Logic Gates -- Theorems and Properties of Boolean Algebra
 -- Boolean Functions -- Canonical and Standard Forms -- Simplification
-of Boolean Functions using Karnaugh Map -- Logic Gates – NAND and NOR
+of Boolean Functions using Karnaugh Map -- Logic Gates -- NAND and NOR
 Implementations.
 
 {{{unit}}}

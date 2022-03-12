@@ -64,12 +64,12 @@ The topics of AU and Autonomous syllabi is one and the same.
 {{{unit}}}
 | UNIT III | DISTRIBUTED MUTEX AND DEADLOCK | 10 |
 Distributed mutual exclusion algorithms: Introduction -- Preliminaries
--- Lamport's algorithm -- Ricart–Agrawala algorithm -- Quorum-based
+-- Lamport's algorithm -- Ricart--Agrawala algorithm -- Quorum-based
 mutual exclusion algorithms -- Maekawa's algorithm -- Token-based
-algorithms -- Suzuki–Kasami's broadcast algorithm; Deadlock detection
+algorithms -- Suzuki--Kasami's broadcast algorithm; Deadlock detection
 in distributed systems: Introduction -- System model -- Preliminaries
--- Models of deadlocks -- Knapp’s classification of distributed
-deadlock detection algorithms -- Mitchell and Merritt’s algorithm for
+-- Models of deadlocks -- Knapp's classification of distributed
+deadlock detection algorithms -- Mitchell and Merritt's algorithm for
 the single resource model -- Chandy-Misra-Haas algorithm for the AND
 model -- Chandy-Misra-Haas algorithm for the OR model.
 

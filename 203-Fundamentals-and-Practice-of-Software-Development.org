@@ -29,7 +29,7 @@ input and output statements -- control statements.
 {{{unit}}}
 | UNIT II | FUNCTIONS  | 6 |
 Function prototype -- function definition and call -- passing
-parameters -- recursion. Program structure: storage classes –
+parameters -- recursion. Program structure: storage classes --
 multi-file programs-- Standard library functions;
 
 {{{unit}}}

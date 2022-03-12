@@ -90,7 +90,7 @@ After the completion of this course, students will be able to
 1. Peter Mika, ``Social Networks and the Semantic Web'', 1st Edition,
    Springer, 2007 (Unit I).
 2. Maksim Tsvetovat and Alexander Kouznetsov, ``Social Network
-   Analysis for Startups'', O’Reilly, 2011 (Unit IV).
+   Analysis for Startups'', O'Reilly, 2011 (Unit IV).
 3. Edward L. Platt, ``Network Science with Python and NetworkX Quick
    Start Guide: Explore and visualize network data effectively'',
    Packt Publishing, 2019.

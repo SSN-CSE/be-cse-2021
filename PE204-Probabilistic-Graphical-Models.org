@@ -59,7 +59,7 @@ Augmented Naive Bayes.
 |UNIT V | LEARNING IN HIDDEN ENVIRONMENT | 9 |
 Learning with Hidden Variables: Hidden Variables and Missing Data --
 Expectation Maximisation -- Extensions of EM -- Variational Bayes;
-Bayesian Model Selection: Comparing Models the Bayesian Way -- Occam’s
+Bayesian Model Selection: Comparing Models the Bayesian Way -- Occam's
 Razor and Bayesian Complexity Penalisation -- Approximating the Model
 Likelihood -- Bayesian Hypothesis Testing for Outcome Analysis.
 

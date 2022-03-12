@@ -37,7 +37,7 @@ Mobile IP: Goals, assumptions and requirements -- Entities and
 terminology -- IP packet delivery -- Agent discovery -- Registration
 --Tunneling and encapsulation -- Optimizations; DHCP; AdHoc: Routing
 -- Proactive routing protocol-DSDV -- Reactive routing protocol - DSR, 
-AODV -- Hybrid routing –ZRP; Traditional TCP – Classical TCP improvements.
+AODV -- Hybrid routing -- ZRP; Traditional TCP -- Classical TCP improvements.
 
 
 {{{unit}}}

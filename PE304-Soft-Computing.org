@@ -29,11 +29,11 @@ Partitioning and Fuzzy Modeling
 
 {{{unit}}}
 |UNIT II | NEURAL NETWORKS | 7 | 
-Supervised Learning Neural Networks: Perceptrons –- Adaline –-
-Backpropagation Mutilayer Perceptrons –- Radial Basis Function
+Supervised Learning Neural Networks: Perceptrons -- Adaline --
+Backpropagation Mutilayer Perceptrons -- Radial Basis Function
 Networks; Unsupervised Learning NeuralNetworks: Competitive Learning
-Networks –- Kohonen Self-Organizing Networks -– Learning Vector
-Quantization –- Hebbian Learning
+Networks -- Kohonen Self-Organizing Networks -- Learning Vector
+Quantization -- Hebbian Learning
 
 {{{unit}}}
 |UNIT III | CONVENTIONAL OPTIMIZATION  | 9 |
@@ -45,17 +45,17 @@ Case
 {{{unit}}}
 |UNIT IV | GENETIC ALGORITHMS | 10 |
 Genetic Algorithms: Genetic algorithm and search space -- general
-genetic algorithm –- operators -- Generational cycle -- stopping
-condition –- constraints –- classification; Simulated Annealing --
+genetic algorithm -- operators -- Generational cycle -- stopping
+condition -- constraints -- classification; Simulated Annealing --
 Random Search -- Downhill Simplex Search -- Particle Swarm
 Optimization -- Ant Colony Optimization.
 
 {{{unit}}}
 |UNIT V | NEURO FUZZY MODELING | 9 |
-Adaptive Neuro-Fuzzy Inference Systems: Architecture –- Hybrid
-Learning Algorithm –- Learning Methods that Cross-fertilize ANFIS and
+Adaptive Neuro-Fuzzy Inference Systems: Architecture -- Hybrid
+Learning Algorithm -- Learning Methods that Cross-fertilize ANFIS and
 RBFN; Coactive Neuro Fuzzy Modeling: Framework Neuron Functions for
-Adaptive Networks –- Neuro Fuzzy Spectrum.
+Adaptive Networks -- Neuro Fuzzy Spectrum.
 
 
 \hfill *Total Periods: 45*
@@ -108,13 +108,13 @@ After the completion of this course, students will be able to
 7. Any type of Cancer risk classification.
 8. Fuzzy Logic in washing machine.
 9. Artficial Intelligence based facial recognition software for social
-   media “Facebook”.
+   media ``Facebook''.
 10. Artificial Neural Networks in Cryptography(Hint: Simple Recurrent
     structure like Jordan Network, trained by the back-propagation
     algorithm).
 11. Automatic text summarization (Hint: Apply deep neural networks).
 12. Human activity recognition (Hint: implement a neural network-based
-    model to detect human activities – for example, sitting on a
+    model to detect human activities -- for example, sitting on a
     chair, falling, picking something up, opening or closing a door,
     etc. This is a video classification project, which will include
     combining a series of images and classifying the action.)

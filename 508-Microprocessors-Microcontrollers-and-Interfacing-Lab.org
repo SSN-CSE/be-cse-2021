@@ -45,7 +45,7 @@ Peripherals and Interfacing Experiments
 
 8051 Experiments using kits
 13. Basic arithmetic and logical operations
-14. Cube, 1's count and 2‘s complement of a number
+14. Cube, 1's count and 2's complement of a number
 15. Unpacked BCD to ASCII
 
 

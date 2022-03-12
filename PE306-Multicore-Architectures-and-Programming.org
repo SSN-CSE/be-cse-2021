@@ -32,7 +32,7 @@
 |UNIT I | MULTI-CORE PROCESSORS | 9 |
 Single core to Multi-Core Architectures; SIMD and MIMD Systems;
 Interconnection Networks; Symmetric and Distributed Shared Memory
-Architectures -- Cache Coherence -- Performance Issues – Parallel
+Architectures -- Cache Coherence -- Performance Issues -- Parallel
 Program Design.
 
 {{{unit}}}

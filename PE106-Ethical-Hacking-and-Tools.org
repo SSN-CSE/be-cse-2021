@@ -20,37 +20,38 @@ New Syllabus
 
 {{{unit}}}
 | UNIT I | FUNDAMENTALS OF HACKING | 9 |
-Introduction to Hacking – Importance of Security – Elements of
-Security – Phases of an Attack – Types of Hacker Attacks – Hacktivism
-– Vulnerability Research – Introduction to Foot printing – Information
-Gathering Methodology – Foot printing Tools – WHOIS Tools – DNS
-Information Tools – Locating the Network Range – Meta Search Engines.
+Introduction to Hacking -- Importance of Security -- Elements of
+Security -- Phases of an Attack -- Types of Hacker Attacks -- Hacktivism
+-- Vulnerability Research -- Introduction to Foot printing -- Information
+Gathering Methodology -- Foot printing Tools -- WHOIS Tools -- DNS
+Information Tools -- Locating the Network Range -- Meta Search Engines.
 
 {{{unit}}}
 |UNIT II | SCANNING AND ENUMERATION | 9 |
-Introduction to Scanning – Objectives – Scanning Methodology – Tools –
-Introduction to Enumeration – Enumeration Techniques – Enumeration
-Procedure – Tools.
+Introduction to Scanning -- Objectives -- Scanning Methodology -- Tools --
+Introduction to Enumeration -- Enumeration Techniques -- Enumeration
+Procedure -- Tools.
 
 {{{unit}}}
 |UNIT III | SYSTEM HACKING  | 9 |
-Introduction – Cracking Passwords – Password Cracking Websites –
-Password Guessing – Password Cracking Tools – Password Cracking
-Counter measures – Escalating Privileges – Executing Applications –
+Introduction -- Cracking Passwords -- Password Cracking Websites --
+Password Guessing -- Password Cracking Tools -- Password Cracking
+Counter measures -- Escalating Privileges -- Executing Applications --
 Key loggers and Spyware.
 
 {{{unit}}}
 |UNIT IV | PROGRAMMING FOR SECURITY PROFESSIONALS | 9 |
-Programming Fundamentals – C language – HTML – Perl – Windows OS
-Vulnerabilities – Tools for Identifying Vulnerabilities –
-Countermeasures – Linux OS Vulnerabilities – Tools for Identifying
-Vulnerabilities – Countermeasures.
+Programming Fundamentals -- C language -- HTML -- Perl -- Windows OS
+Vulnerabilities -- Tools for Identifying Vulnerabilities --
+Countermeasures -- Linux OS Vulnerabilities -- Tools for Identifying
+Vulnerabilities -- Countermeasures.
 
 
 {{{unit}}}
 |UNIT V | PENETRATION TESTING       | 9 |
-Introduction – Security Assessments – Types of Penetration testing – Phases of Penetration Testing – Tools –Test Tools
-– Penetration Testing Tools.
+Introduction -- Security Assessments -- Types of Penetration testing
+-- Phases of Penetration Testing -- Tools --Test Tools -- Penetration
+Testing Tools.
  
 \hfill *Total Periods: 45*
 
@@ -65,7 +66,7 @@ After the completion of this course, students will be able to
 
 ** TEXT BOOKS
 1. Patrick Engebretson, ``The Basics of Hacking and Penetration Testing
-   – Ethical Hacking and Penetration Testing Made Easy'', Syngress
+   -- Ethical Hacking and Penetration Testing Made Easy'', Syngress
    Media, Second Revised Edition, 2013.
 2. Michael T Simpson, Kent Backman, James E Corley, ``Hands-On
    Ethical Hacking and Network Defense'', Cengage Learning, Third

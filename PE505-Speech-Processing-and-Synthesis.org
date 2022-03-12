@@ -56,7 +56,7 @@ Short time fourier analysis -- Fourier transform and linear
 interpretations -- Sampling rates -- Spectrographic displays --
 Formant extraction -- Pitch extraction -- Linear predictive coding:
 Autocorrelation method -- Covariance method; Solution of LPC equations
--- Durbin’s Recursive solution -- Application of LPC parameters --
+-- Durbin's Recursive solution -- Application of LPC parameters --
 Pitch detection.
 #+begin_comment
 Added: The full unit

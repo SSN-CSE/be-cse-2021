@@ -61,7 +61,7 @@ for LTL; NuSMV.
 Timed Automata: Semantics -- Time divergence -- Timelock
 -- Zenoness; Timed Computation Tree Logic; TCTL Model Checking:
 Eliminating timing parameters -- Region transition systems -- The TCTL
-model-checking algorithm; Model checkers for Timed Automata: UPPAAL –
+model-checking algorithm; Model checkers for Timed Automata: UPPAAL --
 KRONOS.
 
 
@@ -92,7 +92,7 @@ After the completion of this course, students will be able to
    Achievements, Perspectives'' Springer-Verlag, 2008.
 3. Zohar Manna, Amir Pnueli, ``Temporal Verification of Reactive
    Systems: Safety'', Springer-Verlag, 2012.
-4. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rüdiger Olderog,
+4. Krzysztof R. Apt, Frank S. de Boer, Ernst-Rudiger Olderog,
    ``Verification of Sequential and Concurrent Programs'', Springer,
    3rd edition, 2009.
 

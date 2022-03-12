@@ -81,7 +81,7 @@ After completion of this course, the student will be able to
 
 
 ** TEXT BOOKS 
-1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks –
+1. C Siva Ram Murthy, B S Manoj, ``Ad Hoc Wireless Networks --
    Architectures and Protocols'', Pearson Education, 2006.
 2. Holger Karl, Andreas Willing,``Protocols and Architectures for
    Wireless Sensor Networks'', John Wiley & Sons, 2005.

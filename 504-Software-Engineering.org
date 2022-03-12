@@ -52,7 +52,7 @@ Software Requirements: Functional and non-functional -- Security requirements --
 
 {{{unit}}}
 | UNIT III | SOFTWARE DESIGN | 9 |
-Design Concepts: Design process -- Design concepts -- Modularity, Coupling and cohesion -- Design model -- Modeling principles; Structured Design; Architectural Design: Architectural styles; Architecture for Network based Applications – Decentralized Architectures. 
+Design Concepts: Design process -- Design concepts -- Modularity, Coupling and cohesion -- Design model -- Modeling principles; Structured Design; Architectural Design: Architectural styles; Architecture for Network based Applications -- Decentralized Architectures. 
  
 
 {{{unit}}}

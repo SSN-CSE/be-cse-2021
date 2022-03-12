@@ -90,8 +90,8 @@ After the completion of this course, students will be able to:
 ** TEXT BOOKS 
 1. Elmasri, Ramez, Shamkant Navathe, ``Fundamentals of database
    systems'', 7th Edition, Pearson, 2016 
-2. Thomas Cannolly and Carolyn Begg, “Database  Systems,  
-   A Practical Approach to Design, Implementation and Management”, 
+2. Thomas Cannolly and Carolyn Begg, ``Database  Systems,  
+   A Practical Approach to Design, Implementation and Management'', 
    Third Edition, Pearson Education, 2007.
 
 ** REFERENCES
@@ -103,7 +103,7 @@ After the completion of this course, students will be able to:
    Systems'', Morgan Kaufmann publishers, 2006
 4. Stefano Ceri, Giuseppe Pelagatti, ``Distributed Databases: 
    Principles and Systems'', Mc-Graw Hill,2017.
-5. M. Tamer Özsu, Patrick Valduriez, ``Principles of Distributed
+5. M Tamer Ozsu, Patrick Valduriez, ``Principles of Distributed
    Database Systems'', Second Edition, Springer
 
 ** CO TO PO/PSO MAPPING

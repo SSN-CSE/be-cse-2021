@@ -52,7 +52,7 @@ Interfaces -- Disk Drivers -- Terminal Drivers.
 {{{unit}}}
 |UNIT V| SCHEDULING AND IPC|				8|
 Process Scheduling and Time: Process Scheduling -- System calls for
-Time -- Clock. Interprocess Communication: Process Tracing – System V
+Time -- Clock. Interprocess Communication: Process Tracing -- System V
 IPC
 
 \hfill *Total Periods: 45*

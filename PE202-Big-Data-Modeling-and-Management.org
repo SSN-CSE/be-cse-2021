@@ -64,8 +64,8 @@ Visualization for Neo4j.
 | UNIT V | DOCUMENT BASED AND COLUMNAR MODELS | 10 |
 Database for modern Web:MongoDB -- MongoDB Shell -- Creating, Updating
 and Deleting Documents -- Querying -- Introduction to Cassandra --
-Architecture --- CassendraQL (CQL) -- Configuring and Managing a
-Cluster – Integrating with Apache Spark.
+Architecture -- CassendraQL (CQL) -- Configuring and Managing a
+Cluster -- Integrating with Apache Spark.
 
 \hfill *Total Periods: 45*
 

@@ -11,10 +11,12 @@
 
 
 ** R2021 CHANGES :noexport:   
-1. Unit 1 suggested by BB: after Recognition of tokens added  "Conversion of Regular expression to DFA"
+1. Unit 1 suggested by BB: after Recognition of tokens added
+   "Conversion of Regular expression to DFA"
 2. Lab Program 4 rephrased to include CO6
 3. Books are updated to recent edition.
-4. Modified by :Dr.S.Saraswathi on 27-02-2021 as per the suggestion given by BB,DT,BP
+4. Modified by :Dr.S.Saraswathi on 27-02-2021 as per the suggestion
+   given by BB,DT,BP
 # DESIGN AND IMPLEMENTATION OF COMPILERS
 
 ** COURSE OBJECTIVES
@@ -97,7 +99,11 @@ table,Implementation of Simple Code Optimization Techniques.#
 Added:Study of LLVM framework.
 
 
-changes: "Consider a simple program as an input and process this code to Â  printthe intermediate code after every phase. It is necessary toÂ Â  printthe output of lexical, syntax, semantic, intermediate codeÂ Â generation, code optimization and code generation phases"Â  replaced with simple program and ex4 is used as co6
+changes: "Consider a simple program as an input and process this code
+to printthe intermediate code after every phase. It is necessary to�
+printthe output of lexical, syntax, semantic, intermediate
+code�generation, code optimization and code generation phases�
+replaced with simple program and ex4 is used as co6
 #+end_comment
 
 

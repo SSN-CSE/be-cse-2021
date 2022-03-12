@@ -47,14 +47,14 @@ and Arima Models.
 |UNIT IV | ARIMA MODELS | 9 |
 Linear Models for Stationary Time Series -- Finite Order Moving
 Average Processes -- Finite Order Autoregressive Processes -- Mixed
-Autoregressive–Moving Average Processes -- Nonstationary Processes --
+Autoregressive -- Moving Average Processes -- Nonstationary Processes --
 Time Series Model Building -- Forecasting Arima Processes.
 
 {{{unit}}}
 |UNIT V | TRANSFER FUNCTIONS AND INTERVENTION MODELS | 9 |
-Transfer Function Models -- Transfer Function–Noise Models --
+Transfer Function Models -- Transfer Function -- Noise Models --
 Cross-Correlation Function -- Model Specification -- Forecasting with
-Transfer Function–Noise Models -- Intervention Analysis.
+Transfer Function -- Noise Models -- Intervention Analysis.
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to

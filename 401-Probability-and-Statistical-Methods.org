@@ -78,7 +78,7 @@ After the completion of this course, students will be able to
    Education, Asia, 2012.
 3. Ross S M, ``Introduction to Probability and Statistics for
    Engineers and Scientists'', 5th Edition, Elsevier, New Delhi, 2014.
-4. Spiegel M R, Schiller J, Srinivasan R A, ``Schaum’s
+4. Spiegel M R, Schiller J, Srinivasan R A, ``Schaum's
    Outline of Theory and Problems of Probability and Statistics'',
    3rd Edition, Tata McGraw Hill, New Delhi, 2004.
 5. Gupta S C, Kapoor V K, ``Fundamentals of Mathematical Statistics'',

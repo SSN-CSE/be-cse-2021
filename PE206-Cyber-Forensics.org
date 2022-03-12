@@ -30,7 +30,7 @@ Understanding Incident Response : The incident response process -- The
 incident response charter --The incident response plan -- The incident
 response playbook -- Testing the incident response framework;
 Managing Cyber Incidents: Investigating incidents -- Incorporating
-containment strategies -- Getting back to normal – eradication and
+containment strategies -- Getting back to normal -- eradication and
 recovery; Fundamentals of Digital Forensics -- Legal aspects --
 Digital forensics fundamentals -- The digital forensics process --
 Digital forensic lab.

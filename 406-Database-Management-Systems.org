@@ -83,7 +83,7 @@ After the completion of this course, students will be able to
 3. Apply database programming techniques , database design theory and normalization(K3)
 4. Apply concurrency control and recovery mechanisms for transaction processing systems (K3)
 5. Explain the concepts of Distributed and NOSQL databases (K2)
-6.  Design the database schema by analyzing the data for a real time application with documentation (K6).
+6. Design the database schema by analyzing the data for a real time application with documentation (K6).
 
 ** TEXT BOOKS 
 1. Ramez Elmasri, Shamkant B Navathe, ``Fundamentals of Database
@@ -96,15 +96,15 @@ After the completion of this course, students will be able to
 1. Jeffrey D Ullman, Jennifer Widom, ``A First Course in Database
    Systems'', 3rd Edition, Pearson Education, 2014.
 2. S Sumathi, S Esakkirajan, `` Fundamentals of Relational Database
-   Management Systems '', (Studies in Computational Intelligence),
+   Management Systems'', (Studies in Computational Intelligence),
    Springer-Verlag, 2007.
 3. Abraham Silberschatz, Henry F Korth, S Sudharshan, ``Database
    System Concepts'', 6th Edition, Tata McGraw Hill, 2011.
-4. Thomas M Connolly, Carolyn E Begg, "Database Systems - A Practical Approach 
-   to Design, Implementation and Management", 6th edition, 2015, Global 
+4. Thomas M Connolly, Carolyn E Begg, ``Database Systems -- A Practical Approach 
+   to Design, Implementation and Management'', 6th edition, 2015, Global 
    Edition, Pearson. 
-5. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, "Database
-   Systems:The Complete Book", 2e, Pearson.
+5. Hector Garcia-Molina, Jeffrey D Ullman, Jennifer Widom, ``Database
+   Systems:The Complete Book'', 2e, Pearson.
 
 ** CO TO PO/PSO MAPPING
 | PO/PSO |  1 |  2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |

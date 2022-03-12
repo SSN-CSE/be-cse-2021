@@ -109,7 +109,7 @@ co6: Select and build a software project to solve a real world problem in teams 
 
 ** TEXT BOOKS
 1. David J. Anderson and Eli Schragenheim, ``Agile Management for Software Engineering: Applying the Theory of Constraints for Business Results``, Prentice Hall, 2003.
-2. Craig Larman, ``Agile and Iterative Development: A Manager’s Guide``, Addison-Wesley, 2004.
+2. Craig Larman, ``Agile and Iterative Development: A Manager's Guide``, Addison-Wesley, 2004.
 3. Elisabeth Hendrickson, ``Agile Testing``, Quality Tree Software Inc 2008.
 
 	

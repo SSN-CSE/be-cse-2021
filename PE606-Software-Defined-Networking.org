@@ -39,7 +39,7 @@ NFV Concepts -- Benefits and Requirements -- Reference Architecture -- NFV Infra
 {{{unit}}}
 |UNIT V| NETWORK VIRTUALIZATION |9|
 Virtual LANs  --  OpenFlow VLAN Support --  Virtual Private Networks --
-Network Virtualization -- OpenDaylight’s Virtual Tenant Network.-- CoSoftware-Defined Infrastructure. 
+Network Virtualization -- OpenDaylight's Virtual Tenant Network.-- CoSoftware-Defined Infrastructure. 
 
 \hfill *Total Periods: 45*
 

@@ -44,7 +44,7 @@ Algorithm -- True Online TD(\lambda); Policy Gradient Methods.
 
 {{{unit}}}
 | UNIT V | APPLICATIONS AND CASE STUDIES | 6 |
-TD-Gammon; Watson’s Daily-Double Wagering; Optimizing Memory Control;
+TD-Gammon; Watson's Daily-Double Wagering; Optimizing Memory Control;
 Human-level Video Game Play.
 
 \hfill *Total Periods: 45*

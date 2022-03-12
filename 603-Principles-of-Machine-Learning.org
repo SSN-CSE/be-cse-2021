@@ -99,9 +99,10 @@ After the completion of this course, students will be able to
 3. Explain the need for ensemble methods (K2)
 4. Apply unsupervised and reinforcement learning techniques to various problems (K3)
 5. Apply dimensionality reduction and optimisation techniques (K3)
+6. Use data subject to privacy and ethical concerns.
       
 ** TEXT BOOKS
-1. Stephen Marsland, ``Machine Learning – An Algorithmic
+1. Stephen Marsland, ``Machine Learning -- An Algorithmic
    Perspective'', 2nd Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2015.
 2. Ethem Alpaydin, ``Introduction to Machine Learning'', 3rd Edition,
@@ -109,7 +110,7 @@ After the completion of this course, students will be able to
 
 
 ** REFERENCES
-1. Jason Bell, ``Machine learning – Hands on for Developers and
+1. Jason Bell, ``Machine learning -- Hands on for Developers and
    Technical Professionals'', 1st Edition, Wiley, 2014.
 2. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
    that Make Sense of Data'', 1st Edition, Cambridge University
@@ -128,7 +129,7 @@ After the completion of this course, students will be able to
 | CO2    |  3 |  2 | 3 |   |   |   |   |   |   |    |    |  2 |  2 |   |
 | CO3    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
 | CO4    |  3 |  2 | 3 |   |   |   |   |   |   |    |    |    |  2 |   |
-| CO5    |  3 |  2 |   |   |   |   |   |   |   |    |    |    |  2 |   |
+| CO5    |  3 |  2 |   |   |   |   |   | 3 |   |    |    |    |  2 |   |
 |--------+----+----+---+---+---+---+---+---+---+----+----+----+----+---|
-| Score  | 15 | 10 | 6 |   |   |   |   |   |   |    |    |  2 | 10 |   |
-| Course |  3 |  2 | 3 |   |   |   |   |   |   |    |    |  2 |  2 |   |
+| Score  | 15 | 10 | 6 |   |   |   |   | 3 |   |    |    |  2 | 10 |   |
+| Course |  3 |  2 | 3 |   |   |   |   | 3 |   |    |    |  2 |  2 |   |
