@@ -59,14 +59,11 @@ IPC
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Demonstrate the different scenarios of buffer usage and Inode
-   manipulation (K2)
-2. Interpret the working of file subsystem and its system calls.(K2)
-3. Illustrate the various aspects of Process Control and management
-   (K2)
-4. Interpret the memory management and I/O policies (K2)
-5. Apply various process scheduling algorithms and IPC techniques
-   (K3).
+1. Identify various scenarios of buffer usage and Inode manipulation (K3)
+2. Illustrate the working of UNIX file subsystem and its system calls (K2)
+3. Apply process control and management policies on process address space (K3)
+4. Illustrate the memory management and I/O policies (K2)
+5. Apply various scheduling algorithms and IPC techniques on processes (K3)
 
 ** TEXT BOOK
 1. Maurice J Bach, ``The Design of the Unix Operating System'',
@@ -88,12 +85,13 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 2 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO2    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 1 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO3    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 1 |  1 |  0 |  0 | 3 | 0 | 0 |
-| CO4    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO5    | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 1 |  1 |  0 |  0 | 3 | 0 | 0 |
+| Score  | 15 | 10 |  |   |   |   |   |   |   |    |    |    | 15 |   |   |
+| Course mapping | 3 | 2 |  |   |   |   |   |   |   |    |    |    | 3 |   |   |
 
-# | Score          | 14 | 14 | 13 | 13 | 13 | 0 | 0 | 0 | 2 |  2 |  0 |  0 | 13 | 0 | 0 |
+
