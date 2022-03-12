@@ -37,9 +37,11 @@
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Solve the applications using linear data structures applying best practices in programming (K3)
-2. Develop programs using non-linear data structures for various applications (K3)
-3. Apply searching, sorting, and hashing techniques to solve the given problems (K3).
+1. Solve the applications using linear and non linear data structures applying best practices in   
+          programming (K3)
+2. Apply searching, sorting, and hashing techniques to solve the given problems (K3)
+3. Choose suitable data structure and solve the given problem (K5)
+
 
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 25 STUDENTS
@@ -53,8 +55,8 @@ Software:
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
 | CO1    | 3 | 2 | 2 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
 | CO2    | 3 | 2 | 2 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
-| CO3    | 3 | 2 | 2 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
+| CO3    | 3 | 3 | 3 | 3 |  |  |  |  |  |  |  |   | 2 | 2 |  |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 2 | 2 | 3 |  |  |  |  |  |   |   |   | 2 | 2 |  |
+| Course | 3 | 3| 3 | 3 |  |  |  |  |  |   |   |   | 2 | 2 |  |
 
 # | Score  | 10 | 15 | 12 | 7 | 0 | 0 | 0 | 2 | 3 | 15 |  0 |  5 | 12 | 7 | 1 |
