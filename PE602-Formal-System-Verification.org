@@ -16,8 +16,7 @@
 
 
 ** COURSE OBJECTIVES
-- To understand the need of logics for specification and verification
-  of computer systems
+- To understand the need of logics for specification and verification of computer systems
 - To learn program correctness using Hoare Logic
 - To learn the skill of writing formal specifications in LTL and CTL
 - To learn model checking algorithms for LTL and CTL
@@ -73,7 +72,8 @@ After the completion of this course, students will be able to
 2. Construct proofs for partial correctness of simple programs using Hoare logic (K3)
 3. State formal properties and specifications in CTL and LTL (K3)
 4. Specify and verify simple systems using NuSMV (K3)
-5. Specify and verify simple systems using UPPAAL (K3).
+5. Specify and verify simple systems using UPPAAL (K3)
+
 
 ** TEXTBOOKS
 1. M Huth, M Ryan, ``Logic in Computer Science -- Modeling and
