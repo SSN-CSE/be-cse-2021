@@ -1,7 +1,7 @@
 * 
 :properties:
 :author: Dr. K. Lekshmi and Dr. A. Beaula
-:date: 30-03-2021, 13-06-2021(CO-PO Mapping Updated)
+:date: 30-03-2021, 13-06-2021, 11-03-2022 (CO-PO Mapping Updated)
 :end: 
 
 #+startup: showall
@@ -75,17 +75,11 @@ Support Systems: Various Types of CDSS, Diagnostic Decision Support.
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
 1. Explain the basic and advanced data analytics in public health (K2)
-2. Build data models that integrate patient data from multiple sources
-   to create comprehensive, patient-centered views of data using
-   analytics tools for EHR, Image and Sensor Data (K3)
-3. Build data models that integrate patient data from multiple sources
-   to create comprehensive, patient-centered views of data using
-   analytics tools for Signal, Genome and Text Data (K3)
-4. Apply and Solve meaningful patterns and trends in advanced data analytics
-   systems (K3)
-5. Apply descriptive and inferential methodologies according to the
-   type of study design in Healthcare practical systems (K3)
-6. Develop a health care system for a given application (K3).
+2. Integrate patient data from multiple sources into data models using  analytics tools for EHR, Image and Sensor Data (K3)
+3. Integrate patient data from multiple sources into data models using  analytics tools for Signal, Genome and Text Data (K3)
+4. Apply meaningful patterns and trends in advanced data analytics systems (K3)
+5. Apply descriptive and inferential methodologies according to the type of study design in Healthcare practical systems (K3)
+
 
  
 ** TEXT BOOKS
@@ -103,15 +97,17 @@ After the completion of this course, students will be able to
 
 ** CO TO PO/PSO MAPPING
 
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO2    | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO3    | 2 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO4    | 2 | 3 | 1 | 3 | 0 | 0 | 0 | 2 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO5    | 2 | 2 | 1 | 3 | 0 | 0 | 0 | 2 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO6    | 2 | 3 | 3 | 3 | 0 | 0 | 0 | 2 | 1 |  2 |  0 |  1 | 0 | 0 | 0 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 2 | 3 | 0 | 0 | 0 | 2 | 1 |  1 |  0 |  1 | 1 | 0 | 0 |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    |   |   |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    |   |   |   |
+| CO3    | 3 | 2 |   | 3 |   |   |   |   |   |    |    | 2  | 3 |   |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
 
-# | Score | 12 | 17 | 7 | 13 | 0 | 0 | 0 | 6 | 1 | 2 | 0 | 1 | 2 | 0 | 0 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course | 3 | 2 |   | 3 |   |   |   |   |   |    |    | 2  | 3 |   |   |
+#+TBLFM: @>$INVALID..$15='(ceiling (/ (+ @2..@7) 6));N
+
+# | Score|15 | 10|   | 3 |   |   |   |   | 3 | 3  |    | 2  | 9 |   |   |

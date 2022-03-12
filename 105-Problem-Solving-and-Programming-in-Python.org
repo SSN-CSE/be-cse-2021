@@ -63,14 +63,11 @@ arguments.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. Solve programming problems and express solutions in pseudo code
-   (K3)
-2. Develop simple programs using basic constructs (K3)
-3. Construct programs using conditions and iterations decompose a
-   problem into functions (K3)
-4. Make use of strings, lists, tuples and dictionaries data structures
-   (K3)
-5. Develop Input/Output Operations using files (K3).
+1. Solve programming problems and express solutions using algorithmic constructs (K3)
+2. Develop simple programs using basic constructs and conditional statements (K3)
+3. Develop programs using  looping constructs, functions and strings (K3)
+4. Use lists and tuples to develop programs (K3)
+5. Construct programs using dictionaries and perform Input/Output operations using files (K3)
 
   
 ** TEXT BOOKS
@@ -99,12 +96,11 @@ After the completion of this course, students will be able to
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 1 | 0 |
-| CO2    | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO3    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO4    | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO5    | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
+| CO1    | 3 |  2 |   |    |   |   |   |   |   |   |   |     | 2 |   |  |
+| CO2    | 3 |  2 |   |    |   |   |   |   |   |   |   |     | 2 |   |  |
+| CO3    | 3 |  2 |   |    |   |   |   |   |   |   |   |     | 3 |   |  |
+| CO4    | 3 |  2 |   |    |   |   |   |   |   |   |   |     | 3 |   |  |
+| CO5    | 3 |  2 |   |    |   |   |   |   |   |  |   |     | 3 |   |  |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 1 | 0 |
-
-# | Score | 10 | 11 | 6 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11 | 0 | 0 |
+| Course | 15 | 10 |   |   |   |   |    |   |   |   |   |    |  13 |  |    |
+| Score | 3   |  2 |    |   |   |  |    |   |   |   |   |    | 3 |  |  |

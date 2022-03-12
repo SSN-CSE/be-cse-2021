@@ -13,7 +13,8 @@
 ** R2021 CHANGES :noexport:
 1. Experiments related to JSP, PHP, XML and web services were removed
    when compared to AU-R2017 as they were removed in the theory
-2. Application for ReactJS and NodeJS was split into 2 programs
+2. CO2 has been changed - the word Teams is removed, K-level is changed
+3. Application for ReactJS and NodeJS was split into 2 programs
 
 ** COURSE OBJECTIVES
 - To develop web applications using traditional client and server end technologies.
@@ -36,11 +37,9 @@
 #+END_COMMENT
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Build website using HTML5 and CSS3 (K3)
-2. Develop multi-tier web application using Servlets in team (K4)
-3. Construct responsive web applications using AJAX (K3)
-4. Make use of ReactJS framework to build front end of web application (K3)
-5. Make use of NodeJS framework to build back end of web application (K3).
+1. Build web applications using traditional client/server technologies (K3)
+2. Construct web application using javascript frameworks (K3)
+3. Develop and evaluate a web application for a given set of requirements on JavaScript Framework with NodeJS Server, applying suitable design options and techniques  (K6)
 
 ** LABORATORY REQUIREMENT FOR BATCH OF 38 STUDENTS
 Hardware:
@@ -53,14 +52,13 @@ Software:
 
 ** CO TO PO/PSO MAPPING
 
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 2 | 3 | 0 | 2 | 0 | 0 | 2 | 0 |  3 |  0 |  0 | 0 | 0 | 0 |
-| CO2    | 2 | 2 | 3 | 1 | 2 | 0 | 0 | 2 | 3 |  3 |  0 |  0 | 1 | 1 | 0 |
-| CO3    | 2 | 2 | 3 | 0 | 2 | 0 | 0 | 2 | 0 |  3 |  0 |  0 | 1 | 1 | 0 |
-| CO4    | 2 | 2 | 3 | 0 | 2 | 0 | 0 | 2 | 0 |  3 |  0 |  0 | 1 | 1 | 0 |
-| CO5    | 2 | 2 | 3 | 0 | 2 | 0 | 0 | 2 | 0 |  3 |  0 |  0 | 1 | 1 | 0 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 2 | 3 | 0 | 2 | 0 | 0 | 2 | 1 |  3 |  0 |  1 | 1 | 1 | 0 |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+------|
+| CO1    | 3 | 2 | 2 | 3 |   |   |   |   |   |    |    |    | 2  |    |    |
+| CO2    | 3 | 2 | 2 | 3 |   |   |   |   |   |    |    |    | 2  |    |    |
+| CO3    | 3 | 3 | 3 | 3 | 3 |   |   |   | 3 | 3  |  3 | 3  | 2  |    |    |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+------|
+| Score  | 9 | 7 | 7 | 9 | 3 |   |   |   | 3  | 3 |  3 |  3 |  6 |    |    |
+| Course | 3 | 3 | 3 | 3 | 3 |   |   |   | 3 |  3 |  3 |  3 |  2 |    |    |
 
-# | Score          |    | 10 | 10 | 15 | 0 | 10 | 0 | 0 | 10 | 3 | 15 |  0 |  3 | 4 | 4 | 0 |
+

@@ -64,16 +64,12 @@ implementations and comparison.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Summarize the limitations of single core processors and the concepts behind the
-   various multi-core architectures (K2)
-2. Infer the issues in programming Parallel Processors (K2)
-3. Develop the programs using OpenMP (K3) 
-4. Develop the program using  MPI (K3)
-5. Compare and contrast programming for serial processors and
-   programming for parallel processors (K2)
-6. Solve real world problems in teams by choosing parallel programming
-   and applying best practices in programming with a clear
-   documentation of algorithm and approach (K3).
+1. Summarize the limitations of single core processors and the concepts behind various multi-core architectures (K2)
+2. Explain the issues in programming parallel processors (K2)
+3. Develop programs using OpenMP (K3) 
+4. Develop programs using MPI (K3)
+5. Compare and contrast programming for serial processors and parallel processors (K2)
+
   
 ** TEXT BOOKS
 1.  Peter S Pacheco, ``An Introduction to Parallel Programming'',
@@ -99,13 +95,14 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO2    | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO3    | 2 | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 1 | 1 |
-| CO4    | 2 | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 1 | 1 |
-| CO5    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO6    | 2 | 3 | 3 | 2 | 0 | 0 | 0 | 1 | 2 |  2 |  0 |  0 | 3 | 1 | 1 |
+| CO1    | 3 |   |   |   |   |   |   |   |   |   |    |    |   |   |   |
+| CO2    | 3 |   |   |   |   |   |   |   |   |   |    |    |   |   |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |   |    |    | 2 |   |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   | 3 |    |    | 2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 2 | 2 | 0 | 0 | 0 | 1 | 1 |  1 |  0 |  0 | 2 | 1 | 1 |
+| Score  | 15| 6 |   |   |   |   |   |   |   | 3 |    |    | 6 |   |   |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course Mapping | 3 | 2 |   |   |   |   |   |   |   | 3 |    |    | 2 |   |   |
 
-# | Score | 10 | 13 | 7 | 7 | 0 | 0 | 0 | 1 | 2 | 2 | 0 | 0 | 12 | 3 | 3 |
+

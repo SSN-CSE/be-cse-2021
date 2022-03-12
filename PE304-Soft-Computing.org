@@ -62,12 +62,13 @@ Adaptive Networks –- Neuro Fuzzy Spectrum.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Utilize fuzzy logic for solving real world problems (K3)
-2. Demonstrate the use of neural networks algorithms in solving computational problems (K2)
-3. Make use of derivative based optimization techniques (K3)
-4. Explain genetic algorithms and evolutionary optimization (K2)
-5. Analyse and compare neuro-fuzzy hybrid models for solving
-   computational problems (K4)
+
+   
+1.   Apply fuzzy logic for solving real world problems (K3)
+2.   Demonstrate the use of neural networks in solving computational problems (K2)
+3.   Apply derivative based optimization techniques on computational problems (K3)
+4.   Explain genetic algorithms and evolutionary optimization (K2)
+5.   Analyse and compare neuro-fuzzy hybrid models (K4)
 
  
 ** TEXT BOOKS
@@ -93,6 +94,7 @@ After the completion of this course, students will be able to
    Machines, Neural Networks, and Fuzzy Logic Models'', Pearson
    Education, New Delhi, 2006.
 
+#+begin_comment
 ** LIST OF PROJECTS
 1. Intelligent fuzzy based washing time prediction with parameter
    dependency.
@@ -116,17 +118,19 @@ After the completion of this course, students will be able to
     chair, falling, picking something up, opening or closing a door,
     etc. This is a video classification project, which will include
     combining a series of images and classifying the action.)
+#+end_comment
 
 ** CO TO PO/PSO MAPPING
 
-|        | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 3 |  0 |  0 |  1 | 3 | 1 | 0 |
-| CO2    | 2 | 3 | 3 | 3 | 3 | 0 | 0 | 0 | 3 |  0 |  0 |  1 | 3 | 1 | 0 |
-| CO3    | 2 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 3 | 0 | 0 |
-| CO4    | 2 | 3 | 3 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  1 | 3 | 0 | 0 |
-| CO5    | 2 | 3 | 3 | 3 | 3 | 0 | 1 | 1 | 3 |  3 |  2 |  1 | 3 | 1 | 1 |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO3    | 3 |   |   |   |   |   |   |   |   |    |    |    | 1 |   |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 3 |   |   |
+| CO5    | 3 | 2 | 3 |   | 2 |   |   |   | 3 | 3  |    |  3 | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 3 | 3 | 2 | 0 | 1 | 1 | 2 |  1 |  1 |  1 | 3 | 1 | 1 |
+| Course | 3 | 2 | 3 |   | 2 |   |   |   | 3 | 3  |    |  3 | 3 |   |   |
+#+TBLFM: @>$INVALID..$15='(ceiling (/ (+ @2..@7) 6));N
 
-# | Score | 10 | 15 | 15 | 15 | 9 | 0 | 1 | 1 | 9 | 3 | 2 | 5 | 15 | 3 | 1 |
+# | Score|15 | 8 | 3 |   | 2 |   |   |   | 3 |  3 |    |  3 | 13|   |   |

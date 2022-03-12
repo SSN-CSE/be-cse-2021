@@ -9,11 +9,14 @@
 | CODE    | COURSE TITLE    | L | T | P | E | C |
 | UCS2737 | COMPUTER VISION | 3 | 0 | 0 | 0 | 3 |
 
+#+begin_comment
+
 ** R2021 CHANGES :noexport:
 1. Removed Image enhancement techniques 
 2. Modified the units 1, 2 and 3 based on different levels of features.
 3. Unit 5 is added newely with deep learning techniques for computer vision
 4. CO6 is added to map the soft POs and mapping done accordingly.
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To explore the Low level vision features
@@ -79,13 +82,11 @@ Spatio-temporal Models -- Action/Activity Recognition
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Apply various low level feature detection methods (K3)
-2. Choose various feature analysis methods and transforms for intermediate level vision (K3)
-3. Explain depth estimation and 3D reconstruction (K2)
-4. Analyse the object recognition methods (K4)
-5. Build Deep learning models for computer vision (K3)
-6. Develop a real time application in teams by using computer vision
-   techniques with a clear documentation of the approach (K4).
+ 1. Apply various low level feature detection methods (K3)
+ 2. Apply various feature analysis methods and transforms for intermediate level vision (K3)
+ 3. Explain depth estimation and 3D reconstruction (K2)
+ 4. Analyse different object recognition methods (K4)
+ 5. Analyse deep learning models for a real time computer vision application (K4)
 
 
 ** TEXT BOOKS
@@ -109,17 +110,20 @@ After the completion of this course, students will be able to
    Inference'', Cambridge University Press, 2012.
 
 ** CO TO PO/PSO MAPPING
+** CO TO PO/PSO MAPPING 
+
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 1 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO2    | 2 | 3 | 1 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO3    | 2 | 2 | 3 | 3 | 3 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO4    | 2 | 2 | 3 | 3 | 3 | 1 | 1 | 0 | 2 |  1 |  0 |  1 | 3 | 1 | 1 |
-| CO5    | 2 | 3 | 1 | 3 | 3 | 1 | 1 | 0 | 2 |  1 |  0 |  1 | 3 | 1 | 1 |
-| CO6    | 2 | 2 | 2 | 1 | 1 | 1 | 1 | 1 | 3 |  2 |  0 |  1 | 2 | 3 | 1 |
+| CO1    | 3 |  2 |   |   |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO2    | 3 |  2 |   | 3 |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO3    | 3 |  2 |   |   |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO4    | 3 |  2 |   | 3 |   |   |   |   |  |   |   |     | 2 |   |  |
+| CO5    | 3 |  2 |   | 3 |   |   |   |   |  | 3 |   |  2  | 2 |   |  |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 2 | 3 | 3 | 1 | 1 | 1 | 2 |  1 |  0 |  1 | 3 | 1 | 1 |
+| Course | 15 | 10 |  | 9 |   |   |   |   |  | 3 |   |  2 |  10|   |  |
+| Score | 3   |  2 |  | 3 |   |   |   |   |  | 3 |   |  2 |  2 |   |  |
 
-# | Score |   | 12 | 15 | 11 | 16 | 16 | 3 | 3 | 1 | 7 | 4 | 0 | 3 | 16 | 5 | 3 |
+
+
 
    

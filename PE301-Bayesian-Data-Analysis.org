@@ -67,13 +67,10 @@ After the completion of this course, students will be able to
 1. Summarize the basics of theory, machine learning and statistics
    (K2)
 2. Apply One-parameter model to develop a system (K3)
-3. Analysing data using hierarchical model (K4)
+3. Analyse data using hierarchical model (K4)
 4. Compare non-bayesian model with bayesian model (K4)
-5. Apply various Bayesian computation techiniques to solve a problem
-   (K3)
-6. Solve a real time problem using any bayesian approach with clear
-   documentation (K4).
-
+5. Apply various Bayesian computation techniques to solve a problem
+   (K3) 
       
 ** TEXT BOOKS
 1. Peter D Hoff, ``A first course in Bayesian Statistical Methods'',
@@ -93,13 +90,13 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 |  1 |  0 |  1 | 1 | 0 | 0 |
-| CO2    | 3 | 3 | 3 | 2 | 2 | 0 | 0 | 1 | 1 |  1 |  0 |  2 | 3 | 0 | 2 |
-| CO3    | 3 | 3 | 3 | 2 | 2 | 0 | 0 | 1 | 1 |  1 |  0 |  2 | 3 | 0 | 0 |
-| CO4    | 3 | 3 | 3 | 2 | 2 | 0 | 0 | 1 | 0 |  1 |  0 |  2 | 3 | 0 | 0 |
-| CO5    | 3 | 3 | 3 | 2 | 2 | 0 | 0 | 1 | 1 |  1 |  0 |  2 | 3 | 0 | 2 |
-| CO6    | 3 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 2 |  3 |  0 |  2 | 3 | 2 | 2 |
+| CO1    | 3 |   |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO3    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO4    | 3 | 3 | 3 |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO5    | 3 | 2 | 3 | 3 |   |   |   |   | 3 | 3  |    |    | 3 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 1 | 1 |  2 |  0 |  2 | 3 | 1 | 1 |
+| Score | 15 | 9 | 6 | 6 |   |   |   |   | 3 | 3  |    |    | 11|   |   |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
+| Course Mapping| 3 | 2 | 3 | 3 |   |   |   |   | 3 | 3  |    |    | 3 |   |   |
 
-# | Score | 17 | 16 | 16 | 12 | 12 | 1 | 1 | 6 | 5 | 8 | 0 | 9 | 16 | 2 | 6 |

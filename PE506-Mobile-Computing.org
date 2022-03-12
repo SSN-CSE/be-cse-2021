@@ -57,18 +57,12 @@ User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifi
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to    
-1. Explain the functionalities of MAC protocols in wireless networks
-   (K2)
-2. Choose appropriate algorithms for routing and transporting data for
-   a given scenario (K3)
-3. Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
-4. Make use of various mobile platforms to develop and deploy mobile
-   applications (K3)
-5. Develop mobile applications using various features learnt (K3)
-6. Analyze the requirements and develop mobile App for Solving a real
-   world problems in teams by choosing appropriate mobile components
-   and applying best practices in coding with a clear documentation of
-   procedure and approach (K4).
+1.	Explain the functionalities of MAC protocols in wireless networks (K2)
+2.	Choose appropriate algorithms for routing and transporting data for a given scenario (K3)
+3.	Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
+4.	Make use of various mobile platforms to develop and deploy mobile applications (K3)
+5.	Develop mobile applications using various features learnt (K3)
+
 
 ** TEXT BOOKS
 1. Jochen H Schller, ``Mobile Communications'', Pearson Education, New
@@ -95,13 +89,13 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO2    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO3    | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO4    | 1 | 3 | 0 | 0 | 3 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO5    | 1 | 3 | 1 | 2 | 2 | 0 | 0 | 0 | 0 |  1 |  0 |  0 | 2 | 0 | 0 |
-| CO6    | 3 | 3 | 3 | 3 | 2 | 1 | 0 | 0 | 1 |  2 |  0 |  0 | 2 | 3 | 1 |
+| CO1    | 3 | 2 |  |  |  |  |  |  |  |   |   |   | 2 |  |  |
+| CO2    | 3 | 2 |  |  |  |  |  |  |  |   |   |   | 3 |  |  |
+| CO3    | 3 | 2 |  |  |  |  |  |  |  |   |   |   |  |  |  |
+| CO4    | 3 | 2 |  |  |  |  |  |  |  |   |   |   |  |  |  |
+| CO5    | 3 | 2 |  | 3 |  |  |  |  |  |  3 |   |   | 3 |  | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 3 | 1 | 1 | 1 | 1 | 0 | 0 | 1 |  1 |  0 |  0 | 1 | 1 | 1 |
+| Score | 15 | 10 |  | 3 |  |  |  |  |  | 3 |  |  | 8 |  | 2 |
+| Course | 3 | 2  |  | 3 |  |  |  |  |  | 3 |  |  | 3 |  | 2 |
 
-# | Score | 11 | 18 | 4 | 5 | 7 | 1 | 0 | 0 | 1 | 3 | 0 | 0 | 6 | 3 | 1 |
+

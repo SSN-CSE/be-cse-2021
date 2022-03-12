@@ -1,15 +1,19 @@
 *  
 :properties:
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
+:date: 01-03-2022
+:author: Dr. J Suresh and Dr. Y. V. Lokeswari
 :date: 11-06-2021
 :author: Dr. J Suresh and Dr. Y. V. Lokeswari
 :date: 27-03-2021
+:date: 11-03-2022
 :end:
 
 #+startup: showall
 {{{title-tab}}}
 | CODE    | COURSE TITLE          | L | T | P | E | C |
 | UCS2521 | BIG DATA TECHNOLOGIES | 3 | 0 | 0 | 0 | 3 |
+
 
 ** R2021 CHANGES :noexport:
 1. Unit 1 to 5 have been fully changed with recent Big Data Technologies.
@@ -95,16 +99,16 @@ Upon the completion of the course the students should be able to
    Unlocking Hadoop for Your Relational Database'', O'Reilly
    Media, 2013. (Unit 2)
 
-
-** CO TO PO/PSO MAPPING 
+** CO TO PO/PSO MAPPING (Based on PI)
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO2    | 3 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO3    | 3 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 1 |  1 |  2 |  2 | 2 | 0 | 1 |
-| CO4    | 3 | 2 | 2 | 1 | 1 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 1 |
-| CO5    | 3 | 2 | 2 | 1 | 1 | 0 | 0 | 1 | 3 |  3 |  2 |  2 | 2 | 2 | 0 |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO2    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   |   |
+| CO3    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   | 2 |
+| CO4    | 3 | 2 |   | 3 |   |   |   |   |   |    |    |    | 2 |   | 2 |
+| CO5    | 3 | 2 | 3 | 3 |   |   |   |   |   |    |    |    | 2 |   | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 2 | 2 | 1 | 1 | 0 | 0 | 1 | 1 |  1 |  1 |  1 | 2 | 1 | 1 |
+| Score | 15| 10 | 3 | 12 |   |   |   |   |   |  |   |   | 10 |   |  6 |
+| Course Mapping| 3 | 2 | 3 | 3 |   |   |   |   |   |    |    |   | 2 |   | 2  |
 
-# | Score          | 14 | 9 | 9 | 3 | 2 | 0 | 0 | 1 | 4 |  4 |  4 |  4 | 9 | 2 | 2 |
+

@@ -10,6 +10,7 @@
 | CODE    | COURSE TITLE                           | L | T | P | E | C |
 | UCS2504 | FOUNDATIONS OF ARTIFICIAL INTELLIGENCE | 3 | 0 | 2 | 0 | 4 |
 
+#+begin_comment
 ** R2018 CHANGES                                                   :noexport:
 1. This course syllabus is substantially different from the current
    one in Anna University curriculum in unit IV and V.
@@ -24,6 +25,8 @@
 3. Lab Exercises are given from the units units 2, 3 and 4.
 4. CO6 is included additionally
 5. CO-PO-PSO mapping is updated on 16.06.2021
+6. CO reduced to five and mapping updated with indicator on 11.03.2021
+#+end_comment
 
 ** COURSE OBJECTIVES
 - To study the fundamental concepts of AI agents and environments.
@@ -93,15 +96,12 @@ Robotic Perception -- Planning to move -- Application Domains.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. Identify different types of environments and agents (K2)
-2. Identify, formulate and solve AI problems using search techniques
-   (K3)
-3. Express knowledge using logic and solve AI problems using inference
-   in logic (K3)
-4. Express uncertain knowledge using probability and solve AI problems
-   using probabilistic reasoning (K3)
-5. Apply AI for Computer Vision and Robotics (K2)
-6. Develop AI applications using search and inference techniques (K4).
+1. Explain different types of environments and agents (K2)
+2. Analyze and solve AI problems using search techniques (K4)
+3. Solve AI problems using logics and inference techniques (K3)
+4. Solve AI problems using uncertain knowledge and probabilistic reasoning (K3)
+5. Explain the concepts of Natural Language Processing and Robotics and assess the importance of AI using a suitable application (K5)
+
   
 ** TEXT BOOKS
 1. Stuart Russell, Peter Norvig, ``Artificial Intelligence -- A Modern
@@ -118,21 +118,21 @@ After the completion of this course, students will be able to
 3. Andreas Muller, Sarah Guido, ``Introduction to Machine Learning
    with Python: A Guide for Data Scientists'', Shroff/O'Reilly, 1st
    edition, 2016.
-5. Prateek Joshi, ``Artificial Intelligence with Python'', 1st
+4. Prateek Joshi, ``Artificial Intelligence with Python'', 1st
    edition, Packt Publishing Limited, 2017.
-4. David Poole, Alan Mackworth, ``Artificial Intelligence : Foundation
+5. David Poole, Alan Mackworth, ``Artificial Intelligence : Foundation
    of Computational Agents'', 2nd Edition, Cambridge University
    Press, 2017.
 
 
 ** CO TO PO/PSO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+| PO/PSO | 1  | 2  | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 3 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO2    | 2 | 3 | 1 | 2 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO3    | 3 | 3 | 1 | 3 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 0 |
-| CO4    | 2 | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO5    | 2 | 2 | 1 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO6    | 3 | 2 | 2 | 3 | 0 | 0 | 0 | 1 | 3 |  2 |  0 |  2 | 3 | 0 | 0 |
-|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 3 | 3 | 2 | 2 | 0 | 0 | 0 | 1 | 1 |  1 |  0 |  1 | 3 | 0 | 0 |
+| CO1    |  3 |  2 |   |   |   |   |   |   |   |    |    |   | 2 |   |   |
+| CO2    |  3 |  2 | 3 | 3 |   |   |   |   |   |    |    |   | 2 |   |   |
+| CO3    |  3 |  2 | 3 | 3 |   |   |   |   |   |    |    |   | 2 |   |   |
+| CO4    |  3 |  2 | 3 | 3 |   |   |   |   |   |    |    |   | 2 |   |   |
+| CO5    |  3 |  3 | 3 | 3 |   |   |   |   | 3 | 3  |    | 3 | 3 |   |   |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+----|
+| Total  | 15 | 11 | 12| 12|   |   |   |   | 3 | 3 |    | 3  | 11 |  |  |
+| Score  | 3  | 3  | 3 | 3 |   |   |   |   | 3 | 3 |    | 3  |  3 |  |  | 

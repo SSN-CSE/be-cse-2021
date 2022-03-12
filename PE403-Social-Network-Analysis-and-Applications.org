@@ -9,6 +9,7 @@
 | CODE    | COURSE TITLE                             | L | T | P | E | C |
 | UCS2741 | SOCIAL NETWORK ANALYSIS AND APPLICATIONS | 3 | 0 | 0 | 0 | 3 |
 
+#+begin_comment
 ** R2021 CHANGES :noexport:
 Modification
   - Course Objectives changed
@@ -16,7 +17,7 @@ Modification
   - CO-PO Mapping Changed
   - 3 outcomes are made K3 level
   - Text books Versions updated
-
+#+end_comment
 
 ** COURSE OBJECTIVES
 - Understand the fundamentals of social network analysis
@@ -68,12 +69,13 @@ networks.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Explain Social network concepts, measures and data (K2)
-2. Interpret social networks mathematically (K2)
-3. Apply community detection algorithms for Social networks (K3)
-4. Apply SNA tools for analysing social networks (K3)  
-5. Develop appropriate visualizations for different kinds of social
-   networks using Visualization tools (K4).
+
+1. Describe social network concepts, measures and data (K2)
+2. Apply social networks concepts using formal methods (K3)
+3. Compare the working of community detection algorithms (K2)
+4. Apply SNA concepts for social networks using NetworkX tool (K3)
+5. Design and analyse social networks using visualization tools to solve real world problems (K4)
+
 
 
 ** TEXTBOOKS
@@ -102,12 +104,11 @@ After the completion of this course, students will be able to
 
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 1 | 2 | 2 | 1 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO2    | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO3    | 2 | 2 | 2 | 2 | 2 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 2 | 0 | 0 |
-| CO4    | 2 | 0 | 2 | 2 | 2 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 3 | 0 | 2 |
-| CO5    | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 2 |  3 |  0 |  0 | 3 | 0 | 2 |
+| CO1    | 3 | 2 |  |  |  |  |  |  |  |   |   |   | 2 |  |  |
+| CO2    | 3 | 2 |  |  |  |  |  |  |  |   |   |   | 2 |  |  |
+| CO3    | 3 | 2 |  |  |  |  |  |  |  |   |   |   | 3 |  |  |
+| CO4    | 3 | 2 |  |  |  |  |  |  |  |   |   |   | 2 |  |  |
+| CO5    | 3 | 3 | 3 | 3| 3 |  |  |  | 3 |  3 |   |   | 3 |  | 2 |   
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 2 | 2 | 2 | 2 | 1 | 0 | 0 | 1 |  1 |  0 |  0 | 2 | 0 | 1 |
-
-# | Score | 10 | 7 | 10 | 10 | 9 | 1 | 0 | 0 | 2 | 3 | 0 | 0 | 9 | 0 | 4 |
+| Score  | 15 | 11 | 3 | 3 | 3 |  |  |  | 3 | 3 |  |  | 12 |  | 2 |
+| Course | 3 | 3 | 3 | 3 | 3 |  |  |  | 3 | 3 |    |   | 3 |  | 2 |

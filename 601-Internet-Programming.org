@@ -147,8 +147,7 @@ After the completion of this course, students will be able to
 3. Develop responsive web applications using Servlets and AJAX (K3)
 4. Build web application using ReactJS framework (K3)
 5. Develop web application using NodeJS framework (K3)
-6. Examine various technologies to design web application with best
-   practices in teams with clear documentation (K4).
+
       
 ** TEXT BOOKS
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science
@@ -171,16 +170,13 @@ After the completion of this course, students will be able to
 
 ** CO TO PO/PSO MAPPING
 
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 | 3 |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| CO1    | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO2    | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 0 | 0 | 0 |
-| CO3    | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO4    | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO5    | 2 | 2 | 3 | 0 | 0 | 0 | 0 | 0 | 0 |  0 |  0 |  0 | 1 | 0 | 0 |
-| CO6    | 2 | 2 | 3 | 1 | 0 | 0 | 0 | 2 | 3 |  3 |  0 |  3 | 1 | 1 | 0 |
+| CO1    | 3 | 2 | 3 |   |   |   |   |   |   |    |    |    | 2  |   |   |
+| CO2    | 3 | 2 | 3 |   |   |   |   |   |   |    |    |    | 2  |   |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2  |   |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 2  |   |   |
+| CO5    | 3 | 2 | 3 |   |   |   |   |   |   |  3 |    |    | 2  |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---+---|
-| Course | 2 | 2 | 3 | 1 | 0 | 0 | 1 | 1 | 1 |  1 |  0 |  1 | 1 | 1 | 0 |
-
-
-# | Score          |    | 12 | 12 | 18 | 1 | 0 | 0 | 3 | 2 | 3 |  3 |  0 |  3 | 4 | 1 | 0 |
+| Score  | 15 | 10 | 9 |  |  |   |   |   |   |  3 |    |    | 10 |   |   |
+| Mapping|  3 | 2 |  3 |  |  |   |   |   |   |  3 |    |    |  2 |   |   |
