@@ -9,7 +9,6 @@
 | CODE    | COURSE TITLE  | L | T | P | E | C |
 | UCS2725 | DEEP LEARNING | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
 ** R2021 CHANGES :noexport:
 1. This syllabus was not offered under AU-2017 Regulations for UG.
 2. Introduces the Deep learning theory to undergraduate students which is recent trend and 
@@ -18,7 +17,6 @@
    For changes, see the individual units.
 4. Five Course outcomes specified and aligned with units.
 5. One more course outcome based on the group work submitted/presented by the students.
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To understand the basics of deep neural networks
@@ -91,15 +89,14 @@ Same as in Unit-IV in PG syllabus except the Representation learning.
 
 \hfill *Total Periods: 45*
 
-#+begin_comment
-** GROUP PROJECTS
+** COMMENT GROUP PROJECTS
 1) Solving XOR problem using DNN
 2) Character / Face recognition using CNN
 3) Language modeling using RNN
 4) NER/POS tagging/Machine Translation using Encoder-Decoder model
 5) Image augmentation using GANs
 
-** COURSE OUTCOMES
+** COMMENT COURSE OUTCOMES
 After the completion of this course, students will be able to 
 1. Explain the basics in deep neural networks (K2)
 2. Apply Convolution Neural Network for image processing (K3)

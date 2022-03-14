@@ -64,11 +64,11 @@
 
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to
-- Improve their communicative competency across all skills of language
-- Improve their writing ability in writing for persuasion and convincing someone
-- Attend job interviews more confidently
-- Improve social communication sensitive to gender and other prejudices
-- Do better in the spoken component of the placement tasks.
+1. Improve their communicative competency across all skills of language
+2. Improve their writing ability in writing for persuasion and convincing someone
+3. Attend job interviews more confidently
+4. Improve social communication sensitive to gender and other prejudices
+5. Do better in the spoken component of the placement tasks.
 
 ** TEXT BOOKS
 1. Stephen C Levenson, ``Pragmatics'', Cambridge University Press, 1983
@@ -92,12 +92,12 @@ Upon the completion of the course the students should be able to
 
 
 ** CO TO PO/PSO MAPPING 
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 1 | 11 | 12 | 1 | 2 |
-|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
-| CO1    |   |   |   |   |   |   |   |   | 2 | 3 |    |  2 |   |   |
-| CO2    |   |   |   |   |   |   |   |   | 2 | 3 |    |  2 |   |   |
-| CO3    |   |   |   |   |   |   |   |   | 2 | 3 |    |  2 |   |   |
-| CO4    |   |   |   |   |   |   |   |   | 2 | 3 |    |  2 |   |   |
-| CO5    |   |   |   |   |   |   |   |   | 2 | 3 |    |  2 |   |   |
-|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
-| Course |   |   |   |   |   |   |   |   | 2 | 3 |    |  2 |   |   |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| CO1    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| CO2    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| CO3    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| CO4    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+| CO5    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| Course |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |

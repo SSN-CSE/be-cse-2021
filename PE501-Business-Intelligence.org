@@ -11,11 +11,11 @@
 | UCS2743 | BUSINESS INTELLIGENCE | 3 | 0 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
--To understand business analytics and its related technology
--To understand the competitive advantages of business analytics
--To provide information about estimation, regression and testing of hypothesis
--To learn data mining methods
--To gain knowledge about business intelligence tools
+- To understand business analytics and its related technology
+- To understand the competitive advantages of business analytics
+- To provide information about estimation, regression and testing of hypothesis
+- To learn data mining methods
+- To gain knowledge about business intelligence tools
 
 {{{unit}}}
 | UNIT I | INTRODUCTION TO BUSINESS ANALYTICS | 9 |

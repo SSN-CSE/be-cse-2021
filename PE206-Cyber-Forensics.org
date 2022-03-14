@@ -40,7 +40,6 @@ Digital forensic lab.
 #+end_comment
 
 {{{unit}}}
-
 |UNIT II | EVIDENCE ACQUISITION   | 9 |
 Collecting Network Evidence : An overview of network evidence --
 Firewalls and proxy logs --NetFlow -- Packet captures -- Wireshark --

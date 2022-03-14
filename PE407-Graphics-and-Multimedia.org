@@ -9,7 +9,6 @@
 | CODE    | COURSE TITLE            | L | T | P | E | C |
 | UCS2742 | GRAPHICS AND MULTIMEDIA | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
 ** R2021 CHANGES :noexport:
 1. Bezier curves and surfaces removed to concentrate more on 3D transformations and projections
 2. Unit IV & V differ from AU2017. 
@@ -19,7 +18,6 @@
    Unit V - Has 3 1/2 important chapters from prescribed textbook as opposed to 8 chapters given as Unit 4 and 5 in AU2017 .
 4. Five Course outcomes specified and aligned with units
 5. For Lab, suggestive experiments are clearly defined.
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To gain knowledge on different display devices and its working principles

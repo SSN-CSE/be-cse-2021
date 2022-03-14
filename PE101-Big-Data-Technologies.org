@@ -64,6 +64,8 @@ to Grips with Zookeeper -- Getting Started with Zookeepre API --
 Machine Learning using Apache Mahout -- Clustering & Classification
 Algorithms in Mahout -- Extending Spark with H2O -- H2O
 
+\hfill *Total Periods: 45*
+
 ** COURSE OUTCOMES
 Upon the completion of the course the students should be able to
 1. Illustrate big data analytics and related technologies (K2)
