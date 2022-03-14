@@ -60,15 +60,11 @@ IoT.
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to 
-1. Explain the importance of distributed ledgers and need of
-   blockchain (K2)
-2. Explore and understand the decentralization concepts and apply
-   consensus algorithsm (K3)
-3. Understand the basic of cryptography and how it is applied in
-   cryptocurrencies (K2)
-4. Explore and Apply the various distributed ledgers for business (K4)
-5. Make use of appropriate techniques for designing trust-based
-   business networks (K4).
+1. Explain the importance of distributed ledgers and need of blockchain (K2)
+2. Describe decentralisation concepts and apply consensus algorithms (K3)
+3. Explain the basics of cryptography and its applications in cryptocurrencies (K2)
+4. Apply various distributed ledgers for business (K4)
+5. Make use of appropriate techniques for designing trust-based business networks (K4)
 
 ** TEXTBOOKS
 1. Van Haren Publishing (Editor), ``Introduction to Blockchain
