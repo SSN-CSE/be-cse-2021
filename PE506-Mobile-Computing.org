@@ -57,11 +57,11 @@ User Interfaces -- Intents and services -- Storing and Retrieving data -- Notifi
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to    
-1.	Explain the functionalities of MAC protocols in wireless networks (K2)
-2.	Choose appropriate algorithms for routing and transporting data for a given scenario (K3)
-3.	Demonstrate the concepts of 3G and 4G Cellular Networks (K2)
-4.	Make use of various mobile platforms to develop and deploy mobile applications (K3)
-5.	Develop mobile applications using various features learnt (K3)
+1. Outline the vulnerabilities of wired and wireless networks (K2)
+2. Examine security mechanisms followed in Bluetooth, Wi-Fi and Ad Hoc Networks (K3)
+3. Compare security mechanisms of telecommunication networks (K3)
+4. Explain hardware security architectures in mobile devices (K2)
+5. Examine Android and iOS Based Security (K3).
 
 
 ** TEXT BOOKS
