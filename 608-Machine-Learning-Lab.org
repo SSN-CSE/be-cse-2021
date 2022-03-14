@@ -42,7 +42,7 @@
 After the completion of this course, students will be able to 
 1. Apply supervised and unsupervised learning techniques for various problems (K3)
 2. Apply  ensemble techniques to solve the problems and demonstrate the working of dimensionality reduction methods (K3)
-3. Develop an open ended solution for a given real world problem (K4).
+3. Develop an open ended solution with data privacy and ethical concerns, for a given real world problem (K4).
 
 ** LABORATORY REQUIREMENTS
 Hardware:
@@ -57,7 +57,7 @@ Software:
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
 | CO1    | 3 | 2 | 2 | 3 |   |   |   |   |   |    |    |    | 2 |   |
 | CO2    | 3 | 2 | 2 | 3 |   |   |   |   |   |    |    |    | 2 |   |
-| CO3    | 3 | 3 | 3 | 3 | 3 |   |   |   | 3 |  3 |  3 |    | 3 | 2 |
+| CO3    | 3 | 3 | 3 | 3 | 3 |   |   | 3 | 3 |  3 |  3 |    | 3 | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| Score  | 9 | 7 | 7 | 9 | 3 |   |   |   | 3 |  3 |  3 |    | 7 | 2 |
-| Course | 3 | 3 | 3 | 3 | 3 |   |   |   | 3 |  3 |  3 |    | 3 | 2 |
+| Score  | 9 | 7 | 7 | 9 | 3 |   |   | 3 | 3 |  3 |  3 |    | 7 | 2 |
+| Course | 3 | 3 | 3 | 3 | 3 |   |   | 3 | 3 |  3 |  3 |    | 3 | 2 |
