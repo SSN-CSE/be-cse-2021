@@ -40,7 +40,7 @@ chart -- Organization structure -- Types -- Line and staff authority --
 Departmentalization -- delegation of authority -- Centralization and
 decentralization -- Job Design - Human Resource Management -- HR
 Planning, Recruitment, selection, Training and Development,
-Performance Management , Career planning and management.
+Performance Management, Career planning and management.
 
 {{{unit}}}
 | UNIT IV | DIRECTING	  | 9 |
@@ -52,8 +52,8 @@ communication -- Communication and IT.
 
 {{{unit}}}
 | UNIT V | CONTROLLING | 9 |
-System and process of controlling -- Budgetary and non - Budgetary
-control techniques -- Use of computers and IT in Management control --
+System and process of controlling -- Budgetary and non-Budgetary
+control techniques -- Use of computers and IT in management control --
 Productivity problems and management -- Control and performance --
 Direct and preventive control -- Reporting
 
@@ -64,7 +64,7 @@ Upon the completion of the course the students should be able to
 # Upon completion of the course, students will be able to have clear
 # understanding of managerial functions like planning, organizing,
 # staffing, leading & controlling.
-1. Have same basic knowledge on international aspect of management
+1. Have some basic knowledge on international aspect of management
 2. Ability to understand management concept of organizing
 3. Ability to understand management concept of directing
 4. Ability to understand management concept of controlling.
@@ -84,12 +84,11 @@ Upon the completion of the course the students should be able to
    Hill, 1999.
 
 ** CO TO PO/PSO MAPPING 
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 1 | 11 | 12 | 1 | 2 |
-|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
-| CO1    |   |   |   |   |   | 3 |   | 3 |   |   |  2 |  1 |   |   |
-| CO2    |   |   |   |   |   | 3 |   | 3 | 2 |   |  3 |  1 |   |   |
-| CO3    |   |   |   |   |   | 3 |   | 3 | 2 |   |  2 |  1 |   |   |
-| CO4    |   |   |   |   | 3 | 3 |   | 3 |   | 2 |  2 |  1 |   |   |
-| CO5    |   |   |   |   |   | 3 |   | 3 |   |   |  1 |  1 |   |   |
-|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
-| Course |   |   |   |   | 3 | 3 |   | 3 | 2 | 2 |  2 |  1 |   |   |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| CO1    |   |   |   |   |   | 3 |   | 3 | 2 |    |  3 |  1 |   |   |
+| CO2    |   |   |   |   |   | 3 |   | 3 | 2 |    |  2 |  1 |   |   |
+| CO3    |   |   |   |   | 3 | 3 |   | 3 |   |  2 |  2 |  1 |   |   |
+| CO4    |   |   |   |   |   | 3 | 2 | 3 |   |    |  1 |  1 |   |   |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
+| Course |   |   |   |   | 3 | 3 | 2 | 3 | 2 |  2 |  2 |  1 |   |   |

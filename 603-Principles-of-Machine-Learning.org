@@ -9,8 +9,7 @@
 | CODE    | COURSE TITLE                   | L | T | P | E | C |
 | UCS2604 | PRINCIPLES OF MACHINE LEARNING | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-** R2021 CHANGES :noexport:
+** COMMENT R2021 CHANGES
 - AU title is Machine Learning Techniques
 - AU text books is Tom Mitchell. It was printed in 1997 and is not
   revised since then.
@@ -22,7 +21,6 @@
 - The topics are accordingly changed to follow the flow of Stephen
   Marsland.
 - Syllabus in M.E and B.E differs in Unit I, IV and V
-#+end_comment
 
 ** COURSE OBJECTIVES
 - To understand machine learning problems

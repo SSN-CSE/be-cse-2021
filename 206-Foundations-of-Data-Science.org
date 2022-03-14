@@ -11,12 +11,9 @@
 | CODE    | COURSE TITLE                | L | T | P | E | C |
 | UCS2202 | FOUNDATIONS OF DATA SCIENCE | 3 | 0 | 0 | 0 | 3 |
 
-#+begin_comment
-** R2021 CHANGES :noexport:
+** COMMENT R2021 CHANGES
 1. New subject.
 2. All 5 units were revisited and topics were changed from Regulation 2018.
-#+end_comment
-
 
 ** COURSE OBJECTIVES
 - To learn fundamentals of Data Science using Python.

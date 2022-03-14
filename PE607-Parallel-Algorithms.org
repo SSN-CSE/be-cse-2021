@@ -13,7 +13,6 @@
 1. Almost the same as AU 
 2. Five Course outcomes specified and aligned with units
 
-
 ** COURSE OBJECTIVES
 - To understand the design of parallel algorithms
 - To select suitable procedures for parallel algorithms
@@ -53,9 +52,9 @@ parallelizability - NC-reductions - P-completeness
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. Understand why communication and coordination are critical to
+1. Explain why communication and coordination are critical to
    ensure correctness (K2)
-2. Understand the parallelism inherent in a simple sequential algorithm (K2)  
+2. Explain the parallelism inherent in a simple sequential algorithm (K2)  
 3. Apply suitable procedures for parallel algorithms (K3)
 4. Apply parallel algorithms for standard problems and applications(K3)
 5. Analyse efficiency of different parallel algorithms (K4).

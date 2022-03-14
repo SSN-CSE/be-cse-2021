@@ -7,7 +7,7 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE    | COURSE TITLE                     | L | T | P | E | C |
-| UCS2716 | INDUSTRIAL TRAINING / INTERNSHIP | 0 | 0 | 0 | 0 | 2 |
+| UCS2716 | INDUSTRIAL TRAINING / INTERNSHIP | 0 | 0 | 0 | 6 | 2 |
 
 
 ** COURSE OBJECTIVES

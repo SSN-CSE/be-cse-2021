@@ -71,9 +71,9 @@ KRONOS.
 After the completion of this course, students will be able to 
 1. Analyse and compare various model checking algorithms (K3)
 2. Construct proofs for partial correctness of simple programs using Hoare logic (K3)
-3. State formal properties and specifications in CTL and LTL (K3)
-4. Specify and verify simple systems using NuSMV (K3)
-5. Specify and verify simple systems using UPPAAL (K3)
+3. Develop formal properties and specifications in CTL and LTL (K3)
+4. Develop and verify simple systems using NuSMV (K3)
+5. Develop and verify simple systems using UPPAAL (K3)
 
 
 ** TEXTBOOKS
