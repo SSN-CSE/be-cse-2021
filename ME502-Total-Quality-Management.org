@@ -73,10 +73,10 @@ Upon the completion of the course the students should be able to
 5. Apply QMS and EMS in any organization.
 
 ** TEXT BOOKS
-- Dale H Besterfiled, Carol B Michna, Glen H Bester Field, Mary B
-  Sacre, Hemant Urdhwareshe, Rashmi Urdhwareshe, ``Total Quality
-  Management'', Pearson Education Asia, Revised Third Edition, Indian
-  Reprint, Sixth Impression, 2013.
+1. Dale H Besterfiled, Carol B Michna, Glen H Bester Field, Mary B
+   Sacre, Hemant Urdhwareshe, Rashmi Urdhwareshe, ``Total Quality
+   Management'', Pearson Education Asia, Revised Third Edition, Indian
+   Reprint, Sixth Impression, 2013.
 
 ** REFERENCES
 1. Joel E Ross, ``Total Quality Management -- Text and Cases'',

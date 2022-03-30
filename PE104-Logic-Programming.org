@@ -94,13 +94,13 @@ After the completion of this course, students will be able to
 - 1. CO1 and CO2 changed to K3 level
 #+end_comment
 
-** TEXTBOOKS:
+** TEXTBOOKS
 1. Uwe Schoning, ``Logic for Computer Scientists'', Birkhauser, 1999
    (Units I, II).
 2. Ivan Bratko, ``PROLOG: Programming for Artificial Intelligence'',
    4th Edition, Pearson, 2011 (Units III, IV, V).
    
-** REFERENCES:
+** REFERENCES
 1. Kees Doets, ``From Logic to Logic Programming'', MIT Press 1994.
 2. Patrick Blackburn, Johan Bos, Kristina Streignitz, ``Learn PROLOG
    Now'', College Publications, 2006.

@@ -13,11 +13,11 @@
 1. A new syllabus
 
 ** COURSE OBJECTIVES
--Explain and demonstrate the key aspects of traditional configuration management
--Understand and demonstrate the microservices application  
--Explore and deploy the microservice in a container 
--Install and explore Docker container networking services
--Modify the configuration techniques using kubernetes and Docker swarm 
+- Explain and demonstrate the key aspects of traditional configuration management
+- Understand and demonstrate the microservices application  
+- Explore and deploy the microservice in a container 
+- Install and explore Docker container networking services
+- Modify the configuration techniques using kubernetes and Docker swarm 
 
 {{{unit}}}
 |UNIT I | TRADITIONAL | 9 |
@@ -69,12 +69,11 @@ Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -
 
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
-
-- Explain traditional software configuration principles (K2)
-- Develop  microservices (K3)
-- Build a container and deploy a  microservice (K3)
-- Explain networking concepts in containers (K2)
-- Choose  configuration features using Kubernetes and Docker swarm (K3).
+1. Explain traditional software configuration principles (K2)
+2. Develop  microservices (K3)
+3. Build a container and deploy a  microservice (K3)
+4. Explain networking concepts in containers (K2)
+5. Choose  configuration features using Kubernetes and Docker swarm (K3).
 
       
 ** TEXT BOOKS

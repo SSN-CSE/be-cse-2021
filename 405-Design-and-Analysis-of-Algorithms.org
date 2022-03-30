@@ -9,8 +9,7 @@
 | CODE    | COURSE TITLE                      | L | T | P | E | C |
 | UCS2403 | DESIGN AND ANALYSIS OF ALGORITHMS | 3 | 0 | 2 | 0 | 4 |
 
-#+begin_comment
-** R2021 CHANGES :noexport:
+** COMMENT R2021 CHANGES
 1. Brute force dropped
 2. Reordered topics
    1. Divide-and-conquer
@@ -25,7 +24,6 @@
 6. Jeff Erickson added as a textbook. Dasgupta book moved to
    reference.
 7. Modified the co-po mapping on 11.3.2022
-#+end_comment
 
 # +tblfm: @>$3..@>$>='(ceiling (/ (* 1.0 (apply '+ '(@<<..@>>)))(length '(@<<..@>>))));N
 
