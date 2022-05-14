@@ -53,7 +53,7 @@ Extendible hashing.
 \hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to
+On completion of this course, students will be able to
 1. Develop programs using arrays, linked lists for various applications and analyse their time complexity (K4) 
 2. Develop programs using stacks and queues (K3)
 3. Apply the operations of unbalanced and balanced trees to develop solutions to various problems (K3)
