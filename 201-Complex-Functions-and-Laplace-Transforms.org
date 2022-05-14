@@ -21,8 +21,8 @@
 Analytic functions -- necessary and sufficient conditions,
 Cauchy-Riemann equations in Cartesian and polar form (with proof) --
 Properties -- harmonic functions, Construction of analytic function,
-conformal mapping -- some standard transformations --, bilinear
-transformation.
+conformal mapping -- some standard transformations \(w = z+c, cz,
+\frac{1}{z}, z\)--, bilinear transformation.
 
 {{{unit}}}
 | UNIT II | COMPLEX INTEGRATION | 12 |
@@ -43,16 +43,17 @@ Inverse transforms -- Convolution theorem.
 {{{unit}}}
 | UNIT IV | ORDINARY DIFFERENTIAL EQUATIONS | 12 |
 Solution of second and higher order linear differential equation with
-constant coefficients (), Method of variation of parameters,
-Simultaneous linear equations with constant coefficients of first
-order, Solving linear second order ordinary differential equations
-with constant coefficients using Laplace transforms.
+constant coefficients (\(f(x) = e^{mx}, \sin mx, \cos mx, f(x)e^{mx},
+f(x)\sin mx\)), Method of variation of parameters, Simultaneous linear
+equations with constant coefficients of first order, Solving linear
+second order ordinary differential equations with constant
+coefficients using Laplace transforms.
 
 {{{unit}}}
 | UNIT V | VECTOR CALCULUS  | 12 |
 Gradient and directional derivative -- Divergence and curl -- Vector
 identities -- Irrotational and Solenoidal vector fields, Line integral
-over a plane curve, Surface integral - Area of a curved surface,
+over a plane curve, Surface integral -- Area of a curved surface,
 Volume integral, Green's, Gauss divergence and Stoke's theorems --
 Verification and application in evaluating line, surface and volume
 integrals.
@@ -60,17 +61,18 @@ integrals.
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to
+On successful completion of this course, the student will be able to  
 1. Solve problems in Analytic functions and construction of analytic
-   functions using C-R equations.
+   functions using C-R equations
 2. Solve problems using integration techniques, find Taylor's and
-   Laurent's Series expansions.
+   Laurent's Series expansions
 3. Obtain the Laplace Transforms and inverse transforms of standard
    functions.
-4. Solve Differential Equations using different techniques.
-5. Evaluate Line, Surface and Volume integrals. 
-
-
+4. Solve Differential Equations using different techniques
+5. Evaluate Line, Surface and Volume integrals
+6. Apply Complex integration, Laplace transforms, Ordinary
+   differential equations, and vector calculus in engineering problems
+	  
 ** TEXT BOOKS
 1. Grewal B S, ``Higher Engineering Mathematics'', Khanna Publishers, 44th
    Edition, 2018.
@@ -99,10 +101,11 @@ After the completion of this course, students will be able to
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| CO1    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO2    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO3    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO4    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO5    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO6    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| Course | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| Course | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |

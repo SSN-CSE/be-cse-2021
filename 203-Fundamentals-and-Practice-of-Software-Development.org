@@ -107,9 +107,9 @@ practices in Engineering.
   - A faculty does not handle more than 2 sessions per day for the same course.
   - A faculty cannot handle more than one class in each session.
 
-\hfill *Studio Sessions: 10 (3 periods)*
+\hfill *Studio Periods: 30*
 
-\hfill *Total Periods: 30 + 0 + 45 = 75*
+\hfill *Total Periods: 30 + 45 = 75*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to

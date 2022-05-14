@@ -13,11 +13,11 @@ CO5 was modified
 
 		
 ** COURSE OBJECTIVES
-   - To write, test, and debug simple Python programs.
-   - To apply conditions and loops to solve problems using python.
-   - To implement programs using functions
-   - To write programs using different data types such as strings, lists tuples and dictionaries
-   - To make use of read and write operations into the files.
+- To write, test, and debug simple Python programs.
+- To apply conditions and loops to solve problems using python.
+- To implement programs using functions
+- To write programs using different data types such as strings, lists tuples and dictionaries
+- To make use of read and write operations into the files.
    
 
 ** SUGGESTIVE EXERCISES

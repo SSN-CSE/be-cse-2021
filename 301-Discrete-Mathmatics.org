@@ -15,13 +15,11 @@
 | UMA2377 | DISCRETE MATHEMATICS | 3 | 1 | 0 | 0 | 4 |
 
 ** COURSE OBJECTIVES
-   - To study the concepts of classical logic, normal forms and its
-     applications.
-   - To solve problems using different counting techniques.
-   - To learn the basic concepts in graph theory and prove simple
-     properties.
-   - To study the algebraic structures.
-   - To study the concept of Boolean algebra.
+- To study the concepts of classical logic, normal forms and its applications. 
+- To solve problems using different counting techniques. 
+- To learn the basic concepts in graph theory and prove simple properties. 
+- To study the algebraic structures. 
+- To study the concept of Boolean algebra.
 
 {{{unit}}}
 | UNIT I | LOGIC AND PROOFS | 13 |
@@ -65,14 +63,13 @@ Added: Stone's representation Theorem.
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to
-1. Write simple proofs using Propositional and First-Order Logics (K3)
-2. Solve problems using different counting techniques (K3)
-3. Prove simple graph properties (K3)
-4. Explain basic concepts in group theory such as semigroups, monoids
-   and groups (K2)
-5. Solve problems in partial ordering relations, equivalence relations
-   and lattices (K2)
+On successful completion of this course, the student will be able to 
+1. write simple proofs using Propositional and First Order Logics 
+2. solve problems using different counting techniques
+3. prove simple graph properties. 
+4. explain basic concepts in group theory such as semigroups, monoids and groups.
+5. solve problems in partial ordering relations, equivalence relations and lattices. 
+6. application of Graph theory and Boolean algebra in engineering problems
 
 ** TEXT BOOKS
 1. Kenneth H Rosen, ``Discrete Mathematics and its Applications'', 7th
@@ -99,10 +96,11 @@ After the completion of this course, students will be able to
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| CO1    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO2    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO3    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO4    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
-| CO5    | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO1    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO2    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO3    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO4    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO5    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| CO6    | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| Course | 3 | 3 |   |   |   |   |   |   |   |    |    |    | 1 |   |
+| Course | 3 | 2 |   |   |   |   |   |   |   |    |    |    | 1 |   |

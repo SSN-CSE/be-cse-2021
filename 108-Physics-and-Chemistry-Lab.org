@@ -13,45 +13,43 @@
 | PHYSICS LABORATORY |
 
 ** COURSE OBJECTIVES
-Obtain basic Knowledge about physics concepts applied in optics,
+To obtain basic Knowledge about physics concepts applied in optics,
 thermal physics and properties of matter.
 
 ** LIST OF EXPERIMENTS
 (A minimum of 5 experiments to be performed from the given list)
 
-1. Determination of Young's modulus of the material of the given beam
-   by non-uniform bending method.
-2. Determination of rigidity modulus of the material of the given wire
-   using torsion pendulum.
-3. Determination of velocity of sound in the given liquid and
-   compressibility of the liquid using Ultrasonic interferometer.
-4. Determination of wavelength of mercury spectra using Spectrometer
-   and grating.
-5. Determination of dispersive power of prism using Spectrometer.
-6. Determination of grating element/wavelength, and particle size/
+1. Determination of the Young's modulus of the material of the given
+   beam by Non-uniform bending method.
+2. Determination of the rigidity modulus of the material of the given
+   wire using torsion pendulum.
+3. Determination of the wavelength of the mercury spectra using
+   Spectrometer and grating.
+4. Determination of the dispersive power of a prism using
+   Spectrometer.
+5. Determination of the grating element/wavelength, and particle size/
    wavelength using a laser.
-7. Determination of Numerical and acceptance angle of an optical
-   fiber.
-8. Determination of thickness of a thin wire using interference
+6. Determination of the Numerical and the acceptance angle of an
+   optical fiber.
+7. Determination of the thickness of a thin wire using interference
    fringes.
-9. Determination of the coefficient of viscosity of the given liquid
+8. Determination of the coefficient of viscosity of the given liquid
    using Poiseuille's method.
-10. Determination of energy band gap of the semiconductor.
-11. Determination of coefficient of thermal conductivity of the given
-    bad conductor using Lee's disc.
-
+9. Determination of the band gap energy of a semiconductor.
+10. Determination of the coefficient of thermal conductivity of the
+    given bad conductor using Lee's disc.
+	  
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
-1. Apply principles of elasticity, and thermal properties for engineering applications.
-2. Investigate the optical and electrical properties of materials.
+1. Apply principles of elasticity, optics, viscosity, thermal and band
+   gap determination for engineering applications
 
 ** CO TO PO/PSO MAPPING
-| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 1 | 11 | 12 | 1 | 2 | 3 |
-|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---+---|
-| CO1    | 3 |   |   |   |   |   |   |   |   |   |    |    |   |   |   |
-| CO2    | 3 |   |   |   |   |   |   |   |   |   |    |    |   |   |   |
-|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---+---|
-| Course | 3 |   |   |   |   |   |   |   |   |   |    |    |   |   |   |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 1 | 11 | 12 | 1 | 2 |
+|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
+| CO1    | 3 |   |   | 2 | 1 |   |   |   |   |   |    |    |   |   |
+|--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
+| Course | 3 |   |   | 2 | 1 |   |   |   |   |   |    |    |   |   |
 
 #+attr_latex: :font \bf   
 | CHEMISTRY LABORATORY |

@@ -16,7 +16,7 @@
   quality
 
 {{{unit}}}
-| UNIT I | ENVIRONMENT, ECOSYSTEMSANDBIODIVERSITY | 6 |
+| UNIT I | ENVIRONMENT, ECOSYSTEMSANDBIODIVERSITY | 9 |
 Definition, scope and importance of environment -- concept, structure
 and function of an ecosystem -- energy flow- food chains, food webs
 and ecological pyramids -- ecological succession Introduction to
@@ -26,14 +26,14 @@ biodiversity-endangered and endemic species of India -- conservation
 of biodiversity: In-situ and ex-situ conservation of biodiversity.
 
 {{{unit}}}
-| UNIT II | NATURAL RESOURCES | 6 |
+| UNIT II | NATURAL RESOURCES | 9 |
 Uses, over-exploitation of natural resources: Forest, Water, Mineral,
 Food, Energy and Land. Case studies on over exploitation of natural
 resources -- Role of an individual in conservation of natural
 resources- Equitable use of resources for sustainable life styles.
 
 {{{unit}}}
-| UNIT III | CURRENT ENVIRONMENTAL ISSUES | 6  |
+| UNIT III | CURRENT ENVIRONMENTAL ISSUES | 9  |
 Environmental issues -- causes, effects and control measures of
 Pollution of (a) Air (Smog, acid rain, climate change and global
 warming, ozone layer depletion) (b) Water (rain water harvesting,
@@ -44,7 +44,7 @@ Population explosion, Resettlement and rehabilitation of people and
 Disaster management
 
 {{{unit}}}
-| UNIT IV | ENGINEERING INTERVENTIONS TO REDUCE ENVIRONMENTAL  STRESSES | 6 |
+| UNIT IV | ENGINEERING INTERVENTIONS TO REDUCE ENVIRONMENTAL  STRESSES | 9 |
 Role of information technology in environment -- Remote Sensing --
 satellites and sensors -- Geographical Information Systems(GIS) --
 Applications. Environment data base management system. Green chemistry
@@ -60,7 +60,7 @@ Pollution) act 1981 -- Water (Prevention and control of Pollution) act
 1974 -- Wildlife protection act 1972 -- Forest conservation act 1980
 -- The National Green Tribunal Act 2010
 
-\hfill *Total Periods: 30*
+\hfill *Total Periods: 45*
 
 ** COURSE OUTCOMES
 After the completion of this course, students will be able to
@@ -84,12 +84,12 @@ After the completion of this course, students will be able to
    Cengage Learning India PVT Ltd, New Delhi, 2014.
 
 ** CO TO PO MAPPING
-| PO     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
+| PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| CO1    | 3 |   | 1 |   |   |   |   |   |   |    |    |    |   |   |
-| CO2    | 3 | 2 | 1 |   |   |   |   |   |   |    |    |    |   |   |
-| CO3    | 3 | 2 | 1 |   |   | 3 | 3 | 3 |   |    |    |    |   |   |
-| CO4    | 3 | 2 | 1 |   |   | 3 | 3 | 3 |   |    |    |    |   |   |
-| CO5    | 3 |   |   |   |   | 3 | 3 | 3 |   |    |    |    |   |   |
+| CO1    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO2    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO3    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO4    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO5    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| Course | 3 | 2 | 1 |   |   | 3 | 3 | 3 |   |    |    |    |   |   |
+| Course |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |

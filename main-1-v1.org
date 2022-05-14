@@ -1,0 +1,325 @@
+#+BEGIN_COMMENT
+#+title: SSN College of Engineering (Autonomous)
+#+title: (Affiliated to Anna University, Chennai)\\
+
+#+TITLE: B.E. COMPUTER SCIENCE AND ENGINEERING
+#+subtitle: Department of Computer Science and Engineering
+#+author:  Regulations 2021
+#+date: 31 March 2021
+#+END_COMMENT
+
+#+options: num:nil toc:nil
+
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt]
+#+LATEX_HEADER: \usepackage{comment}
+#+LATEX_HEADER: \usepackage{titlesec}
+#+LATEX_HEADER: \usepackage{gentium}
+#+LATEX_HEADER: \usepackage{array}
+#+LATEX_HEADER: \usepackage{tabularx}
+#+LATEX_HEADER: \usepackage{longtable}
+#+LATEX_HEADER: \usepackage{xltabular}
+#+LaTeX_HEADER: \usepackage[top=1in, bottom=1.25in, left=1in, right=1in]{geometry}
+#+LATEX: \setlength{\parindent}{0em}
+#+LATEX: \newcolumntype{Y}{>{\small\raggedright\arraybackslash}X}
+#+LATEX: \newcolumntype{Z}{>{\hsize=.2\hsize}X}
+#+LATEX: \newcolumntype{W}{>{\hsize=9\hsize}X}
+#+LATEX: \newcolumntype{L}{>{\hsize=.4\hsize}X}
+#+LATEX: \newcolumntype{K}{>{\hsize=9.4\hsize}X}
+#+LATEX: \newcolumntype{S}{>{\hsize=1.2\hsize}X}
+#+LATEX: \newcolumntype{T}{>{\hsize=6.4\hsize}X}
+#+LATEX: \newcolumntype{U}{>{\hsize=.3\hsize}X}
+#+LATEX: \newcolumntype{V}{>{\hsize=.1\hsize}X}
+#+LATEX: \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+#+LATEX: \titleformat{\section}{\bfseries\Large}{}{}{\centering}
+
+#+MACRO: logo #+attr_latex: :scale 0.5
+#+MACRO: title-tab #+attr_latex: :environment tabular :align @{}p{.1\textwidth}P{.63\textwidth}p{.02\textwidth}p{.02\textwidth}p{.02\textwidth}p{.02\textwidth}p{.02\textwidth} :font \bf
+#+MACRO: tcp-title-tab #+attr_latex: :environment tabular :align @{}p{.1\textwidth}P{.62\textwidth}p{.03\textwidth}p{.03\textwidth}p{.03\textwidth}p{.03\textwidth}p{.03\textwidth} :font \bf
+#+MACRO: unit #+attr_latex: :width 100 :align @{}p{.125\textwidth}p{.78\textwidth}p{.15\textwidth}@{} :font \bf
+#+MACRO: credits #+attr_latex: :center nil
+#+MACRO: clrpage #+latex: \clearpage
+#+MACRO: newpage #+latex: \clearpage
+#+MACRO: curriculum-table #+attr_latex: :environment tabular :align |p{.02\textwidth}|p{.09\textwidth}|p{.34\textwidth}|p{.09\textwidth}|p{.07\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+#+MACRO: curriculum-table2 #+attr_latex: :environment tabular :align |p{.02\textwidth}|p{.09\textwidth}|p{.35\textwidth}|p{.08\textwidth}|p{.07\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+#+MACRO: curriculum-table3 #+attr_latex: :environment tabular :align |p{.02\textwidth}|p{.09\textwidth}|p{.35\textwidth}|p{.08\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+#+MACRO: specialization-table #+attr_latex: :environment tabularx :width \textwidth :align cYYY
+#+MACRO: category-table #+attr_latex: :font \small
+#+MACRO: open-elective-table #+attr_latex: :environment longtable :align @{}p{.1\textwidth}p{.45\textwidth}p{.45\textwidth}
+#+MACRO: co-po-pso-table #+attr_latex: :environment xltabular :width \textwidth :align WZZZZZZZZZZZZZZZ
+#+MACRO: course-sdg-table #+attr_latex: :environment xltabular :width \textwidth :align |K|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|L|
+#+MACRO: sdg-table #+attr_latex: :environment tabularx :width \textwidth :align c>{\raggedright\hsize=.5\hsize}X>{\hsize=1.5\hsize}X
+#+MACRO: po-peo-table #+attr_latex: :environment tabularx :width \textwidth :align ZZZZZZZZZZZZZZZZ
+#+MACRO: open-electives-table #+attr_latex: :environment xltabular :width \textwidth :align |p{.1\textwidth}|p{.6\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|p{.03\textwidth}|
+
+#+BEGIN_CENTER
+#+latex: \LARGE
+Sri Sivasubramaniya Nadar College of Engineering\\
+#+latex: \large
+(An Autonomous Institution, Affiliated to Anna University, Chennai)
+#+latex: \vfill
+
+#+latex: \LARGE
+REGULATIONS 2021\\
+CHOICE BASED CREDIT SYSTEM\\
+#+latex: \bigskip
+*B.E. COMPUTER SCIENCE AND ENGINEERING*\\
+Curriculum and Syllabi\\
+#+latex: \bigskip
+Department of Computer Science and Engineering
+
+#+latex: \vfill
+#+attr_latex: :width .2\linewidth
+[[file:ssn.jpg]]
+#+END_CENTER
+
+#+latex: \newpage
+#+include: "./main-2-peo-po-pso-v1.org"
+{{{clrpage}}}
+
+#+include: "./main-3-courses-v1.org"
+{{{clrpage}}}
+
+#+include: "./main-4-structure-v1.org"
+{{{clrpage}}}
+
+# +include: "./main-odt-credits.org"
+# +latex: \pagenumbering{arabic}
+
+#+latex: \newpage
+
+* SEMESTER I
+#+include: "./be-cse-2021/101-Technical-English.org"
+{{{newpage}}}  
+#+include: "./be-cse-2021/102-Matrices-and-Calculus.org"
+{{{newpage}}}  
+#+include: "./be-cse-2021/103-Engineering-Physics.org"
+{{{newpage}}}  
+#+include: "./be-cse-2021/104-Engineering-Chemistry.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/105-Problem-Solving-and-Programming-in-Python.org"
+{{{newpage}}}  
+#+include: "./be-cse-2021/106-Engineering-Graphics.org"
+{{{newpage}}}  
+#+include: "./be-cse-2021/107-Programming-in-Python-Lab.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/108-Physics-and-Chemistry-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER II
+#+include: "./be-cse-2021/201-Complex-Functions-and-Laplace-Transforms.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/202-Basic-Electrical-and-Electronics-Engineering.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/203-Fundamentals-and-Practice-of-Software-Development.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/205-Environmental-Science.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/206-Foundations-of-Data-Science.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/207-Design-Thinking-and-Engineering-Practices-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER III
+#+include: "./be-cse-2021/301-Discrete-Mathmatics.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/302-Universal-Human-Values.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/303-Digital-Principles-and-System-Design.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/304-Data-Structures.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/305-Object-Oriented-Programming.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/306-Digital-Design-Lab.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/307-Data-Structures-Lab.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/308-Object-Oriented-Programming-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER IV
+#+include: "./be-cse-2021/401-Probability-and-Statistical-Methods.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/402-Indian-Constitution.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/403-Computer-Organization-and-Architecture.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/404-Operating-Systems.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/405-Design-and-Analysis-of-Algorithms.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/406-Database-Management-Systems.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/407-Operating-Systems-Lab.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/408-Database-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER V
+#+include: "./be-cse-2021/501-Computer-Networks.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/502-Microprocessors-Microcontrollers-and-Interfacing.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/503-Foundations-of-Artificial-Intelligence.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/504-Software-Engineering.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/507-Networks-Lab.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/508-Microprocessors-Microcontrollers-and-Interfacing-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER VI
+#+include: "./be-cse-2021/601-Internet-Programming.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/602-Software-System-Security.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/603-Principles-of-Machine-Learning.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/604-Theory-of-Computation.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/607-Internet-Programming-Lab.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/608-Machine-Learning-Lab.org"
+{{{clrpage}}}
+
+* SEMESTER VII
+#+include: "./be-cse-2021/701-Distributed-Systems.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/702-Software-Architecture.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/703-Compiler-Design.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/707-Project-Work-Phase-I.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/708-Industrial-Training-Internship.org"
+{{{clrpage}}}
+
+* SEMESTER VIII
+#+include: "./be-cse-2021/803-Project-Work-Phase-II.org"  
+{{{clrpage}}}
+
+* HUMANITIES ELECTIVES
+#+include: "./be-cse-2021/HE202-Fundamentals-of-Linguistics.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/HE203-Film-Appreciation.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/HE204-Human-Relations-at-Work.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/HE205-Application-of-Psychology-in-Everyday-Life.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/HE206-Understanding-Society-and-Culture-through-Literature.org"
+{{{clrpage}}}
+
+* MANAGEMENT ELECTIVES
+#+include: "./be-cse-2021/ME501-Principles-of-Management.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/ME502-Total-Quality-Management.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/ME503-Work-Ethics-Corporate-Social-Responsibility-and-Governance.org"
+{{{clrpage}}}
+
+* PROFESSIONAL ELECTIVES  
+#+include: "./be-cse-2021/PE001-Mathematics-for-Machine-Learning.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE101-Big-Data-Technologies.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE102-Software-Testing.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE103-Image-Processing-and-Analysis.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE104-Logic-Programming.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE105-UNIX-Internals.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE106-Ethical-Hacking-and-Tools.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE107-Advanced-Database-Management-Systems.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE201-Cloud-Computing.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE202-Big-Data-Modeling-and-Management.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE203-Software-Configuration-Management.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE204-Probabilistic-Graphical-Models.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE205-Natural-Language-Processing-and-Applications.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE206-Cyber-Forensics.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE207-IoT-Technologies.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE301-Bayesian-Data-Analysis.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE302-Wireless-Adhoc-and-Sensor-Networks.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE303-Object-Oriented-Analysis-and-Design.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/PE304-Soft-Computing.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE305-Deep-Learning.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE306-Multicore-Architectures-and-Programming.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE307-Network-and-Server-Security.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE401-Health-Care-Data-Analytics.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE402-User-Experience-Design.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE403-Social-Network-Analysis-and-Applications.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE404-Principles-of-Reinforcement-Learning.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE405-Blockchain-Technologies.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE406-Embedded-Systems-Design.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE407-Graphics-and-Multimedia.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE501-Business-Intelligence.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE502-Agile-Methodologies.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/PE503-Time-Series-Analysis-and-Forecasting.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE504-Computer-Vision.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE505-Speech-Processing-and-Synthesis.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE506-Mobile-Computing.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/PE507-Mobile-and-Wireless-Security.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE601-Bioinformatics-Technologies.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/PE602-Formal-System-Verification.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/PE603-Service-Oriented-Architecture.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/PE604-Information-Retrieval-Techniques.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE605-Introduction-to-Robotics.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE606-Software-Defined-Networking.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/PE607-Parallel-Algorithms.org"
+{{{clrpage}}}
+
+* OPEN ELECTIVES (OFFERED BY OTHER DEPARTMENTS)
+#+include: "./main-5-open-electives-v1.org"
+
+* COMMENT OPEN ELECTIVES
+#+include: "./be-cse-2021/OE1-Introduction-to-Data-Structures.org"
+{{{clrpage}}}
+#+include: "./be-cse-2021/OE2-Object-Oriented-Programming-Techniques.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/OE3-Problem-Solving-and-Programming-in-C.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/OE4-Introduction-to-Big-Data-Analytics.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/OE5-Machine-Learning-Applications.org"
+{{{newpage}}}
+#+include: "./be-cse-2021/OE6-Web-Technology.org"

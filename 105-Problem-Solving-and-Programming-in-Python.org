@@ -15,11 +15,11 @@
 3. Reference book was added  for the unit1
 
 ** COURSE OBJECTIVES
-   - To learn algorithmic problem solving techniques.
-   - To learn the fundamentals of python programming.
-   - To compose programs in Python using conditions, iterations and decompose a problem into functions
-   - To construct programs in Python sequenced data type.
-   - To develop python programs using advanced constructs like dictionaries and files. 
+- To learn algorithmic problem solving techniques.
+- To learn the fundamentals of python programming.
+- To compose programs in Python using conditions, iterations and decompose a problem into functions
+- To construct programs in Python sequenced data type.
+- To develop python programs using advanced constructs like dictionaries and files. 
 
 {{{unit}}}
 | UNIT I | ALGORITHMIC PROBLEM SOLVING  | 9 |

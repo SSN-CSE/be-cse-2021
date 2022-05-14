@@ -10,12 +10,9 @@
 | UMA2455 | PROBABILITY AND STATISTICAL METHODS | 3 | 1 | 0 | 0 | 4 |
 
 ** COURSE OBJECTIVES
-- To identify the standard distributions and apply them in solving
-  problems.
-- To solve problems in joint probabilities and to find correlation
-  between them.
-- To perform hypothesis testing using normal, t, F, chi square
-  distribution
+- To identify the standard distributions and apply them in solving problems.
+- To solve problems in joint probabilities and to find correlation between them.
+- To perform hypothesis testing using normal, t, F, chi square distribution 
 - To evaluate the tests of significance in analysis of variance.
 - To calculate the various statistical quality control measurements.
 
@@ -23,8 +20,8 @@
 | UNIT I | RANDOM VARIABLES | 12 |
 Random variables -- Discrete and continuous random variables --
 Moments -- Moment generating functions -- Binomial, Poisson,
-Geometric, Uniform, Exponential, Gamma, Normal distributions --
-Functions of a random variable.
+Geometric, Uniform, Exponential, and Normal distributions --
+Functions of random variable.
 
 {{{unit}}}
 | UNIT II | TWO-DIMENSIONAL RANDOM VARIABLES | 12 |
@@ -37,7 +34,7 @@ identically distributed random variables).
 | UNIT III | TESTS OF SIGNIFICANCE | 12 |
 Sampling distributions -- Small and large sample test -- Test based on
 Normal and t distribution (Single and difference of mean)-- \chi^2 --
-Test for goodness of fit, Independence of attributes- F test for
+Test for goodness of fit, Independence of attributes -- F test for
 variance.
 
 {{{unit}}}
@@ -48,20 +45,20 @@ square design -- Factorial design.
 {{{unit}}}
 | UNIT V | 	STATISTICAL QUALITY CONTROL | 12 |
 Control charts for measurements (X and R charts) -- Control charts for
-attributes (p, c and npcharts) -- Tolerance limits -- Acceptance
+attributes (p, c and np charts) -- Tolerance limits -- Acceptance
 sampling.
 
 \hfill *Total Periods: 60*
 
 ** COURSE OUTCOMES
-After the completion of this course, students will be able to 
-1. Identify standard distributions and apply them (K2)
-2. Solve problems in two dimension random variables and find the
-   correlation between them (K3)
-3. Identify and apply the suitable testing of hypothesis under normal,
-   t, F and chi square distribution (K2)
-4. Solve problems in analysis of variance (K3)
-5. Analyze quality control by applying control chart methods (K2).
+On successful completion of this course, the student will be able to
+1. identify standard distributions and apply them.
+2. solve problems in two dimensional random variables and find the correlation between them.
+3. identify and apply the suitable testing of hypothesis under normal, t, F and chi square distribution 
+4. solve problems in analysis of variance.
+5. analyze quality control by applying control chart methods.
+6. apply random variables, and design experiments and control charts in
+   engineering problems
       
 ** TEXT BOOKS
 1. Milton J S and Arnold J C, ``Introduction to Probability and
@@ -87,10 +84,11 @@ After the completion of this course, students will be able to
 ** CO TO PO/PSO MAPPING
 | PO/PSO | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 1 | 11 | 12 | 1 | 2 |
 |--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
-| CO1    | 3 | 3 |   | 3 |   |   |   |   |   |   |    |    | 1 |   |
-| CO2    | 3 | 3 |   | 3 |   |   |   |   |   |   |    |    | 1 |   |
-| CO3    | 3 | 3 |   | 3 |   |   |   |   |   |   |    |    | 1 |   |
-| CO4    | 3 | 3 |   | 3 |   |   |   |   |   |   |    |    | 1 |   |
-| CO5    | 3 | 3 |   | 3 |   |   |   |   |   |   |    |    | 1 |   |
+| CO1    | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |
+| CO2    | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |
+| CO3    | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |
+| CO4    | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |
+| CO5    | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |
+| CO6    | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |
 |--------+---+---+---+---+---+---+---+---+---+---+----+----+---+---|
-| Course | 3 | 3 |   | 3 |   |   |   |   |   |   |    |    | 1 |   |
+| Course | 3 | 2 |   | 1 |   |   |   |   |   |   |    |    | 1 |   |

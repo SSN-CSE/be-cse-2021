@@ -17,31 +17,31 @@
 - To discuss financial power and emergency provisions.
 
 {{{unit}}}
-| UNIT I | INTRODUCTION | 6  |
+| UNIT I | INTRODUCTION | 9  |
 Historical background -- Government of India act -- Indian councils act
 -- Making of the constitution -Philosophy of the Indian constitution --
 Preamble.
 
 {{{unit}}}
-| UNIT II | GOVERNMENT OF THE UNION | 6 |
+| UNIT II | GOVERNMENT OF THE UNION | 9 |
 Powers and Functions of President and Prime Minister - Council of
 Ministers -- President in relation to his council - Legislature
 structure and functions of Lok Sabha and Rajya Sabha -- Speaker.
 
 {{{unit}}}
-| UNIT III | GOVERNMENTS OF THE STATES AND LOCAL GOVERNMENT | 6 |
+| UNIT III | GOVERNMENTS OF THE STATES AND LOCAL GOVERNMENT | 9 |
 The state executive: General structure -- Governor -- Council of
 ministers -- State legislature.Local government - Panchayat --
 Municipality-- Power authority and responsibilities municipalities.
 
 {{{unit}}}
-| UNIT IV | THE JUDICATURE | 6 |
+| UNIT IV | THE JUDICATURE | 9 |
 Organization and Composition of Judiciary -- Constitution --
 Appointment -- Qualifications -- Powers and functions of the supreme
 court -- High courts -- Control over subordinate courts.
 
 {{{unit}}}
-| UNIT V | THE FEDERAL SYSTEM | 6 |
+| UNIT V | THE FEDERAL SYSTEM | 9 |
 Distribution of financial powers: Need, principles-Underlaying
 distribution of tax revenues- Distribution of legislative power --
 Interstate relation - Emergency provisions.
@@ -77,10 +77,10 @@ After the completion of this course, students will be able to
 ** CO TO PO MAPPING
 | PO     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| CO1    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
-| CO2    |   |   |   |   |   |   |   |   | 2 |  3 |    |  2 |   |   |
-| CO3    |   |   |   |   |   | 3 |   |   | 2 |  3 |    |  2 |   |   |
-| CO4    |   |   |   |   |   | 3 |   | 3 | 2 |  3 |    |  2 |   |   |
-| CO5    |   |   |   |   |   | 3 |   |   | 2 |  3 |  3 |  2 |   |   |
+| CO1    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO2    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO3    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO4    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
+| CO5    |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+---+---|
-| Course |   |   |   |   |   | 3 |   | 3 | 2 |  3 |  3 |  2 |   |   |
+| Course |   |   |   |   |   | 2 |   | 2 | 2 |  2 |    |  2 |   |   |

@@ -1,0 +1,109 @@
+#+startup: showall
+** OPEN ELECTIVE I (SEMESTER VI)
+{{{open-electives-table}}}   
+|---------+------------------------------------------------+---+---+---+---+---|
+| CODE    | COURSE TITLE                                   | L | T | P | E | C |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *BME*                                          |   |   |   |   |   |
+| UBM2041 | Principles of Biomedical Instrumentation       | 3 | 0 | 0 | 0 | 3 |
+| UBM2042 | Materials for Biomedical Applications          | 3 | 0 | 0 | 0 | 3 |
+| UBM2043 | Hospital planning and Waste Management         | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *Chemical*                                     | 3 | 0 | 0 | 0 | 3 |
+| UCH2041 | e-Waste Management                             | 3 | 0 | 0 | 0 | 3 |
+| UCH2042 | Nanoscience for Engineers                      | 3 | 0 | 0 | 0 | 3 |
+| UCH2043 | Sustainable Development                        | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *Civil*                                        |   |   |   |   |   |
+| UCE2041 | Green Building Design                          | 3 | 0 | 0 | 0 | 3 |
+| UCE2042 | Sustainable Infrastructure                     | 3 | 0 | 0 | 0 | 3 |
+| UCE2043 | Integrated Water Resource Management           | 3 | 0 | 0 | 0 | 3 |
+| UCE2044 | Environmental Impact Assessment                | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *ECE*                                          |   |   |   |   |   |
+| UEC2041 | Foundation course on Digital Signal Processing | 3 | 0 | 0 | 0 | 3 |
+| UEC2042 | Introduction to Communication systems          | 3 | 0 | 0 | 0 | 3 |
+| UEC2043 | Development of Nano sensors                    | 3 | 0 | 0 | 0 | 3 |
+| UEC2045 | Introduction to Sensors and Actuators          | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *EEE*                                          |   |   |   |   |   |
+| UEE2041 | Autonomous Vehicles                            | 3 | 0 | 0 | 0 | 3 |
+| UEE2042 | Sensors and Instrumentation                    | 3 | 0 | 0 | 0 | 3 |
+| UEE2043 | Energy Management                              | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *IT*                                           |   |   |   |   |   |
+| UIT2041 | Introduction to AR and VR                      | 2 | 0 | 2 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *Mechanical*                                   |   |   |   |   |   |
+| UME2041 | Six Sigma Data analysis                        | 2 | 0 | 2 | 0 | 3 |
+| UME2042 | Product Engineering                            | 3 | 0 | 0 | 0 | 3 |
+| UME2043 | Operations Management                          | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *MBA*                                          |   |   |   |   |   |
+| PBA2041 | Entrepreneurship                               | 3 | 0 | 0 | 0 | 3 |
+| PBA2042 | Supply Chain and Logistics Management          | 3 | 0 | 0 | 0 | 3 |
+| PBA2043 | Design Thinking                                | 2 | 0 | 2 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *Maths*                                        |   |   |   |   |   |
+| UMA2041 | Graph theory and Applications                  | 3 | 0 | 0 | 0 | 3 |
+| UMA2042 | Introduction to Linear algebra                 | 3 | 0 | 0 | 0 | 3 |
+| UMA2043 | Numerical Methods for Engineering              | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+|         | *English*                                      |   |   |   |   |   |
+| UEN2041 | English for Career needs                       | 3 | 0 | 0 | 0 | 3 |
+| UEN2042 | Word power for Academic needs                  | 3 | 0 | 0 | 0 | 3 |
+| UEN2043 | Writing skills for university admission        | 3 | 0 | 0 | 0 | 3 |
+|---------+------------------------------------------------+---+---+---+---+---|
+
+** OPEN ELECTIVE II (SEMESTER VIII)
+{{{open-electives-table}}}      
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+| CODE      | COURSE TITLE                                          | L | T | P | E | C |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *BME*                                                 |   |   |   |   |   |
+| UBM2044   | Brain Machine Interface                               | 3 | 0 | 0 | 0 | 3 |
+| UBM2045   | Biomedical Physics                                    | 3 | 0 | 0 | 0 | 3 |
+| UBM2046   | Telehealth Technology                                 | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *Chemical*                                            |   |   |   |   |   |
+| UCH2044   | Industrial Safety                                     | 3 | 0 | 0 | 0 | 3 |
+| UCH2045   | Industrial Waste Management and Audit                 | 3 | 0 | 0 | 0 | 3 |
+| UCH2046   | Energy Conservation and Audit                         | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *Civil*                                               |   |   |   |   |   |
+| UCE2045   | Experimental Techniques and Instrumentation           | 3 | 0 | 0 | 0 | 3 |
+| UCE2046   | Air Pollution and Control Engineering                 | 3 | 0 | 0 | 0 | 3 |
+| UCE2047   | Remote Sensing and GIS                                | 3 | 0 | 0 | 0 | 3 |
+| UCE2048   | Environmental Geo-technology                          | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *ECE*                                                 |   |   |   |   |   |
+| UEC2047   | Introduction to Wireless Networks                     | 3 | 0 | 0 | 0 | 3 |
+| UEC2049   | Consumer Electronics                                  | 3 | 0 | 0 | 0 | 3 |
+| UEC2051   | Introduction to Bio Electromagnetics                  | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *EEE*                                                 |   |   |   |   |   |
+| UEE2044   | Cyber Security in Smart Grid                          | 3 | 0 | 0 | 0 | 3 |
+| UEE2045   | FEA and CAD for Electromagnetic Design                | 3 | 0 | 0 | 0 | 3 |
+| UEE2046   | Renewable Energy Systems                              | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *IT*                                                  |   |   |   |   |   |
+| UIT2053   | Web services and DevOps                               | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *Mechanical*                                          |   |   |   |   |   |
+| UME2044   | Enterprise Resource Planning                          | 3 | 0 | 0 | 0 | 3 |
+| UME2045   | Project Management and Planning                       | 3 | 0 | 0 | 0 | 3 |
+| UME2046   | Introduction to Industrial Engineering                | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *MBA*                                                 |   |   |   |   |   |
+| PBA2044   | Innovation and Creativity                             | 3 | 0 | 0 | 0 | 3 |
+| PBA2045   | Intellectual Property Rights                          | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+| *Physics* |                                                       |   |   |   |   |   |
+| UPH2041   | Optical and Luminescence Characteristics of Materials | 3 | 0 | 0 | 0 | 3 |
+| UPH2046   | Nanoscience and Nanomaterials                         | 3 | 0 | 0 | 0 | 3 |
+| UPH2047   | Astrophysics                                          | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|
+|           | *English*                                             |   |   |   |   |   |
+| UEN2044   | Creative Writing                                      | 3 | 0 | 0 | 0 | 3 |
+| UEN2045   | Introduction to Children's Literature                 | 3 | 0 | 0 | 0 | 3 |
+|-----------+-------------------------------------------------------+---+---+---+---+---|

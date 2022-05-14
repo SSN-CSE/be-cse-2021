@@ -7,7 +7,7 @@
 #+startup: showall
 {{{title-tab}}}
 | CODE    | COURSE TITLE                     | L | T | P | E | C |
-| UMA2542 | MATHEMATICS FOR MACHINE LEARNING | 3 | 0 | 0 | 0 | 3 |
+| UMA2542 | MATHEMATICS FOR MACHINE LEARNING | 2 | 1 | 0 | 0 | 3 |
 
 ** COURSE OBJECTIVES
 - To study the basics of vector spaces and subspaces.
