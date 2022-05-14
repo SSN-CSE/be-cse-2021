@@ -3,7 +3,9 @@
 :author: Dr R Kanchana, Dr R S Milton, Dr T T Mirnalinee
 :date: 16 March 2021
 :end:
-
+:author: R. Kanchana
+:date: 1 st May 2022
+:end:
 #+startup: showall
 
 {{{tcp-title-tab}}}
@@ -117,11 +119,11 @@ After the completion of this course, students will be able to
    identifying the scope and boundaries (K6)
 2. Apply engineering fundamentals in Computer Science to
    industrial applications or products (K3)
-3. Design and develop solutions with novel technologies,
+3. Communicate effectively through reflections, reports, and
+   presentations    
+4. Work in teams to develop modules and integrate them  
+5. Design and develop solutions with novel technologies,
    tools, and techniques (K6)
-4. Communicate effectively through reflections, reports, and
-   presentations  
-5. Work in teams to develop modules and integrate them  
 6. Analyze the impact on health, safety, society, environment
    as well as underlying legal and ethical considerations
    wherever are applicable  
@@ -274,3 +276,5 @@ using versions
 |--------+---+---+---+---+---+---+---+---+---+----+----+----+----+---|
 | Score  | 8 | 6 | 9 | 9 | 5 | 3 | 3 | 3 | 3 |  3 |  3 |  3 | 11 | 9 |
 | Course | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |  3 |  3 |  3 |  3 | 3 |
+|--------+---+---+---+---+---+---+---+---+---+----+----+----+----+---|
+
