@@ -1,6 +1,6 @@
 * 
 :properties:
-:author: Mr H Shahul Hamead, Ms M Saritha, R S Milton
+:author: Mr H Shahul Hamead, Ms M Saritha
 :date: 09-03-2021
 :end:
 #+startup: showall
