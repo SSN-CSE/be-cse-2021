@@ -16,7 +16,7 @@
 - To comprehend the notion of linear and non linear data structures
 - To apply the linear and non-linear data structures to various problems 
 - To learn sorting and hashing techniques
-- To design suitable data structures for different problems and implement them.
+- To design suitable data structures for different problems and implement them in C.
 
 {{{unit}}}
 | UNIT I | LINEAR DATA STRUCTURES - LIST | 10 |
